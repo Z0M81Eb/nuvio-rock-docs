@@ -1,6 +1,7 @@
 import json
 import os
 import re
+import shutil
 import time
 from concurrent.futures import ThreadPoolExecutor, as_completed
 from datetime import datetime, timedelta, timezone
@@ -9,18 +10,21 @@ import requests
 
 TMDB_API_KEY = os.environ.get("TMDB_API_KEY", "").strip()
 TRAKT_CLIENT_ID = os.environ.get("TRAKT_CLIENT_ID", "").strip()
+TORBOX_API_KEY = os.environ.get("TORBOX_API_KEY", "").strip()
 
 if not TMDB_API_KEY:
     raise RuntimeError("TMDB_API_KEY environment variable is missing.")
 
-BASE_URL = "https://api.themoviedb.org/3"
+TMDB_BASE_URL = "https://api.themoviedb.org/3"
 TRAKT_BASE_URL = "https://api.trakt.tv"
+TORBOX_SEARCH_URL = "https://search-api.torbox.app"
+
 IMG_POSTER = "https://image.tmdb.org/t/p/w780"
 IMG_BACKDROP = "https://image.tmdb.org/t/p/w1280"
 
-# Change to "movie" only if your Nuvio build hides "other" rows on the Home screen.
-# Individual items inside each catalog always keep their own "movie" or "series" type.
-CATALOG_TYPE = "other"
+# "movie" ensures all 6 rows appear in Android TV Discover -> Movies as well as Home.
+# Individual items keep their own "movie" or "series" type so episode pickers work normally.
+CATALOG_TYPE = "movie"
 
 NOW_UTC = datetime.now(timezone.utc)
 TODAY = NOW_UTC.strftime("%Y-%m-%d")
@@ -32,11 +36,22 @@ DOCS_DIR = ROOT_DIR / "docs"
 OVERRIDES_PATH = ROOT_DIR / "overrides.json"
 
 MIN_MOVIE_RUNTIME = 50
+MIN_HEALTHY_SEEDERS = 5
 MAX_ITEMS_PER_CATALOG = None
 
-SESSION = requests.Session()
+CATALOG_DEFS = [
+    ("genre-era-docs", "Genres, Scenes & Eras", "Genres & Eras"),
+    ("classic-rock-docs", "Classic Rock Documentaries", "Classic Rock"),
+    ("grunge-alt-docs", "Grunge & Alternative Documentaries", "Grunge & Alternative"),
+    ("goth-newwave-docs", "Goth, New Wave & Industrial Documentaries", "Goth, New Wave & Industrial"),
+    ("metal-docs", "Metal Documentaries", "Metal"),
+    ("punk-docs", "Punk Documentaries", "Punk"),
+]
+CAT_LABELS = {cid: label for cid, _, label in CATALOG_DEFS}
+
+TMDB_SESSION = requests.Session()
 if len(TMDB_API_KEY) > 40:
-    SESSION.headers.update({"Authorization": f"Bearer {TMDB_API_KEY}"})
+    TMDB_SESSION.headers.update({"Authorization": f"Bearer {TMDB_API_KEY}"})
 
 TRAKT_SESSION = requests.Session()
 if TRAKT_CLIENT_ID:
@@ -44,7 +59,14 @@ if TRAKT_CLIENT_ID:
         "Content-Type": "application/json",
         "trakt-api-version": "2",
         "trakt-api-key": TRAKT_CLIENT_ID,
-        "User-Agent": "nuvio-rock-docs/2.6",
+        "User-Agent": "nuvio-rock-docs/3.0",
+    })
+
+TORBOX_SESSION = requests.Session()
+if TORBOX_API_KEY:
+    TORBOX_SESSION.headers.update({
+        "Authorization": f"Bearer {TORBOX_API_KEY}",
+        "User-Agent": "nuvio-rock-docs/3.0",
     })
 
 
@@ -59,15 +81,22 @@ def tmdb_get(endpoint: str, params: dict | None = None, retries: int = 3) -> dic
     if len(TMDB_API_KEY) <= 40:
         params["api_key"] = TMDB_API_KEY
 
-    url = f"{BASE_URL}{endpoint}"
+    url = f"{TMDB_BASE_URL}{endpoint}"
     for _ in range(retries):
-        resp = SESSION.get(url, params=params, timeout=20)
+        try:
+            resp = TMDB_SESSION.get(url, params=params, timeout=20)
+        except requests.RequestException:
+            time.sleep(2)
+            continue
         if resp.status_code == 429:
             wait = int(resp.headers.get("Retry-After", 2)) + 1
             time.sleep(wait)
             continue
         if resp.status_code == 404:
             return {}
+        if resp.status_code >= 500:
+            time.sleep(2)
+            continue
         resp.raise_for_status()
         return resp.json()
     return {}
@@ -97,6 +126,32 @@ def trakt_get(endpoint: str, params: dict | None = None, retries: int = 3):
     return None
 
 
+def torbox_search_get(path: str, params: dict | None = None, retries: int = 3) -> tuple[int, dict]:
+    url = f"{TORBOX_SEARCH_URL}{path}"
+    for _ in range(retries):
+        try:
+            resp = TORBOX_SESSION.get(url, params=params or {}, timeout=25)
+        except requests.RequestException:
+            time.sleep(2)
+            continue
+        if resp.status_code == 429:
+            wait = int(resp.headers.get("Retry-After", 4)) + 1
+            time.sleep(wait)
+            continue
+        if resp.status_code in {401, 403}:
+            return resp.status_code, {}
+        if resp.status_code == 404:
+            return 404, {}
+        if resp.status_code >= 500:
+            time.sleep(2)
+            continue
+        try:
+            return resp.status_code, resp.json()
+        except ValueError:
+            return resp.status_code, {}
+    return 0, {}
+
+
 def resolve_keyword_ids(names: list[str]) -> list[int]:
     ids = set()
     for name in names:
@@ -121,66 +176,110 @@ def collect_all_pages(endpoint: str, base_params: dict, max_pages: int = 100) ->
     return ids
 
 
-# --- TRAKT PUBLIC LIST DISCOVERY ---
+# --- STRICT TMDB KEYWORD SETS (NO PLOT-SUMMARY GUESSING) ---
 
-def discover_trakt_candidates(custom_lists: list[str]) -> tuple[set[int], set[int]]:
-    movie_ids: set[int] = set()
-    tv_ids: set[int] = set()
-    if not TRAKT_CLIENT_ID:
-        print("TRAKT_CLIENT_ID not set — skipping Trakt list discovery.")
-        return movie_ids, tv_ids
+MUSIC_GATE_TAGS = {
+    "music", "music documentary", "rockumentary", "musician", "band", "singer",
+    "guitarist", "drummer", "bassist", "songwriter", "record label",
+    "recording studio", "music festival", "rock festival", "music history",
+    "music industry", "music scene", "rock music", "rock band", "classic rock",
+    "hard rock", "heavy metal", "metal band", "metal music", "punk", "punk rock",
+    "hardcore punk", "post-punk", "grunge", "alternative rock", "indie rock",
+    "shoegaze", "britpop", "goth rock", "gothic rock", "darkwave", "coldwave",
+    "new wave music", "synthpop", "synth-pop", "synthwave", "synth rock",
+    "industrial music", "industrial rock", "progressive rock", "psychedelic rock",
+    "glam rock", "blues rock", "southern rock", "garage rock", "krautrock",
+    "rock and roll", "rock 'n' roll", "arena rock", "folk rock", "stoner rock",
+    "thrash metal", "death metal", "black metal", "doom metal", "glam metal",
+    "hair metal", "nu metal", "power metal", "progressive metal", "speed metal",
+    "sludge metal", "stoner metal", "metalcore", "gothic metal", "symphonic metal",
+    "industrial metal", "folk metal", "viking metal", "nwobhm", "pop punk",
+    "skate punk", "anarcho-punk", "street punk", "riot grrrl", "proto-punk",
+    "crust punk", "ska punk", "cbgb", "woodstock",
+}
 
-    list_endpoints: list[str] = []
+STRICT_NON_ROCK_TAGS = {
+    "hip-hop", "hip hop", "rap", "rap music", "rapper", "k-pop", "kpop",
+    "boy band", "boy bands", "teen pop", "edm", "electronic dance music",
+    "house music", "techno", "trance", "dubstep", "dj", "rave",
+    "country music", "bluegrass", "jazz", "jazz music", "jazz musician",
+    "classical music", "opera", "symphony orchestra", "reggaeton", "disco",
+    "gospel", "gospel music", "pop star", "pop singer", "pop music", "r&b",
+}
 
-    # 1. Custom Trakt list URLs or user/slug paths from overrides.json
-    for raw in custom_lists or []:
-        m = re.search(r"users/([^/]+)/lists/([^/?#]+)", raw.strip())
-        if m:
-            list_endpoints.append(f"/users/{m.group(1)}/lists/{m.group(2)}/items/movies,shows")
-        elif "/" in raw.strip() and not raw.strip().startswith("http"):
-            user, slug = raw.strip().split("/", 1)
-            list_endpoints.append(f"/users/{user}/lists/{slug}/items/movies,shows")
+NON_MUSIC_METAL_WORDS = (
+    "metal detector", "scrap metal", "precious metal", "sheet metal",
+    "metalwork", "metal sculpture", "metal shop", "liquid metal",
+    "metal gear", "eagles of death metal",
+)
 
-    # 2. Auto-discover top public Trakt lists for metal, rock, and punk documentaries
-    trakt_queries = [
-        "heavy metal documentaries",
-        "metal documentaries",
-        "rock documentaries",
-        "punk documentaries",
-        "music documentaries",
-    ]
-    seen_trakt_list_ids: set[int] = set()
-    for q in trakt_queries:
-        results = trakt_get("/search/list", {"query": q, "limit": 8}) or []
-        time.sleep(0.25)
-        for entry in results:
-            lst = entry.get("list") or {}
-            tid = (lst.get("ids") or {}).get("trakt")
-            item_count = lst.get("item_count") or 0
-            if tid and tid not in seen_trakt_list_ids and 5 <= item_count <= 500:
-                seen_trakt_list_ids.add(tid)
-                list_endpoints.append(f"/lists/{tid}/items/movies,shows")
+METAL_EXPLICIT_TAGS = {
+    "heavy metal", "thrash metal", "death metal", "black metal", "doom metal",
+    "power metal", "progressive metal", "prog metal", "nu metal", "glam metal",
+    "hair metal", "speed metal", "sludge metal", "stoner metal", "metalcore",
+    "deathcore", "gothic metal", "goth metal", "symphonic metal",
+    "industrial metal", "folk metal", "viking metal", "groove metal",
+    "alternative metal", "funk metal", "rap metal", "nwobhm", "metal band",
+    "metal music", "headbanger", "norwegian black metal", "extreme metal",
+    "crossover thrash", "metal subculture",
+}
 
-    # Fetch items from each Trakt list and collect TMDB IDs
-    for ep in list_endpoints:
-        items = trakt_get(ep) or []
-        time.sleep(0.25)
-        for item in items:
-            itype = item.get("type")
-            if itype == "movie":
-                tmdb_id = ((item.get("movie") or {}).get("ids") or {}).get("tmdb")
-                if tmdb_id:
-                    movie_ids.add(int(tmdb_id))
-            elif itype == "show":
-                tmdb_id = ((item.get("show") or {}).get("ids") or {}).get("tmdb")
-                if tmdb_id:
-                    tv_ids.add(int(tmdb_id))
+PUNK_TAGS = {
+    "punk", "punk rock", "hardcore punk", "pop punk", "skate punk",
+    "anarcho-punk", "street punk", "riot grrrl", "proto-punk", "crust punk",
+    "ska punk", "straight edge", "cbgb", "punk band", "punk subculture",
+    "punk culture", "punk movement", "hardcore", "hardcore music",
+    "horror punk", "folk punk", "garage punk", "d-beat", "oi!",
+}
 
-    print(f"Trakt added {len(movie_ids)} candidate movies and {len(tv_ids)} candidate series.")
-    return movie_ids, tv_ids
+GOTH_NEWWAVE_INDUSTRIAL_TAGS = {
+    "goth", "goth rock", "gothic rock", "goth subculture", "gothic subculture",
+    "darkwave", "coldwave", "ethereal wave", "deathrock",
+    "new wave", "new wave music", "synthpop", "synth-pop", "synthwave",
+    "synth rock", "new romantic", "post-punk", "no wave",
+    "industrial music", "industrial rock", "ebm", "electronic body music",
+    "electro-industrial", "dark ambient",
+}
 
+GRUNGE_ALT_TAGS = {
+    "grunge", "post-grunge", "alternative rock", "alt-rock", "indie rock",
+    "shoegaze", "britpop", "madchester", "college rock", "noise rock",
+    "stoner rock", "desert rock", "dream pop", "math rock", "post-rock",
+    "garage rock revival", "seattle sound", "slacker rock",
+}
 
-# --- UNOFFICIAL / BOOTLEG DOCUMENTARY FILTERS ---
+CLASSIC_ROCK_EXPLICIT_TAGS = {
+    "classic rock", "hard rock", "rock and roll", "rock 'n' roll",
+    "progressive rock", "prog rock", "psychedelic rock", "acid rock",
+    "blues rock", "southern rock", "glam rock", "arena rock", "aor",
+    "folk rock", "garage rock", "heartland rock", "space rock", "krautrock",
+    "roots rock", "pub rock", "british invasion", "merseybeat", "surf rock",
+    "country rock", "soft rock", "jazz rock", "rock opera", "rockabilly",
+}
+
+CLASSIC_ROCK_GENERAL_TAGS = {
+    "rock music", "rock band", "rock musician", "rock singer",
+    "rock guitarist", "rock drummer", "rockumentary", "rock history", "rock",
+}
+
+GENRE_ERA_TAGS = {
+    "music history", "rock history", "music scene", "subculture",
+    "punk subculture", "goth subculture", "metal subculture",
+    "counterculture", "musical movement", "music festival", "rock festival",
+    "woodstock", "recording studio", "record label", "independent record label",
+    "music industry", "album cover", "heavy metal history",
+}
+
+SINGLE_ARTIST_BIO_TAGS = {
+    "biography", "biographical", "autobiography", "singer-songwriter",
+    "solo artist", "making of",
+}
+
+SINGLE_ARTIST_TITLE_CUES_RE = compile_terms([
+    "music box:", "classic albums:", "the making of", "becoming",
+])
+
+# --- UNOFFICIAL / BOOTLEG & CONCERT FILTERS ---
 
 UNOFFICIAL_TITLE_RE = compile_terms([
     "unauthorized", "unauthorised", "unofficial", "under review",
@@ -189,7 +288,7 @@ UNOFFICIAL_TITLE_RE = compile_terms([
     "total rock review", "inside track", "uncensored biography",
     "unauthorized biography", "unauthorised biography", "bootleg",
     "up close and personal", "beyond the spotlight", "phenomena",
-    "the story so far", "inside the",
+    "the story so far",
 ])
 
 UNOFFICIAL_OVERVIEW_RE = compile_terms([
@@ -208,6 +307,23 @@ UNOFFICIAL_STUDIOS = (
     "pioneer entertainment", "isis productions", "archive media",
 )
 
+CONCERT_TITLE_PATTERNS = [
+    re.compile(r"^(live\s+(at|in|from|on)\b|in\s+concert\b|apple\s+music\s+live\b)", re.IGNORECASE),
+    re.compile(
+        r"(\blive\s+(at|in|from)\s+[a-z0-9]|\(live\)|\[live\]|:\s*live$|-\s*live$|"
+        r"\bworld\s+tour\b|\btour\s+live\b|\bcelebration\s+tour\b|\bunplugged\b|"
+        r"\binduction\s+ceremony\b|\bhall\s+of\s+fame\b)",
+        re.IGNORECASE,
+    ),
+]
+
+CONCERT_ONLY_TAGS = {"concert film", "live concert", "live performance"}
+NARRATIVE_DOC_TAGS = {
+    "music documentary", "biography", "biographical", "music history",
+    "behind the scenes", "interview", "subculture", "band history",
+    "archival footage", "music industry", "record label", "recording studio",
+}
+
 
 def is_unofficial_doc(title: str, overview: str, companies: list[dict]) -> bool:
     if UNOFFICIAL_TITLE_RE.search(title):
@@ -221,7 +337,32 @@ def is_unofficial_doc(title: str, overview: str, companies: list[dict]) -> bool:
     return False
 
 
-# --- REAL WATCHABLE RELEASE GATE (BLOCKS FESTIVAL-ONLY PREMIERES) ---
+def is_pure_concert_film(title: str, overview: str, keywords: set[str]) -> bool:
+    for pat in CONCERT_TITLE_PATTERNS:
+        if pat.search(title.strip()):
+            return True
+
+    if (keywords & CONCERT_ONLY_TAGS) and not (keywords & NARRATIVE_DOC_TAGS):
+        return True
+
+    overview_l = overview.lower()
+    concert_phrases = [
+        "filmed live at", "recorded live at", "concert filmed at",
+        "live performance recorded", "captured live in concert",
+        "live concert film", "performs a homecoming concert",
+        "performs a special concert", "in a special concert for",
+        "performs their greatest hits live", "induction ceremony",
+    ]
+    story_phrases = [
+        "interviews", "story of", "history of", "chronicles",
+        "behind the scenes", "rise of", "archive footage", "archival footage",
+        "biography", "explores the", "traces the", "struggles", "making of",
+    ]
+    if any(p in overview_l for p in concert_phrases) and not any(s in overview_l for s in story_phrases):
+        return True
+
+    return False
+
 
 def has_watch_providers(details: dict) -> bool:
     results = (details.get("watch/providers") or {}).get("results") or {}
@@ -237,10 +378,8 @@ def get_watchable_movie_date(details: dict) -> str | None:
     if status != "Released" or not primary_date or primary_date > TODAY:
         return None
 
-    # For 2024+ titles, require EITHER a public release type (3=Theatrical, 4=Digital,
+    # For 2024+ releases, require a public release type (3=Theatrical, 4=Digital,
     # 5=Physical, 6=TV) on or before TODAY, OR active streaming/VOD providers on TMDB.
-    # This blocks festival-premiere-only titles (e.g. Ballad of Judas Priest) while
-    # allowing VOD/streaming releases (e.g. Di'Anno: Iron Maiden's Lost Singer).
     if primary_date >= "2024-01-01":
         public_dates = []
         rel_results = (details.get("release_dates") or {}).get("results") or []
@@ -259,289 +398,131 @@ def get_watchable_movie_date(details: dict) -> str | None:
     return primary_date
 
 
-# --- CLASSIFICATION PATTERNS (WORD-BOUNDARY SAFE) ---
-
-UNRELATED_GENRE_RE = compile_terms([
-    "hip-hop", "hip hop", "rapper", "rap music", "k-pop", "kpop",
-    "boy band", "boy bands", "boyband", "boybands", "teen pop",
-    "opera", "symphony orchestra", "classical composer", "country music",
-    "bluegrass", "jazz musician", "jazz pianist", "reggaeton", "edm",
-    "techno dj", "house music", "disco diva", "pop star", "pop singer",
-])
-
-EXPLICIT_GENRE_ERA_TITLE_RE = [
-    re.compile(
-        r"^(punk|new wave|heavy metal|metal evolution|krautrock|grunge|britpop|"
-        r"post-punk|synthpop|synthwave|goth|darkwave|hardcore|shoegaze|industrial|"
-        r"woodstock|glastonbury|sound city|muscle shoals|laurel canyon|salad days|hype!)$",
-        re.IGNORECASE,
-    ),
-    re.compile(
-        r"(?<!\w)(?:metal evolution|headbanger'?s journey|global metal|"
-        r"decline of western civilization|american hardcore|seven ages of rock|"
-        r"ages of rock|heavy metal britannia|synth britannia|prog rock britannia|"
-        r"punk britannia|krautrock|laurel canyon|muscle shoals|sound city|"
-        r"rockfield|wax trax|factory records|sub pop|sst records|epitaph records|"
-        r"squaring the circle|hipgnosis|woodstock|glastonbury|festival express|"
-        r"long live rock|soaring highs and brutal lows|decade of punk|"
-        r"nothin'? but a good time|get thrashed|murder in the front row|"
-        r"until the light takes us|once upon a time in norway|heavy metal in baghdad|"
-        r"wacken|louder than hell|year that music changed|history of rock|"
-        r"history of heavy metal|history of metal|history of punk|history of goth|"
-        r"history of new wave|history of synth|history of industrial|"
-        r"evolution of rock|evolution of metal|evolution of punk|story of rock|"
-        r"story of heavy metal|story of punk|story of goth|rise of synth|"
-        r"industrial accident|new wave:|rock school|women in metal|women in rock|"
-        r"the sixties|the seventies|the eighties|the nineties|1971|studio on the farm)(?!\w)",
-        re.IGNORECASE,
-    ),
-]
-
-GENRE_ERA_SYNOPSIS_RE = compile_terms([
-    "explores the history of", "traces the history of", "traces the evolution of",
-    "history of heavy metal", "history of punk", "history of rock",
-    "history of goth", "history of new wave", "history of synthpop",
-    "history of synthwave", "history of industrial", "history of grunge",
-    "birth of punk", "birth of heavy metal", "birth of rock", "birth of goth",
-    "rise of punk", "rise of heavy metal", "rise of grunge", "rise of new wave",
-    "rise of synthwave", "rise of industrial", "new wave movement",
-    "goth subculture", "gothic subculture", "punk subculture", "metal subculture",
-    "a decade of punk", "music of the 1960s", "music of the 1970s",
-    "music of the 1980s", "music of the 1990s", "sound of the 70s", "sound of the 80s",
-    "iconic recording studio", "legendary recording studio", "famous recording studio",
-    "iconic record label", "legendary record label", "independent record label",
-    "album cover design", "voices of women in metal",
-])
-
-SINGLE_ARTIST_TITLE_CUES_RE = compile_terms([
-    "music box:", "the making of", "classic albums:", "becoming",
-    "super duper", "the sound of my voice", "eight days a week",
-    "runnin' down a dream", "let the canary sing",
-])
-
-ARTIST_NAMES_RE = compile_terms([
-    "metallica", "iron maiden", "di'anno", "paul di'anno", "black sabbath",
-    "judas priest", "megadeth", "motorhead", "motörhead", "pantera", "sepultura",
-    "ozzy osbourne", "ozzy", "ronnie james dio", "dio", "lemmy", "slipknot",
-    "korn", "system of a down", "helloween", "w.a.s.p.", "mastodon", "gojira",
-    "lamb of god", "type o negative", "nightwish", "paradise lost",
-    "dream theater", "rammstein", "marilyn manson", "twisted sister", "gwar",
-    "anvil", "pentagram", "bobby liebling", "ramones", "sex pistols",
-    "the clash", "dead kennedys", "black flag", "bad religion", "misfits",
-    "minor threat", "fugazi", "the stooges", "iggy pop", "green day",
-    "the offspring", "nofx", "social distortion", "bad brains", "descendents",
-    "buzzcocks", "joe strummer", "led zeppelin", "pink floyd", "the beatles",
-    "beatles", "rolling stones", "the who", "deep purple", "queen",
-    "freddie mercury", "ac/dc", "aerosmith", "guns n' roses", "nirvana",
-    "kurt cobain", "pearl jam", "soundgarden", "chris cornell",
-    "alice in chains", "foo fighters", "dave grohl", "david bowie",
-    "jimi hendrix", "the doors", "jim morrison", "fleetwood mac", "rush",
-    "genesis", "peter gabriel", "phil collins", "king crimson", "frank zappa",
-    "alice cooper", "kiss", "mötley crüe", "motley crue", "bon jovi",
-    "van halen", "def leppard", "thin lizzy", "phil lynott", "lynyrd skynyrd",
-    "zz top", "velvet underground", "the cure", "depeche mode", "joy division",
-    "new order", "bauhaus", "siouxsie", "sisters of mercy", "the cult",
-    "billy idol", "gary numan", "kraftwerk", "talking heads", "blondie",
-    "tears for fears", "duran duran", "the smiths", "morrissey", "nick cave",
-    "nine inch nails", "ministry", "skinny puppy", "killing joke", "radiohead",
-    "oasis", "smashing pumpkins", "red hot chili peppers", "r.e.m.",
-    "bruce springsteen", "tom petty", "bob seger", "peter frampton",
-    "foreigner", "blue öyster cult", "blue oyster cult", "dire straits",
-    "paul mccartney", "john lennon", "george harrison", "linda ronstadt",
-    "counting crows", "cyndi lauper", "stevie nicks", "elton john",
-    "billy joel", "neil young", "bob dylan", "janis joplin", "carlos santana",
-    "eric clapton", "jeff beck", "brian wilson", "beach boys", "u2",
-    "the police", "sting", "peter green", "eagles of death metal", "scorpions",
-    "randy rhoads", "jason becker", "marty friedman", "dimebag", "slayer",
-    "anthrax", "exodus", "testament", "kreator", "behemoth", "ghost", "tool",
-])
-
-METAL_RE = compile_terms([
-    "heavy metal", "thrash metal", "death metal", "black metal", "doom metal",
-    "power metal", "progressive metal", "prog metal", "nu metal", "glam metal",
-    "hair metal", "speed metal", "sludge metal", "stoner metal", "metalcore",
-    "gothic metal", "goth metal", "symphonic metal", "industrial metal",
-    "folk metal", "viking metal", "nwobhm", "headbanger", "metal band",
-    "norwegian black metal", "metallica", "iron maiden", "di'anno",
-    "paul di'anno", "black sabbath", "judas priest", "slayer", "kerry king",
-    "tom araya", "megadeth", "dave mustaine", "anthrax", "scott ian",
-    "motorhead", "motörhead", "pantera", "dimebag", "sepultura",
-    "ozzy osbourne", "ozzy", "randy rhoads", "ronnie james dio", "dio",
-    "lemmy kilmister", "lemmy", "chuck schuldiner", "death by metal",
-    "euronymous", "burzum", "kreator", "bathory", "meshuggah", "opeth",
-    "slipknot", "korn", "system of a down", "maynard james keenan",
-    "tobias forge", "helloween", "w.a.s.p.", "mastodon", "gojira",
-    "lamb of god", "bruce dickinson", "rob halford", "tony iommi",
-    "james hetfield", "type o negative", "peter steele", "nightwish",
-    "paradise lost", "dream theater", "rammstein", "marilyn manson",
-    "twisted sister", "gwar", "anvil", "pentagram", "bobby liebling",
-    "jason becker", "scorpions", "exodus", "testament", "behemoth",
-    "i am thor", "jon mikl thor",
-])
-
-PUNK_RE = compile_terms([
-    "punk", "punk rock", "hardcore punk", "post-punk", "pop punk",
-    "skate punk", "anarcho-punk", "street punk", "riot grrrl", "cbgb",
-    "no wave", "crust punk", "straight edge", "ska punk", "proto-punk",
-    "ramones", "sex pistols", "the clash", "dead kennedys", "black flag",
-    "bad religion", "misfits", "minor threat", "fugazi", "the stooges",
-    "iggy pop", "green day", "the offspring", "nofx", "social distortion",
-    "bad brains", "descendents", "buzzcocks", "dave vanian", "captain sensible",
-    "joe strummer", "johnny rotten", "john lydon", "henry rollins",
-    "jello biafra", "sid vicious", "joey ramone", "ian mackaye",
-])
-
-ROCK_RE = compile_terms([
-    "rock music", "classic rock", "hard rock", "rock and roll", "rock 'n' roll",
-    "grunge", "alternative rock", "indie rock", "psychedelic rock",
-    "progressive rock", "prog rock", "blues rock", "folk rock", "southern rock",
-    "garage rock", "glam rock", "arena rock", "aor", "stoner rock", "desert rock",
-    "space rock", "krautrock", "shoegaze", "britpop", "heartland rock",
-    "rock band", "rock star", "goth rock", "gothic rock", "goth", "darkwave",
-    "coldwave", "new wave", "synthpop", "synth-pop", "synthwave", "synth rock",
-    "industrial rock", "industrial music", "ebm", "new romantic",
-    "eagles of death metal", "led zeppelin", "pink floyd", "the beatles",
-    "beatles", "rolling stones", "the who", "deep purple", "queen",
-    "freddie mercury", "brian may", "ac/dc", "aerosmith", "guns n' roses",
-    "nirvana", "kurt cobain", "pearl jam", "soundgarden", "chris cornell",
-    "alice in chains", "foo fighters", "dave grohl", "david bowie",
-    "jimi hendrix", "jim morrison", "ray manzarek", "fleetwood mac",
-    "rush", "geddy lee", "neil peart", "genesis", "peter gabriel",
-    "phil collins", "king crimson", "frank zappa", "alice cooper", "kiss",
-    "gene simmons", "paul stanley", "mötley crüe", "motley crue", "bon jovi",
-    "jon bon jovi", "van halen", "def leppard", "thin lizzy", "phil lynott",
-    "lynyrd skynyrd", "zz top", "velvet underground", "the cure",
-    "robert smith", "depeche mode", "dave gahan", "martin gore",
-    "joy division", "ian curtis", "new order", "bauhaus", "peter murphy",
-    "siouxsie", "sisters of mercy", "andrew eldritch", "the cult",
-    "billy idol", "gary numan", "kraftwerk", "talking heads", "blondie",
-    "debbie harry", "tears for fears", "duran duran", "the smiths",
-    "morrissey", "nick cave", "nine inch nails", "trent reznor", "ministry",
-    "al jourgensen", "skinny puppy", "killing joke", "my bloody valentine",
-    "radiohead", "oasis", "liam gallagher", "noel gallagher", "damon albarn",
-    "smashing pumpkins", "red hot chili peppers", "r.e.m.", "bruce springsteen",
-    "tom petty", "robbie robertson", "levon helm", "bob seger",
-    "peter frampton", "foreigner", "steve lukather", "blue öyster cult",
-    "blue oyster cult", "dire straits", "mark knopfler", "paul mccartney",
-    "john lennon", "george harrison", "linda ronstadt", "counting crows",
-    "cyndi lauper", "u2", "the police", "sting", "peter green",
-])
-
-CONCERT_TITLE_PATTERNS = [
-    re.compile(r"^(live\s+(at|in|from|on)\b|in\s+concert\b)", re.IGNORECASE),
-    re.compile(
-        r"(\blive\s+(at|in|from)\s+[a-z0-9]|\(live\)|\[live\]|:\s*live$|-\s*live$|"
-        r"\bworld\s+tour\s+live\b|\btour\s+live\b|\bunplugged\b|"
-        r"\binduction\s+ceremony\b|\bhall\s+of\s+fame\b)",
-        re.IGNORECASE,
-    ),
-]
-
-MUSIC_KEYWORDS = {
-    "music", "music documentary", "musician", "band", "rock music",
-    "heavy metal", "punk", "punk rock", "singer", "guitarist", "drummer",
-    "record label", "recording studio", "music festival", "new wave",
-    "synthpop", "synthwave", "goth", "goth rock", "gothic rock", "darkwave",
-    "industrial music", "industrial rock", "grunge", "hard rock", "post-punk",
-    "shoegaze", "britpop", "krautrock", "progressive rock", "glam rock",
-}
-
-
-def is_pure_concert_film(title: str, overview: str) -> bool:
-    for pat in CONCERT_TITLE_PATTERNS:
-        if pat.search(title.strip()):
+def is_metal_by_tags(keywords: set[str]) -> bool:
+    if keywords & METAL_EXPLICIT_TAGS:
+        return True
+    for kw in keywords:
+        if "metal" in kw and not any(bad in kw for bad in NON_MUSIC_METAL_WORDS):
             return True
-
-    overview_l = overview.lower()
-    concert_phrases = [
-        "filmed live at", "recorded live at", "concert filmed at",
-        "live performance recorded", "captured live in concert",
-        "live concert film", "performs their greatest hits live",
-        "induction ceremony",
-    ]
-    story_phrases = [
-        "interviews", "story of", "history of", "chronicles",
-        "behind the scenes", "rise of", "archive footage", "archival footage",
-        "biography", "explores the", "traces the", "struggles", "journey",
-        "therapist", "making of", "band members",
-    ]
-    if any(p in overview_l for p in concert_phrases) and not any(s in overview_l for s in story_phrases):
-        return True
-
     return False
 
 
-def has_music_relevance(genre_ids: set[int], keywords: set[str], combined: str) -> bool:
-    if 10402 in genre_ids:
-        return True
-    if keywords & MUSIC_KEYWORDS:
-        return True
-    return bool(METAL_RE.search(combined) or PUNK_RE.search(combined) or ROCK_RE.search(combined))
-
-
-def has_core_genre_signal(combined: str) -> bool:
-    return bool(METAL_RE.search(combined) or PUNK_RE.search(combined) or ROCK_RE.search(combined))
-
-
-def is_single_artist_title(title: str) -> bool:
-    if ARTIST_NAMES_RE.search(title):
-        return True
-    if SINGLE_ARTIST_TITLE_CUES_RE.search(title):
-        return True
-    return False
-
-
-def is_genre_scene_or_era(title: str, overview: str, keywords: set[str]) -> bool:
-    clean_title = title.strip()
-
-    # Check explicit genre/era titles first (e.g. Hype!, Nothin' But a Good Time, Metal Evolution)
-    for pat in EXPLICIT_GENRE_ERA_TITLE_RE:
-        if pat.search(clean_title):
-            return True
-
-    # Never route a single-artist bio or album-making doc into Genres, Scenes & Eras
-    if is_single_artist_title(clean_title):
-        return False
-
-    combined = f"{title} {overview} {' '.join(keywords)}"
-    if GENRE_ERA_SYNOPSIS_RE.search(overview) and has_core_genre_signal(combined):
-        return True
-
-    return False
-
-
-def classify_item(title: str, overview: str, keywords: set[str]) -> str | None:
-    if UNRELATED_GENRE_RE.search(title):
+def classify_by_tmdb_tags(title: str, genre_ids: set[int], keywords: set[str]) -> str | None:
+    # 1. Hard Music Gate: must have TMDB Music genre (10402) or an unambiguous music tag
+    if 10402 not in genre_ids and not (keywords & MUSIC_GATE_TAGS):
         return None
 
-    combined = f"{title} {overview} {' '.join(keywords)}"
-    if UNRELATED_GENRE_RE.search(combined) and not has_core_genre_signal(combined):
+    # 2. Detect our 5 core music genre groups strictly via TMDB tags
+    is_metal = is_metal_by_tags(keywords)
+    is_punk = bool(keywords & PUNK_TAGS)
+    is_goth_newwave = bool(keywords & GOTH_NEWWAVE_INDUSTRIAL_TAGS)
+    is_grunge_alt = bool(keywords & GRUNGE_ALT_TAGS)
+    is_classic_explicit = bool(keywords & CLASSIC_ROCK_EXPLICIT_TAGS)
+    is_classic_general = bool(keywords & CLASSIC_ROCK_GENERAL_TAGS)
+
+    # Extra guard: ambiguous standalone "goth" or "new wave" tags require Music genre (10402)
+    # or another concrete music tag (prevents Tim Burton / surfing docs)
+    if is_goth_newwave and not (keywords & (GOTH_NEWWAVE_INDUSTRIAL_TAGS - {"goth", "new wave"})):
+        if 10402 not in genre_ids and not (keywords & (MUSIC_GATE_TAGS - {"music"})):
+            is_goth_newwave = False
+
+    has_any_target_genre = (
+        is_metal or is_punk or is_goth_newwave or is_grunge_alt
+        or is_classic_explicit or is_classic_general
+    )
+    if not has_any_target_genre:
         return None
 
-    # 1. Genres, Scenes & Eras
-    if is_genre_scene_or_era(title, overview, keywords):
+    # 3. Hard block unrelated genres (pop, rap, EDM, country, jazz, opera, boyband)
+    # unless the title carries an explicit rock/metal/punk/grunge/goth/new-wave subgenre tag
+    if keywords & STRICT_NON_ROCK_TAGS:
+        has_strong_subgenre = (
+            is_metal or is_punk or is_goth_newwave or is_grunge_alt or is_classic_explicit
+        )
+        if not has_strong_subgenre:
+            return None
+
+    # 4. Genres, Scenes & Eras (multi-artist movements, studios, labels, festivals, history)
+    if (
+        (keywords & GENRE_ERA_TAGS)
+        and not (keywords & SINGLE_ARTIST_BIO_TAGS)
+        and not SINGLE_ARTIST_TITLE_CUES_RE.search(title)
+    ):
         return "genre-era-docs"
 
-    # Strip "Eagles of Death Metal" before Metal matching so it doesn't trigger "death metal"
-    safe_title = re.sub(r"eagles of death metal", "", title, flags=re.IGNORECASE)
-    safe_combined = re.sub(r"eagles of death metal", "", combined, flags=re.IGNORECASE)
-
-    # 2. TITLE-FIRST classification (prevents Bon Jovi / Deep Purple from being hijacked by synopsis)
-    if METAL_RE.search(safe_title):
+    # 5. Route to the most specific music row
+    if is_metal:
         return "metal-docs"
-    if PUNK_RE.search(safe_title):
+    if is_punk:
         return "punk-docs"
-    if ROCK_RE.search(title):
-        return "rock-docs"
+    if is_goth_newwave:
+        return "goth-newwave-docs"
+    if is_grunge_alt:
+        return "grunge-alt-docs"
+    if is_classic_explicit or is_classic_general:
+        return "classic-rock-docs"
 
-    # 3. Fallback to overview + keywords
-    if METAL_RE.search(safe_combined):
-        return "metal-docs"
-    if PUNK_RE.search(safe_combined):
-        return "punk-docs"
-    if ROCK_RE.search(combined):
-        return "rock-docs"
     return None
+
+
+# --- TRAKT PUBLIC LIST DISCOVERY ---
+
+def discover_trakt_candidates(custom_lists: list[str]) -> tuple[set[int], set[int]]:
+    movie_ids: set[int] = set()
+    tv_ids: set[int] = set()
+    if not TRAKT_CLIENT_ID:
+        print("TRAKT_CLIENT_ID not set — skipping Trakt list discovery.")
+        return movie_ids, tv_ids
+
+    list_endpoints: list[str] = []
+
+    for raw in custom_lists or []:
+        m = re.search(r"users/([^/]+)/lists/([^/?#]+)", raw.strip())
+        if m:
+            list_endpoints.append(f"/users/{m.group(1)}/lists/{m.group(2)}/items/movies,shows")
+        elif "/" in raw.strip() and not raw.strip().startswith("http"):
+            user, slug = raw.strip().split("/", 1)
+            list_endpoints.append(f"/users/{user}/lists/{slug}/items/movies,shows")
+
+    trakt_queries = [
+        "heavy metal documentaries",
+        "metal documentaries",
+        "classic rock documentaries",
+        "rock documentaries",
+        "grunge documentaries",
+        "punk documentaries",
+        "new wave documentaries",
+        "goth documentaries",
+        "music documentaries",
+    ]
+    seen_trakt_list_ids: set[int] = set()
+    for q in trakt_queries:
+        results = trakt_get("/search/list", {"query": q, "limit": 6}) or []
+        time.sleep(0.25)
+        for entry in results:
+            lst = entry.get("list") or {}
+            tid = (lst.get("ids") or {}).get("trakt")
+            item_count = lst.get("item_count") or 0
+            if tid and tid not in seen_trakt_list_ids and 5 <= item_count <= 500:
+                seen_trakt_list_ids.add(tid)
+                list_endpoints.append(f"/lists/{tid}/items/movies,shows")
+
+    for ep in list_endpoints:
+        items = trakt_get(ep) or []
+        time.sleep(0.25)
+        for item in items:
+            itype = item.get("type")
+            if itype == "movie":
+                tmdb_id = ((item.get("movie") or {}).get("ids") or {}).get("tmdb")
+                if tmdb_id:
+                    movie_ids.add(int(tmdb_id))
+            elif itype == "show":
+                tmdb_id = ((item.get("show") or {}).get("ids") or {}).get("tmdb")
+                if tmdb_id:
+                    tv_ids.add(int(tmdb_id))
+
+    print(f"Trakt added {len(movie_ids)} candidate movies and {len(tv_ids)} candidate series.")
+    return movie_ids, tv_ids
 
 
 def load_overrides() -> dict:
@@ -554,45 +535,65 @@ def discover_candidates(overrides: dict) -> tuple[set[int], set[int], set[int], 
     movie_ids: set[int] = set()
     tv_ids: set[int] = set()
 
-    # 1. Trakt public lists (human-curated — bypass TMDB vote thresholds)
+    # 1. Trakt public lists
     trakt_movies, trakt_tv = discover_trakt_candidates(overrides.get("trakt_lists", []))
     movie_ids |= trakt_movies
     tv_ids |= trakt_tv
 
-    kw_ids = resolve_keyword_ids([
-        "heavy metal", "thrash metal", "black metal", "death metal", "doom metal",
-        "punk", "punk rock", "hardcore punk", "post-punk",
-        "rock music", "classic rock", "hard rock", "grunge", "glam rock",
-        "progressive rock", "psychedelic rock", "krautrock", "shoegaze",
-        "britpop", "new wave", "synthpop", "synthwave", "goth", "goth rock",
-        "gothic rock", "darkwave", "industrial music", "music documentary",
-    ])
-    kw_pipe = "|".join(str(k) for k in kw_ids)
+    # 2. Chunked TMDB keyword discovery across all 6 categories
+    discovery_keywords = [
+        # Metal
+        "heavy metal", "thrash metal", "death metal", "black metal", "doom metal",
+        "glam metal", "hair metal", "nu metal", "power metal", "progressive metal",
+        "speed metal", "sludge metal", "stoner metal", "metalcore", "gothic metal",
+        "symphonic metal", "industrial metal", "metal band", "nwobhm",
+        # Punk
+        "punk", "punk rock", "hardcore punk", "pop punk", "skate punk",
+        "anarcho-punk", "riot grrrl", "proto-punk", "cbgb", "punk band",
+        # Goth, New Wave & Industrial
+        "goth", "goth rock", "gothic rock", "darkwave", "new wave", "new wave music",
+        "synthpop", "synth-pop", "synthwave", "post-punk", "industrial music",
+        "industrial rock", "new romantic", "no wave",
+        # Grunge & Alternative
+        "grunge", "alternative rock", "indie rock", "shoegaze", "britpop",
+        "stoner rock", "noise rock", "college rock", "madchester",
+        # Classic Rock & General Rock
+        "classic rock", "hard rock", "rock music", "rock band", "rock and roll",
+        "progressive rock", "psychedelic rock", "glam rock", "blues rock",
+        "southern rock", "garage rock", "krautrock", "rockumentary", "music documentary",
+    ]
+    kw_ids = resolve_keyword_ids(discovery_keywords)
+    print(f"Resolved {len(kw_ids)} TMDB discovery keyword IDs.")
 
-    # 2. English keyword-matched docs (no vote_count floor on /discover so niche releases aren't dropped)
-    if kw_pipe:
+    # Query in batches of 12 IDs so TMDB never silently truncates long keyword pipes
+    chunk_size = 12
+    for i in range(0, len(kw_ids), chunk_size):
+        kw_pipe = "|".join(str(k) for k in kw_ids[i:i + chunk_size])
         movie_ids |= collect_all_pages("/discover/movie", {
             "with_genres": "99",
+            "without_genres": "35",
             "with_keywords": kw_pipe,
             "with_original_language": "en",
             "primary_release_date.lte": TODAY,
             "sort_by": "primary_release_date.desc",
             "include_adult": "false",
-        }, max_pages=100)
+        }, max_pages=60)
 
         tv_ids |= collect_all_pages("/discover/tv", {
             "with_genres": "99",
+            "without_genres": "35",
             "with_keywords": kw_pipe,
             "with_original_language": "en",
             "first_air_date.lte": TODAY,
             "sort_by": "first_air_date.desc",
             "include_adult": "false",
-        }, max_pages=100)
+        }, max_pages=60)
 
-    # 3. Broad sweep of English Documentary + Music
-    for sort_by in ["primary_release_date.desc", "vote_count.desc"]:
+    # 3. Broad sweep of English Documentary + Music (catches well-tagged docs with alt keyword IDs)
+    for sort_by in ("primary_release_date.desc", "vote_count.desc"):
         movie_ids |= collect_all_pages("/discover/movie", {
             "with_genres": "99,10402",
+            "without_genres": "35",
             "with_original_language": "en",
             "primary_release_date.lte": TODAY,
             "vote_count.gte": 2,
@@ -600,46 +601,7 @@ def discover_candidates(overrides: dict) -> tuple[set[int], set[int], set[int], 
             "include_adult": "false",
         }, max_pages=25)
 
-    # 4. Targeted TMDB searches for genres, eras, and major rock/metal/punk/goth artists
-    targeted_queries = [
-        # Genres, scenes & eras
-        "metal evolution", "punk", "new wave", "goth", "gothic rock", "darkwave",
-        "synthpop", "synthwave", "post-punk", "industrial", "heavy metal",
-        "history of rock", "ages of rock", "britannia", "krautrock", "hardcore",
-        "grunge", "britpop", "shoegaze", "thrash metal", "black metal",
-        # Metal icons
-        "ozzy osbourne", "black sabbath", "iron maiden", "di'anno", "judas priest",
-        "metallica", "some kind of monster", "megadeth", "slayer", "pantera",
-        "lemmy", "motorhead", "ronnie james dio", "scorpions", "rammstein",
-        "slipknot", "randy rhoads", "jason becker", "sepultura", "anvil",
-        "twisted sister", "type o negative", "dream theater", "marilyn manson",
-        # Rock, Goth, New Wave & Punk icons
-        "depeche mode", "the cure", "joy division", "nine inch nails", "ministry",
-        "bon jovi", "beatles anthology", "pink floyd", "led zeppelin", "deep purple",
-        "queen", "ac/dc", "rush", "alice cooper", "kiss", "david bowie",
-        "ramones", "sex pistols", "the clash", "iggy pop", "green day", "nirvana",
-        "foo fighters", "soundgarden", "pearl jam", "thin lizzy", "van halen",
-    ]
-    targeted_movies: set[int] = set()
-    targeted_tv: set[int] = set()
-    for q in targeted_queries:
-        for page in (1, 2):
-            tv_search = tmdb_get("/search/tv", {"query": q, "page": page})
-            for item in tv_search.get("results", []):
-                if 99 in (item.get("genre_ids") or []) and item.get("original_language") == "en":
-                    targeted_tv.add(item["id"])
-
-            mv_search = tmdb_get("/search/movie", {"query": q, "page": page})
-            for item in mv_search.get("results", []):
-                if 99 in (item.get("genre_ids") or []) and item.get("original_language") == "en":
-                    targeted_movies.add(item["id"])
-
-    movie_ids |= targeted_movies
-    tv_ids |= targeted_tv
-
-    trusted_movies = trakt_movies | targeted_movies
-    trusted_tv = trakt_tv | targeted_tv
-    return movie_ids, tv_ids, trusted_movies, trusted_tv
+    return movie_ids, tv_ids, trakt_movies, trakt_tv
 
 
 def resolve_imdb_whitelist(imdb_id: str) -> tuple[str | None, int | None]:
@@ -687,14 +649,13 @@ def fetch_movie_meta(
     companies = details.get("production_companies") or []
     genre_ids = {g["id"] for g in (details.get("genres") or [])}
     keywords = {k["name"].lower() for k in ((details.get("keywords") or {}).get("keywords") or [])}
-    combined = f"{title} {overview} {' '.join(keywords)}"
 
     effective_date = get_watchable_movie_date(details)
 
     if not forced_category:
         if original_lang != "en" or not effective_date:
             return None
-        if 99 not in genre_ids:
+        if 99 not in genre_ids or 35 in genre_ids:
             return None
         if len(overview.strip()) < 40:
             return None
@@ -702,14 +663,11 @@ def fetch_movie_meta(
             return None
         if runtime == 0 and effective_date < SIX_MONTHS_AGO:
             return None
-        # Soft quality gate: Trakt-curated & targeted-artist docs pass even with 0-1 TMDB votes
-        if not trusted and effective_date < ONE_YEAR_AGO and vote_count < 3:
+        if not trusted and effective_date < ONE_YEAR_AGO and vote_count < 2:
             return None
         if is_unofficial_doc(title, overview, companies):
             return None
-        if not has_music_relevance(genre_ids, keywords, combined):
-            return None
-        if is_pure_concert_film(title, overview):
+        if is_pure_concert_film(title, overview, keywords):
             return None
     else:
         effective_date = effective_date or (details.get("release_date") or "")
@@ -718,21 +676,14 @@ def fetch_movie_meta(
         forced_category
         or pin_map.get(imdb_id)
         or pin_map.get(str(tmdb_id))
-        or classify_item(title, overview, keywords)
+        or classify_by_tmdb_tags(title, genre_ids, keywords)
     )
-    if not category:
+    if not category or category not in CAT_LABELS:
         return None
 
     year = effective_date[:4] if len(effective_date) >= 4 else ""
     vote_avg = details.get("vote_average") or 0
     backdrop_path = details.get("backdrop_path")
-
-    cat_labels = {
-        "genre-era-docs": "Genres & Eras",
-        "rock-docs": "Rock",
-        "metal-docs": "Metal",
-        "punk-docs": "Punk",
-    }
 
     meta = {
         "id": imdb_id,
@@ -743,9 +694,10 @@ def fetch_movie_meta(
         "description": overview,
         "releaseInfo": year,
         "runtime": f"{runtime} min" if runtime else None,
-        "genres": ["Documentary", "Music", cat_labels.get(category, "Music")],
+        "genres": ["Documentary", "Music", CAT_LABELS[category]],
         "_release_date": effective_date,
         "_score": popularity + (vote_avg * 4),
+        "_whitelisted": bool(forced_category),
     }
     if backdrop_path:
         meta["background"] = f"{IMG_BACKDROP}{backdrop_path}"
@@ -790,7 +742,6 @@ def fetch_series_meta(
     companies = details.get("production_companies") or []
     genre_ids = {g["id"] for g in (details.get("genres") or [])}
     keywords = {k["name"].lower() for k in ((details.get("keywords") or {}).get("results") or [])}
-    combined = f"{title} {overview} {' '.join(keywords)}"
 
     if not forced_category:
         if original_lang != "en":
@@ -799,7 +750,7 @@ def fetch_series_meta(
             return None
         if num_episodes < 1:
             return None
-        if 99 not in genre_ids:
+        if 99 not in genre_ids or 35 in genre_ids:
             return None
         if len(overview.strip()) < 40:
             return None
@@ -807,18 +758,16 @@ def fetch_series_meta(
             return None
         if is_unofficial_doc(title, overview, companies):
             return None
-        if not has_music_relevance(genre_ids, keywords, combined):
-            return None
-        if is_pure_concert_film(title, overview):
+        if is_pure_concert_film(title, overview, keywords):
             return None
 
     category = (
         forced_category
         or pin_map.get(imdb_id)
         or pin_map.get(str(tmdb_id))
-        or classify_item(title, overview, keywords)
+        or classify_by_tmdb_tags(title, genre_ids, keywords)
     )
-    if not category:
+    if not category or category not in CAT_LABELS:
         return None
 
     last_air = details.get("last_air_date") or ""
@@ -829,13 +778,6 @@ def fetch_series_meta(
     vote_avg = details.get("vote_average") or 0
     backdrop_path = details.get("backdrop_path")
 
-    cat_labels = {
-        "genre-era-docs": "Genres & Eras",
-        "rock-docs": "Rock",
-        "metal-docs": "Metal",
-        "punk-docs": "Punk",
-    }
-
     meta = {
         "id": imdb_id,
         "type": "series",
@@ -844,9 +786,10 @@ def fetch_series_meta(
         "posterShape": "poster",
         "description": overview,
         "releaseInfo": release_info,
-        "genres": ["Documentary", "Music", cat_labels.get(category, "Music")],
+        "genres": ["Documentary", "Music", CAT_LABELS[category]],
         "_release_date": first_air,
         "_score": popularity + (vote_avg * 4),
+        "_whitelisted": bool(forced_category),
     }
     if backdrop_path:
         meta["background"] = f"{IMG_BACKDROP}{backdrop_path}"
@@ -854,6 +797,134 @@ def fetch_series_meta(
         meta["imdbRating"] = f"{vote_avg:.1f}"
 
     return category, {k: v for k, v in meta.items() if v is not None}
+
+
+# --- TORBOX PLAYABILITY CHECK (CACHED OR HEALTHY SEEDERS) ---
+
+def _torrents_are_playable(payload: dict) -> bool:
+    torrents = (payload.get("data") or {}).get("torrents") or []
+    for t in torrents:
+        if t.get("cached") is True:
+            return True
+        seeders = t.get("last_known_seeders")
+        if seeders is None:
+            seeders = t.get("seeders") or 0
+        if int(seeders) >= MIN_HEALTHY_SEEDERS:
+            return True
+    return False
+
+
+def _usenet_is_cached(payload: dict) -> bool:
+    nzbs = (payload.get("data") or {}).get("nzbs") or []
+    return any(n.get("cached") is True for n in nzbs)
+
+
+def check_torbox_playable(imdb_id: str, media_type: str) -> bool | None:
+    """
+    Returns True if cached on TorBox or has >= MIN_HEALTHY_SEEDERS,
+    False if unplayable, or None if TorBox returned an auth error.
+    """
+    time.sleep(0.22)  # Stay safely under TorBox's 300 req/min ceiling
+
+    if media_type == "series":
+        status, data = torbox_search_get(
+            f"/torrents/imdb:{imdb_id}",
+            {"season": 1, "episode": 1, "check_cache": "true"},
+        )
+        if status in {401, 403}:
+            return None
+        if status == 200 and _torrents_are_playable(data):
+            return True
+
+        # Fallback: check full Season 1 pack
+        time.sleep(0.22)
+        status2, data2 = torbox_search_get(
+            f"/torrents/imdb:{imdb_id}",
+            {"season": 1, "check_cache": "true"},
+        )
+        if status2 == 200 and _torrents_are_playable(data2):
+            return True
+
+        # Optional Usenet cache check (silently skipped if plan lacks Usenet)
+        status_u, data_u = torbox_search_get(
+            f"/usenet/imdb:{imdb_id}",
+            {"season": 1, "episode": 1, "check_cache": "true"},
+        )
+        if status_u == 200 and _usenet_is_cached(data_u):
+            return True
+
+        return False
+
+    # Movie check
+    status, data = torbox_search_get(
+        f"/torrents/imdb:{imdb_id}",
+        {"check_cache": "true"},
+    )
+    if status in {401, 403}:
+        return None
+    if status == 200 and _torrents_are_playable(data):
+        return True
+
+    status_u, data_u = torbox_search_get(
+        f"/usenet/imdb:{imdb_id}",
+        {"check_cache": "true"},
+    )
+    if status_u == 200 and _usenet_is_cached(data_u):
+        return True
+
+    return False
+
+
+def filter_catalogs_with_torbox(catalogs: dict[str, list[dict]]) -> dict[str, list[dict]]:
+    if not TORBOX_API_KEY:
+        print("TORBOX_API_KEY not set — skipping TorBox playability filter.")
+        return catalogs
+
+    # Deduplicate IMDb IDs across all 6 catalogs so each title is checked only once
+    to_check: dict[str, str] = {}
+    for items in catalogs.values():
+        for item in items:
+            if not item.get("_whitelisted"):
+                to_check[item["id"]] = item["type"]
+
+    if not to_check:
+        return catalogs
+
+    print(
+        f"Checking {len(to_check)} unique titles on TorBox "
+        f"(cached or >= {MIN_HEALTHY_SEEDERS} seeders)..."
+    )
+
+    # Probe one item first to verify the API key before running the full batch
+    first_id, first_type = next(iter(to_check.items()))
+    probe = check_torbox_playable(first_id, first_type)
+    if probe is None:
+        print("WARNING: TorBox returned 401/403 (check TORBOX_API_KEY). Skipping TorBox filter.")
+        return catalogs
+
+    playable_map: dict[str, bool] = {first_id: probe}
+    remaining = [(iid, mtype) for iid, mtype in to_check.items() if iid != first_id]
+
+    with ThreadPoolExecutor(max_workers=3) as pool:
+        futures = {
+            pool.submit(check_torbox_playable, iid, mtype): iid
+            for iid, mtype in remaining
+        }
+        for fut in as_completed(futures):
+            iid = futures[fut]
+            res = fut.result()
+            playable_map[iid] = True if res is None else bool(res)
+
+    kept_total = sum(1 for v in playable_map.values() if v)
+    print(f"TorBox check complete: {kept_total}/{len(playable_map)} titles playable.")
+
+    filtered: dict[str, list[dict]] = {}
+    for cat_id, items in catalogs.items():
+        filtered[cat_id] = [
+            item for item in items
+            if item.get("_whitelisted") or playable_map.get(item["id"], False)
+        ]
+    return filtered
 
 
 def sort_and_clean(items: list[dict]) -> list[dict]:
@@ -870,21 +941,17 @@ def sort_and_clean(items: list[dict]) -> list[dict]:
     for item in unique:
         item.pop("_release_date", None)
         item.pop("_score", None)
+        item.pop("_whitelisted", None)
     return unique
 
 
 def main():
     overrides = load_overrides()
-    print(f"Discovering official, released English docs from TMDB + Trakt (up to {TODAY})...")
+    print(f"Discovering official, released English docs via TMDB tags + Trakt (up to {TODAY})...")
     movie_ids, tv_ids, trusted_movies, trusted_tv = discover_candidates(overrides)
     print(f"Found {len(movie_ids)} candidate movies and {len(tv_ids)} candidate series.")
 
-    catalogs: dict[str, list[dict]] = {
-        "genre-era-docs": [],
-        "rock-docs": [],
-        "metal-docs": [],
-        "punk-docs": [],
-    }
+    catalogs: dict[str, list[dict]] = {cid: [] for cid, _, _ in CATALOG_DEFS}
 
     for entry in overrides.get("whitelist_add", []):
         mtype = entry.get("media_type")
@@ -895,17 +962,19 @@ def main():
             continue
 
         forced_cat = entry.get("category")
+        if forced_cat not in catalogs:
+            continue
         if mtype == "movie":
             res = fetch_movie_meta(int(tid), overrides, trusted=True, forced_category=forced_cat)
             if res:
                 cat, meta = res
-                catalogs.setdefault(cat, []).append(meta)
+                catalogs[cat].append(meta)
             movie_ids.discard(int(tid))
         elif mtype == "series":
             res = fetch_series_meta(int(tid), overrides, trusted=True, forced_category=forced_cat)
             if res:
                 cat, meta = res
-                catalogs.setdefault(cat, []).append(meta)
+                catalogs[cat].append(meta)
             tv_ids.discard(int(tid))
 
     with ThreadPoolExecutor(max_workers=8) as pool:
@@ -930,28 +999,31 @@ def main():
                 cat, meta = res
                 catalogs[cat].append(meta)
 
+    # Final TorBox playability filter (cached OR >= MIN_HEALTHY_SEEDERS)
+    catalogs = filter_catalogs_with_torbox(catalogs)
+
+    # Clean old catalog folder (removes stale docs/catalog/other/ files)
+    shutil.rmtree(DOCS_DIR / "catalog", ignore_errors=True)
     out_dir = DOCS_DIR / "catalog" / CATALOG_TYPE
     out_dir.mkdir(parents=True, exist_ok=True)
 
-    for cat_id, items in catalogs.items():
-        cleaned = sort_and_clean(items)
+    for cat_id, _, _ in CATALOG_DEFS:
+        cleaned = sort_and_clean(catalogs[cat_id])
         out_path = out_dir / f"{cat_id}.json"
         out_path.write_text(json.dumps({"metas": cleaned}, ensure_ascii=False, indent=2), encoding="utf-8")
         print(f"Wrote {len(cleaned)} items -> {out_path}")
 
     manifest = {
         "id": "org.nuvio.rockmetalpunkdocs",
-        "version": "2.6.0",
+        "version": "3.0.0",
         "name": "Rock, Metal & Punk Documentaries",
-        "description": "Live auto-updating catalog of official, released English Genres/Eras, Rock, Metal, and Punk documentaries & docuseries.",
+        "description": "Live auto-updating catalog of official, playable English rock, metal, punk, grunge, goth, and new wave documentaries & docuseries.",
         "resources": ["catalog"],
-        "types": ["movie", "series", "other"],
+        "types": ["movie", "series"],
         "idPrefixes": ["tt"],
         "catalogs": [
-            {"type": CATALOG_TYPE, "id": "genre-era-docs", "name": "Genres, Scenes & Eras"},
-            {"type": CATALOG_TYPE, "id": "rock-docs", "name": "Rock Documentaries"},
-            {"type": CATALOG_TYPE, "id": "metal-docs", "name": "Metal Documentaries"},
-            {"type": CATALOG_TYPE, "id": "punk-docs", "name": "Punk Documentaries"},
+            {"type": CATALOG_TYPE, "id": cid, "name": cname}
+            for cid, cname, _ in CATALOG_DEFS
         ],
     }
     manifest_path = DOCS_DIR / "manifest.json"
