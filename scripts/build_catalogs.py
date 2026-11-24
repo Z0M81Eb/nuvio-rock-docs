@@ -19,13 +19,19 @@ IMG_BACKDROP = "https://image.tmdb.org/t/p/w1280"
 # Individual items inside each catalog always keep their own "movie" or "series" type.
 CATALOG_TYPE = "other"
 
-TODAY = datetime.now(timezone.utc).strftime("%Y-%m-%d")
+NOW_UTC = datetime.now(timezone.utc)
+TODAY = NOW_UTC.strftime("%Y-%m-%d")
+ONE_YEAR_AGO = (NOW_UTC - timedelta(days=365)).strftime("%Y-%m-%d")
+SIX_MONTHS_AGO = (NOW_UTC - timedelta(days=180)).strftime("%Y-%m-%d")
 
 ROOT_DIR = Path(__file__).resolve().parent.parent
 DOCS_DIR = ROOT_DIR / "docs"
 OVERRIDES_PATH = ROOT_DIR / "overrides.json"
 
-MIN_MOVIE_RUNTIME = 45
+MIN_MOVIE_RUNTIME = 50
+MIN_MOVIE_VOTES_OLD = 10
+MIN_SERIES_VOTES_OLD = 5
+MIN_RECENT_VOTES = 3
 MAX_ITEMS_PER_CATALOG = None
 
 SESSION = requests.Session()
@@ -80,6 +86,78 @@ def collect_all_pages(endpoint: str, base_params: dict, max_pages: int = 100) ->
             break
         page += 1
     return ids
+
+
+# --- UNOFFICIAL / BOOTLEG DOCUMENTARY FILTERS ---
+
+UNOFFICIAL_TITLE_RE = compile_terms([
+    "unauthorized", "unauthorised", "unofficial", "under review",
+    "critical review", "rock milestones", "classic rock legends",
+    "a critical look", "the definitive critical review", "maximum",
+    "total rock review", "inside track", "uncensored biography",
+    "unauthorized biography", "unauthorised biography", "bootleg",
+    "up close and personal", "beyond the spotlight", "phenomena",
+    "the story so far", "inside the",
+])
+
+UNOFFICIAL_OVERVIEW_RE = compile_terms([
+    "unauthorized", "unauthorised", "unofficial", "independent critical review",
+    "critical review", "not authorized", "not authorised",
+    "without the involvement", "independent documentary",
+    "retrospective review", "expert panel", "music journalists review",
+    "rock critics review", "panel of experts",
+])
+
+UNOFFICIAL_STUDIOS = (
+    "chrome dreams", "sexy intellectual", "classic rock productions",
+    "entertain me", "stormbird", "edgehill", "passport video",
+    "highway 61", "delta music", "mvd visual", "wienerworld",
+    "pride dvd", "laser media", "music video distributors",
+    "american icons", "rockumentary", "a2zcds", "gravity entertainment",
+    "pioneer entertainment", "isis productions", "archive media",
+)
+
+
+def is_unofficial_doc(title: str, overview: str, companies: list[dict]) -> bool:
+    if UNOFFICIAL_TITLE_RE.search(title):
+        return True
+    if UNOFFICIAL_OVERVIEW_RE.search(overview):
+        return True
+    for comp in companies or []:
+        cname = (comp.get("name") or "").lower()
+        if any(bad in cname for bad in UNOFFICIAL_STUDIOS):
+            return True
+    return False
+
+
+# --- REAL WATCHABLE RELEASE GATE (BLOCKS FESTIVAL-ONLY PREMIERES) ---
+
+def get_watchable_movie_date(details: dict) -> str | None:
+    """
+    Returns YYYY-MM-DD if the movie is genuinely released to the public, or None if
+    it is unreleased or festival-premiere-only (e.g. TMDB Release Type 1 only).
+    """
+    status = details.get("status") or ""
+    primary_date = details.get("release_date") or ""
+    if status != "Released" or not primary_date or primary_date > TODAY:
+        return None
+
+    # For 2024+ titles, strictly require a public release type:
+    # 3 = Theatrical, 4 = Digital, 5 = Physical, 6 = TV (ignores 1 = Premiere, 2 = Limited)
+    if primary_date >= "2024-01-01":
+        public_dates = []
+        rel_results = (details.get("release_dates") or {}).get("results") or []
+        for country in rel_results:
+            for entry in country.get("release_dates") or []:
+                rtype = entry.get("type")
+                rdate = (entry.get("release_date") or "")[:10]
+                if rtype in {3, 4, 5, 6} and rdate and rdate <= TODAY:
+                    public_dates.append(rdate)
+        if not public_dates:
+            return None
+        return min(public_dates)
+
+    return primary_date
 
 
 # --- CLASSIFICATION PATTERNS (WORD-BOUNDARY SAFE) ---
@@ -302,13 +380,14 @@ def discover_candidates() -> tuple[set[int], set[int]]:
     ])
     kw_pipe = "|".join(str(k) for k in kw_ids)
 
-    # 1. Full sweep of English keyword-matched Rock/Metal/Punk/Goth/New Wave/Industrial docs
+    # 1. English keyword-matched Rock/Metal/Punk/Goth/New Wave/Industrial docs
     if kw_pipe:
         movie_ids |= collect_all_pages("/discover/movie", {
             "with_genres": "99",
             "with_keywords": kw_pipe,
             "with_original_language": "en",
             "primary_release_date.lte": TODAY,
+            "vote_count.gte": MIN_RECENT_VOTES,
             "sort_by": "primary_release_date.desc",
             "include_adult": "false",
         }, max_pages=100)
@@ -318,16 +397,18 @@ def discover_candidates() -> tuple[set[int], set[int]]:
             "with_keywords": kw_pipe,
             "with_original_language": "en",
             "first_air_date.lte": TODAY,
+            "vote_count.gte": MIN_RECENT_VOTES,
             "sort_by": "first_air_date.desc",
             "include_adult": "false",
         }, max_pages=100)
 
-    # 2. Broad sweep of English Documentary + Music (catches docs missing genre keywords)
+    # 2. Broad sweep of English Documentary + Music (catches docs missing keywords)
     for sort_by in ["primary_release_date.desc", "vote_count.desc"]:
         movie_ids |= collect_all_pages("/discover/movie", {
             "with_genres": "99,10402",
             "with_original_language": "en",
             "primary_release_date.lte": TODAY,
+            "vote_count.gte": MIN_RECENT_VOTES,
             "sort_by": sort_by,
             "include_adult": "false",
         }, max_pages=25)
@@ -372,7 +453,10 @@ def fetch_movie_meta(tmdb_id: int, overrides: dict, forced_category: str | None 
     if str(tmdb_id) in blacklist:
         return None
 
-    details = tmdb_get(f"/movie/{tmdb_id}", {"append_to_response": "external_ids,keywords"})
+    details = tmdb_get(
+        f"/movie/{tmdb_id}",
+        {"append_to_response": "external_ids,keywords,release_dates"},
+    )
     if not details:
         return None
 
@@ -384,30 +468,48 @@ def fetch_movie_meta(tmdb_id: int, overrides: dict, forced_category: str | None 
     if not poster_path:
         return None
 
-    release_date = details.get("release_date") or ""
-    status = details.get("status") or ""
     original_lang = details.get("original_language") or ""
     title = details.get("title") or details.get("original_title") or ""
     overview = details.get("overview") or ""
     runtime = details.get("runtime") or 0
+    vote_count = details.get("vote_count") or 0
+    popularity = details.get("popularity") or 0
+    companies = details.get("production_companies") or []
     genre_ids = {g["id"] for g in (details.get("genres") or [])}
     keywords = {k["name"].lower() for k in ((details.get("keywords") or {}).get("keywords") or [])}
     combined = f"{title} {overview} {' '.join(keywords)}"
 
+    effective_date = get_watchable_movie_date(details)
+
     if not forced_category:
-        # Strict gates: English only, released only, Documentary only
-        if original_lang != "en":
-            return None
-        if status != "Released" or not release_date or release_date > TODAY:
+        # 1. Must be English and genuinely released (not festival-premiere-only)
+        if original_lang != "en" or not effective_date:
             return None
         if 99 not in genre_ids:
             return None
+        # 2. Must have a real synopsis and real runtime
+        if len(overview.strip()) < 40:
+            return None
         if 0 < runtime < MIN_MOVIE_RUNTIME:
+            return None
+        if runtime == 0 and effective_date < SIX_MONTHS_AGO:
+            return None
+        # 3. Quality gate: filter out 0-vote obscure filler
+        if effective_date < ONE_YEAR_AGO:
+            if vote_count < MIN_MOVIE_VOTES_OLD:
+                return None
+        else:
+            if vote_count < MIN_RECENT_VOTES and popularity < 4.0:
+                return None
+        # 4. Official documentaries only (blocks bootleg / Under Review mills)
+        if is_unofficial_doc(title, overview, companies):
             return None
         if not has_music_relevance(genre_ids, keywords, combined):
             return None
         if is_pure_concert_film(title, overview, keywords):
             return None
+    else:
+        effective_date = effective_date or (details.get("release_date") or "")
 
     category = (
         forced_category
@@ -418,7 +520,7 @@ def fetch_movie_meta(tmdb_id: int, overrides: dict, forced_category: str | None 
     if not category:
         return None
 
-    year = release_date[:4] if len(release_date) >= 4 else ""
+    year = effective_date[:4] if len(effective_date) >= 4 else ""
     vote_avg = details.get("vote_average") or 0
     backdrop_path = details.get("backdrop_path")
 
@@ -439,8 +541,8 @@ def fetch_movie_meta(tmdb_id: int, overrides: dict, forced_category: str | None 
         "releaseInfo": year,
         "runtime": f"{runtime} min" if runtime else None,
         "genres": ["Documentary", "Music", cat_labels.get(category, "Music")],
-        "_release_date": release_date,
-        "_score": (details.get("popularity") or 0) + (vote_avg * 4),
+        "_release_date": effective_date,
+        "_score": popularity + (vote_avg * 4),
     }
     if backdrop_path:
         meta["background"] = f"{IMG_BACKDROP}{backdrop_path}"
@@ -474,17 +576,32 @@ def fetch_series_meta(tmdb_id: int, overrides: dict, forced_category: str | None
     original_lang = details.get("original_language") or ""
     title = details.get("name") or details.get("original_name") or ""
     overview = details.get("overview") or ""
+    vote_count = details.get("vote_count") or 0
+    popularity = details.get("popularity") or 0
+    num_episodes = details.get("number_of_episodes") or 0
+    companies = details.get("production_companies") or []
     genre_ids = {g["id"] for g in (details.get("genres") or [])}
     keywords = {k["name"].lower() for k in ((details.get("keywords") or {}).get("results") or [])}
     combined = f"{title} {overview} {' '.join(keywords)}"
 
     if not forced_category:
-        # Strict gates: English only, aired/released only, Documentary only
         if original_lang != "en":
             return None
-        if status in {"Planned", "In Production", "Rumored"} or not first_air or first_air > TODAY:
+        if status in {"Planned", "In Production", "Rumored", "Pilot"} or not first_air or first_air > TODAY:
+            return None
+        if num_episodes < 1:
             return None
         if 99 not in genre_ids:
+            return None
+        if len(overview.strip()) < 40:
+            return None
+        if first_air < ONE_YEAR_AGO:
+            if vote_count < MIN_SERIES_VOTES_OLD:
+                return None
+        else:
+            if vote_count < MIN_RECENT_VOTES and popularity < 4.0:
+                return None
+        if is_unofficial_doc(title, overview, companies):
             return None
         if not has_music_relevance(genre_ids, keywords, combined):
             return None
@@ -525,7 +642,7 @@ def fetch_series_meta(tmdb_id: int, overrides: dict, forced_category: str | None
         "releaseInfo": release_info,
         "genres": ["Documentary", "Music", cat_labels.get(category, "Music")],
         "_release_date": first_air,
-        "_score": (details.get("popularity") or 0) + (vote_avg * 4),
+        "_score": popularity + (vote_avg * 4),
     }
     if backdrop_path:
         meta["background"] = f"{IMG_BACKDROP}{backdrop_path}"
@@ -541,26 +658,21 @@ def sort_and_clean(items: list[dict]) -> list[dict]:
         seen[item["id"]] = item
     unique = list(seen.values())
 
-    cutoff = (datetime.now(timezone.utc) - timedelta(days=540)).strftime("%Y-%m-%d")
-    recent = [m for m in unique if m.get("_release_date", "") >= cutoff]
-    older = [m for m in unique if m.get("_release_date", "") < cutoff]
+    # Strict newest-to-oldest sorting across the entire catalog
+    unique.sort(key=lambda x: (x.get("_release_date", ""), x.get("_score", 0)), reverse=True)
 
-    recent.sort(key=lambda x: x.get("_release_date", ""), reverse=True)
-    older.sort(key=lambda x: x.get("_score", 0), reverse=True)
-
-    combined = recent + older
     if MAX_ITEMS_PER_CATALOG:
-        combined = combined[:MAX_ITEMS_PER_CATALOG]
+        unique = unique[:MAX_ITEMS_PER_CATALOG]
 
-    for item in combined:
+    for item in unique:
         item.pop("_release_date", None)
         item.pop("_score", None)
-    return combined
+    return unique
 
 
 def main():
     overrides = load_overrides()
-    print(f"Discovering released English candidates from TMDB (up to {TODAY})...")
+    print(f"Discovering official, released English docs from TMDB (up to {TODAY})...")
     movie_ids, tv_ids = discover_candidates()
     print(f"Found {len(movie_ids)} candidate movies and {len(tv_ids)} candidate series.")
 
@@ -618,9 +730,9 @@ def main():
 
     manifest = {
         "id": "org.nuvio.rockmetalpunkdocs",
-        "version": "2.3.0",
+        "version": "2.4.0",
         "name": "Rock, Metal & Punk Documentaries",
-        "description": "Live auto-updating catalog of released English Genres/Eras, Rock, Metal, and Punk documentaries & docuseries.",
+        "description": "Live auto-updating catalog of official, released English Genres/Eras, Rock, Metal, and Punk documentaries & docuseries.",
         "resources": ["catalog"],
         "types": ["movie", "series", "other"],
         "idPrefixes": ["tt"],
