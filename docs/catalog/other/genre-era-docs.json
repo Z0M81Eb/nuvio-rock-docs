@@ -16,72 +16,20 @@
       "background": "https://image.tmdb.org/t/p/w1280/fI5A46pFe7di6SiqNvzBcraAO4X.jpg"
     },
     {
-      "id": "tt36591196",
+      "id": "tt32145747",
       "type": "movie",
-      "name": "Music Box: Counting Crows: Have You Seen Me Lately?",
-      "poster": "https://image.tmdb.org/t/p/w780/1WjKjXfJklBv0w4hvlOmocIUzJx.jpg",
+      "name": "New Wave",
+      "poster": "https://image.tmdb.org/t/p/w780/71YAX4RrThQEDSWzve1qUSYUUlt.jpg",
       "posterShape": "poster",
-      "description": "An intimate documentary chronicling the rise of the band Counting Crows and the unrelenting pressure that followed their breakout success. Centered on frontman Adam Duritz, the film explores the emotional aftermath of the band’s landmark studio album debut “August and Everything After” and the pressures and creative process of making their follow-up album “Recovering the Satellites.”",
-      "releaseInfo": "2025",
-      "runtime": "90 min",
-      "genres": [
-        "Documentary",
-        "Music",
-        "Genres & Eras"
-      ],
-      "background": "https://image.tmdb.org/t/p/w1280/edeeAj1hxHJWUSKO4M7fdvoISs2.jpg",
-      "imdbRating": "8.8"
-    },
-    {
-      "id": "tt10365912",
-      "type": "movie",
-      "name": "Becoming Led Zeppelin",
-      "poster": "https://image.tmdb.org/t/p/w780/zK67RUQeVXv01q6E1TnS4g3Hlw2.jpg",
-      "posterShape": "poster",
-      "description": "The individual journeys of the four members of the band, as they move through the music scene of the 1960s, playing small clubs throughout Britain and performing some of the biggest hits of the era, until their meeting in the summer of 1968 for a rehearsal that changes their lives forever.",
-      "releaseInfo": "2025",
-      "runtime": "122 min",
-      "genres": [
-        "Documentary",
-        "Music",
-        "Genres & Eras"
-      ],
-      "background": "https://image.tmdb.org/t/p/w1280/zjqvYpo7SZ23QI8GO77zRO68kEO.jpg",
-      "imdbRating": "7.4"
-    },
-    {
-      "id": "tt33058281",
-      "type": "movie",
-      "name": "Larger than Life: Reign of the Boybands",
-      "poster": "https://image.tmdb.org/t/p/w780/5qS0A5ORiF6t4Mcpaga1lwmTSa2.jpg",
-      "posterShape": "poster",
-      "description": "Highlights boy bands and their rise — and fall — to fame, from The Beatles to Jackson 5 to the Jonas Brothers and One Direction, as well as the K-pop group Seventeen.",
+      "description": "An endearingly nostalgic exploration of the defiant Vietnamese new wave music scene, as well as a vulnerable and personal look at the filmmaker and her community’s revisiting of their unexamined past.",
       "releaseInfo": "2024",
-      "runtime": "96 min",
+      "runtime": "88 min",
       "genres": [
         "Documentary",
         "Music",
         "Genres & Eras"
       ],
-      "background": "https://image.tmdb.org/t/p/w1280/6JKXlPMVBBIaMcGET8wJn1GrNQb.jpg",
-      "imdbRating": "7.5"
-    },
-    {
-      "id": "tt27736642",
-      "type": "movie",
-      "name": "Let the Canary Sing",
-      "poster": "https://image.tmdb.org/t/p/w780/teXcC9Rh6xVIBBvQQ924Oi9GRzN.jpg",
-      "posterShape": "poster",
-      "description": "A chronicle of Cyndi Lauper's meteoric ascent to stardom and her profound impact on generations through her music, ever-evolving punk style, unwavering feminism and tireless advocacy. This documentary takes the audience on an engaging  exploration of a renowned and pioneering artist who has left a remarkable legacy with her art.",
-      "releaseInfo": "2023",
-      "runtime": "99 min",
-      "genres": [
-        "Documentary",
-        "Music",
-        "Genres & Eras"
-      ],
-      "background": "https://image.tmdb.org/t/p/w1280/ucqQ4GzyGwWMfNNUyeSat2V79pf.jpg",
-      "imdbRating": "6.5"
+      "background": "https://image.tmdb.org/t/p/w1280/wB0KBxayKlwCXLrpCbZwhWlXu9P.jpg"
     },
     {
       "id": "tt10850264",
@@ -115,6 +63,23 @@
       ],
       "background": "https://image.tmdb.org/t/p/w1280/2K1qU488CD5beY0dPa3l0AJRqMi.jpg",
       "imdbRating": "7.3"
+    },
+    {
+      "id": "tt14966042",
+      "type": "movie",
+      "name": "The History of Metal and Horror",
+      "poster": "https://image.tmdb.org/t/p/w780/xpGo52T2ks9dISWnFackLhkjtx.jpg",
+      "posterShape": "poster",
+      "description": "A documentary that explores the history of heavy metal music, horror films, and how the two genres have merged together over time.",
+      "releaseInfo": "2021",
+      "runtime": "101 min",
+      "genres": [
+        "Documentary",
+        "Music",
+        "Genres & Eras"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/msre31rgxzabjmKNGoXSHhtWRMR.jpg",
+      "imdbRating": "5.0"
     },
     {
       "id": "tt15004156",
@@ -166,21 +131,19 @@
       "imdbRating": "6.1"
     },
     {
-      "id": "tt10541126",
+      "id": "tt16366384",
       "type": "movie",
-      "name": "Rockfield : The Studio on the Farm",
-      "poster": "https://image.tmdb.org/t/p/w780/yDvoCGyffTuznlbBWzMHoos7LY8.jpg",
+      "name": "Romantic Warriors IV: Krautrock (Part 2)",
+      "poster": "https://image.tmdb.org/t/p/w780/qfBf2BrmBEhJMbLAGaa56kGW57K.jpg",
       "posterShape": "poster",
-      "description": "50 years ago, deep in the Welsh countryside, two brothers were milking cows and preparing to take over the family farm but dreamed of making music. They had the audacious idea to build a studio in their farmhouse. Animals were kicked out of barns and musicians moved into Nan’s spare bedroom. Inadvertently, they’d launched the world’s first independent residential recording studio: Rockfield. Black Sabbath, Queen, Robert Plant, Iggy Pop, Simple Minds, The Stone Roses, Oasis, Coldplay and more made music and mayhem at Rockfield over the decades. This is their story of rock and roll dreams intertwined with a family business’s fight for survival in the face of an ever-changing music landscape.",
-      "releaseInfo": "2020",
-      "runtime": "91 min",
+      "description": "Romantic Warriors IV: Krautrock (Part 2) is the 2nd film of the Krautrock Trilogy, and explores eminent Krautrock bands from the South of Germany. Part 2 focuses on bands from Munich, Wiesbaden, Ulm, and Heidelberg, and highlights a more recent band from Aachen.",
+      "releaseInfo": "2021",
+      "runtime": "126 min",
       "genres": [
         "Documentary",
         "Music",
         "Genres & Eras"
-      ],
-      "background": "https://image.tmdb.org/t/p/w1280/vRYCqBxMV9bH5HLgI26b8xyA6kz.jpg",
-      "imdbRating": "7.0"
+      ]
     },
     {
       "id": "tt11017950",
@@ -199,21 +162,21 @@
       "imdbRating": "8.2"
     },
     {
-      "id": "tt10011448",
+      "id": "tt10191866",
       "type": "movie",
-      "name": "Linda Ronstadt: The Sound of My Voice",
-      "poster": "https://image.tmdb.org/t/p/w780/qesNFICo3d9oj044hXK5qHjmovI.jpg",
+      "name": "Murder in the Front Row: The San Francisco Bay Area Thrash Metal Story",
+      "poster": "https://image.tmdb.org/t/p/w780/lsVmolhCxoR10YRrJIltTjZTVZt.jpg",
       "posterShape": "poster",
-      "description": "With one of the most memorably stunning voices that has ever hit the airwaves, Linda Ronstadt burst onto the 1960s folk rock music scene in her early twenties.",
+      "description": "Murder In The Front Row: The San Francisco Bay Area Thrash Metal Story. In the early 1980’s, a small group of dedicated Bay Area headbangers shunned the hard rock of MTV and Hollywood hairspray bands in favor of a more dangerous brand of metal that became known as thrash! From the tape trading network to the clubs to the record stores and fanzines, director Adam Dubin reveals how the scene nurtured the music and the music spawned a movement.  Murder In The Front Row is told through powerful first person testimony and stunning animation and photography. The film is a social study of a group of young people defying the odds and building something essential for themselves.  Featuring interviews with Metallica, Megadeth, Slayer, Anthrax, Exodus, Testament, Death Angel, Possessed and many more! Narrated by Brian Posehn.",
       "releaseInfo": "2019",
-      "runtime": "95 min",
+      "runtime": "92 min",
       "genres": [
         "Documentary",
         "Music",
         "Genres & Eras"
       ],
-      "background": "https://image.tmdb.org/t/p/w1280/ciRQXaaxWkEOL6HE3zB4ILkYKCF.jpg",
-      "imdbRating": "7.6"
+      "background": "https://image.tmdb.org/t/p/w1280/o5hxa4ES8a2esehZMhqBnntAlIr.jpg",
+      "imdbRating": "7.3"
     },
     {
       "id": "tt9185816",
@@ -231,6 +194,21 @@
       ],
       "background": "https://image.tmdb.org/t/p/w1280/aXLcNxJI2JDdASNL6ZaNI0jWl2s.jpg",
       "imdbRating": "7.3"
+    },
+    {
+      "id": "tt11364054",
+      "type": "movie",
+      "name": "Romantic Warriors IV: Krautrock (Part I)",
+      "poster": "https://image.tmdb.org/t/p/w780/4TIiIqYbgWx2YgEk6vrDJoowjgS.jpg",
+      "posterShape": "poster",
+      "description": "The fourth in a series of feature-length documentaries about Progressive rock written and directed by Adele Schmidt and José Zegarra Holder.  Krautrock, Part 1 focuses on German progressive rock, popularly known as Krautrock, from in and around the Cologne, Düsseldorf, and Hamburg regions of Germany.  Artist featured include Kraftwerk, Neu, Can, Faust and others.",
+      "releaseInfo": "2019",
+      "runtime": "129 min",
+      "genres": [
+        "Documentary",
+        "Music",
+        "Genres & Eras"
+      ]
     },
     {
       "id": "tt9419282",
@@ -283,21 +261,20 @@
       "imdbRating": "6.9"
     },
     {
-      "id": "tt2531318",
-      "type": "movie",
-      "name": "The Beatles: Eight Days a Week - The Touring Years",
-      "poster": "https://image.tmdb.org/t/p/w780/A6q7Jy4vXgXXoCoHX4lpCaKvcMV.jpg",
+      "id": "tt5903288",
+      "type": "series",
+      "name": "The Evolution of Punk",
+      "poster": "https://image.tmdb.org/t/p/w780/ioWspaPvqNPomQaold2BmXuF64S.jpg",
       "posterShape": "poster",
-      "description": "The Beatles stormed through Europe's music scene in 1963, and, in 1964, they conquered America. Their groundbreaking world tours changed global youth culture forever and, arguably, invented mass entertainment as we know it today. All the while, the group were composing and recording a series of extraordinarily successful singles and albums. However the relentless pressure of such unprecedented fame, that in 1966 became uncontrollable turmoil, led to the decision to stop touring. In the ensuing years The Beatles were then free to focus on a series of albums that changed the face of recorded music.",
+      "description": "A 4-episode documentary series chronicling former professional wrestler Phil \"CM Punk\" Brooks as he trains for his debut fight in the UFC.",
       "releaseInfo": "2016",
-      "runtime": "106 min",
       "genres": [
         "Documentary",
         "Music",
         "Genres & Eras"
       ],
-      "background": "https://image.tmdb.org/t/p/w1280/2qQ93RRTwNv7aTL9fafT3sPAVAy.jpg",
-      "imdbRating": "7.5"
+      "background": "https://image.tmdb.org/t/p/w1280/4PN8dVMIV5IezjRAK26W3WmyK7c.jpg",
+      "imdbRating": "8.0"
     },
     {
       "id": "tt4024202",
@@ -334,21 +311,21 @@
       "imdbRating": "6.9"
     },
     {
-      "id": "tt3228830",
+      "id": "tt3830598",
       "type": "movie",
-      "name": "Super Duper Alice Cooper",
-      "poster": "https://image.tmdb.org/t/p/w780/A72W2mvQ5EZ4pzx96RjKyHYAfGJ.jpg",
+      "name": "Louder Than Hell: Wacken The Movie",
+      "poster": "https://image.tmdb.org/t/p/w780/vch1JZoqE2YsNpRLXcIrVp8qbR2.jpg",
       "posterShape": "poster",
-      "description": "Emerging from the Detroit music scene of the 1970s in a flurry of long hair and sequins, Alice Cooper restored hard rock with a sense of showmanship, while simultaneously striking fear into the hearts of Middle America with the chicken-slaughtering, dead-baby-eating theatrics that would cement his identity as a glam metal icon. Meticulously crafted from rare archival footage, Super Duper Alice Cooper tells the story of the man behind the makeup, Vincent Furnier, the son of a preacher, who got caught in the grip of his own monster.",
+      "description": "Wacken Open Air is the biggest 3-day-rock- and metal-festival in the world. It's three days of raw energy, non-stop Heavy Metal music at full blast and 80.000 fans on a party frenzy. A true legend, taking place annually since 1990 in the sleepy German country town of Wacken, it attracts fans from all over the world. It was released on 24th of December 2014 on dvd, blu ray and 3D blu ray.",
       "releaseInfo": "2014",
-      "runtime": "86 min",
+      "runtime": "96 min",
       "genres": [
         "Documentary",
         "Music",
         "Genres & Eras"
       ],
-      "background": "https://image.tmdb.org/t/p/w1280/w2ELcHBcIvbcXbtiGxEEJ5PiOBU.jpg",
-      "imdbRating": "7.1"
+      "background": "https://image.tmdb.org/t/p/w1280/haL7CaqK7r0KrSAHVmcvzsylWOn.jpg",
+      "imdbRating": "6.7"
     },
     {
       "id": "tt2492916",
@@ -385,6 +362,21 @@
       "imdbRating": "7.4"
     },
     {
+      "id": "tt2210236",
+      "type": "series",
+      "name": "Punk Britannia",
+      "poster": "https://image.tmdb.org/t/p/w780/99XZLafWlwLdrwWLuxVBypGtUrE.jpg",
+      "posterShape": "poster",
+      "description": "A brand new take on the most transformative force in British popular music history.",
+      "releaseInfo": "2012",
+      "genres": [
+        "Documentary",
+        "Music",
+        "Genres & Eras"
+      ],
+      "imdbRating": "7.5"
+    },
+    {
       "id": "tt1978940",
       "type": "series",
       "name": "Metal Evolution",
@@ -401,21 +393,69 @@
       "imdbRating": "8.1"
     },
     {
-      "id": "tt1721693",
+      "id": "tt3721692",
       "type": "movie",
-      "name": "The Promise: The Making of Darkness on the Edge of Town",
-      "poster": "https://image.tmdb.org/t/p/w780/wG4qC2nqIWN8rL3FrYWdCK8lRNC.jpg",
+      "name": "She's a Punk Rocker UK",
+      "poster": "https://image.tmdb.org/t/p/w780/voHDFzSSYv4hge0eh9twwTOoris.jpg",
       "posterShape": "poster",
-      "description": "The ninety-minute film combines never-before-seen footage of Springsteen and the E Street Band shot between 1976 and 1978—including home rehearsals and studio sessions — with new interviews with Springsteen, E Street Band members, manager Jon Landau, former-manager Mike Appel, and others closely involved in the making of the record.",
+      "description": "A documentary by and about women who were involved in the birth of punk.",
       "releaseInfo": "2010",
-      "runtime": "85 min",
+      "runtime": "59 min",
       "genres": [
         "Documentary",
         "Music",
         "Genres & Eras"
       ],
-      "background": "https://image.tmdb.org/t/p/w1280/zVYBLP5H9d3hZaBJIvoAsLyKZNF.jpg",
-      "imdbRating": "6.8"
+      "imdbRating": "6.1"
+    },
+    {
+      "id": "tt1615847",
+      "type": "movie",
+      "name": "Heavy Metal Britannia",
+      "poster": "https://image.tmdb.org/t/p/w780/vQMmPc7SG9Oa3dpX0PCeo9vESwH.jpg",
+      "posterShape": "poster",
+      "description": "Nigel Planer narrates a documentary which traces the origins and development of British heavy metal from its humble beginnings in the industrialised Midlands to its proud international triumph.  Contributors include Lemmy, Sabbath's Tony Iommi, Ian Gillan from Deep Purple, Judas Priest singer Rob Halford, Bruce Dickinson from Iron Maiden and Saxon's Biff Byford.",
+      "releaseInfo": "2010",
+      "runtime": "90 min",
+      "genres": [
+        "Documentary",
+        "Music",
+        "Genres & Eras"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/gDf5x4s3WzcSIF2VVz7dnmukcfD.jpg",
+      "imdbRating": "7.1"
+    },
+    {
+      "id": "tt2181804",
+      "type": "movie",
+      "name": "Philippine New Wave: This Is Not a Film Movement",
+      "poster": "https://image.tmdb.org/t/p/w780/fTpUnDQa8bvQmRn4pRWvvSsNVzS.jpg",
+      "posterShape": "poster",
+      "description": "Documentary profiling the directors involved in the loose Philippine New Wave filmmaking movement.",
+      "releaseInfo": "2010",
+      "runtime": "75 min",
+      "genres": [
+        "Documentary",
+        "Music",
+        "Genres & Eras"
+      ],
+      "imdbRating": "4.8"
+    },
+    {
+      "id": "tt2033290",
+      "type": "movie",
+      "name": "Krautrock: The Rebirth of Germany",
+      "poster": "https://image.tmdb.org/t/p/w780/chOCRuMHLPxlEVGzb2pPecAaTX1.jpg",
+      "posterShape": "poster",
+      "description": "Documentary which looks at how a radical generation of musicians created a new German musical identity out of the cultural ruins of war.",
+      "releaseInfo": "2009",
+      "runtime": "58 min",
+      "genres": [
+        "Documentary",
+        "Music",
+        "Genres & Eras"
+      ],
+      "imdbRating": "7.2"
     },
     {
       "id": "tt1658487",
@@ -435,6 +475,39 @@
       "imdbRating": "7.8"
     },
     {
+      "id": "tt1356407",
+      "type": "movie",
+      "name": "Prog Rock Britannia",
+      "poster": "https://image.tmdb.org/t/p/w780/EHgcmvqU1YFYJUsIvVFGnU8isw.jpg",
+      "posterShape": "poster",
+      "description": "Overview of Prog Rock history in the UK:  Documentary about progressive music and the generation of bands that were involved, from the international success stories of Yes, Genesis, ELP, King Crimson and Jethro Tull to the trials and tribulations of lesser-known bands such as Caravan and Egg.",
+      "releaseInfo": "2009",
+      "runtime": "89 min",
+      "genres": [
+        "Documentary",
+        "Music",
+        "Genres & Eras"
+      ],
+      "imdbRating": "7.6"
+    },
+    {
+      "id": "tt1014809",
+      "type": "movie",
+      "name": "Until the Light Takes Us",
+      "poster": "https://image.tmdb.org/t/p/w780/sPg2fepwnhGzhRbVZ7bYoneOYaK.jpg",
+      "posterShape": "poster",
+      "description": "Chronicles the history, ideology and aesthetic of Norwegian black metal, a musical subculture infamous as much for a series of murders and church arsons as it is for its unique musical and visual aesthetics. This is the first film to truly shed light on a movement that has heretofore been shrouded by rumor and obscured by inaccurate and shallow depictions. Featuring exclusive interviews with the musicians themselves, Until the Light Takes Us explores every aspect of the controversial movement that has captured the attention of the world.",
+      "releaseInfo": "2008",
+      "runtime": "93 min",
+      "genres": [
+        "Documentary",
+        "Music",
+        "Genres & Eras"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/tTOYeamnYF9K0u7y1yj209H6Nad.jpg",
+      "imdbRating": "6.8"
+    },
+    {
       "id": "tt1249171",
       "type": "movie",
       "name": "Global Metal",
@@ -452,21 +525,38 @@
       "imdbRating": "7.3"
     },
     {
-      "id": "tt0965382",
+      "id": "tt1346294",
       "type": "movie",
-      "name": "Tom Petty and the Heartbreakers: Runnin' Down a Dream",
-      "poster": "https://image.tmdb.org/t/p/w780/9mdIZkWQ1rGy3pTTDOHzx6DhY5X.jpg",
+      "name": "Once Upon a Time in Norway",
+      "poster": "https://image.tmdb.org/t/p/w780/jy6ASb7JPllJrCw0p6mlK904bM3.jpg",
       "posterShape": "poster",
-      "description": "Directed by Peter Bogdanovich and packed with rare concert footage and home movies, this documentary explores the history of Tom Petty and the Heartbreakers, including Petty's famous collaborations and notorious clashes with the record industry. Interviews with musical luminaries including Jackson Browne, George Harrison, Eddie Vedder, Roger McGuinn, Jeff Lynne, Dave Stewart and Petty himself shed some revelatory vision.",
+      "description": "Interviews with central members of early Norwegian black metal bands about Mayhem, the early black metal scene and the crimes they committed.",
       "releaseInfo": "2007",
-      "runtime": "239 min",
+      "runtime": "60 min",
       "genres": [
         "Documentary",
         "Music",
         "Genres & Eras"
       ],
-      "background": "https://image.tmdb.org/t/p/w1280/ybP8SRS6Xo90aKcnkbUQDZskjUB.jpg",
-      "imdbRating": "7.7"
+      "background": "https://image.tmdb.org/t/p/w1280/dKWTqlnDbGZ8nAqu0xGRHGf1Y3o.jpg",
+      "imdbRating": "6.8"
+    },
+    {
+      "id": "tt1092007",
+      "type": "movie",
+      "name": "Heavy Metal in Baghdad",
+      "poster": "https://image.tmdb.org/t/p/w780/q4WyjByJ0I2PNNekP3FURuxgfiV.jpg",
+      "posterShape": "poster",
+      "description": "The story of Iraq's only heavy metal band and their fight to play music.",
+      "releaseInfo": "2007",
+      "runtime": "84 min",
+      "genres": [
+        "Documentary",
+        "Music",
+        "Genres & Eras"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/jma7KVMAm4FeMwlC07hAbMNElh.jpg",
+      "imdbRating": "7.3"
     },
     {
       "id": "tt1912155",
@@ -483,6 +573,23 @@
       ],
       "background": "https://image.tmdb.org/t/p/w1280/zV6vpnJDsyNLUehGOsFGyqDdYW2.jpg",
       "imdbRating": "9.2"
+    },
+    {
+      "id": "tt0780524",
+      "type": "movie",
+      "name": "Get Thrashed",
+      "poster": "https://image.tmdb.org/t/p/w780/hl3c0l9jeEe6hZSZOG4mBaXPk8T.jpg",
+      "posterShape": "poster",
+      "description": "Get Thrashed traces the rise, fall and impact of thrash metal; from its early years, through its influence on grunge, nu metal and today's heavy metal scene. It is the story of the heaviest, hardest music of the 80s and early 90s as told by the bands who lived it, the fans and bands that grew up on it and by the artists that carry the \"thrash metal\" flag today.",
+      "releaseInfo": "2006",
+      "runtime": "100 min",
+      "genres": [
+        "Documentary",
+        "Music",
+        "Genres & Eras"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/5OCyFTkimdTef3Y3S6MbuTJyNMo.jpg",
+      "imdbRating": "7.0"
     },
     {
       "id": "tt0419434",
@@ -553,38 +660,53 @@
       "imdbRating": "6.3"
     },
     {
-      "id": "tt0387412",
-      "type": "movie",
-      "name": "Metallica: Some Kind of Monster",
-      "poster": "https://image.tmdb.org/t/p/w780/pnsRHqjrYbVUJXsPIDNsKV7gRmc.jpg",
+      "id": "tt0488359",
+      "type": "series",
+      "name": "The History of Norwegian Rock Music",
+      "poster": "https://image.tmdb.org/t/p/w780/mnDO9Pf0DuhDtpsVJIcr0AFo4qj.jpg",
       "posterShape": "poster",
-      "description": "After bassist Jason Newsted quits the band in 2001, heavy metal superstars Metallica realize that they need an intervention. In this revealing documentary, filmmakers follow the three rock stars as they hire a group therapist and grapple with 20 years of repressed anger and aggression. Between searching for a replacement bass player, creating a new album and confronting their personal demons, the band learns to open up in ways they never thought possible.",
+      "description": "«Norsk Rocks Historie» is a Norwegian documentary series about the history of rock'n'roll music in Norway.",
       "releaseInfo": "2004",
-      "runtime": "140 min",
       "genres": [
         "Documentary",
         "Music",
         "Genres & Eras"
       ],
-      "background": "https://image.tmdb.org/t/p/w1280/kVlnObukrKh1vyAuLyHGdsCxJNH.jpg",
-      "imdbRating": "7.1"
+      "background": "https://image.tmdb.org/t/p/w1280/yFutZyXfT9wVYOOPZyRcy8amZiL.jpg",
+      "imdbRating": "7.5"
     },
     {
-      "id": "tt0431849",
+      "id": "tt0465500",
       "type": "movie",
-      "name": "Classic Albums: Judas Priest - British Steel",
-      "poster": "https://image.tmdb.org/t/p/w780/6XdV94o0rfmTw1OinSbGRv2g0ZC.jpg",
+      "name": "The Howlin' Wolf Story: The Secret History of Rock & Roll",
+      "poster": "https://image.tmdb.org/t/p/w780/iVtDwLlHBo9t4e5frfck14Cn8Y4.jpg",
       "posterShape": "poster",
-      "description": "Had Judas Priest released just this one album, it would still go down in history. Judas Priest was one of the most influential heavy metal bands of the 70's. BRITISH STEEL made them a world-famous band. The welding of BRITISH STEEL is told in this exclusive program in the band's own words, and by their once long-term producer Tom Allom. Featuring archive footage, interviews and rare live performances, plus all of BRITISH STEEL'S finest songs, including \"Living After Midnight\", \"Breaking the Law\", \"Metal Gods\", \"The Rage\", \"United\" and \"Grinder\", this is a compelling, witty and exhilarating look at the making of one of heavy metal's most artful creations, a true Classic!",
-      "releaseInfo": "2001",
-      "runtime": "110 min",
+      "description": "Arguably second only to Muddy Waters among the Mississippi Delta singers who traveled north and pioneered urban electric blues (their supposed rivalry is the subject of one of this DVD's bonus features), Wolf was a big, imposing man with an inimitable, booming voice and a lasting influence on generations of rock &amp; rollers--all of which comes across in the 90-minute film.",
+      "releaseInfo": "2003",
+      "runtime": "88 min",
       "genres": [
         "Documentary",
         "Music",
         "Genres & Eras"
       ],
-      "background": "https://image.tmdb.org/t/p/w1280/1Dusc0hcQZzUrd9uEx0WeiAdnaQ.jpg",
-      "imdbRating": "6.2"
+      "imdbRating": "6.8"
+    },
+    {
+      "id": "tt0372279",
+      "type": "movie",
+      "name": "Festival Express",
+      "poster": "https://image.tmdb.org/t/p/w780/5ehULJQMNCdASy2i7jaTbcIvQKA.jpg",
+      "posterShape": "poster",
+      "description": "The filmed account of a large Canadian rock festival train tour boasting major acts.  In the summer of 1970, a chartered train crossed Canada carrying some of the world's greatest rock bands. The Grateful Dead, Janis Joplin, The Band, Buddy Guy, and others lived (and partied) together for five days, stopping in major cities along the way to play live concerts. Their journey was filmed.",
+      "releaseInfo": "2003",
+      "runtime": "90 min",
+      "genres": [
+        "Documentary",
+        "Music",
+        "Genres & Eras"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/ltI7NLGZB5TR0C9zdCW2BEMiVGr.jpg",
+      "imdbRating": "7.1"
     },
     {
       "id": "tt0138393",
@@ -604,6 +726,23 @@
       "imdbRating": "6.9"
     },
     {
+      "id": "tt0116589",
+      "type": "movie",
+      "name": "Hype!",
+      "poster": "https://image.tmdb.org/t/p/w780/vfR9veCwZMZXfpCF5QlnaLFoSr1.jpg",
+      "posterShape": "poster",
+      "description": "This documentary examines the Seattle scene as it became the focus of a merging of punk rock, heavy metal, and innovation. Building from the grass roots, self-promoted and self-recorded until break-out success of bands like Nirvana brought the record industry to the Pacific Northwest, a phenomenon was born.",
+      "releaseInfo": "1996",
+      "runtime": "84 min",
+      "genres": [
+        "Documentary",
+        "Music",
+        "Genres & Eras"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/8Z862TpwD0c9S0jWMG1Z69x3Y7F.jpg",
+      "imdbRating": "7.4"
+    },
+    {
       "id": "tt5278426",
       "type": "series",
       "name": "The History of Rock 'n' Roll",
@@ -619,21 +758,21 @@
       "imdbRating": "10.0"
     },
     {
-      "id": "tt0103595",
+      "id": "tt32567899",
       "type": "movie",
-      "name": "1991: The Year Punk Broke",
-      "poster": "https://image.tmdb.org/t/p/w780/nDWYYzzfBUeWQhWowEAExqwGbyv.jpg",
+      "name": "Nine Inch Nails: Woodstock 94",
+      "poster": "https://image.tmdb.org/t/p/w780/xS9Y4OcyrSfnuxqqWuWbh5w4xQL.jpg",
       "posterShape": "poster",
-      "description": "David Markey's documentary of life on the road with Sonic Youth and Nirvana during their tour of Europe in late 1991. Also featuring live performances by Dinosaur Jr, Babes in Toyland, The Ramones and Gumball.",
-      "releaseInfo": "1992",
-      "runtime": "98 min",
+      "description": "Nine Inch Nails’ mud soaked Woodstock '94 performance.  A memorable and chaotic show featuring power outages, mud-covered crowd members, and a setlist with Trent Reznor's intense energy on display. Despite technical difficulties and the challenging conditions, the band managed to deliver a raw and electrifying performance that has become legendary in music history.",
+      "releaseInfo": "1994",
+      "runtime": "81 min",
       "genres": [
         "Documentary",
         "Music",
         "Genres & Eras"
       ],
-      "background": "https://image.tmdb.org/t/p/w1280/d6MIFNVaf3Z0rQHJfrlta6pb9fT.jpg",
-      "imdbRating": "6.8"
+      "background": "https://image.tmdb.org/t/p/w1280/eDlU5atNVHoEI7zJaepWNGWUOsQ.jpg",
+      "imdbRating": "9.5"
     },
     {
       "id": "tt0094980",

@@ -18,21 +18,103 @@
       "imdbRating": "8.0"
     },
     {
-      "id": "tt21870816",
+      "id": "tt29268559",
       "type": "movie",
-      "name": "Billy Idol Should Be Dead",
-      "poster": "https://image.tmdb.org/t/p/w780/oWFfPpVkNhhUSvfH69uR1iPyPAk.jpg",
+      "name": "I Was a Teenage Sex Pistol",
+      "poster": "https://image.tmdb.org/t/p/w780/o8QZlW1h57xgNajlw7AzyO6bGMo.jpg",
       "posterShape": "poster",
-      "description": "Punk legend turned pop sensation Billy Idol bares it all in this electrifying documentary, revealing his rise to fame, battle with addiction and triumphant comeback that captivated millions of fans worldwide.",
+      "description": "Experience the Pistols' rise to global infamy with an honest, insightful account of a group of malcontents, determined to change the music business and to attack hypocrisy and stale conventions in society at large. Based off the novel written by Glen Matlock, one of the founding members of the Sex Pistols who co-wrote ten of twelve iconic songs on their only studio album, NEVER MIND THE BOLLOCKS. Glen describes in detail the mindset of the UK in the early 70's and divulges a mine of information; Steve's thievery, Wally Nightingale, the search for a singer, the exploding punk scene and a bleak backdrop providing a contrast to the excitement and energy of McLaren's shop. The public will now have a chance to hear the story, not just from a member of the band, but also from a man who had his contributions exceptionally downplayed.",
       "releaseInfo": "2026",
-      "runtime": "118 min",
+      "runtime": "80 min",
       "genres": [
         "Documentary",
         "Music",
         "Punk"
       ],
-      "background": "https://image.tmdb.org/t/p/w1280/yDwaf1LUyJnZf48XMfm0gJWhqb.jpg",
-      "imdbRating": "6.9"
+      "background": "https://image.tmdb.org/t/p/w1280/tllzCV6zHJajsU0OtfExcgziN8O.jpg",
+      "imdbRating": "7.5"
+    },
+    {
+      "id": "tt15180340",
+      "type": "movie",
+      "name": "Something Divine",
+      "poster": "https://image.tmdb.org/t/p/w780/qzQam4WIlNy0Jlk7dkdtxG6OM9y.jpg",
+      "posterShape": "poster",
+      "description": "Ray Cappo lead singer of the straightedge hardcore band Youth of Today at the height of their growing popularity, leaves the band and goes to India. Ray becomes the monk Raghunath. What follows is the confluence of two worlds coming together. Hardcore punk and spirituality. Something Divine is a pilgrimage through the holy cites of India and concert halls in America. The film highlights the connection between people of very different backgrounds coming together through self-discovery, spirituality, music, the desire to grow and transform themselves personally.",
+      "releaseInfo": "2026",
+      "runtime": "78 min",
+      "genres": [
+        "Documentary",
+        "Music",
+        "Punk"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/l02ioUGH86BvwY82Py3A7sQlr0h.jpg"
+    },
+    {
+      "id": "tt12585288",
+      "type": "movie",
+      "name": "The Big Johnson",
+      "poster": "https://image.tmdb.org/t/p/w780/b2N7arsRkNbleaXgZ6MnzE8mNff.jpg",
+      "posterShape": "poster",
+      "description": "Dean Johnson, drag queen, rock star, LGBTQI activist, junkie, genius, escort then John Doe. How does someone so famous in New York die as an unknown in DC? This documentary explores the incredible highs and the crushing lows of Dean Johnson’s life and untimely death. Was it murder? Was it an accident? We may never know, but what is certain is that Dean and “the Big Johnson” changed New York City and all who knew him forever.",
+      "releaseInfo": "2026",
+      "runtime": "95 min",
+      "genres": [
+        "Documentary",
+        "Music",
+        "Punk"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/mu4ZPLyzXFQI5o9ueevDngJUVDK.jpg",
+      "imdbRating": "6.0"
+    },
+    {
+      "id": "tt22941170",
+      "type": "movie",
+      "name": "CFNY: The Spirit of Radio",
+      "poster": "https://image.tmdb.org/t/p/w780/n9UTrNgrgS12XRxW2HL9oOY3kXe.jpg",
+      "posterShape": "poster",
+      "description": "In 1976, radio station CFNY 102.1FM went on the air, broadcast live from a modest suburban house just north of Toronto, and went on to become one of the most influential punk, new wave and alternative radio stations in the world. This is the story of their mission to bring the most exciting music in the world to the masses. It's also a story of the personalities, lawsuits, bankruptcies, concerts, and listener protests that went along with it.",
+      "releaseInfo": "2026",
+      "runtime": "86 min",
+      "genres": [
+        "Documentary",
+        "Music",
+        "Punk"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/oThZFxbmEKAjiEnJCo81cxkykFV.jpg",
+      "imdbRating": "8.5"
+    },
+    {
+      "id": "tt22754562",
+      "type": "movie",
+      "name": "Punk Rock Lottery",
+      "poster": "https://image.tmdb.org/t/p/w780/yaAEvTDtJjamZJHsmEsKjU5FCrT.jpg",
+      "posterShape": "poster",
+      "description": "Directed by Jacob Miguel, \"PUNK ROCK LOTTERY\" embarks on a mission to capture the rapid growth of an annual event known as \"The Punk Rock Lottery\" in Austin, Texas. What sets this film apart is its self-awareness, playfully breaking the fourth wall and transforming into an immersive journey through history and the creative process. The narrative builds its foundation by featuring insights from punk legends and influential figures who helped shape both the film and Austin itself.  As the story unfolds, it delves into the heart of the project as Jacob actively participates in the event, offering an inside look at the frenetic pace of life in a band. Through the experiences of over 30 characters, the film uncovers universal truths about creativity, camaraderie, and the struggles inherent in pursuing one's artistic passion.",
+      "releaseInfo": "2025",
+      "runtime": "90 min",
+      "genres": [
+        "Documentary",
+        "Music",
+        "Punk"
+      ]
+    },
+    {
+      "id": "tt37542725",
+      "type": "movie",
+      "name": "YUNGBLUD. Are You Ready, Boy?",
+      "poster": "https://image.tmdb.org/t/p/w780/gsL4h1clfb6boFPi0Q8MR97oauw.jpg",
+      "posterShape": "poster",
+      "description": "Ahead of releasing 'Idols', his most personal album to date, and before anyone had heard a note, Yungblud and his touring family travelled to Berlin, where he would perform and record these brand new songs live for the very first time. A personal journey of change, confidence and rock-and-roll chaos, set against a city that has always celebrated counterculture and creativity, this is a revealing and uncompromising documentary about a generational artist finding his own voice.",
+      "releaseInfo": "2025",
+      "runtime": "120 min",
+      "genres": [
+        "Documentary",
+        "Music",
+        "Punk"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/4cEZKTP5Sn54ABmeakowqWTsWgR.jpg",
+      "imdbRating": "7.0"
     },
     {
       "id": "tt37090900",
@@ -50,6 +132,108 @@
       ],
       "background": "https://image.tmdb.org/t/p/w1280/oFSFYDEPpNJAWWPPFPS1j2g1Xgc.jpg",
       "imdbRating": "8.0"
+    },
+    {
+      "id": "tt15740890",
+      "type": "movie",
+      "name": "My Way",
+      "poster": "https://image.tmdb.org/t/p/w780/8PZTdb1gj8b6BVo54yvITotF56z.jpg",
+      "posterShape": "poster",
+      "description": "My Way is more than a song, it's a major score that has crossed the boundaries of eras and generations. An anthem that has become a part of ourselves and of music history. My Way is one of the most covered songs in the world, from Sid Vicious to Tom Jones, from Nina Simone to Pavarotti. Yet many people are unaware that it was conceived in France, by the pool of Claude François' private hotel, in the summer of 1967, and that a succession of chance encounters and sleepless nights guided it across the Atlantic to the man who was to make it a legend. Like a biopic, this documentary recounts the birth of a myth and how a song entered the pantheon of pop culture.",
+      "releaseInfo": "2024",
+      "runtime": "90 min",
+      "genres": [
+        "Documentary",
+        "Music",
+        "Punk"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/iJXKkKYWspXejH32ZqmlmzSz9bO.jpg",
+      "imdbRating": "7.8"
+    },
+    {
+      "id": "tt34544350",
+      "type": "movie",
+      "name": "Green Day: 20 Years of American Idiot",
+      "poster": "https://image.tmdb.org/t/p/w780/epoXq5CjviVQFZ4Epr0BBZEmWqM.jpg",
+      "posterShape": "poster",
+      "description": "A celebration of the 20th anniversary of the punk band's bestselling and award-winning seventh studio album.",
+      "releaseInfo": "2024",
+      "runtime": "110 min",
+      "genres": [
+        "Documentary",
+        "Music",
+        "Punk"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/7nEUAywnhkHNPWnAjgs8TRy9Mw3.jpg",
+      "imdbRating": "5.8"
+    },
+    {
+      "id": "tt28452303",
+      "type": "movie",
+      "name": "Mutiny in Heaven: The Birthday Party",
+      "poster": "https://image.tmdb.org/t/p/w780/iSvYbFepgTTVC5YqvMQlLqQrnUT.jpg",
+      "posterShape": "poster",
+      "description": "The thrilling, debauched and frequently hilarious adventures of the legendary Melbourne post-punk band, in their own words.",
+      "releaseInfo": "2023",
+      "runtime": "99 min",
+      "genres": [
+        "Documentary",
+        "Music",
+        "Punk"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/l02HTK0FlfrxptQ75M2OIqKeCVz.jpg",
+      "imdbRating": "5.9"
+    },
+    {
+      "id": "tt27736642",
+      "type": "movie",
+      "name": "Let the Canary Sing",
+      "poster": "https://image.tmdb.org/t/p/w780/teXcC9Rh6xVIBBvQQ924Oi9GRzN.jpg",
+      "posterShape": "poster",
+      "description": "A chronicle of Cyndi Lauper's meteoric ascent to stardom and her profound impact on generations through her music, ever-evolving punk style, unwavering feminism and tireless advocacy. This documentary takes the audience on an engaging  exploration of a renowned and pioneering artist who has left a remarkable legacy with her art.",
+      "releaseInfo": "2023",
+      "runtime": "99 min",
+      "genres": [
+        "Documentary",
+        "Music",
+        "Punk"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/ucqQ4GzyGwWMfNNUyeSat2V79pf.jpg",
+      "imdbRating": "6.5"
+    },
+    {
+      "id": "tt19357116",
+      "type": "movie",
+      "name": "Nightclubbing: The Birth of Punk Rock in NYC",
+      "poster": "https://image.tmdb.org/t/p/w780/sSthWt0Mcy2167JqGKzmfbMHwc.jpg",
+      "posterShape": "poster",
+      "description": "Documentary about the legendary nightclub Max's Kansas City and the New York Rock Scene of the 70s.",
+      "releaseInfo": "2023",
+      "runtime": "85 min",
+      "genres": [
+        "Documentary",
+        "Music",
+        "Punk"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/iDRjx40PZ1AdvC9V67jLz2DJwQc.jpg",
+      "imdbRating": "5.8"
+    },
+    {
+      "id": "tt23709132",
+      "type": "movie",
+      "name": "Punk Rock Vegan Movie",
+      "poster": "https://image.tmdb.org/t/p/w780/nGc8hvmndIBxmpImJbw6JOgpUOv.jpg",
+      "posterShape": "poster",
+      "description": "The ongoing relationship between the worlds of punk rock and animal rights and how the music became a breeding ground for vegan activism.",
+      "releaseInfo": "2023",
+      "runtime": "91 min",
+      "genres": [
+        "Documentary",
+        "Music",
+        "Punk"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/o0RrJ2sgsapCDbiiFRZVZKgtPUc.jpg",
+      "imdbRating": "6.0"
     },
     {
       "id": "tt15095920",
@@ -103,6 +287,57 @@
       "imdbRating": "6.1"
     },
     {
+      "id": "tt11777998",
+      "type": "movie",
+      "name": "Analog Love",
+      "poster": "https://image.tmdb.org/t/p/w780/dVhiVzA7LPE6ikbKeNAva8aHy8r.jpg",
+      "posterShape": "poster",
+      "description": "Do you remember sharing your feelings with someone through a “mix tape?” Analog Love is a joyful look at why this ritual of communication through music still continues to be so meaningful. With the insights of Henry Rollins, Money Mark (Beastie Boys), Kim Shattuck (The Muffs), Jennifer Finch (L7), Chantal Claret, Jude “Rude Jude” Angelini, Zernell Gillie (Grimy!), Mona Lisa Murray, Christian James Hand (The Session) and many more, we’ll get to the bottom of the long-lost art of the mix tape.​",
+      "releaseInfo": "2021",
+      "runtime": "86 min",
+      "genres": [
+        "Documentary",
+        "Music",
+        "Punk"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/yczPjCJC7Sbs6zrWZSCRNXfcybl.jpg",
+      "imdbRating": "6.0"
+    },
+    {
+      "id": "tt14609710",
+      "type": "movie",
+      "name": "Skating Polly: Ugly Pop",
+      "poster": "https://image.tmdb.org/t/p/w780/hGaRomb70EpmoBlduMXYk3rJhqj.jpg",
+      "posterShape": "poster",
+      "description": "Peyton Bighorse and Kelli Mayo are stepsisters from Oklahoma who founded their band, Skating Polly, in 2009 at the ages of 14 and 9 respectively. They call their style of music \"Ugly Pop\": building on the sounds of 70s Punk, early Grunge, and Folk, resulting in infectious melodies, but with real-life blemishes still showing.  This fascinating in-depth documentary explores the early years of Skating Polly as Peyton and Kelli get their first taste of success, and try to stay true to themselves and their love of music. We see the two grow as people and musicians, and hear how they became the band they are today. Their earnestness throughout is refreshing and inspiring. Featuring Donita Sparks (L7), Kate Nash, SoKo, Lori Barbero (Babes in Toyland), Kat Bjelland (Babes in Toyland), and many more…",
+      "releaseInfo": "2021",
+      "runtime": "109 min",
+      "genres": [
+        "Documentary",
+        "Music",
+        "Punk"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/52KrJZtTpZDxOXq5PnpaYD9uZu0.jpg",
+      "imdbRating": "10.0"
+    },
+    {
+      "id": "tt11394468",
+      "type": "movie",
+      "name": "The Go-Go's",
+      "poster": "https://image.tmdb.org/t/p/w780/c5bktp3aUDplX9xCPrPrKxwOnVY.jpg",
+      "posterShape": "poster",
+      "description": "As the first all-female band to play their instruments, write their songs and have a No. 1 album, The Go-Go’s made history. Underpinned by candid testimonies, this film chronicles the meteoric rise to fame of a band born in the LA punk scene who became a pop phenomenon.",
+      "releaseInfo": "2021",
+      "runtime": "97 min",
+      "genres": [
+        "Documentary",
+        "Music",
+        "Punk"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/2QDgTgyfjDzEsbhzXYeDyGDzqLf.jpg",
+      "imdbRating": "6.8"
+    },
+    {
       "id": "tt7206446",
       "type": "movie",
       "name": "Poly Styrene: I Am a Cliché",
@@ -137,6 +372,102 @@
       "imdbRating": "8.0"
     },
     {
+      "id": "tt11655140",
+      "type": "movie",
+      "name": "American Rapstar",
+      "poster": "https://image.tmdb.org/t/p/w780/n9cU50Y7c6wAgvwgXGoTySa9daa.jpg",
+      "posterShape": "poster",
+      "description": "A new scene of troubled, lo-fi young rappers have emerged from Trump’s America, utilizing the SoundCloud streaming platform to quickly become the most culturally disruptive force in hip hop, shocking the world with their rambunctious antics, prescription drug use, facial tattoos, and rebellious punk energy. What do these newly minted millionaire artists say about the state of youth culture today and the future of the music streaming economy? We examine the SoundCloud rap scene’s biggest stars from within the culture as well placing them in the broader musical context in an attempt to understand how we arrived here and where we are headed.",
+      "releaseInfo": "2020",
+      "runtime": "81 min",
+      "genres": [
+        "Documentary",
+        "Music",
+        "Punk"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/xeroM1szQwWKcLlicE09jG880ZP.jpg",
+      "imdbRating": "6.5"
+    },
+    {
+      "id": "tt24744376",
+      "type": "movie",
+      "name": "Punk and New Wave Years with Annie Nightingale",
+      "poster": "https://image.tmdb.org/t/p/w780/qJVBMPZrr5U8moM7SbSvMzQyDLb.jpg",
+      "posterShape": "poster",
+      "description": "The programme includes The Damned’s set-smashing performance on The Old Grey Whistle Test and the Sex Pistols' anarchic trip on the Thames. It also features powerful live performances from Iggy Pop, Patti Smith, Gang of Four, Linton Kwesi Johnson, Tubeway Army, Ian Dury and the Blockheads, Siouxsie and the Banshees, Soft Cell, The Selecter, Joy Division and the Au Pairs. In addition, there are gems from The New York Dolls, The Fall, Blondie, Pete Shelley, The Police, Devo, X-Ray Spex, Klaus Nomi, Laurie Anderson and many more.",
+      "releaseInfo": "2020",
+      "runtime": "59 min",
+      "genres": [
+        "Documentary",
+        "Music",
+        "Punk"
+      ],
+      "imdbRating": "2.0"
+    },
+    {
+      "id": "tt10451082",
+      "type": "movie",
+      "name": "King Rocker",
+      "poster": "https://image.tmdb.org/t/p/w780/dHQ3OFnFNWHUawGPNJJONKHQpA5.jpg",
+      "posterShape": "poster",
+      "description": "How does a working class autodidact, with no visible means of support, maintain his role as the leader of a cult British underground band into its fifth decade? Comedian and writer Stewart Lee, director Michael Cumming and James Nicholls investigate the mysterious existence of Robert Lloyd, Britain’s ultimate post-punk survivor.  Robert Lloyd’s Prefects played with The Clash on the White Riot tour in 1977, and their ongoing incarnation, as Birmingham’s Captain Beefheart suffused post-punk poets The Nightingales, recorded more John Peel sessions than any other band. Ever.  But what were the social, cultural and economic circumstances that enabled and sustained such outsider artists in the punk and post-punk eras, and how has the world changed to the point where such figures are unlikely to flourish in the same way today? Lloyd’s own odyssey echoes how abstract notions of social mobility, of the value of culture and music, have changed in the last five decades.",
+      "releaseInfo": "2020",
+      "runtime": "90 min",
+      "genres": [
+        "Documentary",
+        "Music",
+        "Punk"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/7TWBsL9n24rBZcA8zjgqoQsiLSS.jpg",
+      "imdbRating": "7.6"
+    },
+    {
+      "id": "tt21001958",
+      "type": "series",
+      "name": "Minnesota Hardcore",
+      "poster": "https://image.tmdb.org/t/p/w780/9Uj1HGMSAx7Y9gwQMEjyn1NMYWi.jpg",
+      "posterShape": "poster",
+      "description": "A fast-paced, musical docu-series that examines the punk scene in the Twin Cities from 1980 to 1985. The Minnesota scene was a close-knit community of artists and fans that encouraged culture and spawned huge talents like Hüsker Dü, The Replacements, Soul Asylum, Rifle Sport and more. Minnesota Hardcore is made possible by the Arts and Cultural Heritage Fund and the citizens of Minnesota.",
+      "releaseInfo": "2020",
+      "genres": [
+        "Documentary",
+        "Music",
+        "Punk"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/zy3B8PYtoK1sYrMnNukpizFkG4i.jpg"
+    },
+    {
+      "id": "tt12922778",
+      "type": "movie",
+      "name": "You Don't Know Ivan Julian",
+      "poster": "https://image.tmdb.org/t/p/w780/6Hl4PJbcgKvAhoMwXTsarQsGlxc.jpg",
+      "posterShape": "poster",
+      "description": "Since the inception of punk rock in New York, Ivan Julian has enjoyed a long and storied career as one of rock's most innovative guitarists. \"You Don't Know Ivan Julian\" invites us to an intimate exploration of his creative process, his noteworthy collaborations and his life's many highs and lows.",
+      "releaseInfo": "2020",
+      "runtime": "53 min",
+      "genres": [
+        "Documentary",
+        "Music",
+        "Punk"
+      ]
+    },
+    {
+      "id": "tt13129218",
+      "type": "movie",
+      "name": "This Film Should Not Exist",
+      "poster": "https://image.tmdb.org/t/p/w780/omQ9MsUCABGiTZ4EMTQbO4e4X0H.jpg",
+      "posterShape": "poster",
+      "description": "THIS FILM SHOULD NOT EXIST is a slight-of-hand trick replete with all the details of a rock documentary. Archival footage from the orgiastic 1995 tour with The Oblivians and stories of everyday life leads the audience down a familiar path, and with a delicately insistent grin, transports us somewhere else completely. Echoing the artistic path taken by Ben Wallers, the film winds through the underground world of the 1990's garage rock band Country Teasers to form a portrait of a man, musician, and leader.",
+      "releaseInfo": "2020",
+      "runtime": "95 min",
+      "genres": [
+        "Documentary",
+        "Music",
+        "Punk"
+      ],
+      "imdbRating": "5.0"
+    },
+    {
       "id": "tt8351520",
       "type": "movie",
       "name": "White Riot",
@@ -168,6 +499,40 @@
       ],
       "background": "https://image.tmdb.org/t/p/w1280/aLuylrIqyxSocfB2ai46Dw2yYqr.jpg",
       "imdbRating": "7.0"
+    },
+    {
+      "id": "tt22462776",
+      "type": "movie",
+      "name": "Ears, Eyes and Throats: Restored Classic and Lost Punk Films 1976-1981",
+      "poster": "https://image.tmdb.org/t/p/w780/tngAPBSMYI8AJgyG8ElOWERfKfL.jpg",
+      "posterShape": "poster",
+      "description": "This collection of short films represents a hint of the tectonic shift in the underground film world in connection with the punk rock “movement.” Restored from original negatives, it showcases the reasonably well-known alongside the extremely rare, from music shorts to impressionistic documentary.",
+      "releaseInfo": "2019",
+      "runtime": "105 min",
+      "genres": [
+        "Documentary",
+        "Music",
+        "Punk"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/ybRUwE7R8EBLlerr5EpD6rHIow5.jpg",
+      "imdbRating": "6.4"
+    },
+    {
+      "id": "tt3736766",
+      "type": "movie",
+      "name": "Punk the Capital: Building a Sound Movement",
+      "poster": "https://image.tmdb.org/t/p/w780/wVFMGbA1BgJGiInwbFDiNRu67at.jpg",
+      "posterShape": "poster",
+      "description": "An in-depth exploration of a seminal moment in DC music history (circa 1976 to 1984) and the rise of harDCore. The film is made up of a mix of rare archive material, conversational interviews, and a collage editing style. Features early DC punk and hardcore bands like Bad Brains, Minor Threat, Slickee Boys, The Faith and more.",
+      "releaseInfo": "2019",
+      "runtime": "88 min",
+      "genres": [
+        "Documentary",
+        "Music",
+        "Punk"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/lxKeZtdn3Udj6UEQT3nT74pJArv.jpg",
+      "imdbRating": "7.4"
     },
     {
       "id": "tt4659728",
@@ -221,6 +586,39 @@
       "imdbRating": "6.3"
     },
     {
+      "id": "tt7130802",
+      "type": "movie",
+      "name": "Desolation Center",
+      "poster": "https://image.tmdb.org/t/p/w780/jeZMip8TcNWHGWG7DXcoHrb4pTU.jpg",
+      "posterShape": "poster",
+      "description": "The untold story of a series of Reagan-era guerrilla punk and industrial desert happenings in Southern California that are now recognized as the inspiration for Burning Man, Lollapalooza, and Coachella. Interviews and rare performance footage of Sonic Youth, Minutemen, Meat Puppets, Redd Kross, Einstürzende Neubauten, Survival Research Laboratories, Savage Republic, Swans and more.",
+      "releaseInfo": "2018",
+      "runtime": "93 min",
+      "genres": [
+        "Documentary",
+        "Music",
+        "Punk"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/8lyS4RVfoeYZEHI1vaxljkSMKuE.jpg",
+      "imdbRating": "9.3"
+    },
+    {
+      "id": "tt6379596",
+      "type": "movie",
+      "name": "Finding Joseph I: The HR from Bad Brains Documentary",
+      "poster": "https://image.tmdb.org/t/p/w780/pAnHDYPsrqyBtWr6alAiZVnzRRv.jpg",
+      "posterShape": "poster",
+      "description": "\"Finding Joseph I\" is a feature documentary chronicling the eccentric life and struggles of punk rock reggae singer, Paul \"HR\" Hudson, a.k.a. Joseph I, the legendary lead singer from Bad Brains.",
+      "releaseInfo": "2017",
+      "runtime": "92 min",
+      "genres": [
+        "Documentary",
+        "Music",
+        "Punk"
+      ],
+      "imdbRating": "7.0"
+    },
+    {
       "id": "tt6288290",
       "type": "movie",
       "name": "L7: Pretend We're Dead",
@@ -236,6 +634,23 @@
       ],
       "background": "https://image.tmdb.org/t/p/w1280/wZ2DJWH6PwGNyNGNKONPEUe5e8u.jpg",
       "imdbRating": "7.0"
+    },
+    {
+      "id": "tt7238634",
+      "type": "movie",
+      "name": "Don't Break Down: A Film About Jawbreaker",
+      "poster": "https://image.tmdb.org/t/p/w780/pXBhmIFckGZwstr79Zoeor8Am2K.jpg",
+      "posterShape": "poster",
+      "description": "In 2007, 11 years after one of the most influential American punk bands, Jawbreaker, called it quits, the three members, Blake Schwarzenbach, Chris Bauermeister, and Adam Pfahler reconnect in a San Francisco recording studio to listen back to their albums, reminisce and even perform together one last time. Follow the band as they retell their \"rags to riches to rags\" story writhe with inner band turmoil, health issues, and the aftermath of signing to a major label. Featuring interviews with Billy Joe Armstrong, Steve Albini, Jessica Hopper, Graham Elliot, Chris Shifflet, Josh Caterer and more.",
+      "releaseInfo": "2017",
+      "runtime": "74 min",
+      "genres": [
+        "Documentary",
+        "Music",
+        "Punk"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/kH0M5oMYBgQaYczEO6ryFze0X8g.jpg",
+      "imdbRating": "8.2"
     },
     {
       "id": "tt3044562",
@@ -289,6 +704,91 @@
       "imdbRating": "7.5"
     },
     {
+      "id": "tt6794466",
+      "type": "movie",
+      "name": "The Public Image Is Rotten",
+      "poster": "https://image.tmdb.org/t/p/w780/9uhE8hoyTjjkyq4vwsSbMdwbUuS.jpg",
+      "posterShape": "poster",
+      "description": "British rock icon John Lydon and fellow bandmates recall the years they spent performing as Public Image Ltd.",
+      "releaseInfo": "2017",
+      "runtime": "103 min",
+      "genres": [
+        "Documentary",
+        "Music",
+        "Punk"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/gdfdDdng5eT5UhgoiVbDbmStcuz.jpg",
+      "imdbRating": "7.4"
+    },
+    {
+      "id": "tt6019068",
+      "type": "movie",
+      "name": "The Mentors: Kings of Sleaze Rockumentary",
+      "poster": "https://image.tmdb.org/t/p/w780/tdu7NLci7M7LlDwzuc67X5vTnrs.jpg",
+      "posterShape": "poster",
+      "description": "Documentary on the shock rock group \"The Mentors\".",
+      "releaseInfo": "2017",
+      "runtime": "78 min",
+      "genres": [
+        "Documentary",
+        "Music",
+        "Punk"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/wGKhhvPfHhTaybrTgSLaQR9O4yO.jpg",
+      "imdbRating": "6.8"
+    },
+    {
+      "id": "tt5130274",
+      "type": "movie",
+      "name": "Man in the Camo Jacket",
+      "poster": "https://image.tmdb.org/t/p/w780/gpVWLINtLdDNMC6N8qdOHqMeY3w.jpg",
+      "posterShape": "poster",
+      "description": "Iconic Welsh rock musician Mike Peters' rise to fame, battle with cancer and inspiring return, featuring one-of-a-kind performances from other legendary musicians.",
+      "releaseInfo": "2017",
+      "runtime": "80 min",
+      "genres": [
+        "Documentary",
+        "Music",
+        "Punk"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/cc65f9eYO8lrPvzSDNnSkQeqwee.jpg",
+      "imdbRating": "5.8"
+    },
+    {
+      "id": "tt6333000",
+      "type": "movie",
+      "name": "Get Better: A Film About Frank Turner",
+      "poster": "https://image.tmdb.org/t/p/w780/otDcYVgFLOeOxYZa2fsZADyFaub.jpg",
+      "posterShape": "poster",
+      "description": "‘Get Better – A Film About Frank Turner’ was directed by friend Ben Morse, and follows Frank Turner and his band The Sleeping Souls for a year on the road, but the band swiftly came off the road – and Frank came off the rails before recovery.",
+      "releaseInfo": "2016",
+      "runtime": "96 min",
+      "genres": [
+        "Documentary",
+        "Music",
+        "Punk"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/uRc81X4g1CGxM5eXhYQafykFiAh.jpg",
+      "imdbRating": "7.2"
+    },
+    {
+      "id": "tt6424820",
+      "type": "movie",
+      "name": "The Story of Skinhead",
+      "poster": "https://image.tmdb.org/t/p/w780/igM1fS4SQw5nP4fjHmmvJA1ye68.jpg",
+      "posterShape": "poster",
+      "description": "Don Letts examines the history of this notorious subculture in a fascinating documentary, which features interviews with members of different skinhead scenes through the decades. Beginning in the late 1960s, Don fondly recalls a time of multiracial harmony as youngsters bonded over a love of ska, reggae and smart clothes as white working-class kids were attracted to Jamaican culture and adopted its music and fashions. But when far-right politics targeted skinheads in the 1970s and 1980s, an ugly intolerance emerged, and Don reveals how the once-harmonious subgroup has since struggled to shake this stigma.",
+      "releaseInfo": "2016",
+      "runtime": "60 min",
+      "genres": [
+        "Documentary",
+        "Music",
+        "Punk"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/90xhRhZ1HzWbHRGywdrtixKa4Tv.jpg",
+      "imdbRating": "8.0"
+    },
+    {
       "id": "tt1714917",
       "type": "movie",
       "name": "Gimme Danger",
@@ -323,6 +823,73 @@
       "imdbRating": "7.2"
     },
     {
+      "id": "tt5591236",
+      "type": "movie",
+      "name": "The Smart Studios Story",
+      "poster": "https://image.tmdb.org/t/p/w780/1pwnMKCxjWKf1S8vmpPVzhtYPCP.jpg",
+      "posterShape": "poster",
+      "description": "The post-70’s explosion of independent music in America has many traceable roots, each with a compelling story. One of its most significant has never been told until now. Drawing on never-before-seen archival footage, in-depth-interviews with musicians and producers, and a mighty soundtrack, THE SMART STUDIOS STORY reveals the pivotal Midwest link to the global rise of 1990's Alternative Rock and the unassuming Madison, Wisconsin recording studio at its center. If you’ve ever been touched by the music of Nirvana, Smashing Pumpkins, Garbage, L7 or their peers, you’ve been touched by the music created at Smart Studios, the legendary recording facility founded by Butch Vig and Steve Marker.",
+      "releaseInfo": "2016",
+      "runtime": "81 min",
+      "genres": [
+        "Documentary",
+        "Music",
+        "Punk"
+      ],
+      "imdbRating": "8.0"
+    },
+    {
+      "id": "tt4934152",
+      "type": "movie",
+      "name": "Los Punks: We Are All We Have",
+      "poster": "https://image.tmdb.org/t/p/w780/vnZ9f9L68EsYX7CBYlEyLvNKs9i.jpg",
+      "posterShape": "poster",
+      "description": "Los Punks: We Are All We Have is an intimate documentary about the teens and young adults who find meaning in the thriving punk rock scene in the backyards of South Central and East Los Angeles.",
+      "releaseInfo": "2016",
+      "runtime": "79 min",
+      "genres": [
+        "Documentary",
+        "Music",
+        "Punk"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/rRZIv0KN3Fcd7c6ZuCj34aJeevF.jpg",
+      "imdbRating": "5.8"
+    },
+    {
+      "id": "tt1018728",
+      "type": "movie",
+      "name": "Green Day: Heart Like a Hand Grenade",
+      "poster": "https://image.tmdb.org/t/p/w780/hS98MyHGKTQpzbYizna8U0h6T9z.jpg",
+      "posterShape": "poster",
+      "description": "More than 10 years after the release of Green Day's American Idiot, the 2015 Rock and Roll Hall of Fame Inductees present this time capsule rock doc that takes us inside the making of their award-winning punk rock opera.",
+      "releaseInfo": "2015",
+      "runtime": "96 min",
+      "genres": [
+        "Documentary",
+        "Music",
+        "Punk"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/pwaBgutC9IAjwUNwIbksPEiSunQ.jpg",
+      "imdbRating": "8.5"
+    },
+    {
+      "id": "tt4135094",
+      "type": "movie",
+      "name": "Never Get Tired: The Bomb the Music Industry! Story",
+      "poster": "https://image.tmdb.org/t/p/w780/fCBXUGNcbYNVyWO2ONZ5sNmk3Kg.jpg",
+      "posterShape": "poster",
+      "description": "Never Get Tired is the story of underground musician Jeff Rosenstock, who put his songs online for free and redefined punk rock for the internet age.",
+      "releaseInfo": "2015",
+      "runtime": "91 min",
+      "genres": [
+        "Documentary",
+        "Music",
+        "Punk"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/nM51B61LZmtiqCRuAqEfkku3Heg.jpg",
+      "imdbRating": "8.3"
+    },
+    {
       "id": "tt3833822",
       "type": "movie",
       "name": "Daft Punk Unchained",
@@ -338,6 +905,22 @@
       ],
       "background": "https://image.tmdb.org/t/p/w1280/2pd2uIvfmVXiAgBPQIAgUuGvVM1.jpg",
       "imdbRating": "7.2"
+    },
+    {
+      "id": "tt3417444",
+      "type": "movie",
+      "name": "Big Gold Dream: Scottish Post-Punk and Infiltrating the Mainstream",
+      "poster": "https://image.tmdb.org/t/p/w780/xkg1RITrcmc8iacRlG3XdL3oA5e.jpg",
+      "posterShape": "poster",
+      "description": "Documentary on the independent Edinburgh record label Fast Product and Postcard Records and associated bands like Fire Engines, Scars and Josef K",
+      "releaseInfo": "2015",
+      "runtime": "94 min",
+      "genres": [
+        "Documentary",
+        "Music",
+        "Punk"
+      ],
+      "imdbRating": "6.0"
     },
     {
       "id": "tt4485246",
@@ -357,6 +940,56 @@
       "imdbRating": "7.0"
     },
     {
+      "id": "tt3004624",
+      "type": "movie",
+      "name": "Life After Death from Above 1979",
+      "poster": "https://image.tmdb.org/t/p/w780/cLYSoETHFiMvnHNGHgfmH5r6DeG.jpg",
+      "posterShape": "poster",
+      "description": "From 2001 to 2005, Jesse F. Keeler and Sebastien Grainger played 546 shows around the world. In 2006, they played zero. This is the story of the life, death, and reunion of Canadian dance-punk two-piece band Death From Above 1979.",
+      "releaseInfo": "2014",
+      "runtime": "73 min",
+      "genres": [
+        "Documentary",
+        "Music",
+        "Punk"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/2k2ZlHyRVoiiXbgBCpqjjG9kRAN.jpg",
+      "imdbRating": "8.7"
+    },
+    {
+      "id": "tt2974068",
+      "type": "movie",
+      "name": "Looking for Johnny",
+      "poster": "https://image.tmdb.org/t/p/w780/65KQv4HWhw4csFCo5A3WspzTzvZ.jpg",
+      "posterShape": "poster",
+      "description": "Johnny Thunders was the legendary hard-living rock'n'roll guitarist who inspired glam-metal, punk and the music scene in general. 'Looking For Johnny' is a 90-minute film that documents Thunders' career from his beginnings to his tragic death in 1991.  The film examines Johnny Thunders' career from the early 70's as a founding member of the influential New York Dolls; the birth of the punk scene with The Heartbreakers in New York City and London; Gang War and The Oddballs. It also explores Johnny's unique musical style, his personal battle with drugs and theories on his death in a New Orleans hotel in 1991 at age 38. The film includes forty songs with historic film of Johnny, including unseen New York Dolls and Heartbreakers footage and photos. Cult filmmakers Bob Gruen, Don Letts, Patrick Grandperret, Rachael Amadeo and others contribute classic archive footage.",
+      "releaseInfo": "2014",
+      "runtime": "94 min",
+      "genres": [
+        "Documentary",
+        "Music",
+        "Punk"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/m9sGQLgATWTE2ne8cvvXoS9jF6J.jpg",
+      "imdbRating": "6.6"
+    },
+    {
+      "id": "tt3511442",
+      "type": "movie",
+      "name": "What Difference Does It Make?",
+      "poster": "https://image.tmdb.org/t/p/w780/4ygJTGZCE7bt8m06pwkzr6oRMm0.jpg",
+      "posterShape": "poster",
+      "description": "A documentary that explores the challenges that a life in music can bring.",
+      "releaseInfo": "2014",
+      "runtime": "95 min",
+      "genres": [
+        "Documentary",
+        "Music",
+        "Punk"
+      ],
+      "imdbRating": "5.1"
+    },
+    {
       "id": "tt1785612",
       "type": "movie",
       "name": "The Punk Singer",
@@ -372,6 +1005,21 @@
       ],
       "background": "https://image.tmdb.org/t/p/w1280/5oQXOe2v2NjnsO2Cx5OtpA4zFIV.jpg",
       "imdbRating": "7.1"
+    },
+    {
+      "id": "tt3573380",
+      "type": "movie",
+      "name": "Punk '76",
+      "poster": "https://image.tmdb.org/t/p/w780/7hjLVYo8KJkGFAsnnF7aeSu1S3a.jpg",
+      "posterShape": "poster",
+      "description": "A documentary tracing punk from the SEX shop of Malcolm McLaren and Vivienne Westwood. Featuring contributions from Tony James, Gene October, Jon Savage, Glen Matlock, Jah Wobble, Steve Severin and archive performances.",
+      "releaseInfo": "2013",
+      "runtime": "85 min",
+      "genres": [
+        "Documentary",
+        "Music",
+        "Punk"
+      ]
     },
     {
       "id": "tt2689966",
@@ -442,6 +1090,55 @@
       "imdbRating": "7.1"
     },
     {
+      "id": "tt4032872",
+      "type": "series",
+      "name": "The Art of Punk",
+      "poster": "https://image.tmdb.org/t/p/w780/5GKxKD9WGxw3XgokmmjbPD5LlcV.jpg",
+      "posterShape": "poster",
+      "description": "The Art of Punk, a series of documentaries from MOCAtv, the video channel of Los Angeles’ Museum of Contemporary Art. Emphasizes its focus on, literally, the visual art of punk: its posters, its album art, its T-shirts, and even — un-punk as this may sound — its logos.",
+      "releaseInfo": "2013",
+      "genres": [
+        "Documentary",
+        "Music",
+        "Punk"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/rjkPYfTQVhTOgQOVFxM6KivMdRo.jpg"
+    },
+    {
+      "id": "tt2953170",
+      "type": "movie",
+      "name": "Pussy Riot: The Movement",
+      "poster": "https://image.tmdb.org/t/p/w780/x0ShtwfgwJgWBMz4EoA1UHc1yjJ.jpg",
+      "posterShape": "poster",
+      "description": "Pussy Riot: The Movement embarks on the odyssey of the girls who rocked a country and continue to fight for human rights throughout the world. Documentary follows Masha Alyokhina, Nadezhda Tolokonnikova, and Yekaterina Samutsevich through their harsh two year sentences for playing music to their freedom. What started as a punk rock collective has catapulted to a world movement for human rights.",
+      "releaseInfo": "2013",
+      "runtime": "85 min",
+      "genres": [
+        "Documentary",
+        "Music",
+        "Punk"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/xlGO2CNbIEtcP43QpChzuvR6y8o.jpg",
+      "imdbRating": "4.2"
+    },
+    {
+      "id": "tt2553800",
+      "type": "movie",
+      "name": "Green Day: ¡Cuatro!",
+      "poster": "https://image.tmdb.org/t/p/w780/k0HwOwAWubFGm9slG5h72jamk7H.jpg",
+      "posterShape": "poster",
+      "description": "\"¡Cuatro!\" is a unique, raw and unprecedented look inside the world of the multi platinum rock band Green Day. From the band’s home studio in Oakland CA, to various intimate live performances in New York City, Austin TX, Newport Beach and Los Angeles, the ﬁlm chronicles the band's year and a half long journey writing and recording their recent musical trilogy.",
+      "releaseInfo": "2012",
+      "runtime": "75 min",
+      "genres": [
+        "Documentary",
+        "Music",
+        "Punk"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/xWUbImytGjczdZcp0GWR8YJx56A.jpg",
+      "imdbRating": "7.2"
+    },
+    {
       "id": "tt2179073",
       "type": "movie",
       "name": "Hello Quo",
@@ -457,6 +1154,154 @@
       ],
       "background": "https://image.tmdb.org/t/p/w1280/xJbxLljtGef6Y09fh0bgyuMcbYw.jpg",
       "imdbRating": "5.8"
+    },
+    {
+      "id": "tt2034085",
+      "type": "movie",
+      "name": "Punk in Africa",
+      "poster": "https://image.tmdb.org/t/p/w780/1RQdA4DEk8O7oyF8tNfwcY8Xo3R.jpg",
+      "posterShape": "poster",
+      "description": "Three chords, three countries, one revolution...PUNK IN AFRICA is the story of the multiracial punk movement within the recent political and social upheavals experienced in three Southern African countries: South Africa, Mozambique and Zimbabwe.",
+      "releaseInfo": "2012",
+      "runtime": "82 min",
+      "genres": [
+        "Documentary",
+        "Music",
+        "Punk"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/lmIKTRiSsxdunST4ENSQ7CknDYv.jpg",
+      "imdbRating": "7.2"
+    },
+    {
+      "id": "tt2461726",
+      "type": "movie",
+      "name": "Circle Jerks: My Career as a Jerk",
+      "poster": "https://image.tmdb.org/t/p/w780/emtfYp60tsLpZv13sGcYHjJ7l9M.jpg",
+      "posterShape": "poster",
+      "description": "From the beginning, LA punk band the Circle Jerks were rooted in controversy. Formed by ex members of Black Flag and Red Cross (now Redd Kross) in late 1979, the band came to encapsulate the image, sound and energy of California Hardcore Punk. Filmmaker David Markey (1991: The Year Punk Broke, The Slog Movie) mixes in-depth interviews, rare live footage and historical perspective to illustrate the story of one of the most influential bands in the American underground. My Career as a Jerk follows the band from their early days and classic debut to navigating the independent label and touring scene of the 80s to the addictions, fights and injuries that forced their break up. Of course the story doesn't quite end there.",
+      "releaseInfo": "2012",
+      "runtime": "96 min",
+      "genres": [
+        "Documentary",
+        "Music",
+        "Punk"
+      ]
+    },
+    {
+      "id": "tt5645388",
+      "type": "movie",
+      "name": "Punk Revolution NYC",
+      "poster": "https://image.tmdb.org/t/p/w780/qxjFgcaur183EyMbhYu1O6Nbxbr.jpg",
+      "posterShape": "poster",
+      "description": "This documentary film traces the entire history of New York's punk movement; the VU years, the Warhol influence, the Dolls reign, and the handover of power to the bands who shared the sensibilities and attitude introduced to the city by Warhol and the Velvets a decade before. With the aid of performance footage, rare archive, exclusive interviews and some of the most exciting music ever recorded, this programme offers an experience of these events second only to having lived through them. Features new interviews with Richard Hell, Suicide's Alan Vega, Blondie's Gary Valentine and many more.",
+      "releaseInfo": "2012",
+      "runtime": "192 min",
+      "genres": [
+        "Documentary",
+        "Music",
+        "Punk"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/oneVE700lcgGgZHHvw0B76heopa.jpg",
+      "imdbRating": "5.0"
+    },
+    {
+      "id": "tt2243163",
+      "type": "movie",
+      "name": "Bad Brains: A Band in DC",
+      "poster": "https://image.tmdb.org/t/p/w780/djgAaUNXmajvSEm2FXnlpq4ZraC.jpg",
+      "posterShape": "poster",
+      "description": "Bad Brains are one of the most important and influential American bands still working today. They melded punk and reggae into an innovative style that has yet to be copied. Their impact and influence can be heard in groups like Beastie Boys, No Doubt, Nirvana, Jane's Addiction and countless more. Despite the troubles of an eccentric front man they have stayed together for 30 years without ever reaching the level of success so many think they deserve. Using rare archival footage and original comic illustrations the film re-constructs Bad Brains' rich and complicated history.",
+      "releaseInfo": "2012",
+      "runtime": "104 min",
+      "genres": [
+        "Documentary",
+        "Music",
+        "Punk"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/lyQnsiycoPWQbh3BGG4qbH7LQ1M.jpg",
+      "imdbRating": "6.6"
+    },
+    {
+      "id": "tt2361143",
+      "type": "movie",
+      "name": "All Ages: The Boston Hardcore Film",
+      "poster": "https://image.tmdb.org/t/p/w780/v3pa0fXt6NJYYYyG7upU5F09NYd.jpg",
+      "posterShape": "poster",
+      "description": "A documentary film that explores the early Boston Hardcore music scene from the years 1981 through 1984. This film delves into the social and communal aspects of that particular era. The community, culture, straight edge and DIY (do it yourself) ethic of the time are all explored in the film. Never before seen archival footage, photographs, interviews and dramatizations make up the body of the film. Bands included are SS Decontrol, DYS, Gang Green, The FU's, Jerry's Kids, Negative FX, The Freeze, and more.",
+      "releaseInfo": "2012",
+      "runtime": "89 min",
+      "genres": [
+        "Documentary",
+        "Music",
+        "Punk"
+      ],
+      "imdbRating": "4.2"
+    },
+    {
+      "id": "tt1800669",
+      "type": "movie",
+      "name": "Better Than Something: Jay Reatard",
+      "poster": "https://image.tmdb.org/t/p/w780/X6Wyvgf2TiL5yuWLdusdySh4CA.jpg",
+      "posterShape": "poster",
+      "description": "BETTER THAN SOMETHING is an exciting and intimate portrait of Memphis-based punk musician Jay Reatard, who toured the world and released dozens of records over the course of a 15 year career that began in his mid-teens. Original and never-before-seen footage documents his self-made journey to iconic garage rock star, with colleagues, friends, and family speaking candidly about Jay's vibrant and complicated life. Jay Reatard himself - filmed just nine months before his untimely death at the age of twenty-nine - shares his experiences both on and off stage, with all the humor, savvy, and pathos one can expect from such a prolific and vital artist.",
+      "releaseInfo": "2012",
+      "runtime": "89 min",
+      "genres": [
+        "Documentary",
+        "Music",
+        "Punk"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/vsty7Y0qUJR3VQfqe5CBZlDuoHX.jpg",
+      "imdbRating": "5.1"
+    },
+    {
+      "id": "tt2124908",
+      "type": "movie",
+      "name": "LCD Soundsystem: Shut Up and Play the Hits",
+      "poster": "https://image.tmdb.org/t/p/w780/8e5f9fMU1FtWPmZZTrvqk3hCG81.jpg",
+      "posterShape": "poster",
+      "description": "An intimate portrait of Brooklyn-based electronic rock band LCD Soundsystem's then-final live show on April 2, 2011, capturing both the exuberant, three-hour farewell concert at New York City's Madison Square Garden and frontman James Murphy's introspective 48 hours surrounding it.",
+      "releaseInfo": "2012",
+      "runtime": "108 min",
+      "genres": [
+        "Documentary",
+        "Music",
+        "Punk"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/xGbK1ZBVdRMnNK4y23SCquAJSdI.jpg",
+      "imdbRating": "6.9"
+    },
+    {
+      "id": "tt3769098",
+      "type": "movie",
+      "name": "Punk O Cine",
+      "poster": "https://image.tmdb.org/t/p/w780/dCmuE8uJenQg3jkd7ag3Ozv8B61.jpg",
+      "posterShape": "poster",
+      "description": "Documentary about Finnish punk scene in the early 2010s.",
+      "releaseInfo": "2011",
+      "runtime": "55 min",
+      "genres": [
+        "Documentary",
+        "Music",
+        "Punk"
+      ]
+    },
+    {
+      "id": "tt1633989",
+      "type": "movie",
+      "name": "Dragonslayer",
+      "poster": "https://image.tmdb.org/t/p/w780/niwJbncGCTuA0TWYDBXab9i0oEM.jpg",
+      "posterShape": "poster",
+      "description": "Dragonslayer documents the transgressions of a lost skate punk falling in love in the stagnant suburbs of Fullerton, California in the aftermath of America's economic collapse. Taking the viewer through a golden SoCal haze of broken homes, abandoned swimming pools and stray glimpses of unusual beauty, Dragonslayer captures the life and times of Josh 'Skreech' Sandoval, a local skate legend and new father, as his endless summer finally collides with the future. Set to the alternately roaring and dreamy soundtrack of bands from the indie labels Mexican Summer and Kemado Records including Best Coast, Bipolar Bear, Children, Dungen, Eddy Current and the Suppression Ring, Golden Triangle, Jacuzzi Boys, Little Girls, Real Estate, The Soft Pack, Saviours, as well as DEATH and Thee Oh Sees. Dragonslayer is a punk-rock manifesto to youth, love and learning to survive after the decline of western civilization.",
+      "releaseInfo": "2011",
+      "runtime": "74 min",
+      "genres": [
+        "Documentary",
+        "Music",
+        "Punk"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/bX4j8F1uGnKttKLM7zKmWr2C64F.jpg",
+      "imdbRating": "6.1"
     },
     {
       "id": "tt1790867",
@@ -476,23 +1321,6 @@
       "imdbRating": "6.5"
     },
     {
-      "id": "tt2007385",
-      "type": "movie",
-      "name": "U2: From the Sky Down",
-      "poster": "https://image.tmdb.org/t/p/w780/n7musOiqw5rCV5LZ7tVUKGqwhAR.jpg",
-      "posterShape": "poster",
-      "description": "This documentary film is about the making of U2's Achtung Baby. In 2011, U2 returned to Hansa Studios in Berlin to discuss the making of Achtung Baby. This film is directed by Davis Guggenheim. Screened in the UK as part of the BBC's Imagine series, this film was the first ever documentary to open the prestigious Toronto International Film Festival. Included is bonus footage of \"So Cruel,\" \"Love is Blindness,\" and \"The Fly\" shot in May 2010 during the band's visit to Hansa Studios to mark the 20th anniversary of Achtung Baby. Also included is a Q&A with Bono, The Edge, and Davis Guggenheim filmed at the Toronto International Film Festival in September 2011.",
-      "releaseInfo": "2011",
-      "runtime": "86 min",
-      "genres": [
-        "Documentary",
-        "Music",
-        "Punk"
-      ],
-      "background": "https://image.tmdb.org/t/p/w1280/ceWWWWtOnGjH0E7xZVVdT0G4OIa.jpg",
-      "imdbRating": "7.5"
-    },
-    {
       "id": "tt1398949",
       "type": "movie",
       "name": "Blank City",
@@ -508,6 +1336,22 @@
       ],
       "background": "https://image.tmdb.org/t/p/w1280/w2JSPj40o64vpoc7MqvLnDo7tY.jpg",
       "imdbRating": "6.9"
+    },
+    {
+      "id": "tt1519402",
+      "type": "movie",
+      "name": "Taqwacore: The Birth of Punk Islam",
+      "poster": "https://image.tmdb.org/t/p/w780/9kaTd2Z8L4dcr4hj0pUbk3YRcF4.jpg",
+      "posterShape": "poster",
+      "description": "Three years in the making, this feature documentary follows the progression of the Muslim Punk scene: from its imaginary inception in a novel written by a white-convert named Michael Muhammad Knight to a full-blown, real-life scene of Muslim punk bands and their fans.",
+      "releaseInfo": "2009",
+      "runtime": "82 min",
+      "genres": [
+        "Documentary",
+        "Music",
+        "Punk"
+      ],
+      "imdbRating": "5.6"
     },
     {
       "id": "tt1379092",
@@ -544,6 +1388,22 @@
       "imdbRating": "6.3"
     },
     {
+      "id": "tt1395164",
+      "type": "movie",
+      "name": "Burning Down the House: The Story of CBGB",
+      "poster": "https://image.tmdb.org/t/p/w780/4EQ3qQFTxgBDUSwrdRdRhZ8Sz2z.jpg",
+      "posterShape": "poster",
+      "description": "An East Village performance space fought against the Bowery homeless shelter who threatened to shut them down. Some of the most iconic figures in music have performed here.",
+      "releaseInfo": "2009",
+      "runtime": "90 min",
+      "genres": [
+        "Documentary",
+        "Music",
+        "Punk"
+      ],
+      "imdbRating": "8.0"
+    },
+    {
       "id": "tt1160424",
       "type": "movie",
       "name": "Who Killed Nancy?",
@@ -578,6 +1438,23 @@
       "imdbRating": "5.8"
     },
     {
+      "id": "tt0463028",
+      "type": "movie",
+      "name": "The Gits",
+      "poster": "https://image.tmdb.org/t/p/w780/iSB4Xs8LStxmZhroofXMcC9Dc0n.jpg",
+      "posterShape": "poster",
+      "description": "The inception and ascent of Seattle-based post-punk band the Gits, whose rise to prominence was cut short by the shocking rape and murder of their fiery lead singer, Mia Zapata, in 1993. Featuring performance footage and reflective interviews with the remaining members of the Gits, O'Kane's labor of love celebrates Zapata's memory and the group's enduring legacy.",
+      "releaseInfo": "2008",
+      "runtime": "82 min",
+      "genres": [
+        "Documentary",
+        "Music",
+        "Punk"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/wYhEfYT8SaCJ17yTtUssB1icYMA.jpg",
+      "imdbRating": "7.4"
+    },
+    {
       "id": "tt1274725",
       "type": "movie",
       "name": "I Need That Record!",
@@ -592,6 +1469,38 @@
         "Punk"
       ],
       "imdbRating": "6.5"
+    },
+    {
+      "id": "tt2077872",
+      "type": "movie",
+      "name": "The Clash: Live (Revolution Rock)",
+      "poster": "https://image.tmdb.org/t/p/w780/Am0iuEYQWNtxGNR8DaWD4Gz0vY.jpg",
+      "posterShape": "poster",
+      "description": "THE CLASH LIVE: REVOLUTION ROCK is an exciting new documentary film directed by long-time Clash collaborator and Grammy-winning producer Don Letts (Westway To The World) that chronicles the electric live performances of one of the most influential bands to emerge from the UK. The film follows the live transformation of the band, incorporating footage from all phases of the Clash's meteoric career, beginning with live-in-the-studio clips and climaxing with a blow-out performance at New York's Shea Stadium in 1982. With rare and previously unreleased footage from all over the world, this film documents the history of the band by showcasing their incredible live performances, and will be a draw for both the new fan and their established passionate followers.",
+      "releaseInfo": "2008",
+      "runtime": "81 min",
+      "genres": [
+        "Documentary",
+        "Music",
+        "Punk"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/kVjtYAbi6SFhmdDsE8rGdfWsBLJ.jpg",
+      "imdbRating": "7.9"
+    },
+    {
+      "id": "tt1340142",
+      "type": "movie",
+      "name": "You Weren't There: A History of Chicago Punk 1977–1984",
+      "poster": "https://image.tmdb.org/t/p/w780/4UiyWA0yixqbWoAayYw1KQBNar0.jpg",
+      "posterShape": "poster",
+      "description": "Often overshadowed by the stars of the New York scene, Chicago punk gets its day in the limelight in this raw documentary that captures the noisemakers and tastemakers who left their mark at venues like La Mere Vipere and Oz.",
+      "releaseInfo": "2007",
+      "runtime": "120 min",
+      "genres": [
+        "Documentary",
+        "Music",
+        "Punk"
+      ]
     },
     {
       "id": "tt0350002",
@@ -644,6 +1553,134 @@
       "imdbRating": "7.2"
     },
     {
+      "id": "tt2168250",
+      "type": "movie",
+      "name": "924 Gilman Street",
+      "poster": "https://image.tmdb.org/t/p/w780/pMzdOktFse2YBqXNRcWkv1HN2KI.jpg",
+      "posterShape": "poster",
+      "description": "Starting with its inception in 1986, the all-ages nonprofit punk venue at 924 Gilman St. in Berkeley, Calif., was a mainstay of a thriving music scene. In this punk-tastic documentary, filmmaker Jack Curran takes a loving look at the historic club. Chronicling the DIY roots of the volunteer-run establishment, the program features interviews with Jello Biafra, Ian McKaye, Lars Frederickson and Matt Freeman, as well as many live performances.",
+      "releaseInfo": "2007",
+      "runtime": "86 min",
+      "genres": [
+        "Documentary",
+        "Music",
+        "Punk"
+      ]
+    },
+    {
+      "id": "tt0805631",
+      "type": "movie",
+      "name": "Too Tough to Die: A Tribute to Johnny Ramone",
+      "poster": "https://image.tmdb.org/t/p/w780/nPiFUJRPvM1EdyIfKU77ElJ9DGo.jpg",
+      "posterShape": "poster",
+      "description": "On September 12, 2004, just two-and-a-half days before Johnny Ramone's death, a group of musicians and friends-among them Deborah Harry, The Dickies, X, Eddie Vedder, and The Red Hot Chili Peppers-staged a benefit concert to celebrate The Ramones' 30th anniversary and to raise money for cancer research. Mandy Stein's touching rockumentary captures that unforgettable evening.",
+      "releaseInfo": "2006",
+      "runtime": "76 min",
+      "genres": [
+        "Documentary",
+        "Music",
+        "Punk"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/Ad7zyN5QQsk30ljebYdYedbmIOY.jpg",
+      "imdbRating": "6.2"
+    },
+    {
+      "id": "tt0838250",
+      "type": "movie",
+      "name": "Beijing Bubbles",
+      "poster": "https://image.tmdb.org/t/p/w780/rcdn7R76GIshYkUCG2gT79tyviA.jpg",
+      "posterShape": "poster",
+      "description": "Beijing Bubbles is a portrait of the punk and rock scene in Beijing, which as a subculture is barely recognized there. Center stage of the film takes not only the music, but first of all the attitude to life of the young musicians who deny consumerism and pressure to perform well. The Berlin filmmakers Susanne Messmer and George Lindt go on a ramble through the musical underground of Beijing and thereby meet people, who give them naturally and spontaneously an up-front insight in their daily live. Kind of a video diary it gives insight in a counter culture hardly anyone would assume in an authoritarian state like the People's Republic of China.",
+      "releaseInfo": "2006",
+      "runtime": "80 min",
+      "genres": [
+        "Documentary",
+        "Music",
+        "Punk"
+      ],
+      "imdbRating": "6.0"
+    },
+    {
+      "id": "tt0773303",
+      "type": "movie",
+      "name": "Punk Like Me",
+      "poster": "https://image.tmdb.org/t/p/w780/mDbgIkeaJny9VPoYvV9UuXuYRZn.jpg",
+      "posterShape": "poster",
+      "description": "A man scams his way onto the Warped Tour by pretending to be a writer for Rolling Stone magazine.",
+      "releaseInfo": "2006",
+      "runtime": "82 min",
+      "genres": [
+        "Documentary",
+        "Music",
+        "Punk"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/mnSE3caygF2CtaayeQxIWWgNPMa.jpg"
+    },
+    {
+      "id": "tt2389480",
+      "type": "movie",
+      "name": "The Clash: The Joe Strummer Story",
+      "poster": "https://image.tmdb.org/t/p/w780/zIiTgdwfDhtYXtmjbVLgvBeZows.jpg",
+      "posterShape": "poster",
+      "description": "Joe died young. But his and \"The Clash's\" memory live on in the programme as it seeks to explore and identify the music and the reasons behind the split of one of the most iconic punk rock groups of the day. We follow the life of one of the original members of \"The Clash\". Told through interviews of Joe's involvement in the ground breaking group from other band members including Mick Jones and 'Topper' Headon, we tell the story as it was.",
+      "releaseInfo": "2006",
+      "runtime": "62 min",
+      "genres": [
+        "Documentary",
+        "Music",
+        "Punk"
+      ]
+    },
+    {
+      "id": "tt2368852",
+      "type": "movie",
+      "name": "There Is No Authority But Yourself",
+      "poster": "https://image.tmdb.org/t/p/w780/pcy85te2U00Fg7Q4LWm8Osv6mHM.jpg",
+      "posterShape": "poster",
+      "description": "A Dutch documentary about the history of the anarchist punk band Crass. The film features archival footage of the band, and interviews with former members Steve Ignorant, Penny Rimbaud and Gee Vaucher.",
+      "releaseInfo": "2006",
+      "runtime": "70 min",
+      "genres": [
+        "Documentary",
+        "Music",
+        "Punk"
+      ],
+      "imdbRating": "5.6"
+    },
+    {
+      "id": "tt1153033",
+      "type": "movie",
+      "name": "New York Dolls: All Dolled Up",
+      "poster": "https://image.tmdb.org/t/p/w780/vUIWtZqMWX3sKfSIXorwYgYikuS.jpg",
+      "posterShape": "poster",
+      "description": "In the early 70’s, Rock photographer Bob Gruen and his wife Nadya purchased a portable Video Recorder. In a period of three years they shot over 40 hours of New York Dolls footage. Now for the first time ever this footage is unveiled. This feature length documentary captures the band during early performances in New York at Kenny’s Castaways and Max’s Kansas City, then follows the Dolls on their tour of the West Coast, including footage from the Whisky A Go Go, the Real Don Steele Show, Rodney Bingenheimer’s E Club and much more. Intercut with revealing interviews, backstage banter and late night debauchery, this is THE definitive document of the New York Dolls.",
+      "releaseInfo": "2005",
+      "runtime": "97 min",
+      "genres": [
+        "Documentary",
+        "Music",
+        "Punk"
+      ],
+      "imdbRating": "8.5"
+    },
+    {
+      "id": "tt0485773",
+      "type": "movie",
+      "name": "Green Day: Bullet in a Bible",
+      "poster": "https://image.tmdb.org/t/p/w780/rZQVl8IS4PbbDAR7dfzwHpqwUxD.jpg",
+      "posterShape": "poster",
+      "description": "Bullet in a Bible documents one of the two biggest shows that Green Day have performed in their career. They played in front of a crowd of over 130,000 people at the Milton Keynes National Bowl in United Kingdom on June 18–19, 2005. The band was supported by Jimmy Eat World, Taking Back Sunday, and Hard-Fi during their American Idiot world tour. Fourteen of the twenty songs performed at these shows were included on the disc; missing out \"Jaded\", \"Knowledge\", \"She\", \"Maria\", \"Homecoming\" and \"We Are The Champions\". Bullet in a Bible was released as a double-LP set on November 10, 2009, as part of the band's 2009 vinyl re-release campaign.",
+      "releaseInfo": "2005",
+      "runtime": "115 min",
+      "genres": [
+        "Documentary",
+        "Music",
+        "Punk"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/2JSuQJdtzAGKvMRDJtcYM6VbOS.jpg",
+      "imdbRating": "8.0"
+    },
+    {
       "id": "tt0446765",
       "type": "movie",
       "name": "Punk: Attitude",
@@ -678,6 +1715,39 @@
       "imdbRating": "7.1"
     },
     {
+      "id": "tt0446071",
+      "type": "movie",
+      "name": "We Jam Econo: The Story of the Minutemen",
+      "poster": "https://image.tmdb.org/t/p/w780/hBhh6BDARYoMBVYquJeAeV8HyOr.jpg",
+      "posterShape": "poster",
+      "description": "A feature-length documentary chronicling early '80s punk rock band the Minutemen, from their beginnings in San Pedro, California, to their demise after the death of singer D. Boon in 1985.",
+      "releaseInfo": "2005",
+      "runtime": "91 min",
+      "genres": [
+        "Documentary",
+        "Music",
+        "Punk"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/hzrLmpusTp1PPrTKYVl3jGQgSVM.jpg",
+      "imdbRating": "6.8"
+    },
+    {
+      "id": "tt0810859",
+      "type": "movie",
+      "name": "The Fall: The Wonderful and Frightening World of Mark E. Smith",
+      "poster": "https://image.tmdb.org/t/p/w780/7RRDu83Z1XBwfxuHKGbllmczR4y.jpg",
+      "posterShape": "poster",
+      "description": "A 1-hour Documentary looking at the Manchester post-punk group and its infamous leader Mark E Smith. The Film follows the current band recording their final Session for the John Peel Show (they were his favourite group and recorded more sessions than any other band) as well as chronicling the chaotic history of the band & its numerous line-up changes.",
+      "releaseInfo": "2005",
+      "runtime": "60 min",
+      "genres": [
+        "Documentary",
+        "Music",
+        "Punk"
+      ],
+      "imdbRating": "5.6"
+    },
+    {
       "id": "tt0436629",
       "type": "movie",
       "name": "New York Doll",
@@ -692,6 +1762,56 @@
         "Punk"
       ],
       "imdbRating": "6.8"
+    },
+    {
+      "id": "tt0435598",
+      "type": "movie",
+      "name": "Against Me!: We're Never Going Home",
+      "poster": "https://image.tmdb.org/t/p/w780/l7dErWgvOScrVrODTsaz6v5hMv8.jpg",
+      "posterShape": "poster",
+      "description": "Florida anarcho-punk band Against Me! embarks on a month-long tour in the spring of 2004 with Planes Mistaken for Stars and No Choice. Along the way, they court attention from major labels and navigate the uneasy relationship between their DIY roots and the prospect of commercial success. Features twelve performances from throughout the tour interspersed with interviews and behind-the-scenes tour shenanigans.",
+      "releaseInfo": "2004",
+      "runtime": "61 min",
+      "genres": [
+        "Documentary",
+        "Music",
+        "Punk"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/8g1q0ds1pv6TDTrSPMaTYgk7JBz.jpg",
+      "imdbRating": "8.0"
+    },
+    {
+      "id": "tt0167488",
+      "type": "movie",
+      "name": "Ramones: We're Outta Here!",
+      "poster": "https://image.tmdb.org/t/p/w780/6pnRj99pGTn3mZZuVWTyeSN8FmA.jpg",
+      "posterShape": "poster",
+      "description": "Documentary covering The Ramones' long and eventful history, with footage from their final ever show at the Palace in Hollywood, 6th August 1996. Interviews with Joey, Johnny and drummer Marky, tributes from other rock icons including Richard Hell, Debbie Harry and Lemmy.",
+      "releaseInfo": "2004",
+      "runtime": "140 min",
+      "genres": [
+        "Documentary",
+        "Music",
+        "Punk"
+      ],
+      "imdbRating": "7.5"
+    },
+    {
+      "id": "tt0425388",
+      "type": "movie",
+      "name": "Ramones: Raw",
+      "poster": "https://image.tmdb.org/t/p/w780/kLUFgHFYZuzHsHnxUMX0wvaqXpQ.jpg",
+      "posterShape": "poster",
+      "description": "Punk icons the Ramones star in this compilation of rare concert and behind-the-scenes footage that spans the band's 30-year history. The 20 vintage live performances include \"Blitzkrieg Bop,\" \"I Wanna Be Sedated,\" \"Sheena Is a Punk Rocker\" and \"Gimme Gimme Shock Treatment.\" Also featured is a never-before-seen 1980 performance that aired live on European television, other rare TV appearances, celebrity cameos and home video footage.",
+      "releaseInfo": "2004",
+      "runtime": "105 min",
+      "genres": [
+        "Documentary",
+        "Music",
+        "Punk"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/oTGW0MHYvWfY8M82AZrDZeQAR63.jpg",
+      "imdbRating": "6.4"
     },
     {
       "id": "tt0407926",
@@ -709,6 +1829,72 @@
       ],
       "background": "https://image.tmdb.org/t/p/w1280/q2ezQuyfshHPdHEB2Kp8XTlo1P0.jpg",
       "imdbRating": "7.4"
+    },
+    {
+      "id": "tt0363030",
+      "type": "movie",
+      "name": "Riding in Vans with Boys",
+      "poster": "https://image.tmdb.org/t/p/w780/1DJCFBPBmwTj5i6ZEbv9R491c0Y.jpg",
+      "posterShape": "poster",
+      "description": "In the summer of 2002, blink-182 invited little-known band Kut U Up to accompany them, Green Day and Jimmy Eat World on The Pop Disaster Tour.",
+      "releaseInfo": "2003",
+      "runtime": "85 min",
+      "genres": [
+        "Documentary",
+        "Music",
+        "Punk"
+      ],
+      "imdbRating": "4.6"
+    },
+    {
+      "id": "tt0447700",
+      "type": "movie",
+      "name": "Simple Plan: A Big Package for You",
+      "poster": "https://image.tmdb.org/t/p/w780/asrQiju9gLvQ6KEkZS1pdtjzgJw.jpg",
+      "posterShape": "poster",
+      "description": "A Big Package for You: 1999-2003 is a DVD/CD by the pop punk band Simple Plan from Montreal, Canada. The band consists of five members Pierre Bouvier, guitarist and lead vocalist, David Desrosiers, bassist and backing vocalist, Sébastien Lefebvre, rhythm guitarist and backing vocalist, Chuck Comeau, drummer, and Jeff Stinco, lead guitarist.",
+      "releaseInfo": "2003",
+      "runtime": "101 min",
+      "genres": [
+        "Documentary",
+        "Music",
+        "Punk"
+      ],
+      "imdbRating": "7.7"
+    },
+    {
+      "id": "tt0370694",
+      "type": "movie",
+      "name": "Hey! Is Dee Dee Home?",
+      "poster": "https://image.tmdb.org/t/p/w780/tdXG6icWwaEb7hZz040mrbVkTLS.jpg",
+      "posterShape": "poster",
+      "description": "Punk rock devotees will welcome director Lech Kowalski's reflective video portrait of late bassist Dee Dee Ramone and his life as a music industry icon -- including his self-destructive bouts with heroin. The centerpiece of the hourlong documentary -- which is peppered with vintage performance clips -- is a 1991 interview with a clean Dee Dee, who talks at length about his storied career and penchant for living on the edge.",
+      "releaseInfo": "2003",
+      "runtime": "63 min",
+      "genres": [
+        "Documentary",
+        "Music",
+        "Punk"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/hk7iP0FT7P6gxbulNMLuLQnCD86.jpg",
+      "imdbRating": "5.9"
+    },
+    {
+      "id": "tt0366227",
+      "type": "movie",
+      "name": "Betty Blowtorch: And Her Amazing True Life Adventures",
+      "poster": "https://image.tmdb.org/t/p/w780/dAK5LMwG9Ql2ymjbDpyiq69vTEz.jpg",
+      "posterShape": "poster",
+      "description": "For two years, filmmaker and music video director Anthony Scarpa followed the all-girl punk rock band Betty Blowtorch, documenting their ferocious sound and dangerously low-tech pyrotechnic shows, unaware of the turmoil and tragedy that he will ultimately capture. From their near rise to the top of the major labels, to their ultimate sad end, this critically-acclaimed rock n roll tragedy features the band Betty Blowtorch, as well as other rockers such as Duff McKagan (Guns N Roses, Velvet Revolver), Vanilla Ice, Dez Cadena (Black Flag), Jennifer Finch (L7), Kevin Baldes (LiT), and many others.",
+      "releaseInfo": "2003",
+      "runtime": "98 min",
+      "genres": [
+        "Documentary",
+        "Music",
+        "Punk"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/ggCtE5xtadtIwcCgT1ZcYc5HvVr.jpg",
+      "imdbRating": "9.0"
     },
     {
       "id": "tt0368711",
@@ -745,6 +1931,56 @@
       "imdbRating": "7.4"
     },
     {
+      "id": "tt0333847",
+      "type": "movie",
+      "name": "MC5: A True Testimonial",
+      "poster": "https://image.tmdb.org/t/p/w780/6FF7jYhTExD8vZoPb8P9FKL3kL0.jpg",
+      "posterShape": "poster",
+      "description": "This documentary, made over a period of eight years, tells the remarkable story of an extremely influential rock'n'roll band. Starting from their mid-60's garage band roots (sounding amazingly like the Sonics), the Motor City 5 deveoped into an icon for a brand of loud, crushing music reflecting their industrial roots. Even if you don't care for their music (and you're bound to like even a few of their songs), their story is fascinating. It combines 60's protest, youthful braggadocio, and a style of music that would help carry one to the likes of Iggy and the Stooges (not to mention certain aspects of punk rock). This film is clearly a labor of love, combining extraordinarily rare live shows, still shots, a nearly-continuous backdrop of MC5 tunes, penetrating interviews with the remaining members and their spouses, and even FBI surveillance shots. It's the ultimate testimonial to a band that only gains in stature as time goes on.",
+      "releaseInfo": "2002",
+      "runtime": "120 min",
+      "genres": [
+        "Documentary",
+        "Music",
+        "Punk"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/evL0yQMTjzDT5TcdKTCCnZL3DYV.jpg",
+      "imdbRating": "7.4"
+    },
+    {
+      "id": "tt0433507",
+      "type": "series",
+      "name": "The Punk Years",
+      "poster": "https://image.tmdb.org/t/p/w780/da38MTPlNQTktLViTfuTWmxARrK.jpg",
+      "posterShape": "poster",
+      "description": "A definitive history of the music that shook the world, looking at the origins and development of the punk rock movement as a social, historical, political and musical force.",
+      "releaseInfo": "2002",
+      "genres": [
+        "Documentary",
+        "Music",
+        "Punk"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/eeKxkKBrnc2zH3DCRMlFU7kCx6k.jpg",
+      "imdbRating": "7.0"
+    },
+    {
+      "id": "tt0287644",
+      "type": "movie",
+      "name": "Rage: 20 Years of Punk Rock West Coast Style",
+      "poster": "https://image.tmdb.org/t/p/w780/q1vPcsyBzpDeQTLtRR770dfOLDc.jpg",
+      "posterShape": "poster",
+      "description": "This 60 minute DVD documentary examines Punk, its beginnings and some of the top musicians who started it. Included are rare video clips, narrated by the people involved, also lots of great music. Featured performers include Jack Grisham, Jello Biafra.",
+      "releaseInfo": "2001",
+      "runtime": "67 min",
+      "genres": [
+        "Documentary",
+        "Music",
+        "Punk"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/tGA9SqlEydT4q2UpD6aMvAO4Uru.jpg",
+      "imdbRating": "7.3"
+    },
+    {
       "id": "tt0236216",
       "type": "movie",
       "name": "The Filth and the Fury",
@@ -762,6 +1998,137 @@
       "imdbRating": "6.8"
     },
     {
+      "id": "tt0221832",
+      "type": "movie",
+      "name": "blink-182: The Urethra Chronicles",
+      "poster": "https://image.tmdb.org/t/p/w780/u48qANPiIWIFoCYmxpfbNhoLB7L.jpg",
+      "posterShape": "poster",
+      "description": "The Urethra Chronicles is a 1999 on the road documentary film about the American pop punk band Blink-182.",
+      "releaseInfo": "1999",
+      "runtime": "62 min",
+      "genres": [
+        "Documentary",
+        "Music",
+        "Punk"
+      ],
+      "imdbRating": "5.9"
+    },
+    {
+      "id": "tt0321711",
+      "type": "movie",
+      "name": "The Clash: Westway To The World",
+      "poster": "https://image.tmdb.org/t/p/w780/ugly3tnKz8FslNnX3E9nI2AQWaM.jpg",
+      "posterShape": "poster",
+      "description": "A 2000 documentary film about the British punk rock band The Clash. In 2003 it won the Grammy Awards for the best long form music video. Directed by Don Letts, the film combines old footage from the band's personal collection filmed in 1982 when The Clash went to New York with new interviews conducted for the film by Mal Peachey of members Mick Jones, Paul Simonon, Topper Headon, and Joe Strummer and other people associated with the group.",
+      "releaseInfo": "1999",
+      "runtime": "80 min",
+      "genres": [
+        "Documentary",
+        "Music",
+        "Punk"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/yz50hvz9p1Yahfaw40YImBzBdf.jpg",
+      "imdbRating": "6.7"
+    },
+    {
+      "id": "tt0296774",
+      "type": "movie",
+      "name": "N.Y.H.C.",
+      "poster": "https://image.tmdb.org/t/p/w780/upEP07FjOFtHpdiShROLbb4oZ7n.jpg",
+      "posterShape": "poster",
+      "description": "N.Y.H.C. is the first feature-length documentary to explore the New York Hardcore music scene. Drawings its roots from punk rock, hardcore evolved into a dedicated, self-contained movement, unconcerned with success in the mainstream. The documentary follows seven bands in the summer of 1995, ranging from Bronx inner-city youth to Long Island suburbanites to Hare Krishna devotees. N.Y.H.C. is a surprisingly in-depth and non-exploitive look into a vital and often neglected music community.",
+      "releaseInfo": "1999",
+      "runtime": "87 min",
+      "genres": [
+        "Documentary",
+        "Music",
+        "Punk"
+      ],
+      "imdbRating": "7.3"
+    },
+    {
+      "id": "tt0196074",
+      "type": "movie",
+      "name": "Scared Straight! 20 Years Later",
+      "poster": "https://image.tmdb.org/t/p/w780/kcfN7TFskn9qSk4ZLRxAZuUKWnS.jpg",
+      "posterShape": "poster",
+      "description": "Adults meet up with the people who changed their lives twenty years ago by confronting them about their lifestyles as teenagers.",
+      "releaseInfo": "1999",
+      "runtime": "95 min",
+      "genres": [
+        "Documentary",
+        "Music",
+        "Punk"
+      ],
+      "imdbRating": "6.6"
+    },
+    {
+      "id": "tt0230334",
+      "type": "movie",
+      "name": "Instrument",
+      "poster": "https://image.tmdb.org/t/p/w780/5f3gPdJeYyTIrFPKT08Yhe2vYTg.jpg",
+      "posterShape": "poster",
+      "description": "The band Fugazi is documented over a period of more than ten years (1987-1998) through performance footage and interviews with the band and their fans.  Director Jem Cohen's relationship with band member Ian MacKaye extends back to the 1970s when the two met in high school in Washington, D.C.. The film takes its title from the Fugazi song of the same name, from their 1993 album, In on the Kill Taker.  Editing of the film was done by both Cohen and the members of the band over the course of five years. It was shot from 1987 through 1998 on super 8, 16mm and video and is composed mainly of footage of concerts, interviews with the band members, practices, tours and time spent in the studio recording their 1995 album, Red Medicine.  The film also includes portraits of fans as well as interviews with them at various Fugazi shows around the United States throughout the years.",
+      "releaseInfo": "1999",
+      "runtime": "115 min",
+      "genres": [
+        "Documentary",
+        "Music",
+        "Punk"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/loBoMl5j8gxiuOvMB2EJRoIIJDa.jpg",
+      "imdbRating": "6.9"
+    },
+    {
+      "id": "tt0413322",
+      "type": "movie",
+      "name": "Sublime | Stories, Tales, Lies & Exaggerations",
+      "poster": "https://image.tmdb.org/t/p/w780/hCsD8btrIVjsxYlgOe08olIQobF.jpg",
+      "posterShape": "poster",
+      "description": "A personal Insight into the genius mind of Bradley Nowell and the rest of the band Sublime, this movie offers in depth interviews with Bradley's family and friend's, and how the band became what they are today...Sublime.A look at the Long Beach, California ska-punk band told through the Skunk family and some of the band's more famous friends. Featuring interviews by No Doubt, Pennywise, Mike Watt, The Vandals and others tell their favorite Sublime stories. Live performance footage is featured, as well as never before seen footage of the band's private lives.",
+      "releaseInfo": "1998",
+      "runtime": "133 min",
+      "genres": [
+        "Documentary",
+        "Music",
+        "Punk"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/3pJPVoXPEdNK6AS0WdMbRyZ6Nzf.jpg",
+      "imdbRating": "7.0"
+    },
+    {
+      "id": "tt11591802",
+      "type": "movie",
+      "name": "Iggy Pop: Jesus? This Is Iggy",
+      "poster": "https://image.tmdb.org/t/p/w780/b9St7rNu4pssgXukfzMfpzHs3A7.jpg",
+      "posterShape": "poster",
+      "description": "2002  Some of the excellent footage includes: excerpts from the 1970 Cincinnatti Pop Festival, famed for the Ig's clambering onto the audience, being hoisted aloft, and walking on a sea of hands, a feat unduplicated back in the day or since in the rock world; earliest Stooges B&W archival snippets showing Iggy right out of the chute as theatrical, quasi-modern dance iconoclast; the Ig enjoying his own private listening party to the original recording of \"No Fun\" years later; and lots of late-'90's/early 2000's audience interaction, sloppy kisses and all.  1  Lust For Life  2  TV Eye  3  I'm Alright  4  Dirt  5  Search & Destroy  6  Funtime  Featuring – David Bowie  7  Nightclubbing  8  Lust For Life  9  China Girl  10  Bla, Blah, Blah  11  Lust For Life  12  I'm A God  13  Natural Feeling  14  Louie, Louie",
+      "releaseInfo": "1998",
+      "runtime": "52 min",
+      "genres": [
+        "Documentary",
+        "Music",
+        "Punk"
+      ]
+    },
+    {
+      "id": "tt10280630",
+      "type": "movie",
+      "name": "Degeneration Punk",
+      "poster": "https://image.tmdb.org/t/p/w780/yIOxzxkbKWirwBUXXrsZHOFkhuC.jpg",
+      "posterShape": "poster",
+      "description": "Amusing ARTE Special with SEX PISTOLS, CLASH, GENERATION X, DEAD BOYS, DAMNED, and more  This rare documentary covers three very influential years in the shaping of punk rock: 1976-1979. more... Punk rock music was emerging as a solid genre, standing apart from the fuzzed out garage rock that came before it. This video documents the bands that pushed the envelope--The Clash, Sham 69, Generation X, The Dead Boys, X-Ray Spex...Some cool footage...newsreels on Sid Vicious' killing of Nancy Spungen, overdose... and more!",
+      "releaseInfo": "1997",
+      "runtime": "60 min",
+      "genres": [
+        "Documentary",
+        "Music",
+        "Punk"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/j1ckm7tenVg8xuSXxh4UR0XsZtl.jpg",
+      "imdbRating": "8.0"
+    },
+    {
       "id": "tt0107086",
       "type": "movie",
       "name": "Hated: GG Allin and The Murder Junkies",
@@ -777,6 +2144,154 @@
       ],
       "background": "https://image.tmdb.org/t/p/w1280/oXSuI7yNzQUp35qkL0mTroLPWU1.jpg",
       "imdbRating": "6.6"
+    },
+    {
+      "id": "tt1357435",
+      "type": "movie",
+      "name": "John Cale: Fragments of a Rainy Season",
+      "poster": "https://image.tmdb.org/t/p/w780/1x3yh0K258PKTXTsef2DwPG6GI5.jpg",
+      "posterShape": "poster",
+      "description": "Solo live concert recorded in Brussels, April 12, 1992.  Tracks:  1) On A Wedding Anniversary  2)  Lie Still, Sleep Becalmed  3) Do Not Go Gentle Into That Good Night  4) The Soul of Carmen Miranda  5) Cordoba  6) Ship Of Fools  7) Leaving It Up To You  8) The Ballad Of Cable Hogue  9)  Chinese Envoy  10) Fear Is A Man's Best Friend  11) Dying On The Vine  12) Heartbreak Hotel  13) Paris 1919  14) (I Keep A) Close Watch  15) Hallelujah",
+      "releaseInfo": "1992",
+      "runtime": "61 min",
+      "genres": [
+        "Documentary",
+        "Music",
+        "Punk"
+      ],
+      "imdbRating": "6.0"
+    },
+    {
+      "id": "tt0103595",
+      "type": "movie",
+      "name": "1991: The Year Punk Broke",
+      "poster": "https://image.tmdb.org/t/p/w780/nDWYYzzfBUeWQhWowEAExqwGbyv.jpg",
+      "posterShape": "poster",
+      "description": "David Markey's documentary of life on the road with Sonic Youth and Nirvana during their tour of Europe in late 1991. Also featuring live performances by Dinosaur Jr, Babes in Toyland, The Ramones and Gumball.",
+      "releaseInfo": "1992",
+      "runtime": "98 min",
+      "genres": [
+        "Documentary",
+        "Music",
+        "Punk"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/d6MIFNVaf3Z0rQHJfrlta6pb9fT.jpg",
+      "imdbRating": "6.8"
+    },
+    {
+      "id": "tt0417082",
+      "type": "movie",
+      "name": "Reality 86'd",
+      "poster": "https://image.tmdb.org/t/p/w780/g3A3mCBmNfGYFdkpPve1d6JfIWu.jpg",
+      "posterShape": "poster",
+      "description": "Three bands and crew (a combined total of 13 individuals), 2 Dodge Ram extended cab vans, one equipment truck, one PA system traverse the continental US for six months. A road documentary shot from the inside of the last Black Flag tour ever (the 1986 “In My Head” US tour.) Featuring behind the scenes proceedings and live performances from Black Flag, Painted Willie, and Gone. David Markey was along for the entire trip as the drummer / singer for Painted Willie, documenting the six month tour with his Super-8 camera as it happened. Also features roadie Joe (“Planet Joe”) Cole, soundmen Davo Claasen and Dave “Ratman” Levine, and the tour manager who kept it all together, Mitch Bury. A crucial turning point in American underground rock. The end of the line for a trail blazing American band. Shot in 1986 and completed by director David Markey in 1991 for We Got Power. (futuristika.org)",
+      "releaseInfo": "1991",
+      "runtime": "63 min",
+      "genres": [
+        "Documentary",
+        "Music",
+        "Punk"
+      ],
+      "imdbRating": "7.0"
+    },
+    {
+      "id": "tt1169988",
+      "type": "movie",
+      "name": "Iggy Pop: Live San Fran 1981",
+      "poster": "https://image.tmdb.org/t/p/w780/4AVmwNjIwTJCHLZmhsNxTqQzVoB.jpg",
+      "posterShape": "poster",
+      "description": "While this film may look rough and raw to 21st Century eyes, it is also the best representation of Iggy live during an otherwise pitifully undocumented era of his career. Fronting a crack band featuring Blondie drummer Clem Burke and future David Bowie guitarist Carlos Alomar, Pop is as unpredictable and dominant as ever (no small feat since he is sporting a mini skirt, garters and stockings for most of the show). Filmed on November 25 1981 near the end of their tour supporting his 1981 album Party, Iggy and co. are raw and ready for business. Iggy Pop Live 1981 provides a snapshot of a hungry artist at the top of his game in front of an adoring crowd.",
+      "releaseInfo": "1991",
+      "runtime": "60 min",
+      "genres": [
+        "Documentary",
+        "Music",
+        "Punk"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/3sBcE4dMVFZUUUwfiagOa7U3Ux7.jpg",
+      "imdbRating": "8.5"
+    },
+    {
+      "id": "tt0497635",
+      "type": "movie",
+      "name": "Lifestyles of the Ramones",
+      "poster": "https://image.tmdb.org/t/p/w780/tBy2rE3cG0Ydka4hJcq5FP6I0jt.jpg",
+      "posterShape": "poster",
+      "description": "Documentary on the Ramones, including archival footage, interviews and music videos, this was first released on VHS in 1990 and later re-released on DVD as part of the WEIRD TALES OF THE RAMONES box set in 2005, with expanded content. HEY, HO, LET'S GO!",
+      "releaseInfo": "1990",
+      "runtime": "58 min",
+      "genres": [
+        "Documentary",
+        "Music",
+        "Punk"
+      ],
+      "imdbRating": "6.7"
+    },
+    {
+      "id": "tt0092824",
+      "type": "movie",
+      "name": "Dandy",
+      "poster": "https://image.tmdb.org/t/p/w780/vZL1xKyyCna9KDUqqsObrli5I7c.jpg",
+      "posterShape": "poster",
+      "description": "A selection of seemingly unconnected scenes featuring Nick Cave, Blixa Bargeld, Nina Hagen and Lene Lovich. Losely based on Voltaire's satire \"Candide\".",
+      "releaseInfo": "1988",
+      "runtime": "93 min",
+      "genres": [
+        "Documentary",
+        "Music",
+        "Punk"
+      ],
+      "imdbRating": "6.8"
+    },
+    {
+      "id": "tt0092137",
+      "type": "movie",
+      "name": "X: The Unheard Music",
+      "poster": "https://image.tmdb.org/t/p/w780/d944LLwE6omCieUIcdZcZTYdpLB.jpg",
+      "posterShape": "poster",
+      "description": "A documentary about the band X. Includes live and studio performances and interviews with the band members.",
+      "releaseInfo": "1986",
+      "runtime": "84 min",
+      "genres": [
+        "Documentary",
+        "Music",
+        "Punk"
+      ],
+      "imdbRating": "6.4"
+    },
+    {
+      "id": "tt0285510",
+      "type": "movie",
+      "name": "Dead Kennedys: DMPO's on Broadway",
+      "poster": "https://image.tmdb.org/t/p/w780/q3UdNuyencMX2P5rSJVKgWVZKeS.jpg",
+      "posterShape": "poster",
+      "description": "This 58 minute DVD video is one of the Dead Kennedy's last ever live concerts, captured on film just months before their breakup in 1984. This 14-song performance at San Francisco's On Broadway catches Jello and company at the height of their punk powers.",
+      "releaseInfo": "1985",
+      "runtime": "58 min",
+      "genres": [
+        "Documentary",
+        "Music",
+        "Punk"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/eKgglqwtzoZFcaOgZoyNdT6vVVq.jpg",
+      "imdbRating": "8.0"
+    },
+    {
+      "id": "tt0088178",
+      "type": "movie",
+      "name": "Stop Making Sense",
+      "poster": "https://image.tmdb.org/t/p/w780/mRa1g477WrlltUzuxh6t27OXtdX.jpg",
+      "posterShape": "poster",
+      "description": "A concert film documenting Talking Heads at the height of their popularity, on tour for their 1983 album \"Speaking in Tongues.\" The band takes the stage one by one and is joined by a cadre of guest musicians for a career-spanning and cinematic performance that features creative choreography and visuals.",
+      "releaseInfo": "1984",
+      "runtime": "88 min",
+      "genres": [
+        "Documentary",
+        "Music",
+        "Punk"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/kPDmoP4BCFaELJVBog4nIV4CPge.jpg",
+      "imdbRating": "8.3"
     },
     {
       "id": "tt0198307",
@@ -812,21 +2327,71 @@
       "imdbRating": "6.4"
     },
     {
-      "id": "tt0080813",
+      "id": "tt0493162",
       "type": "movie",
-      "name": "The Great Rock 'n' Roll Swindle",
-      "poster": "https://image.tmdb.org/t/p/w780/A8Q8rhuv8YszuFuYrsCAo9281mt.jpg",
+      "name": "Rough Cut and Ready Dubbed",
+      "poster": "https://image.tmdb.org/t/p/w780/eMwNPTXMyEYhdhXmPydfXAqUbIi.jpg",
       "posterShape": "poster",
-      "description": "A rather incoherent post-breakup Sex Pistols \"documentary\", told from the point of view of Pistols manager Malcolm McLaren, whose (arguable) position is that the Sex Pistols in particular and punk rock in general were an elaborate scam perpetrated by him in order to make \"a million pounds.\"",
-      "releaseInfo": "1980",
-      "runtime": "103 min",
+      "description": "Documents the post-punk period between 1978 and 1981, featuring the looks, the poses, the rucks, the riots and the slaggings of bands and their fans. Includes footage of the Wasted Festival and some of the original bands 25 years on. Also has performances from exponents of Punk, Mod, Oi and Ska - all filmed in the same DIY ethic that spawned punk itself.",
+      "releaseInfo": "1982",
+      "runtime": "59 min",
       "genres": [
         "Documentary",
         "Music",
         "Punk"
       ],
-      "background": "https://image.tmdb.org/t/p/w1280/9Z3Pa8VsOz2E9wBJD7bz4pWt9se.jpg",
-      "imdbRating": "6.2"
+      "background": "https://image.tmdb.org/t/p/w1280/zxMVdYM6inZODjnqSiF9FVv2AuF.jpg",
+      "imdbRating": "7.4"
+    },
+    {
+      "id": "tt0405326",
+      "type": "movie",
+      "name": "The Slog Movie",
+      "poster": "https://image.tmdb.org/t/p/w780/eed03IRqYm8PiOTzAnTqQvUMIpw.jpg",
+      "posterShape": "poster",
+      "description": "A raw and unparalleled DIY documentary about the West Coast Punk scene made by a group of young fans/filmmakers about the bands they loved.",
+      "releaseInfo": "1982",
+      "runtime": "59 min",
+      "genres": [
+        "Documentary",
+        "Music",
+        "Punk"
+      ],
+      "imdbRating": "8.3"
+    },
+    {
+      "id": "tt0138902",
+      "type": "movie",
+      "name": "Urgh! A Music War",
+      "poster": "https://image.tmdb.org/t/p/w780/93k3sh03sjTLuX1av1yDqbuLtgO.jpg",
+      "posterShape": "poster",
+      "description": "Urgh! A Music War is a British film released in 1982 featuring performances by punk rock, new wave, and post-punk acts, filmed in 1980. Among the artists featured in the movie are Orchestral Manoeuvres in the Dark (OMD), Magazine, The Go-Go's, Toyah Willcox, The Fleshtones, Joan Jett & the Blackhearts, X, XTC, Devo, The Cramps, Oingo Boingo, Dead Kennedys, Gary Numan, Klaus Nomi, Wall of Voodoo, Pere Ubu, Steel Pulse, Surf Punks, 999, UB40, Echo & the Bunnymen and The Police. These were many of the most popular groups on the New Wave scene; in keeping with the spirit of the scene, the film also features several less famous acts, and one completely obscure group, Invisible Sex, in what appears to be their only public performance.",
+      "releaseInfo": "1981",
+      "runtime": "121 min",
+      "genres": [
+        "Documentary",
+        "Music",
+        "Punk"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/zrZTrOhY7SyNCt09pjtB9DzwHfN.jpg",
+      "imdbRating": "7.4"
+    },
+    {
+      "id": "tt0082226",
+      "type": "movie",
+      "name": "D.O.A.",
+      "poster": "https://image.tmdb.org/t/p/w780/aJ72b5COOzQHFLSS5LEqXnJsJLV.jpg",
+      "posterShape": "poster",
+      "description": "Documentary chronicling the rise and fall of the punk movement with rare interview footage of Sid Vicious and Nancy Spungen. Also concert and news footage.",
+      "releaseInfo": "1981",
+      "runtime": "95 min",
+      "genres": [
+        "Documentary",
+        "Music",
+        "Punk"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/eAdViIrnR8RFQDWPQVQTtUQ3cyG.jpg",
+      "imdbRating": "5.8"
     },
     {
       "id": "tt0081441",
@@ -844,6 +2409,22 @@
       ],
       "background": "https://image.tmdb.org/t/p/w1280/9ju9Ton7iB9klWc2Qt0BKGoltTQ.jpg",
       "imdbRating": "6.4"
+    },
+    {
+      "id": "tt32561946",
+      "type": "movie",
+      "name": "Just Play The Clash",
+      "poster": "https://image.tmdb.org/t/p/w780/gw5rDegU4rMa2XUldICairMo87G.jpg",
+      "posterShape": "poster",
+      "description": "A bonus feature of Rudeboy, featuring only the concert scenes with the band.",
+      "releaseInfo": "1980",
+      "runtime": "50 min",
+      "genres": [
+        "Documentary",
+        "Music",
+        "Punk"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/t8IcCyJBiELzpuAfPPM0jTucvWu.jpg"
     },
     {
       "id": "tt0368936",
