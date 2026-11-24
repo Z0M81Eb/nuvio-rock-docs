@@ -1,4 +1,5 @@
 {
+  "trakt_lists": [],
   "whitelist_add": [
     { "imdb_id": "tt1978940", "category": "genre-era-docs", "note": "Metal Evolution (series)" },
     { "imdb_id": "tt0478209", "category": "genre-era-docs", "note": "Metal: A Headbanger's Journey" },
