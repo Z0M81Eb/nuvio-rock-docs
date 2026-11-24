@@ -1,7 +1,9 @@
+import base64
 import json
 import os
 import re
 import shutil
+import threading
 import time
 from concurrent.futures import ThreadPoolExecutor, as_completed
 from datetime import datetime, timedelta, timezone
@@ -17,7 +19,7 @@ if not TMDB_API_KEY:
 
 TMDB_BASE_URL = "https://api.themoviedb.org/3"
 TRAKT_BASE_URL = "https://api.trakt.tv"
-TORBOX_SEARCH_URL = "https://search-api.torbox.app"
+TORBOX_API_URL = "https://api.torbox.app/v1/api"
 
 IMG_POSTER = "https://image.tmdb.org/t/p/w780"
 IMG_BACKDROP = "https://image.tmdb.org/t/p/w1280"
@@ -37,6 +39,7 @@ OVERRIDES_PATH = ROOT_DIR / "overrides.json"
 
 MIN_MOVIE_RUNTIME = 50
 MIN_HEALTHY_SEEDERS = 5
+TORBOX_BATCH_SIZE = 60
 MAX_ITEMS_PER_CATALOG = None
 
 CATALOG_DEFS = [
@@ -49,25 +52,16 @@ CATALOG_DEFS = [
 ]
 CAT_LABELS = {cid: label for cid, _, label in CATALOG_DEFS}
 
-TMDB_SESSION = requests.Session()
-if len(TMDB_API_KEY) > 40:
-    TMDB_SESSION.headers.update({"Authorization": f"Bearer {TMDB_API_KEY}"})
+_THREAD_LOCAL = threading.local()
 
-TRAKT_SESSION = requests.Session()
-if TRAKT_CLIENT_ID:
-    TRAKT_SESSION.headers.update({
-        "Content-Type": "application/json",
-        "trakt-api-version": "2",
-        "trakt-api-key": TRAKT_CLIENT_ID,
-        "User-Agent": "nuvio-rock-docs/3.0",
-    })
 
-TORBOX_SESSION = requests.Session()
-if TORBOX_API_KEY:
-    TORBOX_SESSION.headers.update({
-        "Authorization": f"Bearer {TORBOX_API_KEY}",
-        "User-Agent": "nuvio-rock-docs/3.0",
-    })
+def get_http_session() -> requests.Session:
+    sess = getattr(_THREAD_LOCAL, "session", None)
+    if sess is None:
+        sess = requests.Session()
+        sess.headers.update({"User-Agent": "nuvio-rock-docs/3.1"})
+        _THREAD_LOCAL.session = sess
+    return sess
 
 
 def compile_terms(terms: list[str]) -> re.Pattern:
@@ -78,24 +72,28 @@ def compile_terms(terms: list[str]) -> re.Pattern:
 def tmdb_get(endpoint: str, params: dict | None = None, retries: int = 3) -> dict:
     params = dict(params or {})
     params.setdefault("language", "en-US")
-    if len(TMDB_API_KEY) <= 40:
+    headers = {}
+    if len(TMDB_API_KEY) > 40:
+        headers["Authorization"] = f"Bearer {TMDB_API_KEY}"
+    else:
         params["api_key"] = TMDB_API_KEY
 
     url = f"{TMDB_BASE_URL}{endpoint}"
+    sess = get_http_session()
     for _ in range(retries):
         try:
-            resp = TMDB_SESSION.get(url, params=params, timeout=20)
+            resp = sess.get(url, params=params, headers=headers, timeout=15)
         except requests.RequestException:
-            time.sleep(2)
+            time.sleep(1.5)
             continue
         if resp.status_code == 429:
-            wait = int(resp.headers.get("Retry-After", 2)) + 1
+            wait = min(int(resp.headers.get("Retry-After", 2)) + 1, 10)
             time.sleep(wait)
             continue
         if resp.status_code == 404:
             return {}
         if resp.status_code >= 500:
-            time.sleep(2)
+            time.sleep(1.5)
             continue
         resp.raise_for_status()
         return resp.json()
@@ -106,50 +104,30 @@ def trakt_get(endpoint: str, params: dict | None = None, retries: int = 3):
     if not TRAKT_CLIENT_ID:
         return None
     url = f"{TRAKT_BASE_URL}{endpoint}"
+    headers = {
+        "Content-Type": "application/json",
+        "trakt-api-version": "2",
+        "trakt-api-key": TRAKT_CLIENT_ID,
+    }
+    sess = get_http_session()
     for _ in range(retries):
         try:
-            resp = TRAKT_SESSION.get(url, params=params or {}, timeout=20)
+            resp = sess.get(url, params=params or {}, headers=headers, timeout=15)
         except requests.RequestException:
-            time.sleep(2)
+            time.sleep(1.5)
             continue
         if resp.status_code == 429:
-            wait = int(resp.headers.get("Retry-After", 3)) + 1
+            wait = min(int(resp.headers.get("Retry-After", 3)) + 1, 10)
             time.sleep(wait)
             continue
         if resp.status_code in {401, 403, 404}:
             return None
         if resp.status_code >= 500:
-            time.sleep(2)
+            time.sleep(1.5)
             continue
         resp.raise_for_status()
         return resp.json()
     return None
-
-
-def torbox_search_get(path: str, params: dict | None = None, retries: int = 3) -> tuple[int, dict]:
-    url = f"{TORBOX_SEARCH_URL}{path}"
-    for _ in range(retries):
-        try:
-            resp = TORBOX_SESSION.get(url, params=params or {}, timeout=25)
-        except requests.RequestException:
-            time.sleep(2)
-            continue
-        if resp.status_code == 429:
-            wait = int(resp.headers.get("Retry-After", 4)) + 1
-            time.sleep(wait)
-            continue
-        if resp.status_code in {401, 403}:
-            return resp.status_code, {}
-        if resp.status_code == 404:
-            return 404, {}
-        if resp.status_code >= 500:
-            time.sleep(2)
-            continue
-        try:
-            return resp.status_code, resp.json()
-        except ValueError:
-            return resp.status_code, {}
-    return 0, {}
 
 
 def resolve_keyword_ids(names: list[str]) -> list[int]:
@@ -162,7 +140,7 @@ def resolve_keyword_ids(names: list[str]) -> list[int]:
     return sorted(ids)
 
 
-def collect_all_pages(endpoint: str, base_params: dict, max_pages: int = 100) -> set[int]:
+def collect_all_pages(endpoint: str, base_params: dict, max_pages: int = 60) -> set[int]:
     ids: set[int] = set()
     page = 1
     while page <= max_pages:
@@ -420,8 +398,7 @@ def classify_by_tmdb_tags(title: str, genre_ids: set[int], keywords: set[str]) -
     is_classic_explicit = bool(keywords & CLASSIC_ROCK_EXPLICIT_TAGS)
     is_classic_general = bool(keywords & CLASSIC_ROCK_GENERAL_TAGS)
 
-    # Extra guard: ambiguous standalone "goth" or "new wave" tags require Music genre (10402)
-    # or another concrete music tag (prevents Tim Burton / surfing docs)
+    # Guard against ambiguous standalone "goth" or "new wave" tags on non-music docs
     if is_goth_newwave and not (keywords & (GOTH_NEWWAVE_INDUSTRIAL_TAGS - {"goth", "new wave"})):
         if 10402 not in genre_ids and not (keywords & (MUSIC_GATE_TAGS - {"music"})):
             is_goth_newwave = False
@@ -433,8 +410,7 @@ def classify_by_tmdb_tags(title: str, genre_ids: set[int], keywords: set[str]) -
     if not has_any_target_genre:
         return None
 
-    # 3. Hard block unrelated genres (pop, rap, EDM, country, jazz, opera, boyband)
-    # unless the title carries an explicit rock/metal/punk/grunge/goth/new-wave subgenre tag
+    # 3. Hard block unrelated genres unless an explicit rock/metal/punk/grunge/goth subgenre tag exists
     if keywords & STRICT_NON_ROCK_TAGS:
         has_strong_subgenre = (
             is_metal or is_punk or is_goth_newwave or is_grunge_alt or is_classic_explicit
@@ -498,7 +474,7 @@ def discover_trakt_candidates(custom_lists: list[str]) -> tuple[set[int], set[in
     seen_trakt_list_ids: set[int] = set()
     for q in trakt_queries:
         results = trakt_get("/search/list", {"query": q, "limit": 6}) or []
-        time.sleep(0.25)
+        time.sleep(0.2)
         for entry in results:
             lst = entry.get("list") or {}
             tid = (lst.get("ids") or {}).get("trakt")
@@ -509,7 +485,7 @@ def discover_trakt_candidates(custom_lists: list[str]) -> tuple[set[int], set[in
 
     for ep in list_endpoints:
         items = trakt_get(ep) or []
-        time.sleep(0.25)
+        time.sleep(0.2)
         for item in items:
             itype = item.get("type")
             if itype == "movie":
@@ -535,12 +511,10 @@ def discover_candidates(overrides: dict) -> tuple[set[int], set[int], set[int], 
     movie_ids: set[int] = set()
     tv_ids: set[int] = set()
 
-    # 1. Trakt public lists
     trakt_movies, trakt_tv = discover_trakt_candidates(overrides.get("trakt_lists", []))
     movie_ids |= trakt_movies
     tv_ids |= trakt_tv
 
-    # 2. Chunked TMDB keyword discovery across all 6 categories
     discovery_keywords = [
         # Metal
         "heavy metal", "thrash metal", "death metal", "black metal", "doom metal",
@@ -565,7 +539,6 @@ def discover_candidates(overrides: dict) -> tuple[set[int], set[int], set[int], 
     kw_ids = resolve_keyword_ids(discovery_keywords)
     print(f"Resolved {len(kw_ids)} TMDB discovery keyword IDs.")
 
-    # Query in batches of 12 IDs so TMDB never silently truncates long keyword pipes
     chunk_size = 12
     for i in range(0, len(kw_ids), chunk_size):
         kw_pipe = "|".join(str(k) for k in kw_ids[i:i + chunk_size])
@@ -589,7 +562,6 @@ def discover_candidates(overrides: dict) -> tuple[set[int], set[int], set[int], 
             "include_adult": "false",
         }, max_pages=60)
 
-    # 3. Broad sweep of English Documentary + Music (catches well-tagged docs with alt keyword IDs)
     for sort_by in ("primary_release_date.desc", "vote_count.desc"):
         movie_ids |= collect_all_pages("/discover/movie", {
             "with_genres": "99,10402",
@@ -799,130 +771,313 @@ def fetch_series_meta(
     return category, {k: v for k, v in meta.items() if v is not None}
 
 
-# --- TORBOX PLAYABILITY CHECK (CACHED OR HEALTHY SEEDERS) ---
+# --- PUBLIC INDEXER HASH HARVESTING + TORBOX /checkcached BATCH FILTER ---
 
-def _torrents_are_playable(payload: dict) -> bool:
-    torrents = (payload.get("data") or {}).get("torrents") or []
-    for t in torrents:
-        if t.get("cached") is True:
-            return True
-        seeders = t.get("last_known_seeders")
-        if seeders is None:
-            seeders = t.get("seeders") or 0
-        if int(seeders) >= MIN_HEALTHY_SEEDERS:
-            return True
-    return False
+BTIH_RE = re.compile(r"btih:([a-fA-F0-9]{40}|[A-Za-z2-7]{32})", re.IGNORECASE)
+STOP_WORDS = {"the", "a", "an", "of", "and", "in", "on", "to", "for", "at", "by", "from"}
 
 
-def _usenet_is_cached(payload: dict) -> bool:
-    nzbs = (payload.get("data") or {}).get("nzbs") or []
-    return any(n.get("cached") is True for n in nzbs)
+def normalize_hex_hash(raw_hash: str | None, magnet_url: str | None = None) -> str | None:
+    candidate = (raw_hash or "").strip()
+    if not candidate and magnet_url:
+        m = BTIH_RE.search(magnet_url)
+        if m:
+            candidate = m.group(1)
 
+    if not candidate:
+        return None
 
-def check_torbox_playable(imdb_id: str, media_type: str) -> bool | None:
-    """
-    Returns True if cached on TorBox or has >= MIN_HEALTHY_SEEDERS,
-    False if unplayable, or None if TorBox returned an auth error.
-    """
-    time.sleep(0.22)  # Stay safely under TorBox's 300 req/min ceiling
+    if len(candidate) == 40 and all(c in "0123456789abcdefABCDEF" for c in candidate):
+        h = candidate.lower()
+        return None if h == "0" * 40 else h
 
-    if media_type == "series":
-        status, data = torbox_search_get(
-            f"/torrents/imdb:{imdb_id}",
-            {"season": 1, "episode": 1, "check_cache": "true"},
-        )
-        if status in {401, 403}:
+    if len(candidate) == 32:
+        try:
+            h = base64.b32decode(candidate.upper()).hex().lower()
+            return None if h == "0" * 40 else h
+        except Exception:
             return None
-        if status == 200 and _torrents_are_playable(data):
-            return True
 
-        # Fallback: check full Season 1 pack
-        time.sleep(0.22)
-        status2, data2 = torbox_search_get(
-            f"/torrents/imdb:{imdb_id}",
-            {"season": 1, "check_cache": "true"},
-        )
-        if status2 == 200 and _torrents_are_playable(data2):
-            return True
+    return None
 
-        # Optional Usenet cache check (silently skipped if plan lacks Usenet)
-        status_u, data_u = torbox_search_get(
-            f"/usenet/imdb:{imdb_id}",
-            {"season": 1, "episode": 1, "check_cache": "true"},
-        )
-        if status_u == 200 and _usenet_is_cached(data_u):
-            return True
 
+def _tokenize_title(text: str) -> list[str]:
+    clean = re.sub(r"[^a-z0-9]+", " ", text.lower()).strip()
+    return [w for w in clean.split() if w]
+
+
+def _knaben_hit_matches(hit_title: str, doc_title: str, year: str, media_type: str) -> bool:
+    if not hit_title:
         return False
 
-    # Movie check
-    status, data = torbox_search_get(
-        f"/torrents/imdb:{imdb_id}",
-        {"check_cache": "true"},
-    )
-    if status in {401, 403}:
-        return None
-    if status == 200 and _torrents_are_playable(data):
-        return True
+    hit_tokens = set(_tokenize_title(hit_title))
+    raw_tokens = _tokenize_title(doc_title)
+    sig_tokens = [w for w in raw_tokens if w not in STOP_WORDS and len(w) >= 2] or raw_tokens
+    if not sig_tokens:
+        return False
 
-    status_u, data_u = torbox_search_get(
-        f"/usenet/imdb:{imdb_id}",
-        {"check_cache": "true"},
-    )
-    if status_u == 200 and _usenet_is_cached(data_u):
-        return True
+    # Require all significant title words (or the subtitle/main-title clause if colon-separated)
+    full_match = all(w in hit_tokens for w in sig_tokens)
+    clause_match = False
+    if not full_match and ":" in doc_title:
+        parts = [p.strip() for p in doc_title.split(":") if p.strip()]
+        for part in parts:
+            ptoks = [w for w in _tokenize_title(part) if w not in STOP_WORDS and len(w) >= 2]
+            if len(ptoks) >= 2 and all(w in hit_tokens for w in ptoks):
+                clause_match = True
+                break
 
-    return False
+    if not (full_match or clause_match):
+        return False
+
+    if media_type == "movie" and year.isdigit():
+        y = int(year)
+        valid_years = {str(y - 1), str(y), str(y + 1)}
+        if not (hit_tokens & valid_years):
+            return False
+    elif media_type == "series" and len(sig_tokens) <= 1:
+        # Extra guard for single-word series titles (e.g. "Punk")
+        has_tv_marker = bool(re.search(r"\b(s\d{1,2}|season|complete|720p|1080p|2160p|webrip|hdtv)\b", hit_title, re.I))
+        has_year = year.isdigit() and year in hit_tokens
+        if not (has_tv_marker or has_year):
+            return False
+
+    return True
 
 
-def filter_catalogs_with_torbox(catalogs: dict[str, list[dict]]) -> dict[str, list[dict]]:
+def fetch_title_torrents(imdb_id: str, media_type: str, title: str, year: str) -> tuple[set[str], int]:
+    """
+    Collects (infohashes, max_seeders) from APIBay (IMDb), YTS (IMDb, movies),
+    and Knaben (video categories, title-validated).
+    """
+    hashes: set[str] = set()
+    max_seeders = 0
+    sess = get_http_session()
+
+    # 1. APIBay (exact IMDb ID lookup — zero false positives)
+    try:
+        r = sess.get("https://apibay.org/q.php", params={"q": imdb_id}, timeout=8)
+        if r.status_code == 200:
+            rows = r.json()
+            if isinstance(rows, list):
+                for row in rows:
+                    if str(row.get("id", "0")) == "0":
+                        continue
+                    h = normalize_hex_hash(row.get("info_hash"))
+                    if h:
+                        hashes.add(h)
+                        seeds = int(row.get("seeders") or 0)
+                        if seeds > max_seeders:
+                            max_seeders = seeds
+    except Exception:
+        pass
+
+    # 2. YTS (exact IMDb ID lookup — movies only)
+    if media_type == "movie" and max_seeders < MIN_HEALTHY_SEEDERS:
+        try:
+            r = sess.get(
+                "https://yts.mx/api/v2/list_movies.json",
+                params={"query_term": imdb_id, "limit": 1},
+                timeout=8,
+            )
+            if r.status_code == 200:
+                movies = ((r.json().get("data") or {}).get("movies")) or []
+                for mv in movies:
+                    if (mv.get("imdb_code") or "").lower() != imdb_id.lower():
+                        continue
+                    for tor in mv.get("torrents") or []:
+                        h = normalize_hex_hash(tor.get("hash"))
+                        if h:
+                            hashes.add(h)
+                            seeds = int(tor.get("seeds") or 0)
+                            if seeds > max_seeders:
+                                max_seeders = seeds
+        except Exception:
+            pass
+
+    # 3. Knaben (aggregates 1337x, TPB, RuTracker, EZTV, LimeTorrents — video categories only)
+    if max_seeders < MIN_HEALTHY_SEEDERS:
+        clean_q = re.sub(r"[^a-zA-Z0-9\s'-]+", " ", title).strip()
+        query_str = f"{clean_q} {year}".strip() if (media_type == "movie" and year.isdigit()) else clean_q
+        if query_str:
+            try:
+                r = sess.post(
+                    "https://api.knaben.org/v1",
+                    json={
+                        "query": query_str,
+                        "order_by": "seeders",
+                        "size": 15,
+                        "categories": [2000000, 3000000],
+                    },
+                    timeout=10,
+                )
+                if r.status_code == 200:
+                    hits = (r.json() or {}).get("hits") or []
+                    for hit in hits:
+                        htitle = hit.get("title") or ""
+                        if not _knaben_hit_matches(htitle, title, year, media_type):
+                            continue
+                        h = normalize_hex_hash(hit.get("hash"), hit.get("magnetUrl"))
+                        if h:
+                            hashes.add(h)
+                            seeds = int(hit.get("seeders") or 0)
+                            if seeds > max_seeders:
+                                max_seeders = seeds
+            except Exception:
+                pass
+
+    return hashes, max_seeders
+
+
+def torbox_check_cached_batches(hashes: list[str]) -> tuple[set[str], bool]:
+    """
+    Batch-checks hashes via TorBox's unrestricted main API (/v1/api/torrents/checkcached).
+    Returns (cached_hashes, api_ok).
+    """
+    cached: set[str] = set()
+    if not TORBOX_API_KEY or not hashes:
+        return cached, True
+
+    sess = get_http_session()
+    headers = {"Authorization": f"Bearer {TORBOX_API_KEY}"}
+    url = f"{TORBOX_API_URL}/torrents/checkcached"
+
+    total_batches = (len(hashes) + TORBOX_BATCH_SIZE - 1) // TORBOX_BATCH_SIZE
+    print(f"Checking {len(hashes)} hashes on TorBox /checkcached ({total_batches} batch requests)...")
+
+    for idx in range(0, len(hashes), TORBOX_BATCH_SIZE):
+        batch = hashes[idx:idx + TORBOX_BATCH_SIZE]
+        try:
+            resp = sess.get(
+                url,
+                headers=headers,
+                params={
+                    "hash": ",".join(batch),
+                    "format": "object",
+                    "list_files": "false",
+                },
+                timeout=15,
+            )
+        except requests.RequestException as exc:
+            print(f"WARNING: TorBox request failed on batch {idx // TORBOX_BATCH_SIZE + 1}: {exc}")
+            if idx == 0:
+                return set(), False
+            continue
+
+        if resp.status_code in {401, 403}:
+            print(f"WARNING: TorBox returned {resp.status_code} (check TORBOX_API_KEY). Skipping cache filter.")
+            return set(), False
+
+        if resp.status_code == 429:
+            print("WARNING: TorBox rate-limited /checkcached (429). Aborting remaining cache batches.")
+            return (cached, idx > 0)
+
+        if resp.status_code != 200:
+            print(f"WARNING: TorBox returned HTTP {resp.status_code} on batch {idx // TORBOX_BATCH_SIZE + 1}.")
+            if idx == 0:
+                return set(), False
+            continue
+
+        try:
+            payload = resp.json()
+        except ValueError:
+            continue
+
+        data = payload.get("data")
+        if isinstance(data, dict):
+            for req_hash, info in data.items():
+                if info:
+                    cached.add(req_hash.lower())
+                    if isinstance(info, dict) and info.get("hash"):
+                        cached.add(str(info["hash"]).lower())
+        elif isinstance(data, list):
+            for info in data:
+                if isinstance(info, dict) and info.get("hash"):
+                    cached.add(str(info["hash"]).lower())
+
+        time.sleep(0.25)
+
+    return cached, True
+
+
+def filter_catalogs_by_playability(catalogs: dict[str, list[dict]]) -> dict[str, list[dict]]:
     if not TORBOX_API_KEY:
-        print("TORBOX_API_KEY not set — skipping TorBox playability filter.")
+        print("TORBOX_API_KEY not set — skipping TorBox/seeder playability filter.")
         return catalogs
 
-    # Deduplicate IMDb IDs across all 6 catalogs so each title is checked only once
-    to_check: dict[str, str] = {}
+    # Deduplicate non-whitelisted titles across all 6 catalogs
+    to_check: dict[str, tuple[str, str, str]] = {}
     for items in catalogs.values():
         for item in items:
-            if not item.get("_whitelisted"):
-                to_check[item["id"]] = item["type"]
+            if not item.get("_whitelisted") and item["id"] not in to_check:
+                year = (item.get("_release_date") or "")[:4]
+                to_check[item["id"]] = (item["type"], item["name"], year)
 
     if not to_check:
         return catalogs
 
     print(
-        f"Checking {len(to_check)} unique titles on TorBox "
-        f"(cached or >= {MIN_HEALTHY_SEEDERS} seeders)..."
+        f"Harvesting torrent hashes & seeders for {len(to_check)} unique titles "
+        f"(APIBay + YTS + Knaben)..."
     )
 
-    # Probe one item first to verify the API key before running the full batch
-    first_id, first_type = next(iter(to_check.items()))
-    probe = check_torbox_playable(first_id, first_type)
-    if probe is None:
-        print("WARNING: TorBox returned 401/403 (check TORBOX_API_KEY). Skipping TorBox filter.")
-        return catalogs
+    title_hashes: dict[str, set[str]] = {}
+    playable: dict[str, bool] = {}
 
-    playable_map: dict[str, bool] = {first_id: probe}
-    remaining = [(iid, mtype) for iid, mtype in to_check.items() if iid != first_id]
-
-    with ThreadPoolExecutor(max_workers=3) as pool:
+    with ThreadPoolExecutor(max_workers=8) as pool:
         futures = {
-            pool.submit(check_torbox_playable, iid, mtype): iid
-            for iid, mtype in remaining
+            pool.submit(fetch_title_torrents, iid, mtype, title, year): iid
+            for iid, (mtype, title, year) in to_check.items()
         }
         for fut in as_completed(futures):
             iid = futures[fut]
-            res = fut.result()
-            playable_map[iid] = True if res is None else bool(res)
+            try:
+                hashes, max_seeds = fut.result()
+            except Exception:
+                hashes, max_seeds = set(), 0
+            title_hashes[iid] = hashes
+            if max_seeds >= MIN_HEALTHY_SEEDERS:
+                playable[iid] = True
 
-    kept_total = sum(1 for v in playable_map.values() if v)
-    print(f"TorBox check complete: {kept_total}/{len(playable_map)} titles playable.")
+    titles_with_hashes = sum(1 for h in title_hashes.values() if h)
+    passed_by_seeders = len(playable)
+    print(
+        f"Indexer pass complete: found hashes for {titles_with_hashes}/{len(to_check)} titles; "
+        f"{passed_by_seeders} already pass via >= {MIN_HEALTHY_SEEDERS} seeders."
+    )
+
+    # Safety fuse: if public indexers returned almost nothing (network block/outage), don't wipe catalogs
+    if len(to_check) >= 20 and titles_with_hashes == 0:
+        print("WARNING: Indexers returned 0 hashes across all titles. Keeping catalogs unfiltered.")
+        return catalogs
+
+    # Collect hashes ONLY for titles that haven't already passed via healthy seeders
+    hashes_to_check_set: set[str] = set()
+    for iid, hashes in title_hashes.items():
+        if iid not in playable and hashes:
+            hashes_to_check_set.update(hashes)
+
+    cached_hashes, torbox_ok = torbox_check_cached_batches(sorted(hashes_to_check_set))
+    if not torbox_ok:
+        print("WARNING: TorBox check aborted — keeping catalogs unfiltered to avoid dropping cached titles.")
+        return catalogs
+
+    rescued_by_cache = 0
+    for iid, hashes in title_hashes.items():
+        if iid not in playable and (hashes & cached_hashes):
+            playable[iid] = True
+            rescued_by_cache += 1
+
+    print(
+        f"Playability filter summary: {passed_by_seeders} via healthy seeders + "
+        f"{rescued_by_cache} rescued by TorBox cache = {len(playable)}/{len(to_check)} playable."
+    )
 
     filtered: dict[str, list[dict]] = {}
     for cat_id, items in catalogs.items():
         filtered[cat_id] = [
             item for item in items
-            if item.get("_whitelisted") or playable_map.get(item["id"], False)
+            if item.get("_whitelisted") or playable.get(item["id"], False)
         ]
     return filtered
 
@@ -999,8 +1154,8 @@ def main():
                 cat, meta = res
                 catalogs[cat].append(meta)
 
-    # Final TorBox playability filter (cached OR >= MIN_HEALTHY_SEEDERS)
-    catalogs = filter_catalogs_with_torbox(catalogs)
+    # Final playability filter: cached on TorBox OR >= MIN_HEALTHY_SEEDERS
+    catalogs = filter_catalogs_by_playability(catalogs)
 
     # Clean old catalog folder (removes stale docs/catalog/other/ files)
     shutil.rmtree(DOCS_DIR / "catalog", ignore_errors=True)
@@ -1015,7 +1170,7 @@ def main():
 
     manifest = {
         "id": "org.nuvio.rockmetalpunkdocs",
-        "version": "3.0.0",
+        "version": "3.1.0",
         "name": "Rock, Metal & Punk Documentaries",
         "description": "Live auto-updating catalog of official, playable English rock, metal, punk, grunge, goth, and new wave documentaries & docuseries.",
         "resources": ["catalog"],
