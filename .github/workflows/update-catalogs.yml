@@ -30,6 +30,7 @@ jobs:
       - name: Build static Nuvio catalogs
         env:
           TMDB_API_KEY: ${{ secrets.TMDB_API_KEY }}
+          TRAKT_CLIENT_ID: ${{ secrets.TRAKT_CLIENT_ID }}
         run: python scripts/build_catalogs.py
 
       - name: Commit and push updated catalogs
