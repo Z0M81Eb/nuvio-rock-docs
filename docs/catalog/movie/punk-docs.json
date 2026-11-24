@@ -1,0 +1,496 @@
+{
+  "metas": [
+    {
+      "id": "tt11725866",
+      "type": "movie",
+      "name": "Pretty Ugly: The Story of the Lunachicks",
+      "poster": "https://image.tmdb.org/t/p/w780/4YUXdyAySaAzRaLO3xaj8MZ1Tdr.jpg",
+      "posterShape": "poster",
+      "description": "Punk music icons, Lunachicks, reunite after 20 years in an unfiltered, hilarious, and electric documentary. Packed with rare archival footage, the film traces their rise from gritty NYC teens to feminist trailblazers of the 90s grunge era. Fans and newcomers alike will thrill as the band recounts old antics, rekindles bonds, and embarks on their long-awaited journey back to the stage.",
+      "releaseInfo": "2026",
+      "runtime": "91 min",
+      "genres": [
+        "Documentary",
+        "Music",
+        "Punk"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/lUbKhXXsIcGlsK53ZccsqtCySzp.jpg",
+      "imdbRating": "8.0"
+    },
+    {
+      "id": "tt34544350",
+      "type": "movie",
+      "name": "Green Day: 20 Years of American Idiot",
+      "poster": "https://image.tmdb.org/t/p/w780/epoXq5CjviVQFZ4Epr0BBZEmWqM.jpg",
+      "posterShape": "poster",
+      "description": "A celebration of the 20th anniversary of the punk band's bestselling and award-winning seventh studio album.",
+      "releaseInfo": "2024",
+      "runtime": "110 min",
+      "genres": [
+        "Documentary",
+        "Music",
+        "Punk"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/7nEUAywnhkHNPWnAjgs8TRy9Mw3.jpg",
+      "imdbRating": "5.8"
+    },
+    {
+      "id": "tt11692772",
+      "type": "movie",
+      "name": "Don't Fall in Love with Yourself",
+      "poster": "https://image.tmdb.org/t/p/w780/fu4bMI21LSi7swg43ZaCq5056cm.jpg",
+      "posterShape": "poster",
+      "description": "A documentary about the life and music of Justin Pearson. An enigmatic underground musician and owner of Three One G records.",
+      "releaseInfo": "2022",
+      "runtime": "93 min",
+      "genres": [
+        "Documentary",
+        "Music",
+        "Punk"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/3ho4MPXgoxCHKykfkYIF3ooLhLl.jpg",
+      "imdbRating": "5.0"
+    },
+    {
+      "id": "tt16378298",
+      "type": "movie",
+      "name": "Meet Me in the Bathroom",
+      "poster": "https://image.tmdb.org/t/p/w780/3XNYt5zo3B8urZLiSXNavuHgmVC.jpg",
+      "posterShape": "poster",
+      "description": "Set against the backdrop of 9/11, the story of how a new generation kickstarted a musical rebirth for New York City that reverberated around the world.",
+      "releaseInfo": "2022",
+      "runtime": "108 min",
+      "genres": [
+        "Documentary",
+        "Music",
+        "Punk"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/hNMds0oT22bK3HcVahhiXV9yjxe.jpg",
+      "imdbRating": "5.5"
+    },
+    {
+      "id": "tt11394468",
+      "type": "movie",
+      "name": "The Go-Go's",
+      "poster": "https://image.tmdb.org/t/p/w780/c5bktp3aUDplX9xCPrPrKxwOnVY.jpg",
+      "posterShape": "poster",
+      "description": "As the first all-female band to play their instruments, write their songs and have a No. 1 album, The Go-Go’s made history. Underpinned by candid testimonies, this film chronicles the meteoric rise to fame of a band born in the LA punk scene who became a pop phenomenon.",
+      "releaseInfo": "2021",
+      "runtime": "97 min",
+      "genres": [
+        "Documentary",
+        "Music",
+        "Punk"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/2QDgTgyfjDzEsbhzXYeDyGDzqLf.jpg",
+      "imdbRating": "6.8"
+    },
+    {
+      "id": "tt7206446",
+      "type": "movie",
+      "name": "Poly Styrene: I Am a Cliché",
+      "poster": "https://image.tmdb.org/t/p/w780/o8XVze793XRJQiAI5NFZB9iZp3O.jpg",
+      "posterShape": "poster",
+      "description": "The death of punk icon and X-Ray Spex front-woman Poly Styrene sends her daughter on a journey through her mother's archives in this intimate documentary.",
+      "releaseInfo": "2021",
+      "runtime": "96 min",
+      "genres": [
+        "Documentary",
+        "Music",
+        "Punk"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/hq0OtF2drrJN7FEBOgjteKRLMJD.jpg",
+      "imdbRating": "6.6"
+    },
+    {
+      "id": "tt11778272",
+      "type": "movie",
+      "name": "Crock of Gold: A Few Rounds with Shane MacGowan",
+      "poster": "https://image.tmdb.org/t/p/w780/O25m9xEWCP9okDsXI823P0Mfd2.jpg",
+      "posterShape": "poster",
+      "description": "A celebration of the Irish punk/poet Shane MacGowan, lead singer and songwriter of The Pogues, that combines unseen archive footage from the band and MacGowan’s family with original animations.",
+      "releaseInfo": "2020",
+      "runtime": "124 min",
+      "genres": [
+        "Documentary",
+        "Music",
+        "Punk"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/3Sg4rEi3NaXwoKAIHWkFVpgpSzG.jpg",
+      "imdbRating": "8.0"
+    },
+    {
+      "id": "tt4659728",
+      "type": "movie",
+      "name": "The Godfathers of Hardcore",
+      "poster": "https://image.tmdb.org/t/p/w780/yUHNMSBmYBFFXjWvYtkYVmwnQYm.jpg",
+      "posterShape": "poster",
+      "description": "Documentary following Roger Miret and Vinnie Stigma of the band, Agnostic Front who played a key role in defining, shaping and establishing the sound and cultural code of conduct for the still-thriving movement. Unlike the dozens of bands that have come and gone, Agnostic Front is still going strong.",
+      "releaseInfo": "2018",
+      "runtime": "95 min",
+      "genres": [
+        "Documentary",
+        "Music",
+        "Punk"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/yzw6azKdq46OlgK5fO4LrKneAWA.jpg",
+      "imdbRating": "6.7"
+    },
+    {
+      "id": "tt7525514",
+      "type": "movie",
+      "name": "Bad Reputation",
+      "poster": "https://image.tmdb.org/t/p/w780/pGoTT52CTFILoVG9QpCW6K5mtI9.jpg",
+      "posterShape": "poster",
+      "description": "The life and career of rock n' roll icon Joan Jett from her early years ripping it up onstage as the founder and backbone of hard-rock legends The Runaways, to her long time collaboration with Kenny Laguna as Joan Jett & the Blackhearts, and her enduring presence in pop culture as a rock pioneer and mentor. With her inimitable singles \"I Love Rock n Roll,\" and \"Bad Reputation\" Joan Jett inspired a generation of young women to rock.",
+      "releaseInfo": "2018",
+      "runtime": "95 min",
+      "genres": [
+        "Documentary",
+        "Music",
+        "Punk"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/Ab36upNGtC4EOfsPGs7WrBjdEQH.jpg",
+      "imdbRating": "6.6"
+    },
+    {
+      "id": "tt3044562",
+      "type": "movie",
+      "name": "Shot! The Psycho-Spiritual Mantra of Rock",
+      "poster": "https://image.tmdb.org/t/p/w780/2IhVBeIaB8kARRxotNm3L4LxL74.jpg",
+      "posterShape": "poster",
+      "description": "A reckless joyride into the darkest corners of popular music that delves deep into the mind of Mick Rock, the genius photographer who immortalized the seventies and the rise to rock stardom of many legendary musicians.",
+      "releaseInfo": "2017",
+      "runtime": "95 min",
+      "genres": [
+        "Documentary",
+        "Music",
+        "Punk"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/5uihLEJ7WMvzTfZukcymCt2cyNA.jpg",
+      "imdbRating": "6.8"
+    },
+    {
+      "id": "tt4643034",
+      "type": "movie",
+      "name": "Queercore: How to Punk a Revolution",
+      "poster": "https://image.tmdb.org/t/p/w780/z5fIQ7mbwuzWq6rsoSRBe25evM8.jpg",
+      "posterShape": "poster",
+      "description": "A documentary on Queercore, the cultural and social movement that began as an offshoot of punk and was distinguished by its discontent with society's disapproval of the gay, bisexual, lesbian and transgender communities.",
+      "releaseInfo": "2017",
+      "runtime": "83 min",
+      "genres": [
+        "Documentary",
+        "Music",
+        "Punk"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/7wZtRPrkj1NdqseysQdtiF27HyF.jpg",
+      "imdbRating": "7.0"
+    },
+    {
+      "id": "tt1714917",
+      "type": "movie",
+      "name": "Gimme Danger",
+      "poster": "https://image.tmdb.org/t/p/w780/8YHqUETRBIFza756s8kcuU8XhEQ.jpg",
+      "posterShape": "poster",
+      "description": "No other band in rock'n'roll history has rivaled The Stooges' combination of heavy primal throb, spiked psychedelia, blues-a-billy grind, complete with succinct angst-ridden lyrics, and a snarling, preening leopard of a frontman who somehow embodies Nijinsky, Bruce Lee, Harpo Marx, and Arthur Rimbaud all rolled into one. There is no precedent for The Stooges, while those inspired by them are now legion.  This film presents the context of their emergence musically, culturally, politically, historically, and relates their adventures and misadventures while charting their inspirations and the reasons behind their initial commercial challenges, as well as their long-lasting legacy.",
+      "releaseInfo": "2016",
+      "runtime": "108 min",
+      "genres": [
+        "Documentary",
+        "Music",
+        "Punk"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/pZpNErsqNbzODGAudQvhJ7pp6oH.jpg",
+      "imdbRating": "6.9"
+    },
+    {
+      "id": "tt5280980",
+      "type": "movie",
+      "name": "A Fat Wreck",
+      "poster": "https://image.tmdb.org/t/p/w780/9ibUnVKvvfvixDWMYqZHK2TdrMn.jpg",
+      "posterShape": "poster",
+      "description": "Fat Wreck Chords... The influential music label proud to say they've spent the past 25 years \"ruining punk rock\". A Fat Wreck tells the story of founders Fat Mike (of the legendary punk band NOFX) and his ex-wife Erin Kelly-Burkett, spanning the birth, growth, struggles, and survival of the Fat Wreck Chords label.",
+      "releaseInfo": "2016",
+      "runtime": "88 min",
+      "genres": [
+        "Documentary",
+        "Music",
+        "Punk"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/8nr6i8g8LBbMwNqux5UqbDdRPO5.jpg",
+      "imdbRating": "7.2"
+    },
+    {
+      "id": "tt3833822",
+      "type": "movie",
+      "name": "Daft Punk Unchained",
+      "poster": "https://image.tmdb.org/t/p/w780/cZhguyhaCAcRCSEn1QUHPCDSKzk.jpg",
+      "posterShape": "poster",
+      "description": "Daft Punk Unchained is the first film about the pop culture phenomenon that is Daft Punk, the duo with 12 million albums sold worldwide and seven Grammy Awards. Throughout their career Thomas Bangalter and Guy-Manuel de Homem-Christo have always resisted compromise and the established codes of show business. They have remained determined to maintain control of every link in the chain of their creative process. In the era of globalisation and social networks, they rarely speak in public and neither do they show their faces on TV.  This documentary explores this unprecedented cultural revolution revealing a duo of artists on a permanent quest for creativity, independence and freedom.",
+      "releaseInfo": "2015",
+      "runtime": "85 min",
+      "genres": [
+        "Documentary",
+        "Music",
+        "Punk"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/2pd2uIvfmVXiAgBPQIAgUuGvVM1.jpg",
+      "imdbRating": "7.2"
+    },
+    {
+      "id": "tt3905662",
+      "type": "movie",
+      "name": "Salad Days: A Decade of Punk in Washington, DC (1980-90)",
+      "poster": "https://image.tmdb.org/t/p/w780/2GfEkcbTzoZMmevgt1lG09vWKzP.jpg",
+      "posterShape": "poster",
+      "description": "\"Salad Days: A Decade of Punk in Washington, DC (1980-90)\" examines the early DIY punk scene in the Nation's Capital. It was a decade when seminal bands like Bad Brains, Minor Threat, Government Issue, Scream, Void, Faith, Rites of Spring, Marginal Man, Fugazi, and others released their own records and booked their own shows-without major record label constraints or mainstream media scrutiny. Contextually, it was a cultural watershed that predated the alternative music explosion of the 1990s (and the industry's subsequent implosion). Thirty years later, DC's original DIY punk spirit serves as a reminder of the hopefulness of youth, the power of community and the strength of conviction.",
+      "releaseInfo": "2015",
+      "runtime": "103 min",
+      "genres": [
+        "Documentary",
+        "Music",
+        "Punk"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/srt5bYfWCdRaXScLOE828TH6wOy.jpg",
+      "imdbRating": "6.9"
+    },
+    {
+      "id": "tt1785612",
+      "type": "movie",
+      "name": "The Punk Singer",
+      "poster": "https://image.tmdb.org/t/p/w780/d8k0rBZKAh15dGw6NQVMO25zhuw.jpg",
+      "posterShape": "poster",
+      "description": "A look at the life of activist, musician, and cultural icon Kathleen Hanna, who formed the punk band Bikini Kill and pioneered the \"riot grrrl\" movement of the 1990s.",
+      "releaseInfo": "2013",
+      "runtime": "80 min",
+      "genres": [
+        "Documentary",
+        "Music",
+        "Punk"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/5oQXOe2v2NjnsO2Cx5OtpA4zFIV.jpg",
+      "imdbRating": "7.1"
+    },
+    {
+      "id": "tt2417154",
+      "type": "movie",
+      "name": "Filmage: The Story of Descendents/All",
+      "poster": "https://image.tmdb.org/t/p/w780/kxbUWtPSqEiJi9UTXygcTe1noNL.jpg",
+      "posterShape": "poster",
+      "description": "Long before Green Day and Blink 182 inflicted punk-rock's puncture wound on the map of mainstream music, the Descendents were at home concocting the perfect mix of pop, angst, love, and coffee. FILMAGE: The Story of DESCENDENTS/ALL follows drummer/square-peg Bill Stevenson and his 'caffeinated retardedness' as he pushes his rotating door of bandmates to 'achieve ALL,' his philosophy of going for greatness at all costs. Stevenson is a force to be reckoned with--not even grapefruit-sized brain tumors can keep him down.",
+      "releaseInfo": "2013",
+      "runtime": "90 min",
+      "genres": [
+        "Documentary",
+        "Music",
+        "Punk"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/pahSEjEt49pwRan1vLvSIOruCTV.jpg",
+      "imdbRating": "8.0"
+    },
+    {
+      "id": "tt2481238",
+      "type": "movie",
+      "name": "Pussy Riot: A Punk Prayer",
+      "poster": "https://image.tmdb.org/t/p/w780/mLWysyvUQTDy0UqNKtueo7aYGJJ.jpg",
+      "posterShape": "poster",
+      "description": "In the winter of 2011, after a controversial election, Vladimir Putin was reinstalled as president of Russia. In response, hundreds of thousands of citizens rose up all over the country to challenge the legitimacy of Putin’s rule. Among them were a group of young, radical-feminist punk rockers, better known as Pussy Riot. Wearing colored balaclavas, tights, and summer dresses, they entered Moscow’s most venerated cathedral and dared to sing “Mother Mary, Banish Putin!” Now they have become victims of a “show” trial.",
+      "releaseInfo": "2013",
+      "runtime": "90 min",
+      "genres": [
+        "Documentary",
+        "Music",
+        "Punk"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/ogaw1QDo7XMVNgMougXmz5IduUY.jpg",
+      "imdbRating": "6.9"
+    },
+    {
+      "id": "tt2064713",
+      "type": "movie",
+      "name": "A Band Called Death",
+      "poster": "https://image.tmdb.org/t/p/w780/xYjNtz5JvUnkxRFDJ3rNAjzTt21.jpg",
+      "posterShape": "poster",
+      "description": "Before Bad Brains, the Sex Pistols or even the Ramones, there was Death. Formed in the early '70s by three teenage brothers from Detroit, Death is credited as being the first black punk band, and the Hackney brothers, David, Bobby, and Dannis, are now considered pioneers in their field. But it wasn’t until recently — when a dusty 1974 demo tape made its way out of Bobby’s attic nearly 30 years after Death’s heyday — that anyone outside a small group of punk enthusiasts had even heard of them.",
+      "releaseInfo": "2013",
+      "runtime": "96 min",
+      "genres": [
+        "Documentary",
+        "Music",
+        "Punk"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/gbsFT8oASldg1irE95cNwhPLboq.jpg",
+      "imdbRating": "7.1"
+    },
+    {
+      "id": "tt1633989",
+      "type": "movie",
+      "name": "Dragonslayer",
+      "poster": "https://image.tmdb.org/t/p/w780/niwJbncGCTuA0TWYDBXab9i0oEM.jpg",
+      "posterShape": "poster",
+      "description": "Dragonslayer documents the transgressions of a lost skate punk falling in love in the stagnant suburbs of Fullerton, California in the aftermath of America's economic collapse. Taking the viewer through a golden SoCal haze of broken homes, abandoned swimming pools and stray glimpses of unusual beauty, Dragonslayer captures the life and times of Josh 'Skreech' Sandoval, a local skate legend and new father, as his endless summer finally collides with the future. Set to the alternately roaring and dreamy soundtrack of bands from the indie labels Mexican Summer and Kemado Records including Best Coast, Bipolar Bear, Children, Dungen, Eddy Current and the Suppression Ring, Golden Triangle, Jacuzzi Boys, Little Girls, Real Estate, The Soft Pack, Saviours, as well as DEATH and Thee Oh Sees. Dragonslayer is a punk-rock manifesto to youth, love and learning to survive after the decline of western civilization.",
+      "releaseInfo": "2011",
+      "runtime": "74 min",
+      "genres": [
+        "Documentary",
+        "Music",
+        "Punk"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/bX4j8F1uGnKttKLM7zKmWr2C64F.jpg",
+      "imdbRating": "6.1"
+    },
+    {
+      "id": "tt1002573",
+      "type": "movie",
+      "name": "One Nine Nine Four",
+      "poster": "https://image.tmdb.org/t/p/w780/9vqn6lt6HSsfE2n01nmpFwxPVFs.jpg",
+      "posterShape": "poster",
+      "description": "Explore the birth, growth and eventual tipping point of punk rock during the 90s. Narrated by skateboarder Tony Hawk, the film features interviews and footage of various bands and figures in the punk scene.",
+      "releaseInfo": "2009",
+      "runtime": "90 min",
+      "genres": [
+        "Documentary",
+        "Music",
+        "Punk"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/baXNqgGIX9GairMXro3bt2pnHUu.jpg",
+      "imdbRating": "6.3"
+    },
+    {
+      "id": "tt0463028",
+      "type": "movie",
+      "name": "The Gits",
+      "poster": "https://image.tmdb.org/t/p/w780/iSB4Xs8LStxmZhroofXMcC9Dc0n.jpg",
+      "posterShape": "poster",
+      "description": "The inception and ascent of Seattle-based post-punk band the Gits, whose rise to prominence was cut short by the shocking rape and murder of their fiery lead singer, Mia Zapata, in 1993. Featuring performance footage and reflective interviews with the remaining members of the Gits, O'Kane's labor of love celebrates Zapata's memory and the group's enduring legacy.",
+      "releaseInfo": "2008",
+      "runtime": "82 min",
+      "genres": [
+        "Documentary",
+        "Music",
+        "Punk"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/wYhEfYT8SaCJ17yTtUssB1icYMA.jpg",
+      "imdbRating": "7.4"
+    },
+    {
+      "id": "tt0485773",
+      "type": "movie",
+      "name": "Green Day: Bullet in a Bible",
+      "poster": "https://image.tmdb.org/t/p/w780/rZQVl8IS4PbbDAR7dfzwHpqwUxD.jpg",
+      "posterShape": "poster",
+      "description": "Bullet in a Bible documents one of the two biggest shows that Green Day have performed in their career. They played in front of a crowd of over 130,000 people at the Milton Keynes National Bowl in United Kingdom on June 18–19, 2005. The band was supported by Jimmy Eat World, Taking Back Sunday, and Hard-Fi during their American Idiot world tour. Fourteen of the twenty songs performed at these shows were included on the disc; missing out \"Jaded\", \"Knowledge\", \"She\", \"Maria\", \"Homecoming\" and \"We Are The Champions\". Bullet in a Bible was released as a double-LP set on November 10, 2009, as part of the band's 2009 vinyl re-release campaign.",
+      "releaseInfo": "2005",
+      "runtime": "115 min",
+      "genres": [
+        "Documentary",
+        "Music",
+        "Punk"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/2JSuQJdtzAGKvMRDJtcYM6VbOS.jpg",
+      "imdbRating": "8.0"
+    },
+    {
+      "id": "tt0446765",
+      "type": "movie",
+      "name": "Punk: Attitude",
+      "poster": "https://image.tmdb.org/t/p/w780/39JHwg6fahbtL2qSgfxcVLbYv1t.jpg",
+      "posterShape": "poster",
+      "description": "From London's 1970 mod scene to Sonic Youth, punk music has always been about attitude and anarchy. This comprehensive rockumentary traces the roots of punk, from The Velvet Underground and the New York Dolls to the Sex Pistols and The Clash.",
+      "releaseInfo": "2005",
+      "runtime": "88 min",
+      "genres": [
+        "Documentary",
+        "Music",
+        "Punk"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/kzmJxrZLvLSIGvJT9CgksfEOtMB.jpg",
+      "imdbRating": "7.1"
+    },
+    {
+      "id": "tt0759960",
+      "type": "movie",
+      "name": "Avril Lavigne: My World",
+      "poster": "https://image.tmdb.org/t/p/w780/A1d6IKh1tWi3vsoLA5G6M9Acjdk.jpg",
+      "posterShape": "poster",
+      "description": "Avril Lavigne is up-front, outrageous and totally in control. And now her first DVD gives you a front-row seat at her Buffalo, NY concert and a behind-the-scenes glimpse into her amazing life. Go deeper into Avril's world and see and hear for yourself why Avril is real, rockin' and anything but ordinary.",
+      "releaseInfo": "2003",
+      "runtime": "107 min",
+      "genres": [
+        "Documentary",
+        "Music",
+        "Punk"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/vs4TxhEW6A9wMt3GRqJgjfYkzpe.jpg",
+      "imdbRating": "9.0"
+    },
+    {
+      "id": "tt0236216",
+      "type": "movie",
+      "name": "The Filth and the Fury",
+      "poster": "https://image.tmdb.org/t/p/w780/kdNkiqmMeJfaD8ybjiV6bVOrcQ8.jpg",
+      "posterShape": "poster",
+      "description": "Julien Temple's second documentary profiling punk rock pioneers the Sex Pistols is an enlightening, entertaining trip back to a time when the punk movement was just discovering itself. Featuring archival footage, never-before-seen performances, rehearsals, and recording sessions as well as interviews with group members who lived to tell the tale--including the one and only John Lydon (aka Johnny Rotten).",
+      "releaseInfo": "2000",
+      "runtime": "108 min",
+      "genres": [
+        "Documentary",
+        "Music",
+        "Punk"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/8qVZboJe6Il7Ey2I1DqcEjLrjnZ.jpg",
+      "imdbRating": "6.8"
+    },
+    {
+      "id": "tt0230334",
+      "type": "movie",
+      "name": "Instrument",
+      "poster": "https://image.tmdb.org/t/p/w780/5f3gPdJeYyTIrFPKT08Yhe2vYTg.jpg",
+      "posterShape": "poster",
+      "description": "The band Fugazi is documented over a period of more than ten years (1987-1998) through performance footage and interviews with the band and their fans.  Director Jem Cohen's relationship with band member Ian MacKaye extends back to the 1970s when the two met in high school in Washington, D.C.. The film takes its title from the Fugazi song of the same name, from their 1993 album, In on the Kill Taker.  Editing of the film was done by both Cohen and the members of the band over the course of five years. It was shot from 1987 through 1998 on super 8, 16mm and video and is composed mainly of footage of concerts, interviews with the band members, practices, tours and time spent in the studio recording their 1995 album, Red Medicine.  The film also includes portraits of fans as well as interviews with them at various Fugazi shows around the United States throughout the years.",
+      "releaseInfo": "1999",
+      "runtime": "115 min",
+      "genres": [
+        "Documentary",
+        "Music",
+        "Punk"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/loBoMl5j8gxiuOvMB2EJRoIIJDa.jpg",
+      "imdbRating": "6.9"
+    },
+    {
+      "id": "tt0198307",
+      "type": "movie",
+      "name": "Another State of Mind",
+      "poster": "https://image.tmdb.org/t/p/w780/x5XlkFS9D8tIg7yaihxgFBoFo5w.jpg",
+      "posterShape": "poster",
+      "description": "Another State of Mind is a documentary film made in the summer of 1982 chronicling the adventure (and misadventure) of two punk bands – Social Distortion and Youth Brigade – as they embark on their first international tour. Along the way they meet up with another progressive punk band, Minor Threat, whom they hang out with at the Dischord house for about a week near the end of their ill-fated tour.",
+      "releaseInfo": "1984",
+      "runtime": "78 min",
+      "genres": [
+        "Documentary",
+        "Music",
+        "Punk"
+      ],
+      "imdbRating": "6.2"
+    },
+    {
+      "id": "tt0081441",
+      "type": "movie",
+      "name": "Rude Boy",
+      "poster": "https://image.tmdb.org/t/p/w780/46tzKLP9Huzjf1L09qEEdvNAdx0.jpg",
+      "posterShape": "poster",
+      "description": "Rude Boy is a semi-documentary, part character study, part 'rockumentary', featuring a British punk band, The Clash. The script includes the story of a fictional fan juxtposed with actual public events of the day, including political demonstrations and Clash concerts.",
+      "releaseInfo": "1980",
+      "runtime": "133 min",
+      "genres": [
+        "Documentary",
+        "Music",
+        "Punk"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/9ju9Ton7iB9klWc2Qt0BKGoltTQ.jpg",
+      "imdbRating": "6.4"
+    }
+  ]
+}

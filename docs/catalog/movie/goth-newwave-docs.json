@@ -1,0 +1,172 @@
+{
+  "metas": [
+    {
+      "id": "tt46218028",
+      "type": "series",
+      "name": "New Wave",
+      "poster": "https://image.tmdb.org/t/p/w780/pYhVjDc83QA2UgJC9dfVS61Lp2I.jpg",
+      "posterShape": "poster",
+      "description": "The fascinating story of New Wave music and the decade from 1977 to 1987 that brought alternative culture into the mainstream.",
+      "releaseInfo": "2026",
+      "genres": [
+        "Documentary",
+        "Music",
+        "Goth, New Wave & Industrial"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/fI5A46pFe7di6SiqNvzBcraAO4X.jpg"
+    },
+    {
+      "id": "tt11933712",
+      "type": "movie",
+      "name": "Classic Albums: Tears for Fears - Songs From the Big Chair",
+      "poster": "https://image.tmdb.org/t/p/w780/vbgDd1twcXS0SlrXjxjoAaysPF1.jpg",
+      "posterShape": "poster",
+      "description": "A documentary that explores the creation of the seminal, second album by Tears for Fears. Songs from the Big Chair took the gothic synth-pop foundations of the band and combined them with arena-ready anthems, leading to critical acclaim and three international hit singles, Mothers Talk, Shout and Everybody Wants to Rule the World.",
+      "releaseInfo": "2020",
+      "runtime": "59 min",
+      "genres": [
+        "Documentary",
+        "Music",
+        "Goth, New Wave & Industrial"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/CzxMSaNxckMCtC1mgdZLS6FQvG.jpg",
+      "imdbRating": "7.5"
+    },
+    {
+      "id": "tt9320300",
+      "type": "movie",
+      "name": "The Rise of the Synths",
+      "poster": "https://image.tmdb.org/t/p/w780/1S5oE5yRp4QHHNLL9HvHgxwo7i2.jpg",
+      "posterShape": "poster",
+      "description": "A documentary about the Synthwave scene, nostalgia and the universe of creating sounds. A love letter to human fascination and the collective memories of a universe, that never existed.",
+      "releaseInfo": "2019",
+      "runtime": "82 min",
+      "genres": [
+        "Documentary",
+        "Music",
+        "Goth, New Wave & Industrial"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/aPYIfF4hjgjxNPomP0bfcEWX9lu.jpg",
+      "imdbRating": "7.6"
+    },
+    {
+      "id": "tt5847760",
+      "type": "movie",
+      "name": "Liberation Day",
+      "poster": "https://image.tmdb.org/t/p/w780/4Vm8SUmMmpAvXIRcazckTSAngd7.jpg",
+      "posterShape": "poster",
+      "description": "Under the loving but firm guidance of an old fan turned director and cultural diplomat, and to the surprise of a whole world, the ex-Yugoslavian cult band Laibach becomes the first rock group ever to perform in the fortress state of North Korea.",
+      "releaseInfo": "2016",
+      "runtime": "100 min",
+      "genres": [
+        "Documentary",
+        "Music",
+        "Goth, New Wave & Industrial"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/yYG30acfOfyEyCmkn8kWeY81ckY.jpg",
+      "imdbRating": "7.9"
+    },
+    {
+      "id": "tt5378224",
+      "type": "movie",
+      "name": "Gary Numan: Android In La La Land",
+      "poster": "https://image.tmdb.org/t/p/w780/1ZCglhextcg9Yc3PeFhIqW1hYPE.jpg",
+      "posterShape": "poster",
+      "description": "The Godfather of electronic music is on a one-way trip to crack America, returning to the studio for the first time in nearly a decade. Android is a celebration of a music-making pioneer and the love story that helped him turn his life around.",
+      "releaseInfo": "2016",
+      "runtime": "85 min",
+      "genres": [
+        "Documentary",
+        "Music",
+        "Goth, New Wave & Industrial"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/3sx25w8xK3YlGK53iKPniifU4P8.jpg",
+      "imdbRating": "7.2"
+    },
+    {
+      "id": "tt2007385",
+      "type": "movie",
+      "name": "U2: From the Sky Down",
+      "poster": "https://image.tmdb.org/t/p/w780/n7musOiqw5rCV5LZ7tVUKGqwhAR.jpg",
+      "posterShape": "poster",
+      "description": "This documentary film is about the making of U2's Achtung Baby. In 2011, U2 returned to Hansa Studios in Berlin to discuss the making of Achtung Baby. This film is directed by Davis Guggenheim. Screened in the UK as part of the BBC's Imagine series, this film was the first ever documentary to open the prestigious Toronto International Film Festival. Included is bonus footage of \"So Cruel,\" \"Love is Blindness,\" and \"The Fly\" shot in May 2010 during the band's visit to Hansa Studios to mark the 20th anniversary of Achtung Baby. Also included is a Q&A with Bono, The Edge, and Davis Guggenheim filmed at the Toronto International Film Festival in September 2011.",
+      "releaseInfo": "2011",
+      "runtime": "86 min",
+      "genres": [
+        "Documentary",
+        "Music",
+        "Goth, New Wave & Industrial"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/ceWWWWtOnGjH0E7xZVVdT0G4OIa.jpg",
+      "imdbRating": "7.5"
+    },
+    {
+      "id": "tt1477715",
+      "type": "movie",
+      "name": "Michael Jackson's This Is It",
+      "poster": "https://image.tmdb.org/t/p/w780/8GvQzHFSqr9KhyVxLEpB5dXPOWG.jpg",
+      "posterShape": "poster",
+      "description": "A compilation of interviews, rehearsals and backstage footage of Michael Jackson as he prepared for his series of sold-out shows in London.",
+      "releaseInfo": "2009",
+      "runtime": "111 min",
+      "genres": [
+        "Documentary",
+        "Music",
+        "Goth, New Wave & Industrial"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/lkeCB9OtVx26x4b4AM8I1vMM4Y7.jpg",
+      "imdbRating": "7.4"
+    },
+    {
+      "id": "tt1658487",
+      "type": "movie",
+      "name": "Synth Britannia",
+      "poster": "https://image.tmdb.org/t/p/w780/nZQ23WqnpUDqHr9KhJ2wPb0XaiQ.jpg",
+      "posterShape": "poster",
+      "description": "Documentary following a generation of post-punk musicians who took the synthesiser from the experimental fringes to the centre of the pop stage.",
+      "releaseInfo": "2009",
+      "runtime": "88 min",
+      "genres": [
+        "Documentary",
+        "Music",
+        "Goth, New Wave & Industrial"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/gJQaIXxW0fzTzJbU7ec2l4apMbx.jpg",
+      "imdbRating": "7.8"
+    },
+    {
+      "id": "tt0402406",
+      "type": "movie",
+      "name": "The Nomi Song",
+      "poster": "https://image.tmdb.org/t/p/w780/3Te10GQGWDo0aUdRvXZSMWrwb5O.jpg",
+      "posterShape": "poster",
+      "description": "Looks like an alien, sings like a diva - Klaus Nomi was one of the 1980s' most profoundly bizarre characters to emerge through rock music: a counter tenor who sang pop music like opera and brought opera to club audiences and made them like it. The Nomi Song is a film about fame, death, friendship, betrayal, opera, and the greatest New Wave rock star that never was!",
+      "releaseInfo": "2004",
+      "runtime": "98 min",
+      "genres": [
+        "Documentary",
+        "Music",
+        "Goth, New Wave & Industrial"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/iIFP9UdGCyVHqN0kBnfKE0pZOTU.jpg",
+      "imdbRating": "6.4"
+    },
+    {
+      "id": "tt0094590",
+      "type": "movie",
+      "name": "Depeche Mode: 101",
+      "poster": "https://image.tmdb.org/t/p/w780/pc3cBfBxtK9EXKmYaNpL6wtEPuC.jpg",
+      "posterShape": "poster",
+      "description": "A fascinating documentary focusing on backstage realities of art and business during the British synthesizer band's 1988 American tour.",
+      "releaseInfo": "1989",
+      "runtime": "120 min",
+      "genres": [
+        "Documentary",
+        "Music",
+        "Goth, New Wave & Industrial"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/fJNcvIhNAk0Z7BFsgztrsVahxVg.jpg",
+      "imdbRating": "8.0"
+    }
+  ]
+}

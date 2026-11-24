@@ -1,0 +1,273 @@
+{
+  "metas": [
+    {
+      "id": "tt36163614",
+      "type": "movie",
+      "name": "Iron Maiden: Burning Ambition",
+      "poster": "https://image.tmdb.org/t/p/w780/yZqhFJDenLfgF1VygOOCNmAdS1P.jpg",
+      "posterShape": "poster",
+      "description": "With unprecedented access to the official archives and intimate recollections from the band, both current and past,  Iron Maiden: Burning Ambition invites fans to experience one of the most iconic journeys in music history.  Spanning five decades, this electrifying documentary charts the band’s rise from the pubs of East London to the world’s biggest stadiums. Featuring exclusive interviews with band members and contributors such as Javier Bardem, Lars Ulrich and Chuck D, as well as all-new animated sequences of the band's legendary mascot, Eddie, the film offers a rare and intimate look at Iron Maiden’s uncompromising vision and unwavering connection with their truly global army of fans.",
+      "releaseInfo": "2026",
+      "runtime": "105 min",
+      "genres": [
+        "Documentary",
+        "Music",
+        "Metal"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/52t7nT1f117FW6gdG32DrQKxpU1.jpg",
+      "imdbRating": "8.6"
+    },
+    {
+      "id": "tt37960140",
+      "type": "movie",
+      "name": "Sharon & Ozzy Osbourne: Coming Home",
+      "poster": "https://image.tmdb.org/t/p/w780/9forDaL8ZdQ9pf2MHSz4UFpMFej.jpg",
+      "posterShape": "poster",
+      "description": "Follow the final three years of Ozzy Osbourne's life as he and Sharon plan a return home after 25 years in LA and prepare for the ultimate farewell gig.",
+      "releaseInfo": "2025",
+      "runtime": "59 min",
+      "genres": [
+        "Documentary",
+        "Music",
+        "Metal"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/kd2eCh5JVZ3z92TqbTEtUzsKeRL.jpg",
+      "imdbRating": "8.5"
+    },
+    {
+      "id": "tt35048255",
+      "type": "series",
+      "name": "Into the Void: Life, Death and Heavy Metal",
+      "poster": "https://image.tmdb.org/t/p/w780/kCy8anrdjQHjdveW9M9bf7qRx57.jpg",
+      "posterShape": "poster",
+      "description": "Explore the epic struggles and the cultural impacts made by Heavy Metal's most compelling artists. Their intensely personal stories about finding success offer an intoxicating combo of volume and distortion delivered via pulsating tales of murder, addiction, rebellion and redemption.",
+      "releaseInfo": "2025",
+      "genres": [
+        "Documentary",
+        "Music",
+        "Metal"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/7aaxAZBNDLsXD35fgFxCztrTKVa.jpg",
+      "imdbRating": "9.6"
+    },
+    {
+      "id": "tt33210825",
+      "type": "series",
+      "name": "Nöthin' But a Good Time: The Uncensored Story of '80s Hair Metal",
+      "poster": "https://image.tmdb.org/t/p/w780/q1F5H91Y1RPTFBmR9idZB4MZaKM.jpg",
+      "posterShape": "poster",
+      "description": "A fresh and shockingly candid behind-the-scenes look at one of music's most iconic eras. Each episode showcases the insanity and blazing ambition that has enthralled generations of music lovers and continues to influence culture to this day.",
+      "releaseInfo": "2024",
+      "genres": [
+        "Documentary",
+        "Music",
+        "Metal"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/9YPUhIXQOXGgvO4NgNKr4OAgtBb.jpg",
+      "imdbRating": "7.8"
+    },
+    {
+      "id": "tt31023148",
+      "type": "series",
+      "name": "Thank You, Goodnight - The Bon Jovi Story",
+      "poster": "https://image.tmdb.org/t/p/w780/2lY4K8yWfMda1QJDxY4oyT6kR6x.jpg",
+      "posterShape": "poster",
+      "description": "An all access series chronicling the epic past and uncertain future of the iconic band Bon Jovi. A 40-year odyssey of rock 'n roll idolatry on the precipice as a vocal injury threatens to bring everything to a halt.",
+      "releaseInfo": "2024",
+      "genres": [
+        "Documentary",
+        "Music",
+        "Metal"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/2Z4asSxxl2OoMVOsaTz1hYpDCrn.jpg",
+      "imdbRating": "7.7"
+    },
+    {
+      "id": "tt11851698",
+      "type": "movie",
+      "name": "Dio: Dreamers Never Die",
+      "poster": "https://image.tmdb.org/t/p/w780/a8AR4SkNm9aDSMTwbobKVEave2P.jpg",
+      "posterShape": "poster",
+      "description": "This career spanning documentary on heavy metal legend Ronnie James Dio delves deep into his incredible rise from 50's doo-wop crooner, to his early classic rock days in Ritchie Blackmore's Rainbow, to replacing the iconic lead singer Ozzy Osborne in Black Sabbath, to finally cement his legend with DIO. Ronnie's biography is completely unique to the tired sex, drugs and rock and roll cliches. The film is about perseverance, dreams and the power to believe in yourself.",
+      "releaseInfo": "2022",
+      "runtime": "116 min",
+      "genres": [
+        "Documentary",
+        "Music",
+        "Metal"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/4X5zGNdTJM8FgJ7SjE37AlPINmH.jpg",
+      "imdbRating": "7.7"
+    },
+    {
+      "id": "tt14966042",
+      "type": "movie",
+      "name": "The History of Metal and Horror",
+      "poster": "https://image.tmdb.org/t/p/w780/xpGo52T2ks9dISWnFackLhkjtx.jpg",
+      "posterShape": "poster",
+      "description": "A documentary that explores the history of heavy metal music, horror films, and how the two genres have merged together over time.",
+      "releaseInfo": "2021",
+      "runtime": "101 min",
+      "genres": [
+        "Documentary",
+        "Music",
+        "Metal"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/msre31rgxzabjmKNGoXSHhtWRMR.jpg",
+      "imdbRating": "5.0"
+    },
+    {
+      "id": "tt10191866",
+      "type": "movie",
+      "name": "Murder in the Front Row: The San Francisco Bay Area Thrash Metal Story",
+      "poster": "https://image.tmdb.org/t/p/w780/lsVmolhCxoR10YRrJIltTjZTVZt.jpg",
+      "posterShape": "poster",
+      "description": "Murder In The Front Row: The San Francisco Bay Area Thrash Metal Story. In the early 1980’s, a small group of dedicated Bay Area headbangers shunned the hard rock of MTV and Hollywood hairspray bands in favor of a more dangerous brand of metal that became known as thrash! From the tape trading network to the clubs to the record stores and fanzines, director Adam Dubin reveals how the scene nurtured the music and the music spawned a movement.  Murder In The Front Row is told through powerful first person testimony and stunning animation and photography. The film is a social study of a group of young people defying the odds and building something essential for themselves.  Featuring interviews with Metallica, Megadeth, Slayer, Anthrax, Exodus, Testament, Death Angel, Possessed and many more! Narrated by Brian Posehn.",
+      "releaseInfo": "2019",
+      "runtime": "92 min",
+      "genres": [
+        "Documentary",
+        "Music",
+        "Metal"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/o5hxa4ES8a2esehZMhqBnntAlIr.jpg",
+      "imdbRating": "7.3"
+    },
+    {
+      "id": "tt7133352",
+      "type": "movie",
+      "name": "Black Sabbath: The End of The End",
+      "poster": "https://image.tmdb.org/t/p/w780/ftvpcFSFGHKPG4s7W48eJUkUUUV.jpg",
+      "posterShape": "poster",
+      "description": "Chronicles the final tour from Black Sabbath. On February 4th, 2017, Black Sabbath takes the stage in Birmingham, the city where it all began, to play the 81st and final gig of the tour and bring down the curtain on a career that spanned almost half a century.",
+      "releaseInfo": "2017",
+      "runtime": "97 min",
+      "genres": [
+        "Documentary",
+        "Music",
+        "Metal"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/kLM6DxvsnQhcyAif2ZpprOLki61.jpg",
+      "imdbRating": "7.7"
+    },
+    {
+      "id": "tt6545506",
+      "type": "movie",
+      "name": "Deep Purple: From Here To Infinite",
+      "poster": "https://image.tmdb.org/t/p/w780/dnfgMShA4autoQp5dZO8H2g9Pq1.jpg",
+      "posterShape": "poster",
+      "description": "Feature length documentary about the story behind the pioneering and influential British heavy metal band as they enter the studio to record their new album.",
+      "releaseInfo": "2017",
+      "runtime": "97 min",
+      "genres": [
+        "Documentary",
+        "Music",
+        "Metal"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/ihQFIibeEVFHykWmHQc0jxzgtfy.jpg",
+      "imdbRating": "7.9"
+    },
+    {
+      "id": "tt8678982",
+      "type": "movie",
+      "name": "Death by Metal",
+      "poster": "https://image.tmdb.org/t/p/w780/64dE6t7jD9Imdo2AGBMhimpnVru.jpg",
+      "posterShape": "poster",
+      "description": "Here comes DEATH's probing and pulsing rock doc, DEATH BY METAL, pulling back the palm fronds of DEATH's origins in Altamonte Springs, Florida, and latching a narrative hook into the headstrong Chuck Schuldiner juggernaut for fifteen gratifying if sometimes frustrating years. As the baby steps become giant leaps, the stable of supporting players grows and continually shines in its own devious light.",
+      "releaseInfo": "2016",
+      "runtime": "107 min",
+      "genres": [
+        "Documentary",
+        "Music",
+        "Metal"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/sJUZMj3C7xn34ZMVpfhCEY5fIV9.jpg",
+      "imdbRating": "7.1"
+    },
+    {
+      "id": "tt1361558",
+      "type": "movie",
+      "name": "Iron Maiden: Flight 666",
+      "poster": "https://image.tmdb.org/t/p/w780/3Qfao6dEKEVxLWbX2ALqoge182o.jpg",
+      "posterShape": "poster",
+      "description": "Heavy metal band Iron Maiden's 2008 Somewhere Back in Time World Tour. This concert recording accompanies the documentary film \"Iron Maiden: Flight 666\". The 16 songs performed were filmed live in 16 different cities giving you the full experience of the live power of Maiden and their fans all around the globe.",
+      "releaseInfo": "2009",
+      "runtime": "113 min",
+      "genres": [
+        "Documentary",
+        "Music",
+        "Metal"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/o1zaOyLalrfA96FiqYZKhZWQBHp.jpg",
+      "imdbRating": "7.8"
+    },
+    {
+      "id": "tt1014809",
+      "type": "movie",
+      "name": "Until the Light Takes Us",
+      "poster": "https://image.tmdb.org/t/p/w780/sPg2fepwnhGzhRbVZ7bYoneOYaK.jpg",
+      "posterShape": "poster",
+      "description": "Chronicles the history, ideology and aesthetic of Norwegian black metal, a musical subculture infamous as much for a series of murders and church arsons as it is for its unique musical and visual aesthetics. This is the first film to truly shed light on a movement that has heretofore been shrouded by rumor and obscured by inaccurate and shallow depictions. Featuring exclusive interviews with the musicians themselves, Until the Light Takes Us explores every aspect of the controversial movement that has captured the attention of the world.",
+      "releaseInfo": "2008",
+      "runtime": "93 min",
+      "genres": [
+        "Documentary",
+        "Music",
+        "Metal"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/tTOYeamnYF9K0u7y1yj209H6Nad.jpg",
+      "imdbRating": "6.8"
+    },
+    {
+      "id": "tt1157605",
+      "type": "movie",
+      "name": "Anvil! The Story of Anvil",
+      "poster": "https://image.tmdb.org/t/p/w780/rDrMuFaWBKwjwEnw4C06Sm97huY.jpg",
+      "posterShape": "poster",
+      "description": "At 14, best friends Robb Reiner and Lips made a pact to rock together forever. Their band, Anvil, hailed as the \"demi-gods of Canadian metal\" influenced a musical generation that includes Metallica, Slayer, and Anthrax. Following a calamitous European tour, Lips and Robb, now in their fifties, set off to record their 13th album in one last attempt to fulfill their boyhood dreams.",
+      "releaseInfo": "2008",
+      "runtime": "81 min",
+      "genres": [
+        "Documentary",
+        "Music",
+        "Metal"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/2AMk0Df2Lr0WtFDHGsEo1UE8IHW.jpg",
+      "imdbRating": "7.6"
+    },
+    {
+      "id": "tt0370418",
+      "type": "movie",
+      "name": "Classic Albums: Metallica - Metallica",
+      "poster": "https://image.tmdb.org/t/p/w780/k07VWZsMOnyB5ROWG6NVTg2UDRd.jpg",
+      "posterShape": "poster",
+      "description": "The story of the making of this remarkable album is told here via exclusive interviews with band members James Hetfield, Lars Ulrich, Kirk Hammett and Jason Newsted, archive footage and performance, and contributions from producer Bob Rock. We revisit the original multi-tracks of the album, as well as listen to previously unheard demo recordings. Featuring the five singles from the album, Enter Sandman, Sad But True, \"The Unforgiven\", \"Wherever I May Roam\" and \"Nothing Else Matters\", this is the compelling story of one of the biggest selling albums of all time, a true Classic Album.",
+      "releaseInfo": "2001",
+      "runtime": "50 min",
+      "genres": [
+        "Documentary",
+        "Music",
+        "Metal"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/gMlY4IXyhSEHu4MOsHHqdMHTjoD.jpg",
+      "imdbRating": "6.3"
+    },
+    {
+      "id": "tt0094980",
+      "type": "movie",
+      "name": "The Decline of Western Civilization Part II: The Metal Years",
+      "poster": "https://image.tmdb.org/t/p/w780/obJGzd7ExOdc9Y7PFskra36nKpI.jpg",
+      "posterShape": "poster",
+      "description": "An exploration of the heavy metal scene in Los Angeles, with particular emphasis on glam metal. It features concert footage and interviews of legendary heavy metal and hard rock bands and artists such as Aerosmith, Alice Cooper, Kiss, Megadeth, Motörhead, Ozzy Osbourne and W.A.S.P..",
+      "releaseInfo": "1988",
+      "runtime": "93 min",
+      "genres": [
+        "Documentary",
+        "Music",
+        "Metal"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/AlpslskDPx4RuAXdRcdRakzRn7U.jpg",
+      "imdbRating": "6.8"
+    }
+  ]
+}

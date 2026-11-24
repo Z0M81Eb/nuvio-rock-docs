@@ -1,0 +1,306 @@
+{
+  "metas": [
+    {
+      "id": "tt21217912",
+      "type": "series",
+      "name": "Trainwreck: Woodstock '99",
+      "poster": "https://image.tmdb.org/t/p/w780/hFWNQTiJ2VXfZeKrsykem0o9nWc.jpg",
+      "posterShape": "poster",
+      "description": "Woodstock 1969 promised peace and music, but its '99 revival delivered days of rage, riots and real harm. Why did it go so horribly wrong?",
+      "releaseInfo": "2022",
+      "genres": [
+        "Documentary",
+        "Music",
+        "Genres & Eras"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/2K1qU488CD5beY0dPa3l0AJRqMi.jpg",
+      "imdbRating": "7.3"
+    },
+    {
+      "id": "tt14155414",
+      "type": "series",
+      "name": "This Is Pop",
+      "poster": "https://image.tmdb.org/t/p/w780/uVG8QtrKspTYGCJRKqFUa4Vyfgs.jpg",
+      "posterShape": "poster",
+      "description": "Unknown histories take center stage as the hitmakers themselves - from ABBA to T-Pain - explore dimensions of pop music you never knew existed.",
+      "releaseInfo": "2021",
+      "genres": [
+        "Documentary",
+        "Music",
+        "Genres & Eras"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/hw6CdkZ0NOdnkFv6cJHHRI6qt3y.jpg",
+      "imdbRating": "6.0"
+    },
+    {
+      "id": "tt9419282",
+      "type": "series",
+      "name": "Punk",
+      "poster": "https://image.tmdb.org/t/p/w780/gXeHnCQUnjQ5QmfUwkruvSGImis.jpg",
+      "posterShape": "poster",
+      "description": "Featuring original interviews with America’s punk pioneers and the U.K.’s most notorious bands, alongside a seamless blend of rare and unseen photos, gritty archival film and video, a crackling soundtrack of punk hits and misses, this documentary series explores the music, the fashion, the art and the DIY attitude of a subculture of self-described misfits and outcasts.",
+      "releaseInfo": "2019",
+      "genres": [
+        "Documentary",
+        "Music",
+        "Genres & Eras"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/grEqNmkodCGU6bn0iPpjkTp4wRD.jpg",
+      "imdbRating": "7.9"
+    },
+    {
+      "id": "tt6181974",
+      "type": "movie",
+      "name": "Industrial Accident: The Story of Wax Trax! Records",
+      "poster": "https://image.tmdb.org/t/p/w780/A23u7ydh2K3s1EpP8GTv86NnVXW.jpg",
+      "posterShape": "poster",
+      "description": "The true story of punks, queers, & criminals on a ride with two men who accidentally changed music along the way.",
+      "releaseInfo": "2018",
+      "runtime": "95 min",
+      "genres": [
+        "Documentary",
+        "Music",
+        "Genres & Eras"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/omw6hPpaZqbZGNvWNoogi4CKcMw.jpg",
+      "imdbRating": "7.9"
+    },
+    {
+      "id": "tt3913194",
+      "type": "movie",
+      "name": "Turn It Around: The Story of East Bay Punk",
+      "poster": "https://image.tmdb.org/t/p/w780/cGeKIwcfLxPojm6ODQ5Pn2pxonk.jpg",
+      "posterShape": "poster",
+      "description": "Turn It Around: The Story of East Bay Punk spans over 30 years of the California Bay Area’s punk music history with a central focus on the emergence of the inspiring 924 Gilman Street collective. This diverse group of artists, writers, organizers and musicians created a do-it-yourself petri dish that changed the punk scene... and the world at large.",
+      "releaseInfo": "2017",
+      "runtime": "157 min",
+      "genres": [
+        "Documentary",
+        "Music",
+        "Genres & Eras"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/ifEatursYAG6ZvpwFQrrbCN0cxS.jpg",
+      "imdbRating": "7.5"
+    },
+    {
+      "id": "tt6679242",
+      "type": "movie",
+      "name": "Joe Cocker: Mad Dog with Soul",
+      "poster": "https://image.tmdb.org/t/p/w780/gz9u6ur4o3TiA9kuabhzaKSF81u.jpg",
+      "posterShape": "poster",
+      "description": "The turbulent life of soul and blues singer, the late Joe Cocker. A former gas fitter from Sheffield, catapulted to world stardom in 1969 at Woodstock with his legendary performance of the Beatles song, \"A Little Help from My Friends\". But in the early 1970s, Joe Cocker's inner demons nearly killed him. Overcoming his struggles with alcohol and drugs, he rebuilt his reputation as \"one of the great primal rock and roll vocalists of all time\" (Billy Joel's description). The film mixes Joe Cocker's own words, with rare archive. His wife (Pam Cocker) & family, friends and the legendary songwriters and musicians he collaborated with, tell Joe Cocker's story. The film has raw, historic, electric performance footage throughout. Extensive interviews of key people through his life include: Pam Cocker, Ben Fong-Torres (Rolling Stone magazine editor), Randy Newman, Jimmy Webb, Billy Joel, Rita Coolidge, Deric Dyer, Glyn Johns, and numerous others.",
+      "releaseInfo": "2017",
+      "runtime": "90 min",
+      "genres": [
+        "Documentary",
+        "Music",
+        "Genres & Eras"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/lIw4itBytcQKXy7GdDLCu5GE6mu.jpg",
+      "imdbRating": "7.3"
+    },
+    {
+      "id": "tt4485246",
+      "type": "movie",
+      "name": "Danny Says",
+      "poster": "https://image.tmdb.org/t/p/w780/oWrWgrWuXM2dAkZzqjuyleH4IOh.jpg",
+      "posterShape": "poster",
+      "description": "DANNY SAYS is a documentary unveiling the amazing journey of Danny Fields. Fields has played a pivotal role in music and culture with seminal acts including: the Doors, the Velvet Underground, the Stooges, MC5, Nico, the Ramones and beyond.",
+      "releaseInfo": "2015",
+      "runtime": "104 min",
+      "genres": [
+        "Documentary",
+        "Music",
+        "Genres & Eras"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/a5WufTRhakSX8SFLzCpGz6xoUNq.jpg",
+      "imdbRating": "7.0"
+    },
+    {
+      "id": "tt2306745",
+      "type": "movie",
+      "name": "Sound City",
+      "poster": "https://image.tmdb.org/t/p/w780/hgPJg7tVETVpjfrBMc4WLil8ltC.jpg",
+      "posterShape": "poster",
+      "description": "The history of Sound City and their huge recording device; exploring how digital change has allowed 'people that have no place' in music to become stars. It follows former Nirvana drummer and Foo Fighter David Grohl as he attempts to resurrect the studio back to former glories.",
+      "releaseInfo": "2013",
+      "runtime": "106 min",
+      "genres": [
+        "Documentary",
+        "Music",
+        "Genres & Eras"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/9GQSUxZS7EBgEPtoDx5G8SOLPex.jpg",
+      "imdbRating": "7.4"
+    },
+    {
+      "id": "tt1978940",
+      "type": "series",
+      "name": "Metal Evolution",
+      "poster": "https://image.tmdb.org/t/p/w780/oqSTVJBnXkYEiZaKEqpw3yJcSfu.jpg",
+      "posterShape": "poster",
+      "description": "Metal Evolution is a 2011 documentary series directed by anthropologist and film-maker Sam Dunn and director, producer and music supervisor Scot McFadyen about heavy metal subgenres, with new episodes airing every Friday at 10pm EST on MuchMore and Saturday at 10pm EST on VH1 Classic. Its origins come from Dunn's first documentary Metal: A Headbanger's Journey, which included the acclaimed \"Heavy Metal Family Tree.\"",
+      "releaseInfo": "2011-2014",
+      "genres": [
+        "Documentary",
+        "Music",
+        "Genres & Eras"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/1KPfXcTpuvxNwxOPJRLoDcYEmKm.jpg",
+      "imdbRating": "8.1"
+    },
+    {
+      "id": "tt1977894",
+      "type": "movie",
+      "name": "Queen: Days of Our Lives",
+      "poster": "https://image.tmdb.org/t/p/w780/bsWSDe7bJATCJpXIeDB9bjVRXEp.jpg",
+      "posterShape": "poster",
+      "description": "In 1971, four college students got together to form a rock band. Since then, that certain band called Queen have released 26 albums and sold over 300 million records worldwide. The popularity of Freddie Mercury, Brian May, Roger Taylor and John Deacon is stronger than ever 40 years on. But it was no bed of roses. No pleasure cruise. Queen had their share of kicks in the face, but they came through and this is how they did it, set against the backdrop of brilliant music and stunning live performances from every corner of the globe. In this film, for the first time, it is the band that tells their story. Featuring brand new interviews with the band and unseen archive footage (including their recently unearthed, first ever TV performance), it is a compelling story told with intelligence, wit, plenty of humor and painful honesty.",
+      "releaseInfo": "2011",
+      "runtime": "120 min",
+      "genres": [
+        "Documentary",
+        "Music",
+        "Genres & Eras"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/dXl3zlrPYA1f3rikYsZIAlC7B6X.jpg",
+      "imdbRating": "8.1"
+    },
+    {
+      "id": "tt1249171",
+      "type": "movie",
+      "name": "Global Metal",
+      "poster": "https://image.tmdb.org/t/p/w780/28f1iaERjW8pk39Ye5KpG7Xfqa4.jpg",
+      "posterShape": "poster",
+      "description": "In GLOBAL METAL, directors Scot McFadyen and Sam Dunn set out to discover how the West's most maligned musical genre - heavy metal - has impacted the world's cultures beyond Europe and North America. The film follows metal fan and anthropologist Sam Dunn on a whirlwind journey through Asia, South America and the Middle East as he explores the underbelly of the world's emerging extreme music scenes; from Indonesian death metal to Chinese black metal to Iranian thrash metal. GLOBAL METAL reveals a worldwide community of metalheads who aren't just absorbing metal from the West - they're transforming it - creating a new form of cultural expression in societies dominated by conflict, corruption and mass-consumerism.",
+      "releaseInfo": "2008",
+      "runtime": "93 min",
+      "genres": [
+        "Documentary",
+        "Music",
+        "Genres & Eras"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/vm6Vcgj1m1W9osKnFwX6K7Njztn.jpg",
+      "imdbRating": "7.3"
+    },
+    {
+      "id": "tt0419434",
+      "type": "movie",
+      "name": "American Hardcore",
+      "poster": "https://image.tmdb.org/t/p/w780/v0nxzzUYHrudMn32WVIYdKnxe2M.jpg",
+      "posterShape": "poster",
+      "description": "Inspired by Steven Blush's book \"American Hardcore: A tribal history\" Paul Rachman's feature documentary debut is a chronicle of the underground hardcore punk years from 1979 to 1986. Interviews and rare live footage from artists such as Black Flag, Bad Brains, Minor Threat, SS Decontrol and the Dead Kennedys.",
+      "releaseInfo": "2006",
+      "runtime": "100 min",
+      "genres": [
+        "Documentary",
+        "Music",
+        "Genres & Eras"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/suJ3beeMSJgGKwPtIFcHaFw79OI.jpg",
+      "imdbRating": "6.9"
+    },
+    {
+      "id": "tt0478209",
+      "type": "movie",
+      "name": "Metal: A Headbanger's Journey",
+      "poster": "https://image.tmdb.org/t/p/w780/8e1q6wP5XVcjh3yLVU1WNdZnppm.jpg",
+      "posterShape": "poster",
+      "description": "The film discusses the traits and originators of some of metal's many subgenres, including the New Wave of British Heavy Metal, power metal, Nu metal, glam metal, thrash metal, black metal, and death metal. Dunn uses a family-tree-type flowchart to document some of the most popular metal subgenres. The film also explores various aspects of heavy metal culture.",
+      "releaseInfo": "2005",
+      "runtime": "91 min",
+      "genres": [
+        "Documentary",
+        "Music",
+        "Genres & Eras"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/6DaakTMERMr805MLPh7DouHwkzS.jpg",
+      "imdbRating": "7.6"
+    },
+    {
+      "id": "tt0387412",
+      "type": "movie",
+      "name": "Metallica: Some Kind of Monster",
+      "poster": "https://image.tmdb.org/t/p/w780/pnsRHqjrYbVUJXsPIDNsKV7gRmc.jpg",
+      "posterShape": "poster",
+      "description": "After bassist Jason Newsted quits the band in 2001, heavy metal superstars Metallica realize that they need an intervention. In this revealing documentary, filmmakers follow the three rock stars as they hire a group therapist and grapple with 20 years of repressed anger and aggression. Between searching for a replacement bass player, creating a new album and confronting their personal demons, the band learns to open up in ways they never thought possible.",
+      "releaseInfo": "2004",
+      "runtime": "140 min",
+      "genres": [
+        "Documentary",
+        "Music",
+        "Genres & Eras"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/kVlnObukrKh1vyAuLyHGdsCxJNH.jpg",
+      "imdbRating": "7.1"
+    },
+    {
+      "id": "tt0116589",
+      "type": "movie",
+      "name": "Hype!",
+      "poster": "https://image.tmdb.org/t/p/w780/vfR9veCwZMZXfpCF5QlnaLFoSr1.jpg",
+      "posterShape": "poster",
+      "description": "This documentary examines the Seattle scene as it became the focus of a merging of punk rock, heavy metal, and innovation. Building from the grass roots, self-promoted and self-recorded until break-out success of bands like Nirvana brought the record industry to the Pacific Northwest, a phenomenon was born.",
+      "releaseInfo": "1996",
+      "runtime": "84 min",
+      "genres": [
+        "Documentary",
+        "Music",
+        "Genres & Eras"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/8Z862TpwD0c9S0jWMG1Z69x3Y7F.jpg",
+      "imdbRating": "7.4"
+    },
+    {
+      "id": "tt0103595",
+      "type": "movie",
+      "name": "1991: The Year Punk Broke",
+      "poster": "https://image.tmdb.org/t/p/w780/nDWYYzzfBUeWQhWowEAExqwGbyv.jpg",
+      "posterShape": "poster",
+      "description": "David Markey's documentary of life on the road with Sonic Youth and Nirvana during their tour of Europe in late 1991. Also featuring live performances by Dinosaur Jr, Babes in Toyland, The Ramones and Gumball.",
+      "releaseInfo": "1992",
+      "runtime": "98 min",
+      "genres": [
+        "Documentary",
+        "Music",
+        "Genres & Eras"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/d6MIFNVaf3Z0rQHJfrlta6pb9fT.jpg",
+      "imdbRating": "6.8"
+    },
+    {
+      "id": "tt0082252",
+      "type": "movie",
+      "name": "The Decline of Western Civilization",
+      "poster": "https://image.tmdb.org/t/p/w780/36YfDJQKZfoCn5NLJ7mcrekE511.jpg",
+      "posterShape": "poster",
+      "description": "The Los Angeles punk music scene circa 1980 is the focus of this film. With Alice Bag Band, Black Flag, Catholic Discipline, Circle Jerks, Fear, Germs, and X.",
+      "releaseInfo": "1981",
+      "runtime": "100 min",
+      "genres": [
+        "Documentary",
+        "Music",
+        "Genres & Eras"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/f8xL5NhRuZNyai9Sijb9aykU1z5.jpg",
+      "imdbRating": "7.2"
+    },
+    {
+      "id": "tt0066580",
+      "type": "movie",
+      "name": "Woodstock",
+      "poster": "https://image.tmdb.org/t/p/w780/AapH8Qx4kUZoO7F4aK5cUnHjtdg.jpg",
+      "posterShape": "poster",
+      "description": "An intimate look at the Woodstock Music & Art Festival held in Bethel, NY in 1969, from preparation through cleanup, with historic access to insiders, blistering concert footage, and portraits of the concertgoers; negative and positive aspects are shown, from drug use by performers to naked fans sliding in the mud, from the collapse of the fences by the unexpected hordes to the surreal arrival of National Guard helicopters with food and medical assistance for the impromptu city of 500,000.",
+      "releaseInfo": "1970",
+      "runtime": "224 min",
+      "genres": [
+        "Documentary",
+        "Music",
+        "Genres & Eras"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/50tOx2lJXuszVjwCjNYHEXnPMWx.jpg",
+      "imdbRating": "7.6"
+    }
+  ]
+}

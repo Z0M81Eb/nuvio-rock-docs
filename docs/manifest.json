@@ -1,37 +1,46 @@
 {
   "id": "org.nuvio.rockmetalpunkdocs",
-  "version": "2.6.0",
+  "version": "3.1.0",
   "name": "Rock, Metal & Punk Documentaries",
-  "description": "Live auto-updating catalog of official, released English Genres/Eras, Rock, Metal, and Punk documentaries & docuseries.",
+  "description": "Live auto-updating catalog of official, playable English rock, metal, punk, grunge, goth, and new wave documentaries & docuseries.",
   "resources": [
     "catalog"
   ],
   "types": [
     "movie",
-    "series",
-    "other"
+    "series"
   ],
   "idPrefixes": [
     "tt"
   ],
   "catalogs": [
     {
-      "type": "other",
+      "type": "movie",
       "id": "genre-era-docs",
       "name": "Genres, Scenes & Eras"
     },
     {
-      "type": "other",
-      "id": "rock-docs",
-      "name": "Rock Documentaries"
+      "type": "movie",
+      "id": "classic-rock-docs",
+      "name": "Classic Rock Documentaries"
     },
     {
-      "type": "other",
+      "type": "movie",
+      "id": "grunge-alt-docs",
+      "name": "Grunge & Alternative Documentaries"
+    },
+    {
+      "type": "movie",
+      "id": "goth-newwave-docs",
+      "name": "Goth, New Wave & Industrial Documentaries"
+    },
+    {
+      "type": "movie",
       "id": "metal-docs",
       "name": "Metal Documentaries"
     },
     {
-      "type": "other",
+      "type": "movie",
       "id": "punk-docs",
       "name": "Punk Documentaries"
     }
