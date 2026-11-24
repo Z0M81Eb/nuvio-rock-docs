@@ -164,22 +164,6 @@
       "background": "https://image.tmdb.org/t/p/w1280/xNZBPljuDNzXrdzbY5lHlqXkdyS.jpg"
     },
     {
-      "id": "tt41889262",
-      "type": "movie",
-      "name": "Happiness Is Living in Our Land",
-      "poster": "https://image.tmdb.org/t/p/w780/oRwWsEsPkyGcSwQkV9vgul6UTjL.jpg",
-      "posterShape": "poster",
-      "description": "In the midst of the most horrid stagnation era in the Soviet Union – at the end of October 1982 – the Monk (Ivo Uukkivi), Allan Vainola, Peep Männil, and Villu Tamme gather for band practice in a room above the garage of a private house in Pääsküla and form one of the most (politically) heavyweight punk bands in history – Velikiye Luki. For the 60th jubilee of the Soviet Union, Ivo and Villu bake a voodoo ginger cookie and while they gobble it down, they demonstratively establish their programme of action: to destroy the Soviet Union.",
-      "releaseInfo": "2026",
-      "runtime": "90 min",
-      "genres": [
-        "Documentary",
-        "Music",
-        "Punk"
-      ],
-      "background": "https://image.tmdb.org/t/p/w1280/eTbfTxFDmyS2DoCND9n1K6LeAOV.jpg"
-    },
-    {
       "id": "tt21870816",
       "type": "movie",
       "name": "Billy Idol Should Be Dead",
@@ -197,21 +181,6 @@
       "imdbRating": "6.9"
     },
     {
-      "id": "tt39165190",
-      "type": "movie",
-      "name": "Eu, Punk",
-      "poster": "https://image.tmdb.org/t/p/w780/3P0O785CnBhmFcAREM9S0PYn2wZ.jpg",
-      "posterShape": "poster",
-      "description": "",
-      "releaseInfo": "2025",
-      "genres": [
-        "Documentary",
-        "Music",
-        "Punk"
-      ],
-      "background": "https://image.tmdb.org/t/p/w1280/zQ8QPFKVPMRKoY3f3fqtH7KMf3g.jpg"
-    },
-    {
       "id": "tt37284228",
       "type": "movie",
       "name": "Harder and Harder",
@@ -225,6 +194,37 @@
         "Music",
         "Punk"
       ]
+    },
+    {
+      "id": "tt9726452",
+      "type": "movie",
+      "name": "Nash the Slash Rises Again!",
+      "poster": "https://image.tmdb.org/t/p/w780/toLCb8XxF06Qe46SKss9rb3YpLd.jpg",
+      "posterShape": "poster",
+      "description": "Nash The Slash was deliciously surreal, verging on demented. A mummy wrapped in surgical bandages, an invisible man in full formal white tuxedo and top hat buzz-sawing his violin through endless reams of electronics, melodies and distortion. His music and image were demanding. His life was rock fantasy.  ‘NASH THE SLASH RISES AGAIN!’ uncovers the sinister Canadian electronic music innovator. A classically trained violinist and multi-instrumentalist, he created music that was an unlikely combination of prog-rock, punk-rock, classic-rock, psychedelic fused with techno and industrial before they had names.  The end result is an unearthly life drenched in film history, enveloped in a wall of sound that would do Phil Spector justice. A career embodied in artistic integrity, courage and the price-tag that comes with it.  ‘NASH THE SLASH RISES AGAIN!’ unwinds the bandages of a ground-breaking, mad musical scientist whose career decomposed before the world caught up.",
+      "releaseInfo": "2025",
+      "runtime": "80 min",
+      "genres": [
+        "Documentary",
+        "Music",
+        "Punk"
+      ]
+    },
+    {
+      "id": "tt21241760",
+      "type": "movie",
+      "name": "Bif Naked",
+      "poster": "https://image.tmdb.org/t/p/w780/eVJnRUjh3Gmal6UyeEuALvBRi4A.jpg",
+      "posterShape": "poster",
+      "description": "BIF NAKED is a raw and electrifying look at one of Canada’s most iconic and fearless artists. Born in India, adopted by American missionaries, and raised in Winnipeg, Bif carved her own path—rising through the male-dominated punk scene with her unmistakable voice, poetic lyrics, and defiant spirit.  Behind the tattoos and powerhouse performances is a survivor of cancer, addiction, and heartbreak, whose strength and vulnerability reshaped what it means to be a rock star. Through rare footage, intimate interviews, and unforgettable performances, this documentary celebrates a woman who’s never played by the rules—and never backed down.",
+      "releaseInfo": "2025",
+      "runtime": "107 min",
+      "genres": [
+        "Documentary",
+        "Music",
+        "Punk"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/yjQzAwrMs2UjtKswuYqMtVvmLfM.jpg"
     },
     {
       "id": "tt22754562",
@@ -242,6 +242,38 @@
       ]
     },
     {
+      "id": "tt37717867",
+      "type": "movie",
+      "name": "Life in One Chord",
+      "poster": "https://image.tmdb.org/t/p/w780/bGnN8Daw3Oe3ZBFq9EJp68QrQd2.jpg",
+      "posterShape": "poster",
+      "description": "Punk renegade Shayne Carter (Straitjacket Fits, Dimmer) takes us on an iconoclastic tour through a career of highs and lows from suburban Dunedin to the heights of international fame and back again.",
+      "releaseInfo": "2025",
+      "runtime": "93 min",
+      "genres": [
+        "Documentary",
+        "Music",
+        "Punk"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/wFwEvqYjfOCELEgcFLCuGoPGFuA.jpg"
+    },
+    {
+      "id": "tt27546324",
+      "type": "movie",
+      "name": "Scream of My Blood: A Gogol Bordello Story",
+      "poster": "https://image.tmdb.org/t/p/w780/dCfj6s2X6kZI4zcItQ8EtyveyRE.jpg",
+      "posterShape": "poster",
+      "description": "With Ukraine's sovereignty and cultural identity under perilous threat, punk icons Gogol Bordello, are using their music as a rallying cry for a nation. Through never-before-seen photo and video archives spanning two decades - including concert performances, backstage moments and intimate interviews - this film follows the epic journey of Eugene Hütz, Gogol frontman and one of the greatest storytellers of our time. A Romani born in Ukraine, Hütz fled his homeland during the Chernobyl disaster. Now, after years of exorcising demons through his music, he is going home to face down the biggest demon of all. A wild punk-rock-doc that explodes off the screen, Scream of My Blood is a testament to the power of speaking your truth, no matter the cost.",
+      "releaseInfo": "2025",
+      "runtime": "99 min",
+      "genres": [
+        "Documentary",
+        "Music",
+        "Punk"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/ujyWZJjlW0vL5ek6veExgwkf3ad.jpg"
+    },
+    {
       "id": "tt37090900",
       "type": "movie",
       "name": "Simple Plan: The Kids in the Crowd",
@@ -256,23 +288,6 @@
         "Punk"
       ],
       "background": "https://image.tmdb.org/t/p/w1280/oFSFYDEPpNJAWWPPFPS1j2g1Xgc.jpg",
-      "imdbRating": "8.0"
-    },
-    {
-      "id": "tt37436462",
-      "type": "movie",
-      "name": "Madness - Princes of Ska, Kings of Pop",
-      "poster": "https://image.tmdb.org/t/p/w780/z5qkzir2TK438pPvi2zGmgzCYne.jpg",
-      "posterShape": "poster",
-      "description": "From the back rooms of Camden's pubs to the roof of Buckingham Palace at Queen Elizabeth’s Jubilee: the London band Madness enriched British pop music history with their cheeky style and spectacular performances. In this documentary, we look back on their illustrious career with interviews with band members, friends, and music industry figures.  Featuring brand new recorded interviews with Suggs and Bedders from ‘Madness’. Alongside interviews with Lynval Golding, Rhoda Dakar, Clive Langer and many more.",
-      "releaseInfo": "2025",
-      "runtime": "53 min",
-      "genres": [
-        "Documentary",
-        "Music",
-        "Punk"
-      ],
-      "background": "https://image.tmdb.org/t/p/w1280/1e6ZpzZ9XrxyuGkLkAK7ptfzEop.jpg",
       "imdbRating": "8.0"
     },
     {
@@ -358,40 +373,6 @@
       "imdbRating": "10.0"
     },
     {
-      "id": "tt11709974",
-      "type": "movie",
-      "name": "DIESEL",
-      "poster": "https://image.tmdb.org/t/p/w780/1VEVhpBY6ymwYVByh9F0w7fKHQP.jpg",
-      "posterShape": "poster",
-      "description": "Diesel is a road-movie documentary on Punk Rock music",
-      "releaseInfo": "2018",
-      "runtime": "95 min",
-      "genres": [
-        "Documentary",
-        "Music",
-        "Punk"
-      ],
-      "background": "https://image.tmdb.org/t/p/w1280/dzBpHanMO2Bn8rlWcHBURLxAD7u.jpg",
-      "imdbRating": "10.0"
-    },
-    {
-      "id": "tt7130802",
-      "type": "movie",
-      "name": "Desolation Center",
-      "poster": "https://image.tmdb.org/t/p/w780/jeZMip8TcNWHGWG7DXcoHrb4pTU.jpg",
-      "posterShape": "poster",
-      "description": "The untold story of a series of Reagan-era guerrilla punk and industrial desert happenings in Southern California that are now recognized as the inspiration for Burning Man, Lollapalooza, and Coachella. Interviews and rare performance footage of Sonic Youth, Minutemen, Meat Puppets, Redd Kross, Einstürzende Neubauten, Survival Research Laboratories, Savage Republic, Swans and more.",
-      "releaseInfo": "2018",
-      "runtime": "93 min",
-      "genres": [
-        "Documentary",
-        "Music",
-        "Punk"
-      ],
-      "background": "https://image.tmdb.org/t/p/w1280/8lyS4RVfoeYZEHI1vaxljkSMKuE.jpg",
-      "imdbRating": "9.3"
-    },
-    {
       "id": "tt0114001",
       "type": "movie",
       "name": "Not Bad for a Girl",
@@ -438,23 +419,6 @@
         "Music",
         "Punk"
       ],
-      "imdbRating": "9.0"
-    },
-    {
-      "id": "tt7712170",
-      "type": "movie",
-      "name": "Italian Punk Hardcore 1980-1989: The Movie",
-      "poster": "https://image.tmdb.org/t/p/w780/5xtyJ79Mz27p1n4G8lXNjHSB4SC.jpg",
-      "posterShape": "poster",
-      "description": "",
-      "releaseInfo": "2015",
-      "runtime": "119 min",
-      "genres": [
-        "Documentary",
-        "Music",
-        "Punk"
-      ],
-      "background": "https://image.tmdb.org/t/p/w1280/d1Y6gU6q7intOBzt6xko2NCuGB8.jpg",
       "imdbRating": "9.0"
     },
     {
@@ -573,23 +537,6 @@
       ],
       "background": "https://image.tmdb.org/t/p/w1280/3Sg4rEi3NaXwoKAIHWkFVpgpSzG.jpg",
       "imdbRating": "8.0"
-    },
-    {
-      "id": "tt8059170",
-      "type": "movie",
-      "name": "Botinada: Origins of Brazilian Punk",
-      "poster": "https://image.tmdb.org/t/p/w780/ykjpoTMgdnZhJLvHHxY1e0ncoNB.jpg",
-      "posterShape": "poster",
-      "description": "Botinada chronicles the origins of punk rock in Brazil, its first phase (1976-1984) and the whereabouts of its protagonists.  Were 4 years of research, interviewed 77 people, thousands of hours in editing rooms, 200 hours of video and many rare and unpublished images compiled for the first time.  Botinada brings out this amazing story told by punks who experienced body, soul and leather jacket this chaotic journey.",
-      "releaseInfo": "2006",
-      "runtime": "110 min",
-      "genres": [
-        "Documentary",
-        "Music",
-        "Punk"
-      ],
-      "background": "https://image.tmdb.org/t/p/w1280/rR8CwomJ48zPhPoA7sHplES10gM.jpg",
-      "imdbRating": "8.2"
     },
     {
       "id": "tt2417154",
@@ -742,23 +689,6 @@
       "imdbRating": "8.0"
     },
     {
-      "id": "tt0920884",
-      "type": "movie",
-      "name": "OstPunk! Too much Future",
-      "poster": "https://image.tmdb.org/t/p/w780/dObKP2KMx2u0VcWtQUEUxgCRoB9.jpg",
-      "posterShape": "poster",
-      "description": "Tells the story of punk in the GDR.",
-      "releaseInfo": "2006",
-      "runtime": "92 min",
-      "genres": [
-        "Documentary",
-        "Music",
-        "Punk"
-      ],
-      "background": "https://image.tmdb.org/t/p/w1280/s3MFyYNumXMbw1xzsG2VlETQsGG.jpg",
-      "imdbRating": "8.0"
-    },
-    {
       "id": "tt10280630",
       "type": "movie",
       "name": "Degeneration Punk",
@@ -806,39 +736,6 @@
         "Punk"
       ],
       "background": "https://image.tmdb.org/t/p/w1280/1gqWx8LCcWzieEYXrRY9JDpnmPw.jpg",
-      "imdbRating": "8.0"
-    },
-    {
-      "id": "tt18748848",
-      "type": "movie",
-      "name": "Manolo Kabezabolo",
-      "poster": "https://image.tmdb.org/t/p/w780/ugPqajlFibQuvohLGUDTdKVnX3f.jpg",
-      "posterShape": "poster",
-      "description": "Documentary about Manuel Méndez, better known as Manolo Kabezabolo, a punk artist who in a somewhat implausible way has crossed time, space and fashions, without giving up his essences and principles.",
-      "releaseInfo": "2023",
-      "runtime": "92 min",
-      "genres": [
-        "Documentary",
-        "Music",
-        "Punk"
-      ],
-      "background": "https://image.tmdb.org/t/p/w1280/4Rd5zo1QCe0iXUBRKNcQBGsV7SK.jpg",
-      "imdbRating": "8.0"
-    },
-    {
-      "id": "tt5144914",
-      "type": "movie",
-      "name": "Hammerhead - Sterbt alle!",
-      "poster": "https://image.tmdb.org/t/p/w780/AgPat5uIJbkDiqxrW5GTcOrwcWa.jpg",
-      "posterShape": "poster",
-      "description": "Tells the story of the \"only true hardcore punk band of the 90s\" - HAMMERHEAD. This film is an attempt to approach a band that seems to have always been a mystery to some.",
-      "releaseInfo": "2006",
-      "runtime": "77 min",
-      "genres": [
-        "Documentary",
-        "Music",
-        "Punk"
-      ],
       "imdbRating": "8.0"
     },
     {
@@ -891,21 +788,6 @@
       "imdbRating": "7.7"
     },
     {
-      "id": "tt31113816",
-      "type": "movie",
-      "name": "Punk is not vraiment dead ?!",
-      "poster": "https://image.tmdb.org/t/p/w780/oI5uAdqlOOWiHGjecLAxcwGjymB.jpg",
-      "posterShape": "poster",
-      "description": "",
-      "releaseInfo": "2023",
-      "genres": [
-        "Documentary",
-        "Music",
-        "Punk"
-      ],
-      "imdbRating": "7.8"
-    },
-    {
       "id": "tt2007385",
       "type": "movie",
       "name": "U2: From the Sky Down",
@@ -953,38 +835,6 @@
         "Music",
         "Punk"
       ],
-      "imdbRating": "7.5"
-    },
-    {
-      "id": "tt0834173",
-      "type": "movie",
-      "name": "Die Toten Hosen - 3 Akkorde für ein Halleluja",
-      "poster": "https://image.tmdb.org/t/p/w780/svwHE8zehSnaszUpJadFLZlIDyU.jpg",
-      "posterShape": "poster",
-      "description": "",
-      "releaseInfo": "1989",
-      "genres": [
-        "Documentary",
-        "Music",
-        "Punk"
-      ],
-      "imdbRating": "7.5"
-    },
-    {
-      "id": "tt1378676",
-      "type": "movie",
-      "name": "Guidable: The Real History of Ratos de Porão",
-      "poster": "https://image.tmdb.org/t/p/w780/3rd8CFrq2hlVd1dMt3khdQ2rlkF.jpg",
-      "posterShape": "poster",
-      "description": "The uncensored history from the Brazilian band Ratos de Porão, one of the oldest Hardcore bands in the world. Almost three decades of drugs, madness and a lot of noise, told by the people who made and still make part of this institution of heavy rock.",
-      "releaseInfo": "2008",
-      "runtime": "120 min",
-      "genres": [
-        "Documentary",
-        "Music",
-        "Punk"
-      ],
-      "background": "https://image.tmdb.org/t/p/w1280/5dN9QuAYQG6E7Lu9VlKssXPLrnj.jpg",
       "imdbRating": "7.5"
     },
     {
@@ -1173,56 +1023,6 @@
       "imdbRating": "7.2"
     },
     {
-      "id": "tt4627446",
-      "type": "movie",
-      "name": "Revolution, Riot Grrrl Style",
-      "poster": "https://image.tmdb.org/t/p/w780/czePmP3PQ5xxWc658O6oQp3ltrr.jpg",
-      "posterShape": "poster",
-      "description": "Today, we see a new style of feminism springing up everywhere - young, provocative and radical. To get their message across, these women have decided to rely on rock music! While the Pussy Riot shock Russia and fascinate the West, the concerts of Peaches or Grimes are sold out, while artists such as Kathleen Hanna make their comeback to remind us that it all began in 1990 in some backwater of the United States. The RIOT GRRRLS revolutionized rock and inspired entire generations of young artists around the world. This film will explore today s feminist scene while revisiting the little known history of this revolution that shook the early 90s.",
-      "releaseInfo": "2014",
-      "runtime": "52 min",
-      "genres": [
-        "Documentary",
-        "Music",
-        "Punk"
-      ],
-      "background": "https://image.tmdb.org/t/p/w1280/nk0H3fhJqguTcuQaXbE6I4hw3j9.jpg",
-      "imdbRating": "7.2"
-    },
-    {
-      "id": "tt6145438",
-      "type": "movie",
-      "name": "Lo que hicimos fue secreto",
-      "poster": "https://image.tmdb.org/t/p/w780/lh4f4WftUPSzbN67rW6YbwRuJyL.jpg",
-      "posterShape": "poster",
-      "description": "",
-      "releaseInfo": "2016",
-      "genres": [
-        "Documentary",
-        "Music",
-        "Punk"
-      ],
-      "background": "https://image.tmdb.org/t/p/w1280/7HLEk3LbiqballlOjP5A0922AX1.jpg",
-      "imdbRating": "7.2"
-    },
-    {
-      "id": "tt17011928",
-      "type": "movie",
-      "name": "Grunge: A Story of Music and Rage",
-      "poster": "https://image.tmdb.org/t/p/w780/adO8CJETwmggbIZ0qOHZkz2Z55D.jpg",
-      "posterShape": "poster",
-      "description": "An extension of punk and the fury of the 70s, Grunge was built on the impossibility of living in this world without transforming it. On a categorical refusal to collaborate and the need to create your own rules. The subculture as a refuge. Grunge was a secret movement, a piracy that should never have become popular. A bubble whose epilogue was played out in 3 years, between 1991 and 1994. What happened to this rage?",
-      "releaseInfo": "2021",
-      "runtime": "52 min",
-      "genres": [
-        "Documentary",
-        "Music",
-        "Punk"
-      ],
-      "background": "https://image.tmdb.org/t/p/w1280/rSJPkAhx2MOF8Sa28vgE2iFsA7M.jpg",
-      "imdbRating": "7.2"
-    },
-    {
       "id": "tt5280980",
       "type": "movie",
       "name": "A Fat Wreck",
@@ -1304,23 +1104,6 @@
         "Punk"
       ],
       "background": "https://image.tmdb.org/t/p/w1280/lmIKTRiSsxdunST4ENSQ7CknDYv.jpg",
-      "imdbRating": "7.2"
-    },
-    {
-      "id": "tt23458996",
-      "type": "movie",
-      "name": "Kissing Gorbaciov",
-      "poster": "https://image.tmdb.org/t/p/w780/j5I7zOB7QBNDZ9KCURb15sItBdl.jpg",
-      "posterShape": "poster",
-      "description": "A small town in Salento, some Soviet rock bands, CCCP and an 8-day trip between Moscow and Leningrad. The incredible story of a tour between two worlds that would never be the same again.",
-      "releaseInfo": "2023",
-      "runtime": "97 min",
-      "genres": [
-        "Documentary",
-        "Music",
-        "Punk"
-      ],
-      "background": "https://image.tmdb.org/t/p/w1280/e6Nu3GK3G3MmSbIialDUiKQSCp.jpg",
       "imdbRating": "7.2"
     },
     {
@@ -1491,22 +1274,6 @@
       "imdbRating": "6.9"
     },
     {
-      "id": "tt0457424",
-      "type": "movie",
-      "name": "Nie wieder Arbeit - Die APPD, der legale Arm der Chaos-Tage?",
-      "poster": "https://image.tmdb.org/t/p/w780/wsKZ6uToQg8xYWybCw0NhAAj8j8.jpg",
-      "posterShape": "poster",
-      "description": "A \"life without work\" - this is the idea propagated by the \"Anarchist Pogo Party of Germany\" (APPD). In order to spread its unique political concept and to make the background to its activities appear transparent and credible to the voting public, the APPD commissioned a renowned film production company to create a loose mixture of subliminal propaganda and sympathetic trivialization. The film was also to focus on the glorification of the APPD politicians appearing in the election campaign in order to create the basis for a profitable cult of personality. A film that makes it crystal clear, compelling and, of course, intentional that the mob is on its way to power.",
-      "releaseInfo": "1998",
-      "genres": [
-        "Documentary",
-        "Music",
-        "Punk"
-      ],
-      "background": "https://image.tmdb.org/t/p/w1280/kXxU4iHGH1jOu0yAaeQ1BxnDcGK.jpg",
-      "imdbRating": "7.0"
-    },
-    {
       "id": "tt4485246",
       "type": "movie",
       "name": "Danny Says",
@@ -1557,22 +1324,6 @@
       "imdbRating": "7.0"
     },
     {
-      "id": "tt0393830",
-      "type": "movie",
-      "name": "Störung Ost",
-      "poster": "https://image.tmdb.org/t/p/w780/mBH1BS9LuJ8ossAc85hiRWk1F36.jpg",
-      "posterShape": "poster",
-      "description": "In the early 80's die sozialistische kleiderordnung ( The Socialist Dress Code) in East Berlin is attacked. By black and colourful punks. Youth clubs, restaurants and cafes are closed for the punks. Where to go? Their homes are raided by the police.",
-      "releaseInfo": "1996",
-      "runtime": "77 min",
-      "genres": [
-        "Documentary",
-        "Music",
-        "Punk"
-      ],
-      "imdbRating": "7.0"
-    },
-    {
       "id": "tt0417082",
       "type": "movie",
       "name": "Reality 86'd",
@@ -1581,22 +1332,6 @@
       "description": "Three bands and crew (a combined total of 13 individuals), 2 Dodge Ram extended cab vans, one equipment truck, one PA system traverse the continental US for six months. A road documentary shot from the inside of the last Black Flag tour ever (the 1986 “In My Head” US tour.) Featuring behind the scenes proceedings and live performances from Black Flag, Painted Willie, and Gone. David Markey was along for the entire trip as the drummer / singer for Painted Willie, documenting the six month tour with his Super-8 camera as it happened. Also features roadie Joe (“Planet Joe”) Cole, soundmen Davo Claasen and Dave “Ratman” Levine, and the tour manager who kept it all together, Mitch Bury. A crucial turning point in American underground rock. The end of the line for a trail blazing American band. Shot in 1986 and completed by director David Markey in 1991 for We Got Power. (futuristika.org)",
       "releaseInfo": "1991",
       "runtime": "63 min",
-      "genres": [
-        "Documentary",
-        "Music",
-        "Punk"
-      ],
-      "imdbRating": "7.0"
-    },
-    {
-      "id": "tt5060712",
-      "type": "movie",
-      "name": "Projekt A - A Journey to Anarchist Projects in Europe",
-      "poster": "https://image.tmdb.org/t/p/w780/61yoK2ZX6myrkJQIihRU0LDOLv0.jpg",
-      "posterShape": "poster",
-      "description": "PROJEKT A is a documentary that resists the common clichés about anarchism to instead show anarchist ideas of a society in which no one shall have the power to control knowledge, natural resources, land, soil or other people.  After inspiring over 25,000 German cinema-goers, this award-winning documentary about anarchism and anarchist projects in Europe is now available on VoD!\r “Projekt A stirs up the audience and is grippingly shot, getting close to the kinds of tenacious people who are so vital to change in our society.” (kinokino)\r “…a cinematic portrait, not of anarchy, but of anarchists. A story, not of possibilities, necessities or even failure, but a depiction of achievements, initiative, action, ideas, as well as success.” (kino-zeit.de)  Audience Award Filmfest Munich",
-      "releaseInfo": "2016",
-      "runtime": "85 min",
       "genres": [
         "Documentary",
         "Music",
@@ -1668,6 +1403,23 @@
         "Punk"
       ],
       "imdbRating": "7.0"
+    },
+    {
+      "id": "tt2689966",
+      "type": "movie",
+      "name": "Broadway Idiot",
+      "poster": "https://image.tmdb.org/t/p/w780/48K5VMU7drc9P5ANCVdKFPPy3r9.jpg",
+      "posterShape": "poster",
+      "description": "Broadway Idiot follows Green Day's Billie Joe Armstrong from a punk rock concert at Madison Square Garden to the opening of his musical American Idiot on Broadway - only ten blocks away, but worlds apart. From behind the curtain share in the crazy journey of turning the mega-hit album into a punk rock musical - and ultimately see how the world of theater transformed Billie Joe.",
+      "releaseInfo": "2013",
+      "runtime": "81 min",
+      "genres": [
+        "Documentary",
+        "Music",
+        "Punk"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/7O0yvw9tApjEuO1m02ZyCAqwwgk.jpg",
+      "imdbRating": "6.9"
     },
     {
       "id": "tt0436629",
@@ -1752,40 +1504,6 @@
       "imdbRating": "6.7"
     },
     {
-      "id": "tt15378300",
-      "type": "movie",
-      "name": "We Are Nothing",
-      "poster": "https://image.tmdb.org/t/p/w780/jDFT3YwY2lfxrjfL7UOO6CEWvE7.jpg",
-      "posterShape": "poster",
-      "description": "La Polla Records, one of the most legendary punk bands, returns to bid its farewell. To celebrate the group's last tour, its singer, Evaristo Páramos, revives 40 years of history from his town in the Basque Country. This is the extraordinary tale of villagers who revolutionised incensed music with songs turned into hymns by their thousands of followers.",
-      "releaseInfo": "2021",
-      "runtime": "110 min",
-      "genres": [
-        "Documentary",
-        "Music",
-        "Punk"
-      ],
-      "background": "https://image.tmdb.org/t/p/w1280/fyYcgC1PxPjq5ewU9JgWTVSCaNA.jpg",
-      "imdbRating": "6.8"
-    },
-    {
-      "id": "tt6070316",
-      "type": "movie",
-      "name": "Nile Rodgers: Secrets of a Hitmaker",
-      "poster": "https://image.tmdb.org/t/p/w780/hz8T5jgbYWzXSH7Ho3HnylBLRQa.jpg",
-      "posterShape": "poster",
-      "description": "King of disco in the 70s with the band Chic, producer of Bowie, Mick Jagger, Madonna, Daft Punk, Pharrell Williams and many others... Nile Rodgers is today pursuing his fascinating career. We take a behind-the-scenes look at the genesis of some of the greatest hits, and at the complex alchemy between Nile Rodgers and the biggest stars of the last 35 years: Madonna, David Bowie, Diana Ross, Duran Duran, Bryan Ferry, Grace Jones, Michael Jackson, INXS, Mick Jagger, Rod Stewart and David Guetta. What are the secrets of this genius of the music world, who has succeeded in transcending successive eras, reinventing himself every time?",
-      "releaseInfo": "2015",
-      "runtime": "52 min",
-      "genres": [
-        "Documentary",
-        "Music",
-        "Punk"
-      ],
-      "background": "https://image.tmdb.org/t/p/w1280/paU6eaCwkdi9Pf02i36WLnvCuQz.jpg",
-      "imdbRating": "6.7"
-    },
-    {
       "id": "tt0497635",
       "type": "movie",
       "name": "Lifestyles of the Ramones",
@@ -1816,23 +1534,6 @@
         "Punk"
       ],
       "background": "https://image.tmdb.org/t/p/w1280/yzw6azKdq46OlgK5fO4LrKneAWA.jpg",
-      "imdbRating": "6.7"
-    },
-    {
-      "id": "tt0079763",
-      "type": "movie",
-      "name": "Punk in London",
-      "poster": "https://image.tmdb.org/t/p/w780/kPzGgxHBH4SnjU5BbW5epW2EBsJ.jpg",
-      "posterShape": "poster",
-      "description": "A visual record of London punk life in the late '70s, filled with never-before-seen live concert footage and commentary from the Clash, the Jam, X-Ray Spex and the Electric Chairs.",
-      "releaseInfo": "1977",
-      "runtime": "111 min",
-      "genres": [
-        "Documentary",
-        "Music",
-        "Punk"
-      ],
-      "background": "https://image.tmdb.org/t/p/w1280/6SjAGBdI2WpUOtbDMyByjTUIkQ3.jpg",
       "imdbRating": "6.7"
     },
     {
@@ -1885,22 +1586,6 @@
       ],
       "background": "https://image.tmdb.org/t/p/w1280/oXSuI7yNzQUp35qkL0mTroLPWU1.jpg",
       "imdbRating": "6.6"
-    },
-    {
-      "id": "tt31630573",
-      "type": "movie",
-      "name": "Schleimkeim - Otze und die DDR von unten",
-      "poster": "https://image.tmdb.org/t/p/w780/wnGiOhEzNKfT3XLrG1OkE9LKnu8.jpg",
-      "posterShape": "poster",
-      "description": "A punk documentary about the life and death of the GDR punk Dieter \"Otze\" Ehrlich and his band Schleimkeim aus dem Schweinestall. With the fall of the Wall, Otze loses not only his enemy images, but also his life at the price of freedom.",
-      "releaseInfo": "2024",
-      "runtime": "97 min",
-      "genres": [
-        "Documentary",
-        "Music",
-        "Punk"
-      ],
-      "imdbRating": "6.7"
     },
     {
       "id": "tt1322362",
@@ -1968,23 +1653,6 @@
       "imdbRating": "6.5"
     },
     {
-      "id": "tt0410657",
-      "type": "movie",
-      "name": "The Happy Child",
-      "poster": "https://image.tmdb.org/t/p/w780/v6xLAM4yrzk2IzOMlUAcOGyPWcE.jpg",
-      "posterShape": "poster",
-      "description": "The Happy Child is a story of \"New Wave\" rock genre predominant in the ex-Yugoslavia during the socialist 70's and 80's.",
-      "releaseInfo": "2003",
-      "runtime": "97 min",
-      "genres": [
-        "Documentary",
-        "Music",
-        "Punk"
-      ],
-      "background": "https://image.tmdb.org/t/p/w1280/tgqwG7mzI5Hb9i8eHooDDxSIK5X.jpg",
-      "imdbRating": "6.6"
-    },
-    {
       "id": "tt11655140",
       "type": "movie",
       "name": "American Rapstar",
@@ -2033,38 +1701,6 @@
       ],
       "background": "https://image.tmdb.org/t/p/w1280/9ju9Ton7iB9klWc2Qt0BKGoltTQ.jpg",
       "imdbRating": "6.4"
-    },
-    {
-      "id": "tt5500802",
-      "type": "movie",
-      "name": "30 Anos Crucificados pelo Sistema: Ratos de Porão",
-      "poster": "https://image.tmdb.org/t/p/w780/62EjQWPLYbedrZ7x1iuf6TzRPKu.jpg",
-      "posterShape": "poster",
-      "description": "Documentary about \"Crucificados Pelo Sistema\" LP legacy with interviews and live videos from the band.",
-      "releaseInfo": "2014",
-      "runtime": "55 min",
-      "genres": [
-        "Documentary",
-        "Music",
-        "Punk"
-      ],
-      "imdbRating": "6.5"
-    },
-    {
-      "id": "tt4255658",
-      "type": "movie",
-      "name": "Autosuficientes",
-      "poster": "https://image.tmdb.org/t/p/w780/5vfKvlKGex9nBgwcfJ3Y4YWo21H.jpg",
-      "posterShape": "poster",
-      "description": "Documentary about the legendary Spanish Post-Punk band Paralis Permanente. A band that has gained a world wide cult following for their unique sound, while only having released one album.  The album is highly regarded as the record that spawned the spanish darkwave sound known as \"onda siniestra\".",
-      "releaseInfo": "2016",
-      "runtime": "75 min",
-      "genres": [
-        "Documentary",
-        "Music",
-        "Punk"
-      ],
-      "imdbRating": "6.5"
     },
     {
       "id": "tt0092137",
@@ -2286,55 +1922,6 @@
       "imdbRating": "6.1"
     },
     {
-      "id": "tt0252242",
-      "type": "movie",
-      "name": "The New God",
-      "poster": "https://image.tmdb.org/t/p/w780/rrcB7B7bv10k980IoxIsPj41zte.jpg",
-      "posterShape": "poster",
-      "description": "After producing several experimental video art pieces, Tsuchiya first came to prominence with A New God, a personal documentary shot on video about his relationship with a right-wing, neo-nationalist punk rock band. Even though Tsuchiya is on the left, he ended up marrying the singer for that band, Karin Amamiya, who has since emerged as a spokesperson for disaffected Japanese youth in the media. The New God won an award at the 1999 Yamagata International Documentary Film Festival.",
-      "releaseInfo": "1999",
-      "runtime": "99 min",
-      "genres": [
-        "Documentary",
-        "Music",
-        "Punk"
-      ],
-      "imdbRating": "6.1"
-    },
-    {
-      "id": "tt30270619",
-      "type": "movie",
-      "name": "A Heart Is Always Red",
-      "poster": "https://image.tmdb.org/t/p/w780/2vhxgOB5wIrJ25gcSDhmfCOTDSB.jpg",
-      "posterShape": "poster",
-      "description": "Born from the ashes of the iconic punk band Ebba Grön, this documentary tells the story of Imperiet and their journey to become the leading star of the post-punk generation and one of Sweden's biggest rock bands. It's also the story of Sweden, at a time in which they took their firm position on the world stage and when political commitment from the artists was a necessity.",
-      "releaseInfo": "2024",
-      "runtime": "103 min",
-      "genres": [
-        "Documentary",
-        "Music",
-        "Punk"
-      ],
-      "background": "https://image.tmdb.org/t/p/w1280/1OSlW0IS2oKO0MtAXBK7Hd7eoAp.jpg",
-      "imdbRating": "6.0"
-    },
-    {
-      "id": "tt0834160",
-      "type": "movie",
-      "name": "Such Was the S.O. 36",
-      "poster": "https://image.tmdb.org/t/p/w780/7dK4pAu3sWRoWJ0E3D0QsxUWedb.jpg",
-      "posterShape": "poster",
-      "description": "A documentary about the now abandoned and very influential punk club S.O.36. A punk music club on Oranienstrasse near Heinrichplatz in the area of Kreuzberg in Berlin, Germany.",
-      "releaseInfo": "1984",
-      "runtime": "90 min",
-      "genres": [
-        "Documentary",
-        "Music",
-        "Punk"
-      ],
-      "imdbRating": "6.0"
-    },
-    {
       "id": "tt12585288",
       "type": "movie",
       "name": "The Big Johnson",
@@ -2349,22 +1936,6 @@
         "Punk"
       ],
       "background": "https://image.tmdb.org/t/p/w1280/mu4ZPLyzXFQI5o9ueevDngJUVDK.jpg",
-      "imdbRating": "6.0"
-    },
-    {
-      "id": "tt1442117",
-      "type": "series",
-      "name": "Punklandia",
-      "poster": "https://image.tmdb.org/t/p/w780/xMXp0UptiSbDh6yFxEMH1cNxOTK.jpg",
-      "posterShape": "poster",
-      "description": "",
-      "releaseInfo": "2008",
-      "genres": [
-        "Documentary",
-        "Music",
-        "Punk"
-      ],
-      "background": "https://image.tmdb.org/t/p/w1280/izEBdBq47bb8UOEWSnw0ARVov2m.jpg",
       "imdbRating": "6.0"
     },
     {
@@ -2484,6 +2055,23 @@
       "imdbRating": "5.8"
     },
     {
+      "id": "tt2179073",
+      "type": "movie",
+      "name": "Hello Quo",
+      "poster": "https://image.tmdb.org/t/p/w780/lGzyjk3CvHRGEBbadQR8TJFSXLl.jpg",
+      "posterShape": "poster",
+      "description": "Collecting hours of previously unseen footage and classic live material with full exclusive access to all band members this is the definitive story of a band that has done and seen it all. As well as full access to the band, Hello Quo! Also features input from a host of the biggest names in rock including: Brian May of Queen, Joe Elliott of Def Leppard, Thin Lizzy, Buzzcocks, Slade, Paul Weller, Sir Cliff Richard and Midge Ure. The documentary also exclusively features the moment when the original line up of the band met again for the first time in over 30 years. A truly poignant reunion, after years of legal wrangling, saw the band clear the air but also plug in and play together once again... This Access All Areas Collector s Edition includes 3 hours of astonishing never seen before Quo footage!",
+      "releaseInfo": "2012",
+      "runtime": "152 min",
+      "genres": [
+        "Documentary",
+        "Music",
+        "Punk"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/xJbxLljtGef6Y09fh0bgyuMcbYw.jpg",
+      "imdbRating": "5.8"
+    },
+    {
       "id": "tt16378298",
       "type": "movie",
       "name": "Meet Me in the Bathroom",
@@ -2550,22 +2138,6 @@
       "imdbRating": "5.6"
     },
     {
-      "id": "tt14917662",
-      "type": "movie",
-      "name": "Gritando!",
-      "poster": "https://image.tmdb.org/t/p/w780/mGmHuHl9flCIPEfa6y4JjDnUlFK.jpg",
-      "posterShape": "poster",
-      "description": "The story of Gritando HC, a Brazilian hardcore band from its beginnings in 1994, the death of its founder, Donald, and how they remained active and relevant in the scene to this day.",
-      "releaseInfo": "2021",
-      "runtime": "52 min",
-      "genres": [
-        "Documentary",
-        "Music",
-        "Punk"
-      ],
-      "imdbRating": "5.3"
-    },
-    {
       "id": "tt3511442",
       "type": "movie",
       "name": "What Difference Does It Make?",
@@ -2615,23 +2187,6 @@
       "imdbRating": "5.0"
     },
     {
-      "id": "tt1954379",
-      "type": "movie",
-      "name": "Kids of Töday",
-      "poster": "https://image.tmdb.org/t/p/w780/gs5xd9638YGIu8xsuZUB5qfveWL.jpg",
-      "posterShape": "poster",
-      "description": "The first documentary about France's post punk and cold wave scene in the late 1970s and early 1980s. During an art show at agnès b. gallery in 2008, Jean-François Sanz has gathered some exceptional material that brings to light, through archival footage and about thirty interviews to the main players, the pop culture heritage of that moment.",
-      "releaseInfo": "2012",
-      "runtime": "84 min",
-      "genres": [
-        "Documentary",
-        "Music",
-        "Punk"
-      ],
-      "background": "https://image.tmdb.org/t/p/w1280/jmDmxH9UnhFZotfCZ3pDsRjvGsX.jpg",
-      "imdbRating": "5.0"
-    },
-    {
       "id": "tt11692772",
       "type": "movie",
       "name": "Don't Fall in Love with Yourself",
@@ -2646,23 +2201,6 @@
         "Punk"
       ],
       "background": "https://image.tmdb.org/t/p/w1280/3ho4MPXgoxCHKykfkYIF3ooLhLl.jpg",
-      "imdbRating": "5.0"
-    },
-    {
-      "id": "tt1159634",
-      "type": "movie",
-      "name": "Chaostage - We Are Punks!",
-      "poster": "https://image.tmdb.org/t/p/w780/30boACMLCIkAUwlf3N87xj9YnW1.jpg",
-      "posterShape": "poster",
-      "description": "CHAOSTAGE is the first real german Punk movie. part fictional, part documentary it tells the story of some young punks...",
-      "releaseInfo": "2009",
-      "runtime": "90 min",
-      "genres": [
-        "Documentary",
-        "Music",
-        "Punk"
-      ],
-      "background": "https://image.tmdb.org/t/p/w1280/loyNWDHTwwjSnJa6CYMXv1XKGvM.jpg",
       "imdbRating": "5.0"
     },
     {
@@ -2746,22 +2284,6 @@
       "imdbRating": "4.0"
     },
     {
-      "id": "tt8198074",
-      "type": "movie",
-      "name": "More than Life",
-      "poster": "https://image.tmdb.org/t/p/w780/ay5UGAeRRzCzd405fb6v7IY2RbQ.jpg",
-      "posterShape": "poster",
-      "description": "Freddy Grenzmann is Estonia’s last rockstar and the singer of a punk-rock band called Psychoterror. And a poet. The phenomenon of a rockstar stands outside of normality – is bigger than life. Recognizingly what we can say about Freddy, is that he is not normal – not on stage, nor in life.  Freddy’s creation and life are equivalent – he puts everything out there.  What makes Freddy interesting is not the social or textual play, but the ammount that he puts in. Possibility of total loss of self-control and the depth of a predictable human or metaphysical agony.  This is the story of the last real rockstar and poet, his work and of a punkbands anatomy.",
-      "releaseInfo": "2018",
-      "runtime": "73 min",
-      "genres": [
-        "Documentary",
-        "Music",
-        "Punk"
-      ],
-      "imdbRating": "3.0"
-    },
-    {
       "id": "tt24744376",
       "type": "movie",
       "name": "Punk and New Wave Years with Annie Nightingale",
@@ -2806,21 +2328,6 @@
         "Music",
         "Punk"
       ]
-    },
-    {
-      "id": "tt32634691",
-      "type": "series",
-      "name": "Millennial Punk",
-      "poster": "https://image.tmdb.org/t/p/w780/lyFebPn5smdyuzm4PIinPZ5Si2v.jpg",
-      "posterShape": "poster",
-      "description": "",
-      "releaseInfo": "2024",
-      "genres": [
-        "Documentary",
-        "Music",
-        "Punk"
-      ],
-      "background": "https://image.tmdb.org/t/p/w1280/pN3zCgARNGJuBMF7MSATSe2JMiu.jpg"
     },
     {
       "id": "tt3892784",
@@ -3051,21 +2558,6 @@
       ]
     },
     {
-      "id": "tt2637894",
-      "type": "movie",
-      "name": "Sinnful Infants Damned to Lust Behind Monastery Walls",
-      "poster": "https://image.tmdb.org/t/p/w780/ep3XSnVeUMHAPr8ixoNFNGd1dTt.jpg",
-      "posterShape": "poster",
-      "description": "The German punk band \"Terrorgruppe\" was found in 1993 and broke up in 2005. The band was essential for the developement of German punk. Songs like \"Keine Airbags für die CSU\" or \"Mein Skateboard ist wichtiger als Deutschland\" inspired a whole generation of punks and anarchists. This documentary portraits the band's history from 1993 to 2005.",
-      "releaseInfo": "2013",
-      "runtime": "125 min",
-      "genres": [
-        "Documentary",
-        "Music",
-        "Punk"
-      ]
-    },
-    {
       "id": "tt33374251",
       "type": "movie",
       "name": "NOFX: The Final Performances Ever",
@@ -3157,22 +2649,6 @@
       ]
     },
     {
-      "id": "tt7107680",
-      "type": "movie",
-      "name": "BP Underground - Hardcore / Punk",
-      "poster": "https://image.tmdb.org/t/p/w780/2tuq81q3Kf1Lkh28ZKjeUH0IGdR.jpg",
-      "posterShape": "poster",
-      "description": "The Underground subcultures in Budapest are an integral part of the diverse and colorful Hungarian culture. The creators of the film - Esther Turan and Anna Koltay - wanted to explore what were the major youth music subcultures in the '90s and 2000s in Budapest. This film is a tribute to the underground subcultures of the city. In these series of films, these grass-roots groups deal with the social impact of their community building power and the role played by Budapest itself in the formation of these groups. The film explores the kind of atmosphere and unwritten rules, what were the dominant places, external signs, and symbols, or who were the central figures and what were the memorable stories. The film guides the viewer from the best bands to the message, from the typical attire to the cult bars. The new generation is a starting point, a complex retrospective of where it originated and why the colorful underground cultural life still characterizes Budapest today.",
-      "releaseInfo": "2017",
-      "runtime": "52 min",
-      "genres": [
-        "Documentary",
-        "Music",
-        "Punk"
-      ],
-      "background": "https://image.tmdb.org/t/p/w1280/r1rBY5k5IZ1izeLa2EqSzz4h27G.jpg"
-    },
-    {
       "id": "tt32345197",
       "type": "movie",
       "name": "Green Day: Dookie",
@@ -3181,21 +2657,6 @@
       "description": "A documentary that explores the making and impact of Green Day's third album Dookie, which was released in 1994 and became a worldwide phenomenon.",
       "releaseInfo": "2005",
       "runtime": "64 min",
-      "genres": [
-        "Documentary",
-        "Music",
-        "Punk"
-      ]
-    },
-    {
-      "id": "tt2005396",
-      "type": "movie",
-      "name": "Una identidad en absurdo Vol. 1",
-      "poster": "https://image.tmdb.org/t/p/w780/aFbCMljAOILo1Y0RlGX6FfDUHPK.jpg",
-      "posterShape": "poster",
-      "description": "Guillermo Gómez Álvarez explores the identity politics of Puerto Rico via archival footage from various sources that clash with nine original songs from local independent musicians and a thematic analysis from a psychoanalyst and a historian. From the juxtaposition the absurd becomes coherent and the coherent becomes absurd as Puerto Rican identity is defined and rejected almost simultaneously.",
-      "releaseInfo": "2011",
-      "runtime": "82 min",
       "genres": [
         "Documentary",
         "Music",
@@ -3249,22 +2710,6 @@
         "Punk"
       ],
       "background": "https://image.tmdb.org/t/p/w1280/iINzHltJkHgGUcSjeja6FZwzmF7.jpg"
-    },
-    {
-      "id": "tt32880376",
-      "type": "movie",
-      "name": "Einfach machen! She-Punks von 1977 bis heute",
-      "poster": "https://image.tmdb.org/t/p/w780/2B3kvz7VDYkkkfBiNHfUwLIRQVM.jpg",
-      "posterShape": "poster",
-      "description": "At the end of the 70s, punk promised rebellion and self-empowerment, also for women in the scene. They fought for their place on stage among the dominant punk top dogs, battling against social norms and long-outdated female role models. This is their story.",
-      "releaseInfo": "2025",
-      "runtime": "89 min",
-      "genres": [
-        "Documentary",
-        "Music",
-        "Punk"
-      ],
-      "background": "https://image.tmdb.org/t/p/w1280/u7ifXOTsjXIdK1BYayjuVGeCPur.jpg"
     },
     {
       "id": "tt13084164",
@@ -3328,36 +2773,6 @@
       ]
     },
     {
-      "id": "tt1784717",
-      "type": "movie",
-      "name": "Venid a las cloacas: La historia de la Banda Trapera del Río",
-      "poster": "https://image.tmdb.org/t/p/w780/T0uJeHfPrCqVrNbzO1uT85h1me.jpg",
-      "posterShape": "poster",
-      "description": "Documentary about the spanish band \"La Banda Trapera del Río\"",
-      "releaseInfo": "2010",
-      "runtime": "90 min",
-      "genres": [
-        "Documentary",
-        "Music",
-        "Punk"
-      ]
-    },
-    {
-      "id": "tt5205202",
-      "type": "movie",
-      "name": "Mother, I've Pretty Much Forgotten Your Face",
-      "poster": "https://image.tmdb.org/t/p/w780/aOhgLandufdfsjjP4echNQiXMMx.jpg",
-      "posterShape": "poster",
-      "description": "Pig heads, intestines, megaphones: all these and more have been thrown into crowds of loyal fans following the influential punk band THE STALIN or any of number of Michiro Endo's other bands since 1980. Taking a step in front of the camera, however, Endo offers a very different kind of encounter in this inspiring self-portrait. \"Mother, I've Pretty Much Forgotten Your Face\" follows the artist, a native of Nihonmatsu, Fukushima, on the 2011 nationwide solo tour celebrating his 60th birthday, which was interrupted by the Great East Japan Earthquake. Traveling, performing and talking with fellow musicians and activists, Endo reflects on the past and future of Fukushima, the legacy of Hiroshima, his upbringing and his feelings about his mother, communicated in the song from which the documentary is named.",
-      "releaseInfo": "2016",
-      "runtime": "103 min",
-      "genres": [
-        "Documentary",
-        "Music",
-        "Punk"
-      ]
-    },
-    {
       "id": "tt9301146",
       "type": "movie",
       "name": "So, Which Band is Your Boyfriend in?",
@@ -3382,66 +2797,6 @@
       "description": "A documentary tracing punk from the SEX shop of Malcolm McLaren and Vivienne Westwood. Featuring contributions from Tony James, Gene October, Jon Savage, Glen Matlock, Jah Wobble, Steve Severin and archive performances.",
       "releaseInfo": "2013",
       "runtime": "85 min",
-      "genres": [
-        "Documentary",
-        "Music",
-        "Punk"
-      ]
-    },
-    {
-      "id": "tt9059374",
-      "type": "movie",
-      "name": "Outlawed: A Punk Rock Uprising in the Basque Country",
-      "poster": "https://image.tmdb.org/t/p/w780/b6Ox5verYbyjrBmNSTUo4TS1zmm.jpg",
-      "posterShape": "poster",
-      "description": "A sonic journey through Basque punk rock and the turbulent past that defined its sound, chronicling the rise of the gaztetxe movement.",
-      "releaseInfo": "2021",
-      "genres": [
-        "Documentary",
-        "Music",
-        "Punk"
-      ]
-    },
-    {
-      "id": "tt10322692",
-      "type": "movie",
-      "name": "Uma Espécie de Punk",
-      "poster": "https://image.tmdb.org/t/p/w780/atTnrNgHRoy7rFTjOgxnVKUUZiL.jpg",
-      "posterShape": "poster",
-      "description": "Portuguese documentary regarding the early punk scene in Portugal.",
-      "releaseInfo": "2017",
-      "runtime": "60 min",
-      "genres": [
-        "Documentary",
-        "Music",
-        "Punk"
-      ]
-    },
-    {
-      "id": "tt31778411",
-      "type": "movie",
-      "name": "Sämsta bandet ever?",
-      "poster": "https://image.tmdb.org/t/p/w780/ccPPWupFEhPbleGPCSVQQqLpLys.jpg",
-      "posterShape": "poster",
-      "description": "In the 1980s there was a punk band in Stockholm who put out one single, got torn apart by local music critics and went away. 35 years later they are contacted by a music label from New York interested in their music.",
-      "releaseInfo": "2015",
-      "runtime": "58 min",
-      "genres": [
-        "Documentary",
-        "Music",
-        "Punk"
-      ],
-      "background": "https://image.tmdb.org/t/p/w1280/pKKbdHVCuJFtrQCoytYu1YJxp2I.jpg"
-    },
-    {
-      "id": "tt3289022",
-      "type": "movie",
-      "name": "Punkilandia",
-      "poster": "https://image.tmdb.org/t/p/w780/eSYXMAywh4ywPRlvJLQNqmvMVlV.jpg",
-      "posterShape": "poster",
-      "description": "Documentary on the Stockholm punk scene in 1997.",
-      "releaseInfo": "1998",
-      "runtime": "56 min",
       "genres": [
         "Documentary",
         "Music",
@@ -3509,66 +2864,6 @@
       ]
     },
     {
-      "id": "tt6226458",
-      "type": "movie",
-      "name": "Garage Rockin' Craze",
-      "poster": "https://image.tmdb.org/t/p/w780/ovB124WT9MGSUpQaCPPJjHz1asi.jpg",
-      "posterShape": "poster",
-      "description": "A savage journey into the heart of underground Tokyo rock and roll, a look at the people who make it thrive, and stories of their dedication to keeping DIY culture alive.",
-      "releaseInfo": "2017",
-      "runtime": "100 min",
-      "genres": [
-        "Documentary",
-        "Music",
-        "Punk"
-      ]
-    },
-    {
-      "id": "tt13004110",
-      "type": "movie",
-      "name": "To All Those Who Obeyed",
-      "poster": "https://image.tmdb.org/t/p/w780/32no602oxp4jlpFRIgFAU5v81so.jpg",
-      "posterShape": "poster",
-      "description": "A slow and resounding dive into the punk movement, crossed by the experience of three bands from Curitiba in the manifestation of their culture, philosophy, expression, politics and, above all, a form of resistance.",
-      "releaseInfo": "2019",
-      "genres": [
-        "Documentary",
-        "Music",
-        "Punk"
-      ]
-    },
-    {
-      "id": "tt1073228",
-      "type": "movie",
-      "name": "Punk Not Dead",
-      "poster": "https://image.tmdb.org/t/p/w780/5XsbAbnBTPvJy9Y8uncd7uEnQb.jpg",
-      "posterShape": "poster",
-      "description": "Documentary about the tour of the Swabian punk band Cluster Bomb Unit through Indonesia in 2005.",
-      "releaseInfo": "2008",
-      "runtime": "88 min",
-      "genres": [
-        "Documentary",
-        "Music",
-        "Punk"
-      ]
-    },
-    {
-      "id": "tt12718268",
-      "type": "movie",
-      "name": "Faça Você Mesma",
-      "poster": "https://image.tmdb.org/t/p/w780/gGEEb8GUchAb7yAO47L5xR8wAFi.jpg",
-      "posterShape": "poster",
-      "description": "The documentary presents relics of the Riot Girrrl scene in Brazil that landed in São Paulo through cassette tape coming from the US state of Washington, where the movement was born.",
-      "releaseInfo": "2020",
-      "runtime": "72 min",
-      "genres": [
-        "Documentary",
-        "Music",
-        "Punk"
-      ],
-      "background": "https://image.tmdb.org/t/p/w1280/amTU3KR3Qv1Xb79E6UrOKyDaWKk.jpg"
-    },
-    {
       "id": "tt1131611",
       "type": "movie",
       "name": "What Poor Gods We Do Make: The Story and Music Behind Naked Raygun",
@@ -3582,22 +2877,6 @@
         "Music",
         "Punk"
       ]
-    },
-    {
-      "id": "tt9800062",
-      "type": "movie",
-      "name": "Dima Punk",
-      "poster": "https://image.tmdb.org/t/p/w780/lc945fplzbBbMYsLWqMd7CytBDL.jpg",
-      "posterShape": "poster",
-      "description": "Once a Punk, always a Punk? This is the story of Stof whom we followed for 8 years through the popular districts of Casablanca. He pays his independence at a high price when he finds himself arrested.",
-      "releaseInfo": "2019",
-      "runtime": "62 min",
-      "genres": [
-        "Documentary",
-        "Music",
-        "Punk"
-      ],
-      "background": "https://image.tmdb.org/t/p/w1280/ig4st9a4AAvEqfXSIGwkyYuEYg1.jpg"
     },
     {
       "id": "tt3392324",
@@ -3652,20 +2931,6 @@
       "description": "Spokanarchy! is a roller-coaster ride of music and mayhem as a small-town punk scene looks back on its roots and how those years shaped their lives since. Filled with humor, camaraderie, insight, and tragesy, Spokanarchy! chronicles the manic highs and desperate lows of kids kicking against the mainstream in the conservative 1980s of the Reagan era. With over 30 interviews coupled with archival footage and a decade of unreleased and undiscovered music, Spokanarchy! is the punk rock movie of what happened away from the big city scenes...where things got really weird.",
       "releaseInfo": "2011",
       "runtime": "85 min",
-      "genres": [
-        "Documentary",
-        "Music",
-        "Punk"
-      ]
-    },
-    {
-      "id": "tt3437482",
-      "type": "movie",
-      "name": "Demasiado guapos para el punk",
-      "poster": "https://image.tmdb.org/t/p/w780/5RZVe3RDtjUO7AtMBGGmFiR7Kp7.jpg",
-      "posterShape": "poster",
-      "description": "",
-      "releaseInfo": "2012",
       "genres": [
         "Documentary",
         "Music",

@@ -1,23 +1,6 @@
 {
   "metas": [
     {
-      "id": "tt50985787",
-      "type": "movie",
-      "name": "Klaus Nomi - Chanteur du troisième type",
-      "poster": "https://image.tmdb.org/t/p/w780/wBLDuTkMJTGUII9WYqcmBKpXdG6.jpg",
-      "posterShape": "poster",
-      "description": "A documentary that traces the brief, radical life of German countertenor Klaus Sperber as he becomes the extraterrestrial New Wave icon Klaus Nomi. Narrated by Melvil Poupaud, the documentary follows him from his post-war Bavarian childhood and classical opera roots in West Berlin to 1970s New York City. In the East Village underground scene, Nomi fuses baroque opera arias with cold-wave synth-pop, crafting a striking persona with white clown makeup and retro-futuristic outfits. The film highlights his 1981 breakthrough in France with \"The Cold Song\" before turning to his tragic final days. In August 1983, Nomi died alone in a Manhattan hospital at age 39, isolated by the fear and stigma surrounding AIDS. Blending rare archival footage with interviews from collaborators like Joey Arias and Kristian Hoffman, alongside artists like Christine and the Queens, the film celebrates his legacy as a pioneering queer icon.",
-      "releaseInfo": "2026",
-      "runtime": "53 min",
-      "genres": [
-        "Documentary",
-        "Music",
-        "Rock"
-      ],
-      "background": "https://image.tmdb.org/t/p/w1280/zpaHcsiuxvMdSzsTz46BrxcNPOR.jpg",
-      "imdbRating": "8.0"
-    },
-    {
       "id": "tt43596978",
       "type": "movie",
       "name": "Pulp: What Do You Do for an Encore?",
@@ -81,39 +64,6 @@
         "Rock"
       ],
       "imdbRating": "10.0"
-    },
-    {
-      "id": "tt43338336",
-      "type": "movie",
-      "name": "Kuzma",
-      "poster": "https://image.tmdb.org/t/p/w780/btNcp40UHvecgo7Euz1XbMXYsqC.jpg",
-      "posterShape": "poster",
-      "description": "Through exclusive archival footage and never before seen home video, this documentary aims to explore the real face of Andriy Viktorovych Kuzmenko (Kuzma Skryabin), the father of the contemporary Ukrainian rock and roll scene.",
-      "releaseInfo": "2026",
-      "runtime": "133 min",
-      "genres": [
-        "Documentary",
-        "Music",
-        "Rock"
-      ],
-      "background": "https://image.tmdb.org/t/p/w1280/9vYP0g3GaAgCnHTSQ7tyNui3SO0.jpg"
-    },
-    {
-      "id": "tt43713918",
-      "type": "movie",
-      "name": "\"Dirty Dancing\", comédie romantique engagée",
-      "poster": "https://image.tmdb.org/t/p/w780/t2dFpfgafa3xOwnFTkHUdOWxHSI.jpg",
-      "posterShape": "poster",
-      "description": "The cult film *Dirty Dancing* (1987) made cinema history with its iconic soundtrack, unforgettable dance scenes, and summer romance. Yet, beneath the seemingly lighthearted love story lies a political dimension: the film addresses key aspects of female emancipation and engages with the struggle for the right to abortion.",
-      "releaseInfo": "2026",
-      "runtime": "52 min",
-      "genres": [
-        "Documentary",
-        "Music",
-        "Rock"
-      ],
-      "background": "https://image.tmdb.org/t/p/w1280/8Tumio7Lmn6gzizlpTah5hGh5A1.jpg",
-      "imdbRating": "7.5"
     },
     {
       "id": "tt43607542",
@@ -180,69 +130,6 @@
         "Rock"
       ],
       "background": "https://image.tmdb.org/t/p/w1280/swNTP0PAPkAaylByvmxxWMRvC0w.jpg"
-    },
-    {
-      "id": "tt43349738",
-      "type": "movie",
-      "name": "What Remains: Die Toten Hosen – The Last Album",
-      "poster": "https://image.tmdb.org/t/p/w780/5a9Brl2XQahngl1sO3rVtlGFYy0.jpg",
-      "posterShape": "poster",
-      "description": "In \"What Remains: Die Toten Hosen – The Last Album\", director Eric Friedler exclusively follows the iconic rock band over the course of two years as they create their final studio album. Never before has the band allowed themselves to be observed so intimately in the studio. The film crew also goes behind the scenes of a European tour that the band scheduled in between their studio sessions. The result is a moving tribute to a band that has written German music history and continues to inspire generations to this day.",
-      "releaseInfo": "2026",
-      "genres": [
-        "Documentary",
-        "Music",
-        "Rock"
-      ],
-      "background": "https://image.tmdb.org/t/p/w1280/hZqXOcj7Gbc1aJxlYBqFdYtXGJv.jpg",
-      "imdbRating": "7.2"
-    },
-    {
-      "id": "tt41691284",
-      "type": "movie",
-      "name": "Sportfreunde Stiller - Mit dem Herz in der Hand",
-      "poster": "https://image.tmdb.org/t/p/w780/qxS3MyOIWXeDSxXOV1NnZzNO3di.jpg",
-      "posterShape": "poster",
-      "description": "Through their songs, Sportfreunde Stiller have helped shape the outlook on life of an entire generation. Now, to mark their 30th anniversary, they are back in the spotlight. With exclusive access, the film follows the indie rock band as they create their new album. An intense musical portrait unfolds, capturing moments both on and off stage, as well as in their private lives.",
-      "releaseInfo": "2026",
-      "runtime": "90 min",
-      "genres": [
-        "Documentary",
-        "Music",
-        "Rock"
-      ],
-      "background": "https://image.tmdb.org/t/p/w1280/MAfaAx6UdNNp8oiuzbMDQ32AFE.jpg"
-    },
-    {
-      "id": "tt42340559",
-      "type": "movie",
-      "name": "Scherbenland",
-      "poster": "https://image.tmdb.org/t/p/w780/kyeI4fgTLyx77IgYpORpj6ewrqX.jpg",
-      "posterShape": "poster",
-      "description": "Spanning 50 years, the documentary traces a path through the Berlin district of Kreuzberg, linking the legacy of the rock band \"Ton Steine Scherben\" - best known for their work in the 1970s - with their successors.",
-      "releaseInfo": "2026",
-      "runtime": "100 min",
-      "genres": [
-        "Documentary",
-        "Music",
-        "Rock"
-      ],
-      "background": "https://image.tmdb.org/t/p/w1280/gUlg306oPBcJRUmmyRJD1pcF0kl.jpg"
-    },
-    {
-      "id": "tt41333942",
-      "type": "series",
-      "name": "En toen was er new wave",
-      "poster": "https://image.tmdb.org/t/p/w780/y2VgGaTWCpQe1AAPsMBcIUsyyWe.jpg",
-      "posterShape": "poster",
-      "description": "",
-      "releaseInfo": "2026",
-      "genres": [
-        "Documentary",
-        "Music",
-        "Rock"
-      ],
-      "background": "https://image.tmdb.org/t/p/w1280/wgRY2HsaLV072201M0MB0BnjfIV.jpg"
     },
     {
       "id": "tt40851760",
@@ -330,36 +217,87 @@
       "imdbRating": "8.2"
     },
     {
-      "id": "tt39376950",
+      "id": "tt36219543",
       "type": "movie",
-      "name": "The Girl From Ipanema: Astrud Gilberto, Queen of Bossa Nova",
-      "poster": "https://image.tmdb.org/t/p/w780/1SvC0Uk731d7MA5kMe87ortE0pH.jpg",
+      "name": "Evolver 62",
+      "poster": "https://image.tmdb.org/t/p/w780/sq031PMIparTuWcEcWTTgf5klhB.jpg",
       "posterShape": "poster",
-      "description": "The Girl from Ipanema charts the progress of bossa nova (new wave), and the Brazilian singer Astrud Gilberto's musical development and rise to fame. Best of all, at the end of the documentary the mature Astrud answers the question that must surely be on every viewer's mind: Was she sick to death of singing The Girl from Ipanema?",
+      "description": "Globally-renowned historian Mark Lewisohn weaves an array of short, sharp stories into a savvy and surprising reveal of a band that's remained both cutting-edge and massively popular. Drawing from his extraordinary archive, Lewisohn zips through a galaxy of real lives and times, weaving curated artifacts into an entertaining narrative. Celebrating The Beatles' seminal year — 1962, the year that changed everything — the film explores the band's evolution through the very places and artifacts that shaped their story. Extending his celebrated stage show, Lewisohn takes the camera out of the theatre and onto the streets of Liverpool and London, to the sites where history unfolded. A compelling, surprising, and unmissable treat, EVOLVER:62 delivers unique viewing for Beatles fans, music lovers, and anyone curious about the moments that reshaped modern culture.",
       "releaseInfo": "2026",
+      "runtime": "108 min",
       "genres": [
         "Documentary",
         "Music",
         "Rock"
       ],
-      "background": "https://image.tmdb.org/t/p/w1280/mF9sVUMlRdI8JsyaJl6wG1Zr22z.jpg",
-      "imdbRating": "8.0"
+      "background": "https://image.tmdb.org/t/p/w1280/2iF50igtFaY9Sy4sBizMwaNd5Pu.jpg",
+      "imdbRating": "2.0"
     },
     {
-      "id": "tt39052712",
+      "id": "tt39163244",
       "type": "movie",
-      "name": "Nena, vom Teenie-Idol zur Poplegende",
-      "poster": "https://image.tmdb.org/t/p/w780/i1zNC0KnAYbgPkOtw4Z34oumHzA.jpg",
+      "name": "The Best Summer",
+      "poster": "https://image.tmdb.org/t/p/w780/poONQZZYx86upYsaNohXbXlNCoV.jpg",
       "posterShape": "poster",
-      "description": "Born in 1960 in Hagen, North Rhine-Westphalia, Nena, whose real name is Gabriele Susanne Kerner, grew up under the influence of a father who encouraged her from childhood to follow her instincts. As a teenager, she tried her hand at music. It wasn't long before a band was formed, The Stripes. 99 Luftballons, their second single, launched Nenamania in Germany and around the world.",
-      "releaseInfo": "2025",
+      "description": "Immersive POV camera footage reveals electric performances, candid interviews, and intimate backstage life with the Beastie Boys, Sonic Youth, Foo Fighters, Pavement, Rancid, Beck, The Amps, and Bikini Kill — an all-access view inside an era-defining moment in music.",
+      "releaseInfo": "2026",
+      "runtime": "84 min",
       "genres": [
         "Documentary",
         "Music",
         "Rock"
       ],
-      "background": "https://image.tmdb.org/t/p/w1280/6nRfgULTkcKkvYBBmOMnRQOihJs.jpg",
-      "imdbRating": "6.0"
+      "background": "https://image.tmdb.org/t/p/w1280/bBjYUd4qRQUgcO7TNMGCPVAPPM7.jpg"
+    },
+    {
+      "id": "tt39287535",
+      "type": "movie",
+      "name": "Nick Cave's Veiled World",
+      "poster": "https://image.tmdb.org/t/p/w780/npekCJs8Kz9rNRP8cdIAf1lHAJB.jpg",
+      "posterShape": "poster",
+      "description": "An intimate, illuminating and emotionally powerful exploration of Nick Cave’s creative process and enduring influence, told through the eyes of his closest collaborators, friends and the visionaries he’s inspired.",
+      "releaseInfo": "2025",
+      "runtime": "70 min",
+      "genres": [
+        "Documentary",
+        "Music",
+        "Rock"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/iWARuP9QojiXB718bzFHe3rw6m9.jpg",
+      "imdbRating": "7.3"
+    },
+    {
+      "id": "tt38263655",
+      "type": "movie",
+      "name": "2025 Rock & Roll Hall of Fame Induction Ceremony",
+      "poster": "https://image.tmdb.org/t/p/w780/2qNWhH53JIbTGAeD02fgdouMFGr.jpg",
+      "posterShape": "poster",
+      "description": "On Saturday, November 8, 2025, rock royalty once again gathered to celebrate the induction of another class of performers, influencers and excellent musicians into the Hallowed Hall of Rock. The 2025 Rock & Roll Hall of Fame inductees were Bad Company, Chubby Checker, Joe Cocker, Cyndi Lauper, Outkast, Soundgarden and The White Stripes in the Performer category.",
+      "releaseInfo": "2025",
+      "runtime": "261 min",
+      "genres": [
+        "Documentary",
+        "Music",
+        "Rock"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/yqb851pYkvS4kk8AcKfrHGZk9z0.jpg",
+      "imdbRating": "4.8"
+    },
+    {
+      "id": "tt22488292",
+      "type": "movie",
+      "name": "Amazing Grace: The Untold Story",
+      "poster": "https://image.tmdb.org/t/p/w780/gRq38KFG79Rr2urwjFLvmjSWWIx.jpg",
+      "posterShape": "poster",
+      "description": "John Newton’s life is traced from his turbulent youth and years at sea to his conversion, ministry, and the first performance of the hymn “Amazing Grace” during the Great Awakening.",
+      "releaseInfo": "2025",
+      "runtime": "65 min",
+      "genres": [
+        "Documentary",
+        "Music",
+        "Rock"
+      ],
+      "imdbRating": "10.0"
     },
     {
       "id": "tt21098076",
@@ -378,20 +316,68 @@
       "imdbRating": "4.0"
     },
     {
-      "id": "tt37539260",
+      "id": "tt38572804",
       "type": "movie",
-      "name": "Rod Stewart, le trublion de la pop anglaise",
-      "poster": "https://image.tmdb.org/t/p/w780/7H5Zly3vnK6F77x7dqhSd6qXeZ6.jpg",
+      "name": "Bruce Springsteen: Nebraska Live",
+      "poster": "https://image.tmdb.org/t/p/w780/uCKxBd8hdoZn88LKophzVZk9cXz.jpg",
       "posterShape": "poster",
-      "description": "In a career spanning sixty years, Britain's absolute darling has brought his mocking nonchalance and formidable gravelly voice to every genre, from hard rock to jazz and pop. Portrait of a pop aristocrat who has managed to stay in touch with the people.",
+      "description": "Bruce Springsteen performs the songs from his 1982 album “Nebraska” for the first time ever in its entirety in an intimate soundstage setting. Shot in moody black-and-white, the film is directed by Springsteen’s longtime filmic collaborator Thom Zimny.",
       "releaseInfo": "2025",
+      "runtime": "45 min",
       "genres": [
         "Documentary",
         "Music",
         "Rock"
       ],
-      "background": "https://image.tmdb.org/t/p/w1280/9lCEdKr8Awp3H5xkUIaqzsv8WCA.jpg",
-      "imdbRating": "6.5"
+      "background": "https://image.tmdb.org/t/p/w1280/2avs7Bj9f94vtlQjO4YcXip8ZU4.jpg",
+      "imdbRating": "7.2"
+    },
+    {
+      "id": "tt7100354",
+      "type": "movie",
+      "name": "A Love Letter to the Beatles",
+      "poster": "https://image.tmdb.org/t/p/w780/o5IDCbsEr6NJhwUdLGFwcJv3J3d.jpg",
+      "posterShape": "poster",
+      "description": "\"A Love Letter To The Beatles\" is an 120-minute landmark documentary film made by Beatles fans for fans, celebrating 50+ years of following the world's greatest rock band.",
+      "releaseInfo": "2025",
+      "runtime": "120 min",
+      "genres": [
+        "Documentary",
+        "Music",
+        "Rock"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/zBRPmIk96AY5vGCvI7n64hLyLqe.jpg"
+    },
+    {
+      "id": "tt23845750",
+      "type": "movie",
+      "name": "Don't Turn Your Back on Friday Night",
+      "poster": "https://image.tmdb.org/t/p/w780/1Ou40C9S69c9fxQJVni8ofIhR9x.jpg",
+      "posterShape": "poster",
+      "description": "Meet former gravedigger and doorman Ike Reilly. At 40 years old he landed a major label recording contract and in true rock and roll fashion he bought his family a dream home. He took his band out on the road where they became what The New York Times called \"one of the best live bands in America.\" Despite 9 albums, a cult following and immense critical acclaim Reilly has failed to achieve commercial success. Academy Award winning director James Marsh says, \"Ike's stuff sounds like it should be enormously successful and it just isn't and I have no idea why.\" Exploring Ike's career, the film culls over 40 years of footage masterfully weaving in songs that reveal a complicated and formidable artist with an incredibly charismatic family. Struggling with booze and in the face of foreclosure, Ike finds redemption in music, art and family as his 3 sons begin performing with his band.",
+      "releaseInfo": "2025",
+      "runtime": "103 min",
+      "genres": [
+        "Documentary",
+        "Music",
+        "Rock"
+      ]
+    },
+    {
+      "id": "tt38094282",
+      "type": "movie",
+      "name": "The Beatles: The Sound of a Revolution",
+      "poster": "https://image.tmdb.org/t/p/w780/b6YpJZsdfAbGajaREEycsqkC7Vh.jpg",
+      "posterShape": "poster",
+      "description": "Step inside the remarkable journey of The Beatles, the band that reshaped music and revolutionised culture in the 20th century. From their early days in Liverpool and the raw energy of The Cavern Club, to their meteoric rise in the 1960s and the frenzy of Beatlemania, the film explores how four young men-John Lennon, Paul McCartney, George Harrison, and Ringo Starr-captivated the world. Featuring archival footage, interviews, and timeless performances, it highlights their groundbreaking approach to songwriting, recording, and artistic experimentation that pushed the boundaries of rock and roll. Beyond the music, the film examines the personal challenges, creative tensions, and cultural shifts that shaped their journey, from the heights of fame to their eventual breakup. Ultimately, this is not only the story of a band, but of a movement that left an indelible mark on music, art, and society-one that still resonates across generations today.",
+      "releaseInfo": "2025",
+      "runtime": "47 min",
+      "genres": [
+        "Documentary",
+        "Music",
+        "Rock"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/iRYF32mt4O1ieGvsemYRwbTG6Bo.jpg"
     },
     {
       "id": "tt30102962",
@@ -512,39 +498,6 @@
       "imdbRating": "10.0"
     },
     {
-      "id": "tt0487547",
-      "type": "movie",
-      "name": "Argentina Beat",
-      "poster": "https://image.tmdb.org/t/p/w780/nzuAizZthXIHp5D7yWkGYWebWJq.jpg",
-      "posterShape": "poster",
-      "description": "Through the second half of the 1960's the Beat movement and the first National Rock were the flagship of the youth, leaders as never before of a society in transformation. The formation of the first bands, the venues for concerts, the difficulties to sing rock in Spanish and interact with other artists create new ways to communicate previously unavailable.  This documentary presents the story of these first pioneers of the Argentinean rock music.",
-      "releaseInfo": "2007",
-      "runtime": "120 min",
-      "genres": [
-        "Documentary",
-        "Music",
-        "Rock"
-      ],
-      "imdbRating": "10.0"
-    },
-    {
-      "id": "tt0313745",
-      "type": "movie",
-      "name": "Vagabond's Band",
-      "poster": "https://image.tmdb.org/t/p/w780/kh1KXUCZdp8MDj7mjiiFgy7RtSf.jpg",
-      "posterShape": "poster",
-      "description": "In 1979, krautrock group Embryo toured Iran, Afghanistan and India by bus, while performing with local musicians and documenting their trip.",
-      "releaseInfo": "1980",
-      "runtime": "82 min",
-      "genres": [
-        "Documentary",
-        "Music",
-        "Rock"
-      ],
-      "background": "https://image.tmdb.org/t/p/w1280/1z2PHoW0Zohm64SgSs2OtDBAmqY.jpg",
-      "imdbRating": "10.0"
-    },
-    {
       "id": "tt4661866",
       "type": "movie",
       "name": "John Mayer: Someday I'll Fly",
@@ -624,23 +577,6 @@
       ],
       "background": "https://image.tmdb.org/t/p/w1280/bCKlJ0yCpbKTT7BcMvlcVSofJwg.jpg",
       "imdbRating": "8.4"
-    },
-    {
-      "id": "tt11124956",
-      "type": "movie",
-      "name": "Depeche Mode und die DDR",
-      "poster": "https://image.tmdb.org/t/p/w780/cQaN6ypI1qNa3lJagJfX3hLODkd.jpg",
-      "posterShape": "poster",
-      "description": "Depeche Mode have had a loyal fan base since the 80s. Even in the deepest GDR province, boys wanted to look like Dave and people danced in black leather to \"Just Can't Get Enough\". A documentary about a great love.",
-      "releaseInfo": "2018",
-      "runtime": "90 min",
-      "genres": [
-        "Documentary",
-        "Music",
-        "Rock"
-      ],
-      "background": "https://image.tmdb.org/t/p/w1280/tK3CQ5T0imhUIvKA5Pm9erkdVWo.jpg",
-      "imdbRating": "9.3"
     },
     {
       "id": "tt0306923",
@@ -739,6 +675,22 @@
         "Rock"
       ],
       "background": "https://image.tmdb.org/t/p/w1280/eL3EftZZxdcTFZW2sMJ6rhmzmuO.jpg",
+      "imdbRating": "8.7"
+    },
+    {
+      "id": "tt36491838",
+      "type": "movie",
+      "name": "When Bruce Springsteen Came to Britain",
+      "poster": "https://image.tmdb.org/t/p/w780/7chtJQmEPSxLcsMvlEOdDA2HDzB.jpg",
+      "posterShape": "poster",
+      "description": "The film tells the story of how Springsteen and the E Street Band first arrived in the UK in November 1975 for a sold-out performance in Hammersmith, giving his new album Born to Run its European premiere",
+      "releaseInfo": "2025",
+      "genres": [
+        "Documentary",
+        "Music",
+        "Rock"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/bGBnbExOvuGt2V0zrtdwOv2Zr3V.jpg",
       "imdbRating": "8.7"
     },
     {
@@ -859,22 +811,6 @@
       "imdbRating": "8.5"
     },
     {
-      "id": "tt24068168",
-      "type": "movie",
-      "name": "ELLEGARDEN: Lost & Found",
-      "poster": "https://image.tmdb.org/t/p/w780/nP5FYTKHI1GBZ6Hmcn1Wbmqckbz.jpg",
-      "posterShape": "poster",
-      "description": "A sensation to indies rock scene since 2000s and actively present today among fans even during their breaks. The first full-length documentary in the band’s history starts from the production base in LA for the first album in 16 years, and navigates the stories from how they started, took break after breaking through, and reunited with nationwide fans awaited.",
-      "releaseInfo": "2022",
-      "genres": [
-        "Documentary",
-        "Music",
-        "Rock"
-      ],
-      "background": "https://image.tmdb.org/t/p/w1280/AjqtdmyNS4gqWJK8rJJx40yWzaW.jpg",
-      "imdbRating": "8.5"
-    },
-    {
       "id": "tt14482570",
       "type": "series",
       "name": "Watch the Sound with Mark Ronson",
@@ -889,23 +825,6 @@
       ],
       "background": "https://image.tmdb.org/t/p/w1280/jirREMOVVoRbBgZS3n6VDhXMMlb.jpg",
       "imdbRating": "7.3"
-    },
-    {
-      "id": "tt14354838",
-      "type": "movie",
-      "name": "Heroes: Silence and Rock & Roll",
-      "poster": "https://image.tmdb.org/t/p/w780/zDUtJIr4lPeMnF7vXHyAqCXkR4s.jpg",
-      "posterShape": "poster",
-      "description": "An exploration of the rise of Héroes del Silencio, the seminal 1980s Spanish rock band anchored by Enrique Bunbury.",
-      "releaseInfo": "2021",
-      "runtime": "95 min",
-      "genres": [
-        "Documentary",
-        "Music",
-        "Rock"
-      ],
-      "background": "https://image.tmdb.org/t/p/w1280/hl02jzJ80MozdW71Naf5Ee2881n.jpg",
-      "imdbRating": "8.4"
     },
     {
       "id": "tt0097181",
@@ -923,22 +842,6 @@
       ],
       "background": "https://image.tmdb.org/t/p/w1280/qZtNQIBsLOP7iye9N9VikXPLwOK.jpg",
       "imdbRating": "8.1"
-    },
-    {
-      "id": "tt12260938",
-      "type": "movie",
-      "name": "Johnny made in France",
-      "poster": "https://image.tmdb.org/t/p/w780/tcjie3p36mhlZNZdXhvjiFHapOp.jpg",
-      "posterShape": "poster",
-      "description": "",
-      "releaseInfo": "2018",
-      "genres": [
-        "Documentary",
-        "Music",
-        "Rock"
-      ],
-      "background": "https://image.tmdb.org/t/p/w1280/zehD48aWZGmCogFW2LyaOouxNR9.jpg",
-      "imdbRating": "8.2"
     },
     {
       "id": "tt0235297",
@@ -1110,23 +1013,6 @@
       "imdbRating": "8.1"
     },
     {
-      "id": "tt33054371",
-      "type": "movie",
-      "name": "Bruce Springsteen: The America Whisperer",
-      "poster": "https://image.tmdb.org/t/p/w780/9oqenh8TcF6XzX8tOLvNROVKT5R.jpg",
-      "posterShape": "poster",
-      "description": "The life of Bruce Springsteen has been told many times, from the angle of the adored rock star, American icon.",
-      "releaseInfo": "2024",
-      "runtime": "52 min",
-      "genres": [
-        "Documentary",
-        "Music",
-        "Rock"
-      ],
-      "background": "https://image.tmdb.org/t/p/w1280/5ZBENOhnADOjQsyFtrxQOjC94nH.jpg",
-      "imdbRating": "8.0"
-    },
-    {
       "id": "tt8399720",
       "type": "movie",
       "name": "TINA",
@@ -1225,23 +1111,6 @@
         "Rock"
       ],
       "background": "https://image.tmdb.org/t/p/w1280/zhDbSCUWnZ6BQAIY9deot2DArBw.jpg",
-      "imdbRating": "8.0"
-    },
-    {
-      "id": "tt33364681",
-      "type": "movie",
-      "name": "Proto-Slav",
-      "poster": "https://image.tmdb.org/t/p/w780/7mZHTgiIl2fcL2bPrt9dbGgJ5Oz.jpg",
-      "posterShape": "poster",
-      "description": "Praslovan is a feature-length documentary film about the 40-year long career of musician Zoran Predin. It revolves around the hidden stories from Zoran's life and work. Some are fun, others very personal, as well as sad or even tragic. Because Zoran's nature is mischievous, so is the documentary.",
-      "releaseInfo": "2025",
-      "runtime": "113 min",
-      "genres": [
-        "Documentary",
-        "Music",
-        "Rock"
-      ],
-      "background": "https://image.tmdb.org/t/p/w1280/dkoUxa1cQwQUNqiKoMOipK4Z1aS.jpg",
       "imdbRating": "8.0"
     },
     {
@@ -1481,22 +1350,6 @@
       "imdbRating": "7.5"
     },
     {
-      "id": "tt0395291",
-      "type": "movie",
-      "name": "Laibach: Divided States of America",
-      "poster": "https://image.tmdb.org/t/p/w780/irasS414nOq6TdYswhqaysHt0qj.jpg",
-      "posterShape": "poster",
-      "description": "Laibach North American Tour 2004  and Laibach live 13.12.2004 La Locomotive, Paris, France  This Film is a unique document of the Laibach tour, during the traumatic post-election atmosphere in The USA, a country deeply divided by two opposite political and cultural poles. The tour has been therefore named \"The Divided States of America Tour\".",
-      "releaseInfo": "2006",
-      "runtime": "76 min",
-      "genres": [
-        "Documentary",
-        "Music",
-        "Rock"
-      ],
-      "imdbRating": "7.9"
-    },
-    {
       "id": "tt0306924",
       "type": "movie",
       "name": "Guns N' Roses: Makin' F@*!ing Videos Part II - November Rain",
@@ -1561,22 +1414,6 @@
         "Rock"
       ],
       "background": "https://image.tmdb.org/t/p/w1280/74Y7CCGzRizQo3qkdbJGogYqO3s.jpg",
-      "imdbRating": "7.7"
-    },
-    {
-      "id": "tt38734083",
-      "type": "movie",
-      "name": "Indochine, une révolution musicale",
-      "poster": "https://image.tmdb.org/t/p/w780/ztIdeQQ6kUCf8T9khYkQxBIwN0R.jpg",
-      "posterShape": "poster",
-      "description": "",
-      "releaseInfo": "2024",
-      "genres": [
-        "Documentary",
-        "Music",
-        "Rock"
-      ],
-      "background": "https://image.tmdb.org/t/p/w1280/8H7z9G3VbzXMt94Stmb6J9BFo8t.jpg",
       "imdbRating": "7.7"
     },
     {
@@ -1799,23 +1636,6 @@
       "imdbRating": "7.5"
     },
     {
-      "id": "tt10071790",
-      "type": "movie",
-      "name": "\"BLOW THE NIGHT!\" Let's Spend the Night Together",
-      "poster": "https://image.tmdb.org/t/p/w780/vZKottmj32FAQVdWEcK01TcgNSU.jpg",
-      "posterShape": "poster",
-      "description": "\"BLOW THE NIGHT!\" Let's Spend the Night Together is a 1983 Japanese docu-drama shot on 16mm film starring actual Yanki gang members as many of the main characters.",
-      "releaseInfo": "1983",
-      "runtime": "109 min",
-      "genres": [
-        "Documentary",
-        "Music",
-        "Rock"
-      ],
-      "background": "https://image.tmdb.org/t/p/w1280/lpDEXY3BnS6j7qyYOTcfXsgLKyd.jpg",
-      "imdbRating": "7.4"
-    },
-    {
       "id": "tt1545103",
       "type": "movie",
       "name": "Rush: Beyond the Lighted Stage",
@@ -1848,23 +1668,6 @@
       ],
       "background": "https://image.tmdb.org/t/p/w1280/eAl8xHaiPehBjBSqoP0HBbMBQP5.jpg",
       "imdbRating": "7.5"
-    },
-    {
-      "id": "tt9149530",
-      "type": "movie",
-      "name": "This Is Måneskin",
-      "poster": "https://image.tmdb.org/t/p/w780/3jtE9a7KU2ReebOmVeTEIS9eK3w.jpg",
-      "posterShape": "poster",
-      "description": "",
-      "releaseInfo": "2018",
-      "runtime": "65 min",
-      "genres": [
-        "Documentary",
-        "Music",
-        "Rock"
-      ],
-      "background": "https://image.tmdb.org/t/p/w1280/1yBDQ7CCCp8LXaZxr6rbM4uphTH.jpg",
-      "imdbRating": "7.6"
     },
     {
       "id": "tt2973408",
@@ -1935,6 +1738,23 @@
       "imdbRating": "7.4"
     },
     {
+      "id": "tt0243925",
+      "type": "movie",
+      "name": "Gimme Some Truth: The Making of John Lennon's Imagine Album",
+      "poster": "https://image.tmdb.org/t/p/w780/nK0DWRqdrBud46pt5qzCcOlhKgg.jpg",
+      "posterShape": "poster",
+      "description": "An instant classic when released in September 1971, John Lennon's Imagine was the ex-Beatle's solo masterpiece, and its musical legacy is matched here by priceless footage of Lennon's creative process, independently edited from original 16-millimeter footage by producer-director Andrew Solt with the hands-off approval of Lennon's widow, Yoko Ono. Incorporating footage from John and Yoko's original film Imagine (clips of which were previously included in the 1988 documentary Imagine: John Lennon), Gimme Some Truth presents Lennon, Ono, coproducer Phil Spector, and a host of gifted musicians in a fluid context of conflict, community, and craftsmanship. Bearing witness to every stage of the recording process, this 63-minute documentary succeeds as a visual diary, a study of familiar music in its infancy, and a revealing portrait of the then-30-year-old Lennon--from witty clown to confrontational perfectionist--at the peak of his post-Fab Four inspiration.",
+      "releaseInfo": "2000",
+      "runtime": "63 min",
+      "genres": [
+        "Documentary",
+        "Music",
+        "Rock"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/9QepnwKGkvyT0RFYJuuftzYgwOx.jpg",
+      "imdbRating": "7.5"
+    },
+    {
       "id": "tt6170130",
       "type": "movie",
       "name": "How the Beatles Changed the World",
@@ -1967,23 +1787,6 @@
       ],
       "background": "https://image.tmdb.org/t/p/w1280/bbDMy8ou6N8yL5VidQpzo6kZZVk.jpg",
       "imdbRating": "7.4"
-    },
-    {
-      "id": "tt11034424",
-      "type": "movie",
-      "name": "Glam Rock: Splendeur et Décadence",
-      "poster": "https://image.tmdb.org/t/p/w780/hkXpE6IF9lOtDyOfH2lJ0zXVPNz.jpg",
-      "posterShape": "poster",
-      "description": "",
-      "releaseInfo": "2019",
-      "runtime": "54 min",
-      "genres": [
-        "Documentary",
-        "Music",
-        "Rock"
-      ],
-      "background": "https://image.tmdb.org/t/p/w1280/ai5A5cnJT6Z6RM0CMx7MY2fazff.jpg",
-      "imdbRating": "7.6"
     },
     {
       "id": "tt30835450",
@@ -2154,40 +1957,6 @@
       "imdbRating": "7.3"
     },
     {
-      "id": "tt9140376",
-      "type": "movie",
-      "name": "Oh Les Filles!",
-      "poster": "https://image.tmdb.org/t/p/w780/xpnavt6pRk6ZqZr6Q1TALwoZoHM.jpg",
-      "posterShape": "poster",
-      "description": "What if French Rock were born with Edith Piaf?  From sweet sixties pop to today's gender-indifferent anthems, from feminist rebels of the seventies to fashion icons of the social media age, from Françoise Hardy to Christine & The Queens, via Vanessa Paradis, Catherine Ringer, Charlotte Gainsbourg and many more, Oh Les Filles! tells the untold story of French female rock stars.  Narrated by Clémence Poésy, this groundbreaking documentary combines interviews and iconic footage to radically reverse perspectives and give the patriarchy a kick!",
-      "releaseInfo": "2019",
-      "runtime": "78 min",
-      "genres": [
-        "Documentary",
-        "Music",
-        "Rock"
-      ],
-      "background": "https://image.tmdb.org/t/p/w1280/mJMQHbGRT303CiIicPgUdZcEcIp.jpg",
-      "imdbRating": "7.4"
-    },
-    {
-      "id": "tt2154685",
-      "type": "movie",
-      "name": "Mamonas Forever",
-      "poster": "https://image.tmdb.org/t/p/w780/b9K9ftcfpycvZh7D2rwWVyWB80M.jpg",
-      "posterShape": "poster",
-      "description": "In less than ten months, the music band Mamonas Assassinas went from being completely unknown to becoming one of the biggest phenomena in Brazilian music. Irreverent, intelligent, sarcastic and creative, the band took over Brazil and sold two million albums in just six months. Never-before-seen footage and interviews from family, friends, producers, and musicians tell the band’s story, their challenges, their rise to fame, and the tragic aeroplane accident that killed all its members in 1996.",
-      "releaseInfo": "2009",
-      "runtime": "83 min",
-      "genres": [
-        "Documentary",
-        "Music",
-        "Rock"
-      ],
-      "background": "https://image.tmdb.org/t/p/w1280/kM9xdiPQi5z8cdtfbfzXrxJftam.jpg",
-      "imdbRating": "7.5"
-    },
-    {
       "id": "tt1565434",
       "type": "movie",
       "name": "Blur: No Distance Left to Run",
@@ -2340,22 +2109,6 @@
       "imdbRating": "7.3"
     },
     {
-      "id": "tt28081900",
-      "type": "series",
-      "name": "Vasco Rossi: Living It",
-      "poster": "https://image.tmdb.org/t/p/w780/hwRgbdHb0x1U2GhzoeeKC2v2ogA.jpg",
-      "posterShape": "poster",
-      "description": "Italy's most beloved rock star Vasco Rossi grants unprecedented access to intimate details of his personal life and successful career over the decades.",
-      "releaseInfo": "2023",
-      "genres": [
-        "Documentary",
-        "Music",
-        "Rock"
-      ],
-      "background": "https://image.tmdb.org/t/p/w1280/742AO5PaFJYlLIo4ItCMACu8oEF.jpg",
-      "imdbRating": "7.4"
-    },
-    {
       "id": "tt1487275",
       "type": "movie",
       "name": "The White Stripes: Under Great White Northern Lights",
@@ -2388,6 +2141,23 @@
       ],
       "background": "https://image.tmdb.org/t/p/w1280/j6KrMlP36bXxQteJGT61Aw5BZaM.jpg",
       "imdbRating": "7.3"
+    },
+    {
+      "id": "tt33029955",
+      "type": "movie",
+      "name": "One to One: John & Yoko",
+      "poster": "https://image.tmdb.org/t/p/w780/9SncSYtmHNJv2hwFkkHw6k8vNvX.jpg",
+      "posterShape": "poster",
+      "description": "An exploration of the seminal and transformative 18 months that one of music’s most famous couples — John Lennon and Yoko Ono — spent living in Greenwich Village, New York City, in the early 1970s.",
+      "releaseInfo": "2025",
+      "runtime": "104 min",
+      "genres": [
+        "Documentary",
+        "Music",
+        "Rock"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/9n78URb0Q3U8OjXQF98UNaw6MIZ.jpg",
+      "imdbRating": "7.1"
     },
     {
       "id": "tt2920540",
@@ -2523,23 +2293,6 @@
       ],
       "background": "https://image.tmdb.org/t/p/w1280/hw6CdkZ0NOdnkFv6cJHHRI6qt3y.jpg",
       "imdbRating": "6.0"
-    },
-    {
-      "id": "tt28317622",
-      "type": "movie",
-      "name": "AC/DC : Forever Young",
-      "poster": "https://image.tmdb.org/t/p/w780/vl3X07VxCqF19DKvGJLM5u3C25M.jpg",
-      "posterShape": "poster",
-      "description": "AC/DC, or three brothers in the service of music. The story of a unique sound that spanned fifty years of rock'n'roll: sharp, electric, boosted.",
-      "releaseInfo": "2023",
-      "runtime": "52 min",
-      "genres": [
-        "Documentary",
-        "Music",
-        "Rock"
-      ],
-      "background": "https://image.tmdb.org/t/p/w1280/hRsyvAyHJDPqEsSbWKS8UIeILRA.jpg",
-      "imdbRating": "7.3"
     },
     {
       "id": "tt11023922",
@@ -2745,6 +2498,23 @@
       "imdbRating": "7.3"
     },
     {
+      "id": "tt10148150",
+      "type": "movie",
+      "name": "In the Court of the Crimson King: King Crimson at 50",
+      "poster": "https://image.tmdb.org/t/p/w780/qTW48wsLoDub3A9bmQ2EL2eEZuq.jpg",
+      "posterShape": "poster",
+      "description": "The film explores the “acute suffering” and transcendent glory experienced by current and former members of King Crimson, allowing the audience an intimate and sometimes uncomfortable insight into the musicians’ experience as they confront life and death head on in the world’s most demanding rock band.",
+      "releaseInfo": "2022",
+      "runtime": "85 min",
+      "genres": [
+        "Documentary",
+        "Music",
+        "Rock"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/1pTaAQjHclbOTVd0bNIYrzNxJb3.jpg",
+      "imdbRating": "7.2"
+    },
+    {
       "id": "tt13091558",
       "type": "movie",
       "name": "A World Without Beethoven?",
@@ -2759,23 +2529,6 @@
         "Rock"
       ],
       "background": "https://image.tmdb.org/t/p/w1280/tN2GPUigHHtRQNWh8cdfZ7BuU06.jpg",
-      "imdbRating": "7.2"
-    },
-    {
-      "id": "tt0090558",
-      "type": "movie",
-      "name": "1/2 Man",
-      "poster": "https://image.tmdb.org/t/p/w780/hjjTlSeUQeimuNdDsnlW2XFu2oZ.jpg",
-      "posterShape": "poster",
-      "description": "A visual documentary of Einstürzende Neubauten, the German underground band, by Japanese cult director Sogo Ishii, made during their 1985 tour of Japan. The band makes an elaborate and remarkably choreographed appearance in the ruins of an old ironworks which was scheduled for demolition; footage of same was incorporated into the movie and a brief appearance on stage.",
-      "releaseInfo": "1986",
-      "runtime": "58 min",
-      "genres": [
-        "Documentary",
-        "Music",
-        "Rock"
-      ],
-      "background": "https://image.tmdb.org/t/p/w1280/s3xYfVGskUWMWAhSxNbDiKETjgQ.jpg",
       "imdbRating": "7.2"
     },
     {
@@ -2794,6 +2547,23 @@
       ],
       "background": "https://image.tmdb.org/t/p/w1280/5taScILscWm17F3ndboj3FnMCZK.jpg",
       "imdbRating": "7.0"
+    },
+    {
+      "id": "tt0462441",
+      "type": "movie",
+      "name": "Amazing Journey: The Story of The Who",
+      "poster": "https://image.tmdb.org/t/p/w780/1c0gwzn18r3A1YGH2w13Ff3zs8o.jpg",
+      "posterShape": "poster",
+      "description": "A documentary on The Who, featuring interviews with the band's two surviving members, Pete Townshend and Roger Daltrey.",
+      "releaseInfo": "2007",
+      "runtime": "119 min",
+      "genres": [
+        "Documentary",
+        "Music",
+        "Rock"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/ndv5HqSo9Nn05nlfgV0cCnA2btY.jpg",
+      "imdbRating": "7.1"
     },
     {
       "id": "tt0367528",
@@ -2913,6 +2683,23 @@
       "imdbRating": "7.1"
     },
     {
+      "id": "tt5884004",
+      "type": "movie",
+      "name": "David Crosby: Remember My Name",
+      "poster": "https://image.tmdb.org/t/p/w780/ukX2FulY6ZYLnNYIclixLVOVZB1.jpg",
+      "posterShape": "poster",
+      "description": "You thought you knew him. Meet David Crosby now in this portrait of a man with everything but an easy retirement on his mind. With unflinching honesty, self-examination, regret, fear, exuberance and an unshakable belief in family and the transformative nature of music, Crosby shares his often challenging journey.",
+      "releaseInfo": "2019",
+      "runtime": "95 min",
+      "genres": [
+        "Documentary",
+        "Music",
+        "Rock"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/m4fZRsub0P7qP8Sj9pmecXbQxwx.jpg",
+      "imdbRating": "7.0"
+    },
+    {
       "id": "tt0083193",
       "type": "movie",
       "name": "This Is Elvis",
@@ -2945,23 +2732,6 @@
       ],
       "background": "https://image.tmdb.org/t/p/w1280/aYjgRcI7eRxdmLqPhucxJV5VIm7.jpg",
       "imdbRating": "7.1"
-    },
-    {
-      "id": "tt18335818",
-      "type": "movie",
-      "name": "Then the Times, They Changed",
-      "poster": "https://image.tmdb.org/t/p/w780/fQOg6DFujAdhrdEzL64fBrCwO5r.jpg",
-      "posterShape": "poster",
-      "description": "Known as one of Finland’s most prominent rock institutions, Tavastia club celebrated half a century of being in the business, whilst withstanding the challenges of a global pandemic. In this rockumentary, director Antti Kuivalainen takes us through the history of Tavastia, as the club which brought rock ‘n’ roll to Finland.",
-      "releaseInfo": "2022",
-      "runtime": "72 min",
-      "genres": [
-        "Documentary",
-        "Music",
-        "Rock"
-      ],
-      "background": "https://image.tmdb.org/t/p/w1280/ttyZccQgge0P0QD3kVFul71EfLt.jpg",
-      "imdbRating": "7.2"
     },
     {
       "id": "tt1058514",
@@ -3081,23 +2851,6 @@
       ],
       "background": "https://image.tmdb.org/t/p/w1280/3ShU5UjihXTaKe1c2lhprTrRqqa.jpg",
       "imdbRating": "7.1"
-    },
-    {
-      "id": "tt32873501",
-      "type": "movie",
-      "name": "Queen: We Are the Champions – The Story of the Greatest Sports Anthem of All Time",
-      "poster": "https://image.tmdb.org/t/p/w780/ixfsvjCxwhvU3ggo0dlnu4usGTD.jpg",
-      "posterShape": "poster",
-      "description": "We Are the Champions isn’t just a Queen track, it’s the sound of victory itself. This documentary traces how Freddie Mercury’s vision of a communal anthem leapt from News of the World into stadiums across the globe, becoming the ultimate soundtrack to triumph. With Brian May and Roger Taylor reflecting on its creation, and with decades of archive footage showing fans, athletes, and nations singing as one, the film makes a case for why this towering arena ballad still rules the winners’ podium.",
-      "releaseInfo": "2024",
-      "runtime": "52 min",
-      "genres": [
-        "Documentary",
-        "Music",
-        "Rock"
-      ],
-      "background": "https://image.tmdb.org/t/p/w1280/vEU1JKTZmEfFwBvNESQ7AJbhq4G.jpg",
-      "imdbRating": "7.0"
     },
     {
       "id": "tt0365943",
@@ -3369,21 +3122,6 @@
       "imdbRating": "7.0"
     },
     {
-      "id": "tt2991754",
-      "type": "movie",
-      "name": "El rey del rocanrol",
-      "poster": "https://image.tmdb.org/t/p/w780/vlr2QTLquKSJ5FBbfulcYeZAa0W.jpg",
-      "posterShape": "poster",
-      "description": "",
-      "releaseInfo": "2014",
-      "genres": [
-        "Documentary",
-        "Music",
-        "Rock"
-      ],
-      "imdbRating": "7.0"
-    },
-    {
       "id": "tt1308756",
       "type": "movie",
       "name": "Don’t Stop Believin’: Everyman’s Journey",
@@ -3621,6 +3359,23 @@
       "imdbRating": "6.7"
     },
     {
+      "id": "tt2981746",
+      "type": "movie",
+      "name": "Being Frank: The Chris Sievey Story",
+      "poster": "https://image.tmdb.org/t/p/w780/nAJGfk0xpht5BE6kmBVFDYNFZSt.jpg",
+      "posterShape": "poster",
+      "description": "The hilarious and bizarre story of Frank Sidebottom, the cult British comedian in a papier mâché head, and the secretive life of Chris Sievey, the artist trapped inside.",
+      "releaseInfo": "2019",
+      "runtime": "100 min",
+      "genres": [
+        "Documentary",
+        "Music",
+        "Rock"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/mezll9g1CplMyrz8aHKA8RFQEsV.jpg",
+      "imdbRating": "6.8"
+    },
+    {
       "id": "tt0492968",
       "type": "movie",
       "name": "Everyone Stares: The Police Inside Out",
@@ -3672,23 +3427,6 @@
       "imdbRating": "6.8"
     },
     {
-      "id": "tt4569908",
-      "type": "movie",
-      "name": "Junk Story",
-      "poster": "https://image.tmdb.org/t/p/w780/vsdmzYSDfmAfhVgSCJisD72oHvz.jpg",
-      "posterShape": "poster",
-      "description": "A look back at the life and career of Japanese guitarist hide, who died under questionable circumstances in 1998.",
-      "releaseInfo": "2015",
-      "runtime": "125 min",
-      "genres": [
-        "Documentary",
-        "Music",
-        "Rock"
-      ],
-      "background": "https://image.tmdb.org/t/p/w1280/6XE1UNVs7jkIa6fDBzBAqcCguxL.jpg",
-      "imdbRating": "6.8"
-    },
-    {
       "id": "tt16088040",
       "type": "movie",
       "name": "Classic Albums: Suede - Coming Up",
@@ -3697,22 +3435,6 @@
       "description": "SKY ARTS presents Suede's Coming Up (released on Nude Records in 1996) in the Classic Albums series.",
       "releaseInfo": "2021",
       "runtime": "49 min",
-      "genres": [
-        "Documentary",
-        "Music",
-        "Rock"
-      ],
-      "imdbRating": "6.8"
-    },
-    {
-      "id": "tt0095487",
-      "type": "movie",
-      "name": "Laibach: Victory Under the Sun",
-      "poster": "https://image.tmdb.org/t/p/w780/mvHUMhkkzMg6OYcuuPVtBECA0rG.jpg",
-      "posterShape": "poster",
-      "description": "\"Victory Under the Sun\" chronicles the making of Laibach's \"Opus Dei\" album.",
-      "releaseInfo": "1988",
-      "runtime": "62 min",
       "genres": [
         "Documentary",
         "Music",
@@ -3769,23 +3491,6 @@
         "Rock"
       ],
       "background": "https://image.tmdb.org/t/p/w1280/hAuv2v987fhssHPV9tzPxtZVShQ.jpg",
-      "imdbRating": "6.7"
-    },
-    {
-      "id": "tt0204702",
-      "type": "movie",
-      "name": "Public Telephone",
-      "poster": "https://image.tmdb.org/t/p/w780/ArSslhXbYxMJL6wFi8hP5LPBgkE.jpg",
-      "posterShape": "poster",
-      "description": "Téléphone is a great success story in French rock: 300,000  albums sold in 1979. The group was born on December 16, 1976, at a surprise concert at the American Center in Paris. Four instrumentalists, four self-taught, four musicians untroubled by the successive waves of fashions from across the Atlantic and the Channel: Jean-Louis Aubert, singer and songwriter; Louis Bertignac, guitarist; Richard Kolinka, drummer; Corinne Marienneau, bassist. From titles: “Métro c'est trop”, “La bombe humaine”, “Crache ton venin”... Portraits and interviews, trances and crowd-pleasers at the Palais des Sports and the Fete de l'Humanité, a look behind the scenes. Jean-Marie Périer, with seven cameras in hand, now captures the phenomenon in a feature-length film. Camera movements, editing on a giant triple screen and Dolby Stereo sound all serve to highlight the quartet's harmony and vitality.",
-      "releaseInfo": "1980",
-      "runtime": "100 min",
-      "genres": [
-        "Documentary",
-        "Music",
-        "Rock"
-      ],
-      "background": "https://image.tmdb.org/t/p/w1280/u8AvY6VzSndBmO4Wvr5n3eBwIIp.jpg",
       "imdbRating": "6.7"
     },
     {
@@ -4006,23 +3711,6 @@
       "imdbRating": "6.5"
     },
     {
-      "id": "tt0057230",
-      "type": "movie",
-      "name": "Audition",
-      "poster": "https://image.tmdb.org/t/p/w780/aebIhngYMxNhK9CupfnJ6OACLOb.jpg",
-      "posterShape": "poster",
-      "description": "Two closely related episodes. Youths make problems for two local orchestras about to compete nationally, and in a talent competition a young girl gets stage fright, while another lies to her boss to compete.",
-      "releaseInfo": "1964",
-      "runtime": "79 min",
-      "genres": [
-        "Documentary",
-        "Music",
-        "Rock"
-      ],
-      "background": "https://image.tmdb.org/t/p/w1280/yhkN6N3lLVhFoO12zAle3B9wriM.jpg",
-      "imdbRating": "6.4"
-    },
-    {
       "id": "tt2247744",
       "type": "movie",
       "name": "Classic Albums: John Lennon - Plastic Ono Band",
@@ -4072,39 +3760,6 @@
       ],
       "background": "https://image.tmdb.org/t/p/w1280/8gEy8zrnaubHdSn2f7sdmdiNrkg.jpg",
       "imdbRating": "6.3"
-    },
-    {
-      "id": "tt33097841",
-      "type": "movie",
-      "name": "Rihanna - Inselkind, Popstar, Nationalheldin",
-      "poster": "https://image.tmdb.org/t/p/w780/9g1fB41yzRd92rPlXFhNHZmgm8e.jpg",
-      "posterShape": "poster",
-      "description": "Rihanna's rise to global pop icon seems like a fairytale and makes her the most important representative of her home country Barbados. The film tells Rihanna's career from the perspective of her home island and traces her dual role as a billionaire entrepreneur and national heroine.",
-      "releaseInfo": "2024",
-      "genres": [
-        "Documentary",
-        "Music",
-        "Rock"
-      ],
-      "background": "https://image.tmdb.org/t/p/w1280/gkvdCONhVZ3LKGgpQDfy2Z8R0hy.jpg",
-      "imdbRating": "6.4"
-    },
-    {
-      "id": "tt18260466",
-      "type": "movie",
-      "name": "The French New Wave: A Cinema Revolution",
-      "poster": "https://image.tmdb.org/t/p/w780/hBtXDAX0Qz7fe1597Bw9K3fPmLs.jpg",
-      "posterShape": "poster",
-      "description": "The 60s was the birth and ascension of the French New Wave. Characterised as an avant-garde film movement and created by directors like Godard and Varda, it give birth to iconic actors such as Bardot and Belmondo.",
-      "releaseInfo": "2021",
-      "runtime": "52 min",
-      "genres": [
-        "Documentary",
-        "Music",
-        "Rock"
-      ],
-      "background": "https://image.tmdb.org/t/p/w1280/hUhoqHc4aT1cQAZx2xo2GPvLyiD.jpg",
-      "imdbRating": "6.4"
     },
     {
       "id": "tt0402406",
@@ -4307,23 +3962,6 @@
       "imdbRating": "6.0"
     },
     {
-      "id": "tt17278158",
-      "type": "movie",
-      "name": "CAN and Me",
-      "poster": "https://image.tmdb.org/t/p/w780/f4ciHezbUYap1K1jATecp7Fj889.jpg",
-      "posterShape": "poster",
-      "description": "In 1968, musician Irmin Schmidt and friends founded the avant-garde band \"Can\", which achieved worldwide fame. Schmidt also made a name for himself as a composer for films by Wim Wenders. In this documentary, the charismatic sound tinkerer looks back on his life and career.",
-      "releaseInfo": "2022",
-      "runtime": "85 min",
-      "genres": [
-        "Documentary",
-        "Music",
-        "Rock"
-      ],
-      "background": "https://image.tmdb.org/t/p/w1280/4VfuuwN95f3Ax4SfDF0MggJig7i.jpg",
-      "imdbRating": "6.0"
-    },
-    {
       "id": "tt28682488",
       "type": "movie",
       "name": "Trilogy: New Wave",
@@ -4353,22 +3991,6 @@
         "Music",
         "Rock"
       ],
-      "imdbRating": "6.0"
-    },
-    {
-      "id": "tt24512706",
-      "type": "series",
-      "name": "Sometimes When We Touch",
-      "poster": "https://image.tmdb.org/t/p/w780/sIa1ow0l2CIMe9hqh9EpZ9PNzfi.jpg",
-      "posterShape": "poster",
-      "description": "The untold story of soft rock, whose artists dominated pop music worldwide in the '70s, only to crash and burn in the '80s, eventually experiencing one of the most unlikely comebacks in music history.",
-      "releaseInfo": "2023",
-      "genres": [
-        "Documentary",
-        "Music",
-        "Rock"
-      ],
-      "background": "https://image.tmdb.org/t/p/w1280/ukRm4njk4g7PjJduZt7oSncPUBW.jpg",
       "imdbRating": "6.0"
     },
     {
@@ -4457,23 +4079,6 @@
       "imdbRating": "5.8"
     },
     {
-      "id": "tt13794154",
-      "type": "movie",
-      "name": "Ratones Paranoicos: The Band That Rocked Argentina",
-      "poster": "https://image.tmdb.org/t/p/w780/tHnEMNxIVlP7N7x2nFLNcBsy30P.jpg",
-      "posterShape": "poster",
-      "description": "The irrepressible Ratones Paranoicos, Argentina's most enduring rock band, are featured in vintage concert and backstage footage as their story's told.",
-      "releaseInfo": "2019",
-      "runtime": "76 min",
-      "genres": [
-        "Documentary",
-        "Music",
-        "Rock"
-      ],
-      "background": "https://image.tmdb.org/t/p/w1280/wjcssjikT5lAwSKvDsITUzPIHa0.jpg",
-      "imdbRating": "5.7"
-    },
-    {
       "id": "tt3142710",
       "type": "movie",
       "name": "Classic Albums: Peter Gabriel - So",
@@ -4489,23 +4094,6 @@
       ],
       "background": "https://image.tmdb.org/t/p/w1280/jcjqrGWsTdF2pXxXpz0gvuEIALq.jpg",
       "imdbRating": "5.6"
-    },
-    {
-      "id": "tt26696057",
-      "type": "movie",
-      "name": "The Pretenders: Chrissie Hynde or Rock Life",
-      "poster": "https://image.tmdb.org/t/p/w780/8EQNxe9HKG3mu980zJFYQ32deiy.jpg",
-      "posterShape": "poster",
-      "description": "A journey through the artistic life of the British-American rock band The Pretenders, formed in 1978, and a portrait of its leader, the charismatic singer and songwriter Chrissie Hynde.",
-      "releaseInfo": "2023",
-      "runtime": "52 min",
-      "genres": [
-        "Documentary",
-        "Music",
-        "Rock"
-      ],
-      "background": "https://image.tmdb.org/t/p/w1280/kpEcvsWRQ6TDnG8xJXaupCcpU97.jpg",
-      "imdbRating": "5.5"
     },
     {
       "id": "tt1560518",
@@ -4533,22 +4121,6 @@
       "description": "Documentary about the mid-20th century Vegas bandleader and trumpeter Louis Prima, who showed the world what a rock show could be.",
       "releaseInfo": "1999",
       "runtime": "90 min",
-      "genres": [
-        "Documentary",
-        "Music",
-        "Rock"
-      ],
-      "imdbRating": "5.5"
-    },
-    {
-      "id": "tt5099264",
-      "type": "movie",
-      "name": "Montreal New Wave",
-      "poster": "https://image.tmdb.org/t/p/w780/rUqSsEYua13gMfS0su4cbvQu7Xt.jpg",
-      "posterShape": "poster",
-      "description": "MONTREAL NEW WAVE is a feature documentary that explores the New Wave cultural current in Quebec in the 70’s and 80’s. The film documents and questions that unknown part of our recent cultural history. Through archives and interviews with key figures of the time, MONTREAL NEW WAVE wants to shed light on a defining current that still inspires the Quebec cultural scene today.",
-      "releaseInfo": "2016",
-      "runtime": "92 min",
       "genres": [
         "Documentary",
         "Music",
@@ -4672,70 +4244,6 @@
       "imdbRating": "4.8"
     },
     {
-      "id": "tt21867090",
-      "type": "movie",
-      "name": "AA",
-      "poster": "https://image.tmdb.org/t/p/w780/bj2G0KQBWCWunW97mZcFuPwAWwR.jpg",
-      "posterShape": "poster",
-      "description": "\"AA\" is a documentary about Akira Aida (mostly known as Aquirax Aida), a japanese music critic who introduced free jazz, improvisation, and progressive rock to Japan. It's based on interviews with 12 critics and musicians who had connections with him. This is a documentary that considers the past, present and future of improvisation.",
-      "releaseInfo": "2006",
-      "runtime": "443 min",
-      "genres": [
-        "Documentary",
-        "Music",
-        "Rock"
-      ],
-      "imdbRating": "4.6"
-    },
-    {
-      "id": "tt18377446",
-      "type": "movie",
-      "name": "Cruce de caminos",
-      "poster": "https://image.tmdb.org/t/p/w780/Au1bBBuEgVvJRVSBvPZSiEmrY4q.jpg",
-      "posterShape": "poster",
-      "description": "An account of the life and work of the singer and songwriter Miguel Ríos, pioneer and true icon of Spanish rock music.",
-      "releaseInfo": "2022",
-      "runtime": "73 min",
-      "genres": [
-        "Documentary",
-        "Music",
-        "Rock"
-      ],
-      "background": "https://image.tmdb.org/t/p/w1280/j5HJNhBginARp66t7sX6bmbHM57.jpg",
-      "imdbRating": "3.5"
-    },
-    {
-      "id": "tt13017760",
-      "type": "movie",
-      "name": "Glam, Sweat & Tears",
-      "poster": "https://image.tmdb.org/t/p/w780/uEyOM702AXwaLH6J3A405e77a1s.jpg",
-      "posterShape": "poster",
-      "description": "Tears were formed in the small town of Katrineholm, Sweden, back in 1968. A band from the same era as Sweet, David Bowie and T-Rex. In the middle of the prog wave, the band chose to invest in an extroverted expression with make-up, glitter and spectacular stage shows. A unique band in Sweden of that time not only for how they looked but also for their sound. Nowadays, the members of Tears are older men, but it still happens that they put on make-up and take to the stage. Ola Salo (The Arc) is one of Tears biggest fans and speaks passionately about the band's history and glam rock in general.",
-      "releaseInfo": "2021",
-      "genres": [
-        "Documentary",
-        "Music",
-        "Rock"
-      ],
-      "background": "https://image.tmdb.org/t/p/w1280/1jwHpOVZAkob0eZHawgpBBOR0UC.jpg",
-      "imdbRating": "1.0"
-    },
-    {
-      "id": "tt34961666",
-      "type": "series",
-      "name": "Blind Channel: After Dark Side",
-      "poster": "https://image.tmdb.org/t/p/w780/swEKgLJStQ7a55YUFtEIl6LGYgk.jpg",
-      "posterShape": "poster",
-      "description": "The documentary series observes Finnish nu-metal Blind Channel's journey towards global conquest. The episodes reveal the harsh realities of touring life and album production as the band strives for international success",
-      "releaseInfo": "2024",
-      "genres": [
-        "Documentary",
-        "Music",
-        "Rock"
-      ],
-      "background": "https://image.tmdb.org/t/p/w1280/zywFJ6qBAGP5orSrosdyz4wqz1q.jpg"
-    },
-    {
       "id": "tt15282378",
       "type": "movie",
       "name": "George Harrison - All Things Pass",
@@ -4827,21 +4335,6 @@
         "Rock"
       ],
       "background": "https://image.tmdb.org/t/p/w1280/yYE2nS7hLxXpBwLz6mFeAl0HJg7.jpg"
-    },
-    {
-      "id": "tt3124078",
-      "type": "movie",
-      "name": "Frenesí en la gran ciudad",
-      "poster": "https://image.tmdb.org/t/p/w780/2kxxuhUwJGkMyEcte8Zae3s52Kb.jpg",
-      "posterShape": "poster",
-      "description": "",
-      "releaseInfo": "2011",
-      "genres": [
-        "Documentary",
-        "Music",
-        "Rock"
-      ],
-      "background": "https://image.tmdb.org/t/p/w1280/cDjhLFAJLjxqh57qtJgl9zDkriY.jpg"
     },
     {
       "id": "tt1823951",
@@ -5000,6 +4493,22 @@
       "background": "https://image.tmdb.org/t/p/w1280/AfFdeOmtjmaTbzhNkZ2BSkMx5sq.jpg"
     },
     {
+      "id": "tt11353994",
+      "type": "movie",
+      "name": "The Session Man",
+      "poster": "https://image.tmdb.org/t/p/w780/x8dluQtZchQqRBZMcQxuoTrQ2ln.jpg",
+      "posterShape": "poster",
+      "description": "The story of highly gifted pianist and unsung hero, Nicky Hopkins, who played with the Beatles, the Rolling Stones, the Who, the Kinks and many more.",
+      "releaseInfo": "2025",
+      "runtime": "86 min",
+      "genres": [
+        "Documentary",
+        "Music",
+        "Rock"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/x17rkk3x3UvDus69jV6Lm4Cjrnh.jpg"
+    },
+    {
       "id": "tt16462316",
       "type": "movie",
       "name": "Joy Division: Substance 1977-1988",
@@ -5014,37 +4523,6 @@
         "Rock"
       ],
       "background": "https://image.tmdb.org/t/p/w1280/vtIdh9igI5D6tNDmtxINkOebDWf.jpg"
-    },
-    {
-      "id": "tt34153679",
-      "type": "movie",
-      "name": "New Wave - 40 Years After",
-      "poster": "https://image.tmdb.org/t/p/w780/pIEJ1hv6DOJte3I1QfHairvGnND.jpg",
-      "posterShape": "poster",
-      "description": "Croatia Records, as the publishing house that published the largest number of new wave releases, is celebrating 40 years of new wave this year. The anniversary is accompanied by many interesting releases and reissues, and the focus is on four vinyls, pearls of the new wave: the first albums of Električni orgazam and Haustor, the only album of Šarlo akrobata and the \"Paket aranžman\" compilation, which was responsible for the flourishing of the new wave in the former Yugoslavia. In cooperation with CMC television, a documentary film was filmed with a large number of relevant interlocutors, about one of the most brilliant musical periods in the history of the region.",
-      "releaseInfo": "2021",
-      "runtime": "101 min",
-      "genres": [
-        "Documentary",
-        "Music",
-        "Rock"
-      ]
-    },
-    {
-      "id": "tt13062840",
-      "type": "movie",
-      "name": "Jahn Teigen: Ikke som alle andre",
-      "poster": "https://image.tmdb.org/t/p/w780/25O0vFYSkrM7VsxFmNqy6N4kTbM.jpg",
-      "posterShape": "poster",
-      "description": "Jahn Teigen’s well-known songs and performances throughout a long career as an artist. This film follows his career from the beginning until his passing in February 2020.",
-      "releaseInfo": "2020",
-      "runtime": "78 min",
-      "genres": [
-        "Documentary",
-        "Music",
-        "Rock"
-      ],
-      "background": "https://image.tmdb.org/t/p/w1280/eYRZRJzSNXcQUCaO1HveYzlIQJ9.jpg"
     },
     {
       "id": "tt27054438",
@@ -5107,21 +4585,6 @@
       ]
     },
     {
-      "id": "tt2191743",
-      "type": "movie",
-      "name": "Los Bunkers: A documentary by Sonar",
-      "poster": "https://image.tmdb.org/t/p/w780/ixhc43cyk2zMrIt5O0Kk64d9MZx.jpg",
-      "posterShape": "poster",
-      "description": "The routine and intimacy of Los Bunkers in their life in Mexico is recorded in this documentary about the rock band from Concepción.",
-      "releaseInfo": "2011",
-      "runtime": "98 min",
-      "genres": [
-        "Documentary",
-        "Music",
-        "Rock"
-      ]
-    },
-    {
       "id": "tt35935343",
       "type": "movie",
       "name": "Resilience & Sacrifice",
@@ -5136,52 +4599,6 @@
         "Rock"
       ],
       "background": "https://image.tmdb.org/t/p/w1280/z6Df6ca1hWcdGoTU9DAP53NpDp4.jpg"
-    },
-    {
-      "id": "tt32236675",
-      "type": "movie",
-      "name": "Rock del Caribe: Versión República Dominicana",
-      "poster": "https://image.tmdb.org/t/p/w780/mSkMO37zuvA6Pa0JYWuYNVMHxI6.jpg",
-      "posterShape": "poster",
-      "description": "The history of 70 years of Dominican rock.",
-      "releaseInfo": "2024",
-      "genres": [
-        "Documentary",
-        "Music",
-        "Rock"
-      ],
-      "background": "https://image.tmdb.org/t/p/w1280/zcCpaaspGQbwB4Z5yat5uvvP1Ht.jpg"
-    },
-    {
-      "id": "tt4702146",
-      "type": "movie",
-      "name": "Brahman",
-      "poster": "https://image.tmdb.org/t/p/w780/l4mviNcBznXJTBeWxSh63ReuMri.jpg",
-      "posterShape": "poster",
-      "description": "A documentary of the 4-man, hard rock band, BRAHMAN, as they celebrate their 20th anniversary in 2015. Rooted in \"stillness and motion,\" the four members channel human beings' unlimited depth of thought, anger, and sadness into sound. It is also said there is a divine perfection to their overwhelming performances. This is the first time the members of such a band display their human side.",
-      "releaseInfo": "2015",
-      "runtime": "118 min",
-      "genres": [
-        "Documentary",
-        "Music",
-        "Rock"
-      ]
-    },
-    {
-      "id": "tt10075732",
-      "type": "movie",
-      "name": "The Four Levels of Existence",
-      "poster": "https://image.tmdb.org/t/p/w780/ncXKLbnyLAmF20EP5l3RmqwDJGR.jpg",
-      "posterShape": "poster",
-      "description": "In 1976, four young friends from Athens form the band \"The 4 Levels of Existence\". They compose, rehearse in improvised music studios, and record their first and only album, realizing their own musical \"revolution\". In the ensuing years this \"revolution\" was gradually forgotten, as normality and the everyday obligations of adult life took over. Their album, however, followed a unique and remarkable course: from the shelves of a few Athenian record stores it reached collectors from all over the world, as well as the ears of music producers in the US. In 2009, representatives from the record company of renowned American rappers Kanye West and Jay-Z contacted Athanasios Alatas, member of the band and composer of several songs of the album, asking him for permission to use part of a song from the \"4 Levels of Existence\" record.",
-      "releaseInfo": "2019",
-      "runtime": "75 min",
-      "genres": [
-        "Documentary",
-        "Music",
-        "Rock"
-      ],
-      "background": "https://image.tmdb.org/t/p/w1280/l7QtNP3XUjzKmiY8VjJF4ealIPX.jpg"
     },
     {
       "id": "tt9552188",
@@ -5214,21 +4631,6 @@
       "background": "https://image.tmdb.org/t/p/w1280/9sPz77GpM9cr9qsF7trBmdO6lVW.jpg"
     },
     {
-      "id": "tt14609660",
-      "type": "movie",
-      "name": "Dark Blossom",
-      "poster": "https://image.tmdb.org/t/p/w780/w54xN839Rppbuw6kJZU5YlGBEr3.jpg",
-      "posterShape": "poster",
-      "description": "Armed with skulls, black makeup, wild outfits and high mohawks, this gothic trinity fights to gain control of and thus free themselves from their loneliness and inner demons as well as pressure from authorities, which they feel disturbed and controlled by. But one day, Josephine meets the beautiful guy, Jan, on Instagram and falls head over heels in love with him and the precious trio friendship is put to the test.",
-      "releaseInfo": "2021",
-      "runtime": "80 min",
-      "genres": [
-        "Documentary",
-        "Music",
-        "Rock"
-      ]
-    },
-    {
       "id": "tt10418474",
       "type": "movie",
       "name": "Estación Polar",
@@ -5259,21 +4661,6 @@
         "Rock"
       ],
       "background": "https://image.tmdb.org/t/p/w1280/tO3Jh4GIwZe0uFRTX1DGoGL1JLx.jpg"
-    },
-    {
-      "id": "tt20548374",
-      "type": "movie",
-      "name": "Muzaffarli's Dinosaur",
-      "poster": "https://image.tmdb.org/t/p/w780/v6kaV6xl8dnu7gTWXSFYYSJ1jGr.jpg",
-      "posterShape": "poster",
-      "description": "It is a revealing documentary about the iconic musician and the impact he has had on the music industry and society. Through an archive of previously unpublished stories and media, the film uncovers Muzaffarli's lesser-known public and social activities, giving audiences a fresh perspective on the man behind the music.",
-      "releaseInfo": "2020",
-      "runtime": "45 min",
-      "genres": [
-        "Documentary",
-        "Music",
-        "Rock"
-      ]
     },
     {
       "id": "tt29276925",

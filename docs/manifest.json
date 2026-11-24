@@ -1,8 +1,8 @@
 {
   "id": "org.nuvio.rockmetalpunkdocs",
-  "version": "2.2.0",
+  "version": "2.3.0",
   "name": "Rock, Metal & Punk Documentaries",
-  "description": "Live auto-updating catalog of released Genres/Eras, Rock, Metal, and Punk documentaries & docuseries.",
+  "description": "Live auto-updating catalog of released English Genres/Eras, Rock, Metal, and Punk documentaries & docuseries.",
   "resources": [
     "catalog"
   ],

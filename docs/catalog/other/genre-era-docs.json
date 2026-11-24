@@ -16,38 +16,6 @@
       "background": "https://image.tmdb.org/t/p/w1280/fI5A46pFe7di6SiqNvzBcraAO4X.jpg"
     },
     {
-      "id": "tt41691696",
-      "type": "movie",
-      "name": "Wacken - Hearts Full of Metal",
-      "poster": "https://image.tmdb.org/t/p/w780/7nuZA7xQ5xJqvCEmLZTCvr2y9kP.jpg",
-      "posterShape": "poster",
-      "description": "Mud, power outages, heavy rain – and yet Wacken draws crowds every year. For over three decades, Wacken Open Air has stood for friendship, perseverance, and a tight-knit community. With metal legends such as Kreator, Doro Pesch, and Motörhead, Wacken turns into an exceptional event – and a home away from home for fans from all over the world.",
-      "releaseInfo": "2026",
-      "runtime": "87 min",
-      "genres": [
-        "Documentary",
-        "Music",
-        "Genres & Eras"
-      ],
-      "background": "https://image.tmdb.org/t/p/w1280/c8htyX5Xx9IekICMgNMeEumsgwo.jpg"
-    },
-    {
-      "id": "tt42813408",
-      "type": "movie",
-      "name": "UDO Rebell. Rockstar. Ikone.",
-      "poster": "https://image.tmdb.org/t/p/w780/6OUzdNybaGY7SMWteBeKsVNuEhW.jpg",
-      "posterShape": "poster",
-      "description": "Celebrating Udo Lindenberg’s 80th birthday, exploring his extraordinary career as one of Germany’s most influential rock musicians. The film traces his rise from a rebellious young artist to a national icon, highlighting his music, political activism, and unique personality. Through interviews, archival footage, and behind-the-scenes insights, the documentary showcases Lindenberg’s cultural impact and enduring legacy in the German music scene.",
-      "releaseInfo": "2026",
-      "runtime": "89 min",
-      "genres": [
-        "Documentary",
-        "Music",
-        "Genres & Eras"
-      ],
-      "background": "https://image.tmdb.org/t/p/w1280/cjfQc3cs8ODFyBri7pbP5gkUGWx.jpg"
-    },
-    {
       "id": "tt22941170",
       "type": "movie",
       "name": "CFNY: The Spirit of Radio",
@@ -82,6 +50,23 @@
       "imdbRating": "6.0"
     },
     {
+      "id": "tt36591196",
+      "type": "movie",
+      "name": "Music Box: Counting Crows: Have You Seen Me Lately?",
+      "poster": "https://image.tmdb.org/t/p/w780/1WjKjXfJklBv0w4hvlOmocIUzJx.jpg",
+      "posterShape": "poster",
+      "description": "An intimate documentary chronicling the rise of the band Counting Crows and the unrelenting pressure that followed their breakout success. Centered on frontman Adam Duritz, the film explores the emotional aftermath of the band’s landmark studio album debut “August and Everything After” and the pressures and creative process of making their follow-up album “Recovering the Satellites.”",
+      "releaseInfo": "2025",
+      "runtime": "90 min",
+      "genres": [
+        "Documentary",
+        "Music",
+        "Genres & Eras"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/edeeAj1hxHJWUSKO4M7fdvoISs2.jpg",
+      "imdbRating": "8.8"
+    },
+    {
       "id": "tt5278426",
       "type": "series",
       "name": "The History of Rock 'n' Roll",
@@ -113,20 +98,21 @@
       "imdbRating": "9.2"
     },
     {
-      "id": "tt8312066",
+      "id": "tt7130802",
       "type": "movie",
-      "name": "No Money, No Future",
-      "poster": "https://image.tmdb.org/t/p/w780/rEJ0w1X9qixmufq2rVe3rF5pyfh.jpg",
+      "name": "Desolation Center",
+      "poster": "https://image.tmdb.org/t/p/w780/jeZMip8TcNWHGWG7DXcoHrb4pTU.jpg",
       "posterShape": "poster",
-      "description": "Punk bands in Korea get invited to biggest hardcore punk festival in Tokyo. This movie shows how one of the loudest and most active punk bands in Asia live and deliver message very closely and pleasantly.",
-      "releaseInfo": "2017",
-      "runtime": "100 min",
+      "description": "The untold story of a series of Reagan-era guerrilla punk and industrial desert happenings in Southern California that are now recognized as the inspiration for Burning Man, Lollapalooza, and Coachella. Interviews and rare performance footage of Sonic Youth, Minutemen, Meat Puppets, Redd Kross, Einstürzende Neubauten, Survival Research Laboratories, Savage Republic, Swans and more.",
+      "releaseInfo": "2018",
+      "runtime": "93 min",
       "genres": [
         "Documentary",
         "Music",
         "Genres & Eras"
       ],
-      "imdbRating": "10.0"
+      "background": "https://image.tmdb.org/t/p/w1280/8lyS4RVfoeYZEHI1vaxljkSMKuE.jpg",
+      "imdbRating": "9.3"
     },
     {
       "id": "tt30801551",
@@ -143,39 +129,6 @@
         "Genres & Eras"
       ],
       "background": "https://image.tmdb.org/t/p/w1280/4q8H87feGYdX2oIzleFli1CLxY.jpg",
-      "imdbRating": "9.0"
-    },
-    {
-      "id": "tt14356190",
-      "type": "movie",
-      "name": "This Is Canoas Not POA",
-      "poster": "https://image.tmdb.org/t/p/w780/kKRZC2Zdf0jtsINYSXiiovqvRwu.jpg",
-      "posterShape": "poster",
-      "description": "Canoas is considered by many, especially by those who are not from there, as a commuter town. Cities from metropolitan areas are usually labeled like this because of the workforce that commutes out everyday to work in the capital. In this daily movement, many times, ideas are conceived and creativity flourishes. I believe that this is one of the reasons why those cities often have a lively cultural scene. The documentary \"This is Canoas not POA\" makes this very clear: Canoas has a lot to show in terms of a music scene that's independent, diverse, creative, and most important, united. Bands, night clubs, studios, producers, record shops. Everything a music scene needs to develop is very well documented here. Watch it and create your own scene, start your own band!",
-      "releaseInfo": "2021",
-      "runtime": "120 min",
-      "genres": [
-        "Documentary",
-        "Music",
-        "Genres & Eras"
-      ],
-      "background": "https://image.tmdb.org/t/p/w1280/plWeUqPS1N3hLELuWblolWmGE4U.jpg",
-      "imdbRating": "9.0"
-    },
-    {
-      "id": "tt0396140",
-      "type": "movie",
-      "name": "Musiche bruciano",
-      "poster": "https://image.tmdb.org/t/p/w780/czml2aUoGegOO7DrbSl5bABqoVw.jpg",
-      "posterShape": "poster",
-      "description": "Documentary about the then-blooming Milan rock music scene.",
-      "releaseInfo": "1991",
-      "runtime": "59 min",
-      "genres": [
-        "Documentary",
-        "Music",
-        "Genres & Eras"
-      ],
       "imdbRating": "9.0"
     },
     {
@@ -321,22 +274,6 @@
         "Genres & Eras"
       ],
       "imdbRating": "8.0"
-    },
-    {
-      "id": "tt13570366",
-      "type": "series",
-      "name": "BREAK IT ALL: The History of Rock in Latin America",
-      "poster": "https://image.tmdb.org/t/p/w780/gFGKNC0szIkbfpUb1VRUwI4mPCj.jpg",
-      "posterShape": "poster",
-      "description": "Soda Stereo, Café Tacvba, Aterciopelados and others figure in this 50-year history of Latin American rock through dictatorships, disasters and dissent.",
-      "releaseInfo": "2020",
-      "genres": [
-        "Documentary",
-        "Music",
-        "Genres & Eras"
-      ],
-      "background": "https://image.tmdb.org/t/p/w1280/6cTeAr5LONUt2rTqZNbHgWveBEF.jpg",
-      "imdbRating": "7.6"
     },
     {
       "id": "tt13000626",
@@ -653,23 +590,6 @@
       "imdbRating": "7.4"
     },
     {
-      "id": "tt0232505",
-      "type": "movie",
-      "name": "Ragnarock",
-      "poster": "https://image.tmdb.org/t/p/w780/8H8G3csIzivn2U0I67aZIFuyvw5.jpg",
-      "posterShape": "poster",
-      "description": "Dette er den første norskproduserte musikkfilm, tatt opp i Holmenkollen søndag 17. juni 1973. Med.: Aunt Mary, Sigbjørn Berhoft Osa og Saft, Hvalsøespillemendene, Merit Hemmingson och Folkmusikgruppen, Prudence, Splash, Savage Rose, Culpeper's Orchard, Skin Alley, Mungo Jerry, Pretty Things, Burken och Rockfolket og Popol Vuh. Ideen bak Ragnarock er blant annet å vise sammenhengen mellom folkemusikkrytmer og rockerytmer. Derfor er det fortrinnsvis skandinaviske grupper som er med - og i filmens åpningssekvens spilles både norsk, dansk og svensk folkemusikk. Konserten foregikk søndag 17. juni 1973 ved Holmenkollbakken.",
-      "releaseInfo": "1973",
-      "runtime": "102 min",
-      "genres": [
-        "Documentary",
-        "Music",
-        "Genres & Eras"
-      ],
-      "background": "https://image.tmdb.org/t/p/w1280/dwqDRODbXWKRgCfVkiZTcQGqy01.jpg",
-      "imdbRating": "7.5"
-    },
-    {
       "id": "tt0082252",
       "type": "movie",
       "name": "The Decline of Western Civilization",
@@ -721,23 +641,6 @@
       "imdbRating": "7.3"
     },
     {
-      "id": "tt32758854",
-      "type": "movie",
-      "name": "Born to Be Wild: The Story of Steppenwolf",
-      "poster": "https://image.tmdb.org/t/p/w780/zUEX1QnzlwD7AU118LmaR0VO27e.jpg",
-      "posterShape": "poster",
-      "description": "Steppenwolf is one of the most legendary and at the same time most enigmatic bands in the history of rock music. On the border between mainstream and psychedelic underground, their song \"Born to Be Wild\" became the anthem of an entire generation. The new, hard sound of Steppenwolf was a stab in the heart of the \"Summer of Love\" and put an end to the hippie era. It is no coincidence that they were the very first band to use the word \"heavy metal\" in their lyrics.",
-      "releaseInfo": "2024",
-      "runtime": "97 min",
-      "genres": [
-        "Documentary",
-        "Music",
-        "Genres & Eras"
-      ],
-      "background": "https://image.tmdb.org/t/p/w1280/d5jhpQKwuZ7ylInG3F90G0Agyqj.jpg",
-      "imdbRating": "7.2"
-    },
-    {
       "id": "tt0387412",
       "type": "movie",
       "name": "Metallica: Some Kind of Monster",
@@ -768,23 +671,6 @@
         "Music",
         "Genres & Eras"
       ],
-      "imdbRating": "7.3"
-    },
-    {
-      "id": "tt0096515",
-      "type": "movie",
-      "name": "whisper & SHOUT",
-      "poster": "https://image.tmdb.org/t/p/w780/8K654f65kEzU7BNHHo7FoHD1Pv5.jpg",
-      "posterShape": "poster",
-      "description": "Documents important parts of the East German rock music scene of the late 1980s, from well-established bands like Silly, to underground rock bands like Feeling B. This road movie features young people using music to express their take on life, opposition to their parents' generation and opinions on the social and political climate in East Germany. It includes clips from concerts and interviews with fans and members of various bands, such as Feeling B's Christian Lorenz and Paul Landers, now members of Rammstein.",
-      "releaseInfo": "1988",
-      "runtime": "120 min",
-      "genres": [
-        "Documentary",
-        "Music",
-        "Genres & Eras"
-      ],
-      "background": "https://image.tmdb.org/t/p/w1280/n3DQLYoLDSlG3U8B15yx3szgGGf.jpg",
       "imdbRating": "7.3"
     },
     {
@@ -869,23 +755,6 @@
         "Genres & Eras"
       ],
       "background": "https://image.tmdb.org/t/p/w1280/8n3Vh47HtFUVQRwSsb1RIXzjuuG.jpg",
-      "imdbRating": "7.2"
-    },
-    {
-      "id": "tt1774438",
-      "type": "movie",
-      "name": "The Punk Syndrome",
-      "poster": "https://image.tmdb.org/t/p/w780/oBi2Il78DUxg0QEPAztlMToRMyA.jpg",
-      "posterShape": "poster",
-      "description": "The Punk Syndrome is a film about Finland’s most kick-ass punk rock band, Pertti Kurikan Nimipäivät. The band members, Pertti, Kari, Toni and Sami, are mentally handicapped and they play their music with a lot of attitude and pride. We follow these professional musicians on their journey from obscurity to popularity. We watch them fight, fall in love and experience strong emotions. We witness long days in the recording studio and on tour. They laugh, cry, drink and fight over who gets to sit in the front on the tour bus. Then it’s time to make up and go talk to people in the audience and tell them how great their band is.",
-      "releaseInfo": "2012",
-      "runtime": "85 min",
-      "genres": [
-        "Documentary",
-        "Music",
-        "Genres & Eras"
-      ],
-      "background": "https://image.tmdb.org/t/p/w1280/pA4ziTciiu15jVWJguKZpvIPz7l.jpg",
       "imdbRating": "7.2"
     },
     {
@@ -1091,22 +960,6 @@
       "imdbRating": "6.5"
     },
     {
-      "id": "tt34481886",
-      "type": "movie",
-      "name": "Das deutsche Woodstock - Flower-Power in der Pfalz",
-      "poster": "https://image.tmdb.org/t/p/w780/djyRimmpkfN788taKXZtBuPO8P9.jpg",
-      "posterShape": "poster",
-      "description": "",
-      "releaseInfo": "2024",
-      "genres": [
-        "Documentary",
-        "Music",
-        "Genres & Eras"
-      ],
-      "background": "https://image.tmdb.org/t/p/w1280/rRlEUCmC77erfyZlB2b5SWCLnpz.jpg",
-      "imdbRating": "7.0"
-    },
-    {
       "id": "tt1721693",
       "type": "movie",
       "name": "The Promise: The Making of Darkness on the Edge of Town",
@@ -1121,22 +974,6 @@
         "Genres & Eras"
       ],
       "background": "https://image.tmdb.org/t/p/w1280/zVYBLP5H9d3hZaBJIvoAsLyKZNF.jpg",
-      "imdbRating": "6.8"
-    },
-    {
-      "id": "tt3121746",
-      "type": "movie",
-      "name": "Zivan Makes a Punk Festival",
-      "poster": "https://image.tmdb.org/t/p/w780/2hTK6AuZMZfE0ggBkkcioTOYEwy.jpg",
-      "posterShape": "poster",
-      "description": "Like Don Quixote, Zivan Pujic Jimmy fights for his annual punk festival. A film about failure, ambition, friendship and clinging to your dreams. Glavonic received much praise for this exceptional film that doesn't reveal what's fact and what's fiction.",
-      "releaseInfo": "2014",
-      "runtime": "64 min",
-      "genres": [
-        "Documentary",
-        "Music",
-        "Genres & Eras"
-      ],
       "imdbRating": "6.8"
     },
     {
@@ -1172,23 +1009,6 @@
       ],
       "background": "https://image.tmdb.org/t/p/w1280/ucqQ4GzyGwWMfNNUyeSat2V79pf.jpg",
       "imdbRating": "6.5"
-    },
-    {
-      "id": "tt4094596",
-      "type": "movie",
-      "name": "I Don't Believe in Anarchy",
-      "poster": "https://image.tmdb.org/t/p/w780/8RE7GKtOH22e3Glf8x6mrNy57vH.jpg",
-      "posterShape": "poster",
-      "description": "The film details the early years of the legendary Siberian Punk/Rock group 'Гражданская Оборона' (Grazhdanskaya Oborona), and its frontman, Egor Letov.",
-      "releaseInfo": "2014",
-      "runtime": "78 min",
-      "genres": [
-        "Documentary",
-        "Music",
-        "Genres & Eras"
-      ],
-      "background": "https://image.tmdb.org/t/p/w1280/118t3eLJKoWDDaYuPrHrNlRmjWI.jpg",
-      "imdbRating": "6.6"
     },
     {
       "id": "tt0469213",
@@ -1240,39 +1060,6 @@
       "imdbRating": "6.3"
     },
     {
-      "id": "tt8861432",
-      "type": "movie",
-      "name": "Debbie Harry: Atomic Blondie",
-      "poster": "https://image.tmdb.org/t/p/w780/vOiquUJQ2FAmhwQJ0HVI3ZaiDb5.jpg",
-      "posterShape": "poster",
-      "description": "Portrait of Debbie Harry, co-founder of Blondie, punk rock pioneer, that was one of the few feminine icon in rock music at that time.",
-      "releaseInfo": "2018",
-      "genres": [
-        "Documentary",
-        "Music",
-        "Genres & Eras"
-      ],
-      "background": "https://image.tmdb.org/t/p/w1280/tJA8ZFa6JULhzZ6Rv8UphPinA0v.jpg",
-      "imdbRating": "6.2"
-    },
-    {
-      "id": "tt3565506",
-      "type": "movie",
-      "name": "160 meters: A Story Of Rock In Biscay",
-      "poster": "https://image.tmdb.org/t/p/w780/gdMd29UDyV9co7YrDNKexsMLyPr.jpg",
-      "posterShape": "poster",
-      "description": "160 meters is the distance between the two banks of the estuary of Bilbao. An economic, social and cultural approach at two ways of looking at life.",
-      "releaseInfo": "2014",
-      "runtime": "65 min",
-      "genres": [
-        "Documentary",
-        "Music",
-        "Genres & Eras"
-      ],
-      "background": "https://image.tmdb.org/t/p/w1280/udpxKAME5WpEkE7vXoAOAb5mW03.jpg",
-      "imdbRating": "6.3"
-    },
-    {
       "id": "tt0431849",
       "type": "movie",
       "name": "Classic Albums: Judas Priest - British Steel",
@@ -1306,20 +1093,21 @@
       "imdbRating": "6.0"
     },
     {
-      "id": "tt27874738",
+      "id": "tt0464022",
       "type": "movie",
-      "name": "Hultsfred - berättelsen om en musikfestival",
-      "poster": "https://image.tmdb.org/t/p/w780/mN634Yrx8wd8jawA4Jo3tYyGLdk.jpg",
+      "name": "Glastonbury",
+      "poster": "https://image.tmdb.org/t/p/w780/ihJyqShaUOJdAzFu9NO5gYgHpnO.jpg",
       "posterShape": "poster",
-      "description": "In the early 80s, some bored young people in Hultsfred arrange a gig with the bands Ebba Grön and Dag Vag. It will be the starting point for what would become Sweden's biggest music festival.",
-      "releaseInfo": "2023",
-      "runtime": "74 min",
+      "description": "Julien Temple's 2006 documentary film about the famous music festival from 1970 to 2005, featuring performances from artists such as David Bowie, Bjork, Blur, Oasis and Coldplay. The film is made up of footage shot by Temple at the festival in 2002, 2003, 2004 and 2005, as well as footage sent in by festival goers after a request on websites and newspapers for footage. Temple had initially only agreed to make a film of the 2002 festival after organiser Michael Eavis expressed concern that that would be the last year of the festival. Temple then realised that he wanted to make a film detailing the full history of the festival. The film also includes footage shot by Channel 4 and the BBC during their coverage of the festival since 1994. Text from Wikipedia.",
+      "releaseInfo": "2006",
+      "runtime": "135 min",
       "genres": [
         "Documentary",
         "Music",
         "Genres & Eras"
       ],
-      "imdbRating": "6.0"
+      "background": "https://image.tmdb.org/t/p/w1280/dPSPwTj72HgXmZh5dKK6PV3JrBE.jpg",
+      "imdbRating": "5.5"
     },
     {
       "id": "tt0179205",
@@ -1436,21 +1224,6 @@
       "background": "https://image.tmdb.org/t/p/w1280/gnCtd7P96tk84hppB3fPEB2KKH8.jpg"
     },
     {
-      "id": "tt5168270",
-      "type": "movie",
-      "name": "Dirty and Messy: Heavy Metal in Argentina",
-      "poster": "https://image.tmdb.org/t/p/w780/mkuGbLmPR496UFzZBxSZhuQ5MgV.jpg",
-      "posterShape": "poster",
-      "description": "More than 30 years after the birth of Heavy Metal in Argentina, today shows that this style of music and life is stronger than ever. With interviews with musicians, journalists and recognized figures of the environment.",
-      "releaseInfo": "2015",
-      "runtime": "119 min",
-      "genres": [
-        "Documentary",
-        "Music",
-        "Genres & Eras"
-      ]
-    },
-    {
       "id": "tt1490031",
       "type": "movie",
       "name": "We're Livin' on Dog Food",
@@ -1465,34 +1238,6 @@
         "Genres & Eras"
       ],
       "background": "https://image.tmdb.org/t/p/w1280/ptSQveMKD2oRDDoGopCq8CsIJmn.jpg"
-    },
-    {
-      "id": "tt3690938",
-      "type": "series",
-      "name": "25 from the Sixties, or the Czechoslovak New Wave",
-      "poster": "https://image.tmdb.org/t/p/w780/2H6hgZJLCIUXavex8O0D01Dh95c.jpg",
-      "posterShape": "poster",
-      "description": "Two-part documentary about the Czechoslovak \"New Wave\" in the '60s, including interviews with directors, actors, and others involved in the industry at the time.",
-      "releaseInfo": "2010",
-      "genres": [
-        "Documentary",
-        "Music",
-        "Genres & Eras"
-      ]
-    },
-    {
-      "id": "tt3395200",
-      "type": "movie",
-      "name": "Rock Radikal Vasco: La gran martxa de los 80",
-      "poster": "https://image.tmdb.org/t/p/w780/3lyjgx7EEzSMTiwZCMypqfrecm2.jpg",
-      "posterShape": "poster",
-      "description": "In this documentary, we travel to the main locations where the musical movement known as \"Basque Radical Rock\" exploded, emerging in the Basque Country and Navarre in the 1980s. It recalls bands from that era, such as Cicatriz, Zarama, RIP, Eskorbuto, and Kortatu, and interviews some of its leading figures.",
-      "releaseInfo": "2013",
-      "genres": [
-        "Documentary",
-        "Music",
-        "Genres & Eras"
-      ]
     },
     {
       "id": "tt4678134",
@@ -1602,21 +1347,6 @@
       ]
     },
     {
-      "id": "tt3673728",
-      "type": "movie",
-      "name": "TOKYO FANTASY",
-      "poster": "https://image.tmdb.org/t/p/w780/qOShLhKukdurLig0qM36GvJQn01.jpg",
-      "posterShape": "poster",
-      "description": "In 2010, SEKAI NO OWARI suddenly appeared in the music scene and quickly became a band that symbolized the new generation with its unconventional musicality, original lyrics, and unique characters of the four members. The four people, who have been engaged in bold and surprising activities that are completely unconventional in the past Japanese band scene, have finally embarked on the world of cinema.",
-      "releaseInfo": "2014",
-      "runtime": "90 min",
-      "genres": [
-        "Documentary",
-        "Music",
-        "Genres & Eras"
-      ]
-    },
-    {
       "id": "tt13556114",
       "type": "movie",
       "name": "I Really Get Into It: The Underage Architects of Sioux Falls Punk",
@@ -1630,53 +1360,6 @@
         "Music",
         "Genres & Eras"
       ]
-    },
-    {
-      "id": "tt2783800",
-      "type": "movie",
-      "name": "Heavy Metal",
-      "poster": "https://image.tmdb.org/t/p/w780/hnOSKGcPfT4E5LdB9dZKnU5wiMz.jpg",
-      "posterShape": "poster",
-      "description": "For more then twenty years, tons and tons of metallic and electronic waste from all around the world has been transported to a Chinese town called Fengjang, in the south of Shanghai. Around 50,000 migrant workers have formed a real army to dismantle these metallic wastes. These \"green soldiers\" decompose, cut, split and recycle, with the most rudimentary means, almost 2 million tons of garbage every year. To remain and assume the minimum materials that is theirs, they work hard, bear an incredible precariousness and put in danger their own health due to the simply unacceptable working conditions. As the recognizable heaps of metal continue to pile up they provide a deeply moving image of a worldwide consumer society.",
-      "releaseInfo": "2009",
-      "runtime": "49 min",
-      "genres": [
-        "Documentary",
-        "Music",
-        "Genres & Eras"
-      ],
-      "background": "https://image.tmdb.org/t/p/w1280/iUfROz2RibVeBFJgKq34lH8917I.jpg"
-    },
-    {
-      "id": "tt27468816",
-      "type": "movie",
-      "name": "La escena",
-      "poster": "https://image.tmdb.org/t/p/w780/aaHjS7dHXD4D5bjBpZoN4DaVKF9.jpg",
-      "posterShape": "poster",
-      "description": "What is \"la escena\" (the scene) and what is its importance, if any? Guillermo Gómez Álvarez tries to answer these questions with candid interviews from musicians and fans of the vibrant and, many times controversial, punk music scene in Puerto Rico. The decadence, rage, drugs, alcohol, politics, and social aspects are showcased in this documentary that tells an important part of the history of the great dysfunctional family that is \"el punk boricua\".",
-      "releaseInfo": "2005",
-      "runtime": "58 min",
-      "genres": [
-        "Documentary",
-        "Music",
-        "Genres & Eras"
-      ]
-    },
-    {
-      "id": "tt16378292",
-      "type": "movie",
-      "name": "Heavy Metal",
-      "poster": "https://image.tmdb.org/t/p/w780/t4CRJwC9LrHJbvoyGHXQ77BOXEd.jpg",
-      "posterShape": "poster",
-      "description": "In this documentary, we are not going to discover anything about the eponymous musical genre, but instead we will meet a group of workers dismantling a high-rise building made of concrete and metal. The filmmakers observe and register their labour using ingenious, visually stunning images, sometimes joined into several composition plans.",
-      "releaseInfo": "2018",
-      "runtime": "48 min",
-      "genres": [
-        "Documentary",
-        "Music",
-        "Genres & Eras"
-      ],
-      "background": "https://image.tmdb.org/t/p/w1280/j7cozz4AO8k9wmPXQQTVF2RgTgr.jpg"
     },
     {
       "id": "tt4493422",
