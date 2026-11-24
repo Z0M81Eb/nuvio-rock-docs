@@ -1,0 +1,2169 @@
+{
+  "metas": [
+    {
+      "id": "tt39948152",
+      "type": "movie",
+      "name": "Hex",
+      "poster": "https://image.tmdb.org/t/p/w780/6BhT2ocU5swP8Sf3JNomsVYeJru.jpg",
+      "posterShape": "poster",
+      "description": "Three young Norwegian women form a coven and start the black metal band Witch Club Satan. Before they know it, they are playing at major international festivals, but the battle has only just begun.",
+      "releaseInfo": "2026",
+      "runtime": "92 min",
+      "genres": [
+        "Documentary",
+        "Music",
+        "Metal"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/xNYrnova9rhW6JZ94JGU5KfnLwX.jpg"
+    },
+    {
+      "id": "tt43442522",
+      "type": "movie",
+      "name": "LINKIN PARK: UNSHATTER",
+      "poster": "https://image.tmdb.org/t/p/w780/kHNrz7DBVPrtyMhJxmBm2poS2l9.jpg",
+      "posterShape": "poster",
+      "description": "After a seven-year hiatus following the devastating loss of their beloved bandmate Chester Bennington, LINKIN PARK'S remaining members struggled to find their way forward. Their shared history and enduring friendship, combined with the fresh perspective of two new band members Emily Armstrong and Colin Brittain spark a renewed creative energy that leads them on a transformative journey of artistic reinvention. Following the band from intimate 2022 studio sessions through their explosive FROM ZERO album release and concert in São Paulo, this documentary weaves together rare vault footage, electrifying performances from sold-out shows, and candid interviews with band members and fans—capturing the raw, honest story of what it means to start over.",
+      "releaseInfo": "2026",
+      "runtime": "108 min",
+      "genres": [
+        "Documentary",
+        "Music",
+        "Metal"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/uL1HCc4wmcFcSr1zS3kXX3CNUeE.jpg",
+      "imdbRating": "9.2"
+    },
+    {
+      "id": "tt44938994",
+      "type": "series",
+      "name": "Kaamos",
+      "poster": "https://image.tmdb.org/t/p/w780/uDtCnk4iu4s4DXJWInkjWMU5jqc.jpg",
+      "posterShape": "poster",
+      "description": "Kaamos is a five-part documentary series from the eras of Finnish metal music from the 1970s to the 2020s. Interviews with dozens of artists, bands and the main influencers of the heavy metal tribe open up the most significant milestones in metal music, behind-the-scenes events, wave bottoms and success stories for the first time to the general public.",
+      "releaseInfo": "2026",
+      "genres": [
+        "Documentary",
+        "Music",
+        "Metal"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/c0rsom6GUVmchSjtFQvNJtHkzMD.jpg",
+      "imdbRating": "7.0"
+    },
+    {
+      "id": "tt36163614",
+      "type": "movie",
+      "name": "Iron Maiden: Burning Ambition",
+      "poster": "https://image.tmdb.org/t/p/w780/yZqhFJDenLfgF1VygOOCNmAdS1P.jpg",
+      "posterShape": "poster",
+      "description": "With unprecedented access to the official archives and intimate recollections from the band, both current and past,  Iron Maiden: Burning Ambition invites fans to experience one of the most iconic journeys in music history.  Spanning five decades, this electrifying documentary charts the band’s rise from the pubs of East London to the world’s biggest stadiums. Featuring exclusive interviews with band members and contributors such as Javier Bardem, Lars Ulrich and Chuck D, as well as all-new animated sequences of the band's legendary mascot, Eddie, the film offers a rare and intimate look at Iron Maiden’s uncompromising vision and unwavering connection with their truly global army of fans.",
+      "releaseInfo": "2026",
+      "runtime": "105 min",
+      "genres": [
+        "Documentary",
+        "Music",
+        "Metal"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/52t7nT1f117FW6gdG32DrQKxpU1.jpg",
+      "imdbRating": "8.6"
+    },
+    {
+      "id": "tt41541611",
+      "type": "movie",
+      "name": "FAT YEARS OF FATMULL",
+      "poster": "https://image.tmdb.org/t/p/w780/Auwu8C747UaKg893lR2pP27Hdbx.jpg",
+      "posterShape": "poster",
+      "description": "",
+      "releaseInfo": "2026",
+      "genres": [
+        "Documentary",
+        "Music",
+        "Metal"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/Mmj5Lb8MXv15ZO5BHFNkuSXez9.jpg"
+    },
+    {
+      "id": "tt36999055",
+      "type": "movie",
+      "name": "The Ballad of Judas Priest",
+      "poster": "https://image.tmdb.org/t/p/w780/aR6K357hcrYnPOgTe2nOE0y7Zag.jpg",
+      "posterShape": "poster",
+      "description": "Witness the 50-year story of Judas Priest. From forging Heavy Metal in the British Steel industry to their rise to Metal Gods.",
+      "releaseInfo": "2026",
+      "runtime": "98 min",
+      "genres": [
+        "Documentary",
+        "Music",
+        "Metal"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/tiS93Ke2NeuWH9Y4nJHwsvrZj2Q.jpg"
+    },
+    {
+      "id": "tt39091623",
+      "type": "movie",
+      "name": "Living Dead Girl (Behind the Screams)",
+      "poster": "https://image.tmdb.org/t/p/w780/423q4zVWChS3R8osna37yg7VKD1.jpg",
+      "posterShape": "poster",
+      "description": "Follow Billboard charting female fronted metal band Living Dead Girl across North America, in the studio and through all the milestones and struggles that come with surviving as an independent band in one of the most challenging industries",
+      "releaseInfo": "2026",
+      "runtime": "78 min",
+      "genres": [
+        "Documentary",
+        "Music",
+        "Metal"
+      ],
+      "imdbRating": "10.0"
+    },
+    {
+      "id": "tt37960140",
+      "type": "movie",
+      "name": "Sharon & Ozzy Osbourne: Coming Home",
+      "poster": "https://image.tmdb.org/t/p/w780/9forDaL8ZdQ9pf2MHSz4UFpMFej.jpg",
+      "posterShape": "poster",
+      "description": "Follow the final three years of Ozzy Osbourne's life as he and Sharon plan a return home after 25 years in LA and prepare for the ultimate farewell gig.",
+      "releaseInfo": "2025",
+      "runtime": "59 min",
+      "genres": [
+        "Documentary",
+        "Music",
+        "Metal"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/kd2eCh5JVZ3z92TqbTEtUzsKeRL.jpg",
+      "imdbRating": "8.5"
+    },
+    {
+      "id": "tt35048255",
+      "type": "series",
+      "name": "Into the Void: Life, Death and Heavy Metal",
+      "poster": "https://image.tmdb.org/t/p/w780/kCy8anrdjQHjdveW9M9bf7qRx57.jpg",
+      "posterShape": "poster",
+      "description": "Explore the epic struggles and the cultural impacts made by Heavy Metal's most compelling artists. Their intensely personal stories about finding success offer an intoxicating combo of volume and distortion delivered via pulsating tales of murder, addiction, rebellion and redemption.",
+      "releaseInfo": "2025",
+      "genres": [
+        "Documentary",
+        "Music",
+        "Metal"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/7aaxAZBNDLsXD35fgFxCztrTKVa.jpg",
+      "imdbRating": "9.6"
+    },
+    {
+      "id": "tt37021947",
+      "type": "movie",
+      "name": "Kreator - Hate & Hope",
+      "poster": "https://image.tmdb.org/t/p/w780/7KhI3o2P049OyTi0BVV5LAL8A0F.jpg",
+      "posterShape": "poster",
+      "description": "From a school band from Essen to an internationally celebrated thrash metal legend: To mark Kreator's 40th anniversary in 2024, frontman Mille Petrozza plans to re-record his greatest hits at the famous Hansa Studios in Berlin together with greats from the metal scene such as Metallica, Sepultura, Slayer, Anthrax and many more. With exclusive private archive material, the story of Kreator is told for the first time.",
+      "releaseInfo": "2025",
+      "runtime": "114 min",
+      "genres": [
+        "Documentary",
+        "Music",
+        "Metal"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/z2Rov8mB1gUj4oDgNRAf4lZ3Ixz.jpg",
+      "imdbRating": "5.5"
+    },
+    {
+      "id": "tt30319505",
+      "type": "movie",
+      "name": "Metallica Saved My Life",
+      "poster": "https://image.tmdb.org/t/p/w780/3ne6P4NoOu0d4qvBoQt8rCvmo.jpg",
+      "posterShape": "poster",
+      "description": "From Award-winning director Jonas Åkerlund, “Metallica Saved My Life” explores the world of Metallica through the lives of their fans—including the bandmembers themselves—who have supported each other through highs, lows, trials, and triumphs for over four decades.",
+      "releaseInfo": "2025",
+      "runtime": "135 min",
+      "genres": [
+        "Documentary",
+        "Music",
+        "Metal"
+      ]
+    },
+    {
+      "id": "tt39228057",
+      "type": "series",
+      "name": "Une Dose 2 Metal",
+      "poster": "https://image.tmdb.org/t/p/w780/tL6vT5HDmSS4OZa4s1eaGBbR5gy.jpg",
+      "posterShape": "poster",
+      "description": "Une Dose 2 Metal is a musical show dedicated to metal music, designed by Jean-Sébastien Ventura and broadcast and produced by Enorme TV between 2012 and 2016. For 90 minutes, Stéphane Buriez, leader of the French thrash group Loudblast, Caroline Barel or Pierre Janaszak welcomes the big names in international Metal music for lives, clips, news, crazy sections and saturated anecdotes exclusively dedicated to to the Metal scene.",
+      "releaseInfo": "2012-2016",
+      "genres": [
+        "Documentary",
+        "Music",
+        "Metal"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/nUaKdGsWj3VSmLPKqLavwkhEn7L.jpg",
+      "imdbRating": "10.0"
+    },
+    {
+      "id": "tt0317968",
+      "type": "movie",
+      "name": "Ozzy Osbourne: Don't Blame Me",
+      "poster": "https://image.tmdb.org/t/p/w780/uu7RiF8suW4bSMDKSRAHRuIB9z3.jpg",
+      "posterShape": "poster",
+      "description": "\"Don't Blame Me\" is John 'Ozzy' Osbourne's personal, gripping and frank invitation to see who he really is and what he's really been through. Filmed on location at his British and American homes, Ozzy reveals the truth behind his then 23 years of solo stardom with unnerving honesty.",
+      "releaseInfo": "1991",
+      "runtime": "96 min",
+      "genres": [
+        "Documentary",
+        "Music",
+        "Metal"
+      ],
+      "imdbRating": "10.0"
+    },
+    {
+      "id": "tt0429021",
+      "type": "movie",
+      "name": "Rammstein: Industrial Angels",
+      "poster": "https://image.tmdb.org/t/p/w780/i64cn83LJbwONjamM05jt9YXM69.jpg",
+      "posterShape": "poster",
+      "description": "As one of Germany's most popular musical exports, Rammstein have forged a bold and original new sound for European music. Fusing heavy metal guitar riffs with techno rhythms and machine-like fury of the industrial underground. This biography takes you the bands incarnation, through the controversy and on to what makes them one of the biggest bands in the world.",
+      "releaseInfo": "2003",
+      "runtime": "60 min",
+      "genres": [
+        "Documentary",
+        "Music",
+        "Metal"
+      ],
+      "imdbRating": "10.0"
+    },
+    {
+      "id": "tt5714748",
+      "type": "series",
+      "name": "Flying Heavy Metal",
+      "poster": "https://image.tmdb.org/t/p/w780/koVhPGUxK2qJfYT2iOW7TcQcc75.jpg",
+      "posterShape": "poster",
+      "description": "Flying Heavy Metal was a 5-part British television series produced by Ricochet and broadcast in the UK and Europe on the Discovery Channel and subsequently repeated on Discovery Wings in the UK. It was presented by commercial Boeing 757 pilot and Iron Maiden frontman, Bruce Dickinson.\n\nIn the series, Bruce looked at, and often flew, a number of aircraft from across the history of commercial aviation. There were some quite surprising aerobatics done in rather large aircraft.\n\nFlying Heavy Metal is now repeated on the new channel from Discovery Networks UK called Discovery Turbo.",
+      "releaseInfo": "2005",
+      "genres": [
+        "Documentary",
+        "Music",
+        "Metal"
+      ],
+      "imdbRating": "9.0"
+    },
+    {
+      "id": "tt2464376",
+      "type": "movie",
+      "name": "Revival of Evil",
+      "poster": "https://image.tmdb.org/t/p/w780/yREAorPspYv98889vicUXx6vWHa.jpg",
+      "posterShape": "poster",
+      "description": "Is today's Revival Of Evil setting the stage for the antichrist? Join David Hunt in this fascinating journey into the world of the occult. See candid shots inside Anton LaVey's First Church of Satan, hypnotic regression to \"prior lives\", and psychic \"revelations\" from UFOs.  Occultism also masquerades as the latest in science, education, parlor games & movies. Through candid interviews learn the truth about witchcraft in famous rock groups, psychic powers and seances among teenagers, demonic possession through yoga, and the true power behind Ouija boards as told by those who are still involved and others who have been triumphantly delivered through Jesus Christ.",
+      "releaseInfo": "1980",
+      "runtime": "50 min",
+      "genres": [
+        "Documentary",
+        "Music",
+        "Metal"
+      ],
+      "imdbRating": "9.0"
+    },
+    {
+      "id": "tt35069656",
+      "type": "movie",
+      "name": "Gama Bomb: Survival of the Fastest",
+      "poster": "https://image.tmdb.org/t/p/w780/enWZ7YuLsD2Oazfw1cX0KEd2gTA.jpg",
+      "posterShape": "poster",
+      "description": "When they hit the Billboard charts, Gama Bomb were trapped by lockdowns, missing a drummer, and unable to tour.  Survival Of The Fastest is a new Irish take on classic music documentaries like Anvil or Spinal Tap with a sweet and charming portrait of male friendship during troubled times. Capturing Gama Bomb's quest to play for 10,000 people at Hellfest – the 'Glastonbury of Metal' – Kiran Acharya’s warm and wayward film surprised cinema audiences with a smart, sincere, and absurdly funny year in the life of dear friends trying to keep the show on the road.  Packed full of Gama Bomb's trademark humour and pop culture references, the film reflects on their 20-year history in the absurd worlds of punk and metal and their earliest days during the first sparks of the Peace Process in Northern Ireland.",
+      "releaseInfo": "2024",
+      "runtime": "72 min",
+      "genres": [
+        "Documentary",
+        "Music",
+        "Metal"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/8CDkyIDgRU0ac2rC5tsulXUU6aT.jpg",
+      "imdbRating": "9.0"
+    },
+    {
+      "id": "tt30325991",
+      "type": "movie",
+      "name": "Bay Area Godfathers II",
+      "poster": "https://image.tmdb.org/t/p/w780/xrbf6i8N3Fs3JB8bXGNLwhfk0V9.jpg",
+      "posterShape": "poster",
+      "description": "The local hard rock and heavy metal scene in the San Francisco Bay area catapulted many groups to stardom, including Metallica, Exodus, and Testament",
+      "releaseInfo": "2021",
+      "runtime": "83 min",
+      "genres": [
+        "Documentary",
+        "Music",
+        "Metal"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/k1eyekp55biHMt0FGL5aTjKnPrP.jpg",
+      "imdbRating": "8.5"
+    },
+    {
+      "id": "tt8773976",
+      "type": "movie",
+      "name": "Sepultura Endurance",
+      "poster": "https://image.tmdb.org/t/p/w780/sxvVQ3UTSu92WzxJ3pWZs6Fn5wB.jpg",
+      "posterShape": "poster",
+      "description": "The long awaited documentary about Sepultura's incredible journey from Brazil to the world.",
+      "releaseInfo": "2017",
+      "runtime": "100 min",
+      "genres": [
+        "Documentary",
+        "Music",
+        "Metal"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/t0DkZ3OEpHkzVzEUWhAU81f15Ol.jpg",
+      "imdbRating": "8.3"
+    },
+    {
+      "id": "tt5912128",
+      "type": "movie",
+      "name": "The History Of Iron Maiden - Part 1: The Early Days",
+      "poster": "https://image.tmdb.org/t/p/w780/eYMh49CrNiSPEAjJr2MxZePVRMT.jpg",
+      "posterShape": "poster",
+      "description": "First part of the documentary series, The History Of Iron Maiden, featuring an exhaustive, thoroughly complete history of the early years of Iron Maiden, from their humble beginnings in London's East End in 1975 through their triumphant Piece Of Mind album and tour in 1983. The set features a large collection of rare videos and concert footage, as well as interviews with former members such as Paul Di'Anno, Clive Burr, Dennis Stratton, Dave Sullivan, Terry Rance, Kent Ewing, Doug Sampson, Ron Matthews, Terry Wapram and Bob Sawyer.",
+      "releaseInfo": "2004",
+      "runtime": "90 min",
+      "genres": [
+        "Documentary",
+        "Music",
+        "Metal"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/nPqsWGKhysnLdXTTlwGYIAwPEBA.jpg",
+      "imdbRating": "8.2"
+    },
+    {
+      "id": "tt0358213",
+      "type": "movie",
+      "name": "Thrash, Altenessen",
+      "poster": "https://image.tmdb.org/t/p/w780/v6GKbuCUGy4KbEN0SOevSLJbWiG.jpg",
+      "posterShape": "poster",
+      "description": "Documentary focusing on the thrash metal band Kreator but also exploring the economic and social situation of Essen at the time.",
+      "releaseInfo": "1989",
+      "runtime": "88 min",
+      "genres": [
+        "Documentary",
+        "Music",
+        "Metal"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/6VjsDByHGdoSHFurC2r83ayRPNg.jpg",
+      "imdbRating": "8.3"
+    },
+    {
+      "id": "tt12452878",
+      "type": "series",
+      "name": "NOLA: Life, Death and Heavy Blues from the Bayou",
+      "poster": "https://image.tmdb.org/t/p/w780/8BpngWgyie91qlHhQlShnEIn6ub.jpg",
+      "posterShape": "poster",
+      "description": "A seven-part series examining the people and the culture that helped foster bands like Down, Eyehategod, Crowbar, Acid Bath, Goatwhore and many others. The documentary features in-depth interviews discussing the bands, catastrophe, drugs, suicide, murder, and records that helped shape the New Orleans sound known the world over.",
+      "releaseInfo": "2014",
+      "genres": [
+        "Documentary",
+        "Music",
+        "Metal"
+      ],
+      "imdbRating": "8.0"
+    },
+    {
+      "id": "tt4306046",
+      "type": "movie",
+      "name": "The Joy of the Guitar Riff",
+      "poster": "https://image.tmdb.org/t/p/w780/urqMyHN1lLXU2eM68CUqW2JQTh.jpg",
+      "posterShape": "poster",
+      "description": "Traces the history and mechanics of the guitar riff over 60 years from the 1950s, from Chuck Berry through Hank Marvin, Black Sabbath and others to the White Stripes. Featuring interviews with some of the core arbiters of change and new techniques.",
+      "releaseInfo": "2014",
+      "runtime": "60 min",
+      "genres": [
+        "Documentary",
+        "Music",
+        "Metal"
+      ],
+      "imdbRating": "8.2"
+    },
+    {
+      "id": "tt2560840",
+      "type": "movie",
+      "name": "Quiet Riot: Well Now You're Here, There's No Way Back",
+      "poster": "https://image.tmdb.org/t/p/w780/qGbCzTKWjB8yn2gspPk55ARvnmG.jpg",
+      "posterShape": "poster",
+      "description": "An inspiring documentary chronicling the rise, fall and resurrection of '80s metal band Quiet Riot. The career of Frankie Banali, the band's drummer, reached a serious crossroads when his best friend and bandmate died in 2007. Years later, Banali realizes he must forge ahead and make a new life for himself and his daughter and he goes on a quest to reunite the band and fill the immense void left by his bandmate.",
+      "releaseInfo": "2014",
+      "runtime": "104 min",
+      "genres": [
+        "Documentary",
+        "Music",
+        "Metal"
+      ],
+      "imdbRating": "8.2"
+    },
+    {
+      "id": "tt0270241",
+      "type": "movie",
+      "name": "Black Sabbath: The Black Sabbath Story, Volume Two",
+      "poster": "https://image.tmdb.org/t/p/w780/sCJXbw1xkNYdQ8bPqKJdGP6oAwL.jpg",
+      "posterShape": "poster",
+      "description": "“The Black Sabbath Story, Volume Two” is a documentary video by heavy metal band Black Sabbath. It discusses the line-up changes Black Sabbath experienced during the period between 1978 and 1992.",
+      "releaseInfo": "1992",
+      "runtime": "47 min",
+      "genres": [
+        "Documentary",
+        "Music",
+        "Metal"
+      ],
+      "imdbRating": "8.2"
+    },
+    {
+      "id": "tt33210825",
+      "type": "series",
+      "name": "Nöthin' But a Good Time: The Uncensored Story of '80s Hair Metal",
+      "poster": "https://image.tmdb.org/t/p/w780/q1F5H91Y1RPTFBmR9idZB4MZaKM.jpg",
+      "posterShape": "poster",
+      "description": "A fresh and shockingly candid behind-the-scenes look at one of music's most iconic eras. Each episode showcases the insanity and blazing ambition that has enthralled generations of music lovers and continues to influence culture to this day.",
+      "releaseInfo": "2024",
+      "genres": [
+        "Documentary",
+        "Music",
+        "Metal"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/9YPUhIXQOXGgvO4NgNKr4OAgtBb.jpg",
+      "imdbRating": "7.8"
+    },
+    {
+      "id": "tt31023148",
+      "type": "series",
+      "name": "Thank You, Goodnight - The Bon Jovi Story",
+      "poster": "https://image.tmdb.org/t/p/w780/2lY4K8yWfMda1QJDxY4oyT6kR6x.jpg",
+      "posterShape": "poster",
+      "description": "An all access series chronicling the epic past and uncertain future of the iconic band Bon Jovi. A 40-year odyssey of rock 'n roll idolatry on the precipice as a vocal injury threatens to bring everything to a halt.",
+      "releaseInfo": "2024",
+      "genres": [
+        "Documentary",
+        "Music",
+        "Metal"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/2Z4asSxxl2OoMVOsaTz1hYpDCrn.jpg",
+      "imdbRating": "7.7"
+    },
+    {
+      "id": "tt5053508",
+      "type": "movie",
+      "name": "Rammstein in Amerika",
+      "poster": "https://image.tmdb.org/t/p/w780/nBxFphQ3RtLw71nZ2IcEQmyRe6m.jpg",
+      "posterShape": "poster",
+      "description": "The concert film celebrates the band’s legendary show in New York’s Madison Square Garden – Rammstein’s return to the US after a ten-year absence. In HD and 5.1 surround sound.  For the documentary, Rammstein provided extensive, previously unreleased footage and photos from the band archive. In numerous interviews from various periods in the band’s history, the band members speak about their experiences across the Atlantic.",
+      "releaseInfo": "2015",
+      "runtime": "143 min",
+      "genres": [
+        "Documentary",
+        "Music",
+        "Metal"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/o0K2DSnv7KDQzhtyWbChR55wqQ4.jpg",
+      "imdbRating": "8.0"
+    },
+    {
+      "id": "tt5080988",
+      "type": "movie",
+      "name": "The Most Dangerous Band In The World: The Story of Guns N’ Roses",
+      "poster": "https://image.tmdb.org/t/p/w780/8kru7jmoFtDA7CDMZkIu83hyclX.jpg",
+      "posterShape": "poster",
+      "description": "Never-before-seen video footage of Guns N' Roses in their formative years, and how they climbed the charts from the gutters of Hollywood's Sunset Strip. The film tells the story of how the band came from playing bars on the Sunset Strip in Los Angeles to stadiums across the world and has been compiled from a host of exclusive interviews and the early footage of GNR fan and friend Marc Canter.  Interview subjects include Slash, drummer Steven Adler, former manager Vicky Hamilton, Whisky A Go Go owner Mario Maglieri.  Marc Canter has also said there is a full-cinema biopic (with actors) in the works.",
+      "releaseInfo": "2016",
+      "runtime": "90 min",
+      "genres": [
+        "Documentary",
+        "Music",
+        "Metal"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/zyLOGmKhbksEQJl94vbmMA6P31p.jpg",
+      "imdbRating": "8.0"
+    },
+    {
+      "id": "tt6327536",
+      "type": "movie",
+      "name": "Saxon - Heavy Metal Thunder The Movie",
+      "poster": "https://image.tmdb.org/t/p/w780/zslpRapcrF0w01mCwy50mnwPK1b.jpg",
+      "posterShape": "poster",
+      "description": "SAXON are true heavy metal heroes. Their story is a classic rock’n’roll saga: five friends from the backstreets of Yorkshire setting out to take on the world. The resulting chart glory, mixed with band infighting and full-on rock excess, ensures their dramatic tale will become part of heavy metal history.  This feature-length documentary film tells the full warts-and-all story of 30 years of heartache, earache, success and excess. Produced by critically acclaimed documentary filmmakers Coolhead, it not only has contributions from Saxon, past and present, but also from the likes of Lars Ulrich (Metallica), Lemmy and ‘Fast’ Eddie Clarke (Motörhead), Harvey Goldsmith, Airbourne, Amon Amarth, Doro Pesch and many, many others.",
+      "releaseInfo": "2010",
+      "genres": [
+        "Documentary",
+        "Music",
+        "Metal"
+      ],
+      "imdbRating": "8.0"
+    },
+    {
+      "id": "tt21963216",
+      "type": "movie",
+      "name": "Total Thrash - The Teutonic Story",
+      "poster": "https://image.tmdb.org/t/p/w780/f1bosFDuCe2KoToIXi9Dl0O8NCS.jpg",
+      "posterShape": "poster",
+      "description": "In his documentary, filmmaker Daniel Hofmann deals with the history of German thrash metal. He reports on the fans, bands and organizers and offers an insight into the scene.",
+      "releaseInfo": "2022",
+      "runtime": "113 min",
+      "genres": [
+        "Documentary",
+        "Music",
+        "Metal"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/kwfemhsSwyeRUto1dvRc6reuvdc.jpg",
+      "imdbRating": "8.0"
+    },
+    {
+      "id": "tt13193246",
+      "type": "series",
+      "name": "Hell: The History of Norwegian Black Metal",
+      "poster": "https://image.tmdb.org/t/p/w780/6FHECnzFYRJQx782NN9O0QYrl3K.jpg",
+      "posterShape": "poster",
+      "description": "Norwegian black metal is beloved by fans worldwide, but is also known for its shocking story. Now the musicians who created the grim genre, tells how it all came to be.",
+      "releaseInfo": "2020",
+      "genres": [
+        "Documentary",
+        "Music",
+        "Metal"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/oBHFnGYETOpPFQQki4w7YmSO9qI.jpg",
+      "imdbRating": "7.8"
+    },
+    {
+      "id": "tt1562371",
+      "type": "movie",
+      "name": "Metallica: Pride, Passion and Glory - Three Nights in Mexico City",
+      "poster": "https://image.tmdb.org/t/p/w780/rkKZ6og6pS7TEbhCG0J6JFHXyFy.jpg",
+      "posterShape": "poster",
+      "description": "In June of this year we were fortunate enough to return to Mexico City for three sold out shows at Foro Sol Stadium and with 155,000 of you there over the three nights, we knew it would be extra special. So we asked our friend Wayne Isham to join us with a film crew and the results of that crazy, magical, most memorable long weekend are shown here on this single disc pressing.",
+      "releaseInfo": "2009",
+      "runtime": "145 min",
+      "genres": [
+        "Documentary",
+        "Music",
+        "Metal"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/laJQkh16XV38aeijeyDCERALnU2.jpg",
+      "imdbRating": "7.9"
+    },
+    {
+      "id": "tt0393039",
+      "type": "movie",
+      "name": "America's Best Kept Secret",
+      "poster": "https://image.tmdb.org/t/p/w780/kWQvBml6G6ICyPWfEycuPqaPrJF.jpg",
+      "posterShape": "poster",
+      "description": "Are there really people in America in the 1980's who actually worship the devil in a formal, ritualistic manner? Are children sexually molested, babies sacrificed and animals mutilated to bring perverted glory to an entity called Satan? Are influential members of society involved in a cover-up of atrocities taking place?  America's Best Kept Secret is a 57-minute video documentary examining the increase of devil worship in today's America.",
+      "releaseInfo": "1988",
+      "runtime": "57 min",
+      "genres": [
+        "Documentary",
+        "Music",
+        "Metal"
+      ],
+      "imdbRating": "8.0"
+    },
+    {
+      "id": "tt6926072",
+      "type": "movie",
+      "name": "Nasum: Blasting Shit to Bits - The Final Show",
+      "poster": "https://image.tmdb.org/t/p/w780/cvWDoyTm1dWT9I3skghd38Ecqdj.jpg",
+      "posterShape": "poster",
+      "description": "Concert film documenting the final show of Swedish grindcore legends Nasum.",
+      "releaseInfo": "2017",
+      "runtime": "87 min",
+      "genres": [
+        "Documentary",
+        "Music",
+        "Metal"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/raRxJkpg1C6cnMoh2mF931OSEOV.jpg",
+      "imdbRating": "8.0"
+    },
+    {
+      "id": "tt6545506",
+      "type": "movie",
+      "name": "Deep Purple: From Here To Infinite",
+      "poster": "https://image.tmdb.org/t/p/w780/dnfgMShA4autoQp5dZO8H2g9Pq1.jpg",
+      "posterShape": "poster",
+      "description": "Feature length documentary about the story behind the pioneering and influential British heavy metal band as they enter the studio to record their new album.",
+      "releaseInfo": "2017",
+      "runtime": "97 min",
+      "genres": [
+        "Documentary",
+        "Music",
+        "Metal"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/ihQFIibeEVFHykWmHQc0jxzgtfy.jpg",
+      "imdbRating": "7.9"
+    },
+    {
+      "id": "tt1361558",
+      "type": "movie",
+      "name": "Iron Maiden: Flight 666",
+      "poster": "https://image.tmdb.org/t/p/w780/3Qfao6dEKEVxLWbX2ALqoge182o.jpg",
+      "posterShape": "poster",
+      "description": "Heavy metal band Iron Maiden's 2008 Somewhere Back in Time World Tour. This concert recording accompanies the documentary film \"Iron Maiden: Flight 666\". The 16 songs performed were filmed live in 16 different cities giving you the full experience of the live power of Maiden and their fans all around the globe.",
+      "releaseInfo": "2009",
+      "runtime": "113 min",
+      "genres": [
+        "Documentary",
+        "Music",
+        "Metal"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/o1zaOyLalrfA96FiqYZKhZWQBHp.jpg",
+      "imdbRating": "7.8"
+    },
+    {
+      "id": "tt31630230",
+      "type": "movie",
+      "name": "Vavel the Band",
+      "poster": "https://image.tmdb.org/t/p/w780/oVosTUOte9aDM2hlFSem8MSwbSr.jpg",
+      "posterShape": "poster",
+      "description": "Vavel was a very successful band in the 1980s Greece. They were one of the first Greek heavy metal bands to release LP and became famous among the scene for the unique set design of their concerts. However, since the formation, their members dreamed of achieving an international career. That dream led them to a train station outside Dusseldorf.",
+      "releaseInfo": "2024",
+      "runtime": "77 min",
+      "genres": [
+        "Documentary",
+        "Music",
+        "Metal"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/uJLHFeYMLgkXFxwpWpj4O23M8iv.jpg",
+      "imdbRating": "8.0"
+    },
+    {
+      "id": "tt24973008",
+      "type": "movie",
+      "name": "Heavy Metal Dancers",
+      "poster": "https://image.tmdb.org/t/p/w780/BD0UISF5AZfXHCjsJuJVbScLnJ.jpg",
+      "posterShape": "poster",
+      "description": "\"Heavy Metal Dancers\" is a documentary about accepting one’s imperfections while striving for perfection on stage. The pole dancers may all be from Finland, but their stories are universal. Their passion for this unusual sport has allowed them to come to terms with their bodies, their lives and sometimes their difficult pasts.",
+      "releaseInfo": "2022",
+      "genres": [
+        "Documentary",
+        "Music",
+        "Metal"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/f4zBREVT67NNU6TM9Tgl2JbfHqd.jpg",
+      "imdbRating": "8.0"
+    },
+    {
+      "id": "tt32238590",
+      "type": "movie",
+      "name": "Heavy Metal Kingdom: The New Wave of British Heavy Metal",
+      "poster": "https://image.tmdb.org/t/p/w780/iGc8MJ7cFbzFFMLtszYp4XgWhcB.jpg",
+      "posterShape": "poster",
+      "description": "Amid the social strife of 1970s Britain emerged NWOBHM, the New Wave of British Heavy Metal. New bands from ordinary British towns and suburbs like Iron Maiden, Def Leppard; Saxon, and Girlschool changed the face of amplified music and created a musical and cultural revolution. This is the story of Heavy Metal Kingdom.",
+      "releaseInfo": "2024",
+      "runtime": "52 min",
+      "genres": [
+        "Documentary",
+        "Music",
+        "Metal"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/9lZ4olX2GJxqD8IWhcls4Lh98ym.jpg",
+      "imdbRating": "7.8"
+    },
+    {
+      "id": "tt0104140",
+      "type": "movie",
+      "name": "Dream Deceivers: The Story Behind James Vance vs. Judas Priest",
+      "poster": "https://image.tmdb.org/t/p/w780/qw10a3TQNALaqfKxWTK8gQUQXqC.jpg",
+      "posterShape": "poster",
+      "description": "A chilling post mortem on the tragic case of two teenagers who decided to shoot themselves in the head with a shotgun, and the ensuing court case staged to place the blame on the heavy metal band Judas Priest.",
+      "releaseInfo": "1992",
+      "runtime": "61 min",
+      "genres": [
+        "Documentary",
+        "Music",
+        "Metal"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/8BzHifIbGzV3zJtOYjz1PrZqZFS.jpg",
+      "imdbRating": "7.8"
+    },
+    {
+      "id": "tt1157605",
+      "type": "movie",
+      "name": "Anvil! The Story of Anvil",
+      "poster": "https://image.tmdb.org/t/p/w780/rDrMuFaWBKwjwEnw4C06Sm97huY.jpg",
+      "posterShape": "poster",
+      "description": "At 14, best friends Robb Reiner and Lips made a pact to rock together forever. Their band, Anvil, hailed as the \"demi-gods of Canadian metal\" influenced a musical generation that includes Metallica, Slayer, and Anthrax. Following a calamitous European tour, Lips and Robb, now in their fifties, set off to record their 13th album in one last attempt to fulfill their boyhood dreams.",
+      "releaseInfo": "2008",
+      "runtime": "81 min",
+      "genres": [
+        "Documentary",
+        "Music",
+        "Metal"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/2AMk0Df2Lr0WtFDHGsEo1UE8IHW.jpg",
+      "imdbRating": "7.6"
+    },
+    {
+      "id": "tt7133352",
+      "type": "movie",
+      "name": "Black Sabbath: The End of The End",
+      "poster": "https://image.tmdb.org/t/p/w780/ftvpcFSFGHKPG4s7W48eJUkUUUV.jpg",
+      "posterShape": "poster",
+      "description": "Chronicles the final tour from Black Sabbath. On February 4th, 2017, Black Sabbath takes the stage in Birmingham, the city where it all began, to play the 81st and final gig of the tour and bring down the curtain on a career that spanned almost half a century.",
+      "releaseInfo": "2017",
+      "runtime": "97 min",
+      "genres": [
+        "Documentary",
+        "Music",
+        "Metal"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/kLM6DxvsnQhcyAif2ZpprOLki61.jpg",
+      "imdbRating": "7.7"
+    },
+    {
+      "id": "tt11851698",
+      "type": "movie",
+      "name": "Dio: Dreamers Never Die",
+      "poster": "https://image.tmdb.org/t/p/w780/a8AR4SkNm9aDSMTwbobKVEave2P.jpg",
+      "posterShape": "poster",
+      "description": "This career spanning documentary on heavy metal legend Ronnie James Dio delves deep into his incredible rise from 50's doo-wop crooner, to his early classic rock days in Ritchie Blackmore's Rainbow, to replacing the iconic lead singer Ozzy Osborne in Black Sabbath, to finally cement his legend with DIO. Ronnie's biography is completely unique to the tired sex, drugs and rock and roll cliches. The film is about perseverance, dreams and the power to believe in yourself.",
+      "releaseInfo": "2022",
+      "runtime": "116 min",
+      "genres": [
+        "Documentary",
+        "Music",
+        "Metal"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/4X5zGNdTJM8FgJ7SjE37AlPINmH.jpg",
+      "imdbRating": "7.7"
+    },
+    {
+      "id": "tt4155256",
+      "type": "movie",
+      "name": "Metallica: Live Moscow - Monsters of Rock",
+      "poster": "https://image.tmdb.org/t/p/w780/v77ELQvUa9OvhcO6wBJxZoyOncV.jpg",
+      "posterShape": "poster",
+      "description": "September 28, 1991, at Tushino Airfield in Moscow, was described as \"the first free outdoor Western rock concert in Soviet history\" and had a crowd estimated between 150,000 and 500,000 people, with some unofficial estimates as high as 1,600,000.",
+      "releaseInfo": "1991",
+      "runtime": "85 min",
+      "genres": [
+        "Documentary",
+        "Music",
+        "Metal"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/to1xhebL5S7Eo5S8NmUyAZOYbPn.jpg",
+      "imdbRating": "7.7"
+    },
+    {
+      "id": "tt1236472",
+      "type": "movie",
+      "name": "Lemmy",
+      "poster": "https://image.tmdb.org/t/p/w780/xj6YpG93RjzryMdue93rcbUHK4r.jpg",
+      "posterShape": "poster",
+      "description": "Over four decades, Motorhead frontman Lemmy  Kilmister has registered an immeasurable impact on music history. Nearly 65, he remains the living embodiment of the rock and roll lifestyle, and this feature-length documentary tells his story, one of a hard-living rock icon who continues to enjoy the life of a man half his age.",
+      "releaseInfo": "2010",
+      "runtime": "116 min",
+      "genres": [
+        "Documentary",
+        "Music",
+        "Metal"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/gP4XEzA1qIYM2pIMPkjNhBq1K4A.jpg",
+      "imdbRating": "7.6"
+    },
+    {
+      "id": "tt0167488",
+      "type": "movie",
+      "name": "Ramones: We're Outta Here!",
+      "poster": "https://image.tmdb.org/t/p/w780/6pnRj99pGTn3mZZuVWTyeSN8FmA.jpg",
+      "posterShape": "poster",
+      "description": "Documentary covering The Ramones' long and eventful history, with footage from their final ever show at the Palace in Hollywood, 6th August 1996. Interviews with Joey, Johnny and drummer Marky, tributes from other rock icons including Richard Hell, Debbie Harry and Lemmy.",
+      "releaseInfo": "2004",
+      "runtime": "140 min",
+      "genres": [
+        "Documentary",
+        "Music",
+        "Metal"
+      ],
+      "imdbRating": "7.5"
+    },
+    {
+      "id": "tt2562578",
+      "type": "movie",
+      "name": "Iron Maiden: Behind the Beast",
+      "poster": "https://image.tmdb.org/t/p/w780/cJd4jMLbBQNQXaszlzGVg0hNE6g.jpg",
+      "posterShape": "poster",
+      "description": "A fascinating, high quality “home movie”, produced entirely in-house by Maiden’s own Krew led by Andy Matthews, it reveals how to put on an Iron Maiden tour and what goes on behind the scenes at a show. It describes the extraordinary story of one of the most acclaimed and ambitious touring shows in the world, illustrating the day to day life and complex tasks of the Maiden Killer Krew and the other characters behind the scenes.",
+      "releaseInfo": "2012",
+      "runtime": "88 min",
+      "genres": [
+        "Documentary",
+        "Music",
+        "Metal"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/3JhnsHK9ytLtNuoxJCn1vAP8XNV.jpg",
+      "imdbRating": "7.6"
+    },
+    {
+      "id": "tt1646898",
+      "type": "movie",
+      "name": "Fix: The Ministry Movie",
+      "poster": "https://image.tmdb.org/t/p/w780/wDOI52xxJzUCs7o0nG9c3c2wtmH.jpg",
+      "posterShape": "poster",
+      "description": "Provides an insider's view of the groundbreaking, outrageous, creative juggernaut that was the band Ministry - during their world tour - as front man Al Jourgensen slips into drug addiction. Ministry made industrial rock mainstream, and along the way their music and take no prisoners lifestyle influenced the leaders of today's most important bands, many of whom are in the film.",
+      "releaseInfo": "2011",
+      "runtime": "110 min",
+      "genres": [
+        "Documentary",
+        "Music",
+        "Metal"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/hoRxCRf4P1bXvpTk9JKRVsplEyo.jpg",
+      "imdbRating": "7.5"
+    },
+    {
+      "id": "tt0116589",
+      "type": "movie",
+      "name": "Hype!",
+      "poster": "https://image.tmdb.org/t/p/w780/vfR9veCwZMZXfpCF5QlnaLFoSr1.jpg",
+      "posterShape": "poster",
+      "description": "This documentary examines the Seattle scene as it became the focus of a merging of punk rock, heavy metal, and innovation. Building from the grass roots, self-promoted and self-recorded until break-out success of bands like Nirvana brought the record industry to the Pacific Northwest, a phenomenon was born.",
+      "releaseInfo": "1996",
+      "runtime": "84 min",
+      "genres": [
+        "Documentary",
+        "Music",
+        "Metal"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/8Z862TpwD0c9S0jWMG1Z69x3Y7F.jpg",
+      "imdbRating": "7.4"
+    },
+    {
+      "id": "tt1425246",
+      "type": "movie",
+      "name": "Promised Land of Heavy Metal",
+      "poster": "https://image.tmdb.org/t/p/w780/bHWe4hJwg9LiuqWLwjuG7cpLQku.jpg",
+      "posterShape": "poster",
+      "description": "Promised Land of Heavy Metal is a documentary about the history and philosophy of Heavy Metal and how it became such a big deal in a small country called Finland.",
+      "releaseInfo": "2008",
+      "runtime": "90 min",
+      "genres": [
+        "Documentary",
+        "Music",
+        "Metal"
+      ],
+      "imdbRating": "7.5"
+    },
+    {
+      "id": "tt2249438",
+      "type": "movie",
+      "name": "Attack of Life: The Bang Tango Movie",
+      "poster": "https://image.tmdb.org/t/p/w780/6Z59BlEKRgneCYBUY17o61tfqUB.jpg",
+      "posterShape": "poster",
+      "description": "A documentary chronicling the sometimes disastrous career of 80s MTV hit rock band Bang Tango.",
+      "releaseInfo": "2016",
+      "runtime": "83 min",
+      "genres": [
+        "Documentary",
+        "Music",
+        "Metal"
+      ],
+      "imdbRating": "7.5"
+    },
+    {
+      "id": "tt2460472",
+      "type": "movie",
+      "name": "Barón Rojo, la película",
+      "poster": "https://image.tmdb.org/t/p/w780/bHW6IMpyujDsLecJYfviFq8N1Dy.jpg",
+      "posterShape": "poster",
+      "description": "",
+      "releaseInfo": "2012",
+      "genres": [
+        "Documentary",
+        "Music",
+        "Metal"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/bh29pJcNAzEFQ91pGYrryjd1l6p.jpg",
+      "imdbRating": "7.5"
+    },
+    {
+      "id": "tt10191866",
+      "type": "movie",
+      "name": "Murder in the Front Row: The San Francisco Bay Area Thrash Metal Story",
+      "poster": "https://image.tmdb.org/t/p/w780/lsVmolhCxoR10YRrJIltTjZTVZt.jpg",
+      "posterShape": "poster",
+      "description": "Murder In The Front Row: The San Francisco Bay Area Thrash Metal Story. In the early 1980’s, a small group of dedicated Bay Area headbangers shunned the hard rock of MTV and Hollywood hairspray bands in favor of a more dangerous brand of metal that became known as thrash! From the tape trading network to the clubs to the record stores and fanzines, director Adam Dubin reveals how the scene nurtured the music and the music spawned a movement.  Murder In The Front Row is told through powerful first person testimony and stunning animation and photography. The film is a social study of a group of young people defying the odds and building something essential for themselves.  Featuring interviews with Metallica, Megadeth, Slayer, Anthrax, Exodus, Testament, Death Angel, Possessed and many more! Narrated by Brian Posehn.",
+      "releaseInfo": "2019",
+      "runtime": "92 min",
+      "genres": [
+        "Documentary",
+        "Music",
+        "Metal"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/o5hxa4ES8a2esehZMhqBnntAlIr.jpg",
+      "imdbRating": "7.3"
+    },
+    {
+      "id": "tt4035798",
+      "type": "movie",
+      "name": "Made in Japan: The Rise of Deep Purple Mk II",
+      "poster": "https://image.tmdb.org/t/p/w780/2PctBTYtviIt1KR98uw62YA3m1N.jpg",
+      "posterShape": "poster",
+      "description": "Deep Purple is one of the most influential and important guitar bands in history, one of the godfathers of the heavy metal genre, with over 100 million album sales worldwide to their name. To celebrate the 40th anniversary of Deep Purple's groundbreaking double live album Made in Japan, this documentary explores these recordings and Deep Purple Mark 2, the line-up between 1969 and 1973.",
+      "releaseInfo": "2014",
+      "runtime": "59 min",
+      "genres": [
+        "Documentary",
+        "Music",
+        "Metal"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/pZfr5Nzs6RGj872kV5LXGhLi0Gp.jpg",
+      "imdbRating": "7.4"
+    },
+    {
+      "id": "tt7954282",
+      "type": "movie",
+      "name": "Slave to the Grind",
+      "poster": "https://image.tmdb.org/t/p/w780/y1h6vlslaPo6inBNF9nPEo41zXL.jpg",
+      "posterShape": "poster",
+      "description": "Grindcore is the worlds fastest most aggressively intense music. Fusing the anarchistic and leftist attitudes of the UK Punk scene with the speed and drunken aggression of American Death Metal, Grindcore continues to challenge and offend most listeners.",
+      "releaseInfo": "2018",
+      "runtime": "100 min",
+      "genres": [
+        "Documentary",
+        "Music",
+        "Metal"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/6erzM1gEmPQ6IT7C6vgCg2Zd0Wq.jpg",
+      "imdbRating": "7.4"
+    },
+    {
+      "id": "tt11723944",
+      "type": "movie",
+      "name": "The Nine Lives of Ozzy Osbourne",
+      "poster": "https://image.tmdb.org/t/p/w780/3uGcO8xS92rrFFTgQ2JIO3hjuZc.jpg",
+      "posterShape": "poster",
+      "description": "For over five decades, Ozzy Osbourne has personified rock and roll, from his childhood in poverty and time in prison, to fronting metal band Black Sabbath, a successful solo career and a lovable 21st century television dad.",
+      "releaseInfo": "2020",
+      "runtime": "86 min",
+      "genres": [
+        "Documentary",
+        "Music",
+        "Metal"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/24ur1OYquOIij9zuybU4H8zTgIo.jpg",
+      "imdbRating": "7.2"
+    },
+    {
+      "id": "tt1723126",
+      "type": "movie",
+      "name": "Last Days Here",
+      "poster": "https://image.tmdb.org/t/p/w780/gb4fccHZlioismTPhs5693DEFy.jpg",
+      "posterShape": "poster",
+      "description": "Documentary follows Bobby Liebling, lead singer of seminal hard rock/heavy metal band Pentagram, as he battles decades of hard drug addiction and personal demons to try and get his life back.",
+      "releaseInfo": "2011",
+      "runtime": "91 min",
+      "genres": [
+        "Documentary",
+        "Music",
+        "Metal"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/cyy493zTM6EkUrAbIuUZPU7SHCt.jpg",
+      "imdbRating": "7.4"
+    },
+    {
+      "id": "tt2571782",
+      "type": "movie",
+      "name": "As the Palaces Burn",
+      "poster": "https://image.tmdb.org/t/p/w780/nIodUzFLmrvwP4VoDxrhtFnSmFT.jpg",
+      "posterShape": "poster",
+      "description": "As the Palaces Burn is a feature-length documentary that originally sought to follow Lamb of God and their fans throughout the world, to demonstrate how music ties us together when we can’t find any other common bond. However, during the filming process in 2012, the story abruptly took a dramatic turn when lead singer Randy Blythe was arrested on charges of manslaughter and blamed for the death of one of their young fans in the Czech Republic. What followed was a heart-wrenching courtroom drama that left fans, friends, and curious onlookers around the world on the edge of their seats.",
+      "releaseInfo": "2014",
+      "runtime": "121 min",
+      "genres": [
+        "Documentary",
+        "Music",
+        "Metal"
+      ],
+      "imdbRating": "7.3"
+    },
+    {
+      "id": "tt6212934",
+      "type": "movie",
+      "name": "Eagles of Death Metal: Nos Amis (Our Friends)",
+      "poster": "https://image.tmdb.org/t/p/w780/oe0exWiCRfy5GSQfnGi9wvwuSS.jpg",
+      "posterShape": "poster",
+      "description": "The November 13, 2015 terrorist attack in Paris claimed 130 lives around the city -- 89 of them at the Eagles of Death Metal’s Bataclan Theatre concert. The American rock band recount their experiences before and after the tragic events.",
+      "releaseInfo": "2017",
+      "runtime": "84 min",
+      "genres": [
+        "Documentary",
+        "Music",
+        "Metal"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/tIJQwcSkt3JLhQzMums3gYAhtg7.jpg",
+      "imdbRating": "7.3"
+    },
+    {
+      "id": "tt0840405",
+      "type": "series",
+      "name": "Heavy: The Story of Metal",
+      "poster": "https://image.tmdb.org/t/p/w780/aIBvMvWUizXuKr9PtIjG8sQhFMc.jpg",
+      "posterShape": "poster",
+      "description": "Heavy: The Story of Metal is a four-part documentary special that aired on VH1 in 2006.\n\nThe series focuses on the origins, subgenres, and the bands of heavy metal music, paying close attention to influential bands like Black Sabbath, Led Zeppelin, Judas Priest, and Iron Maiden, who helped to define heavy metal in its early years. Other bands on the program include, Alice Cooper, Kiss, AC/DC, Van Halen, Def Leppard, Quiet Riot, Mötley Crüe, Megadeth, Metallica, Anthrax, Guns N' Roses, and Marilyn Manson. However, the documentary notably passes over lower profile metal sub-genres such as death metal, black metal, doom metal, progressive metal, power metal and many others considered core elements of today's metal pantheon, focusing mostly on hard rock & traditional heavy metal. In Canada, the documentary aired on MuchMoreMusic and on C4 in New Zealand. It is not available on DVD or video.",
+      "releaseInfo": "2006",
+      "genres": [
+        "Documentary",
+        "Music",
+        "Metal"
+      ],
+      "imdbRating": "7.0"
+    },
+    {
+      "id": "tt1092007",
+      "type": "movie",
+      "name": "Heavy Metal in Baghdad",
+      "poster": "https://image.tmdb.org/t/p/w780/q4WyjByJ0I2PNNekP3FURuxgfiV.jpg",
+      "posterShape": "poster",
+      "description": "The story of Iraq's only heavy metal band and their fight to play music.",
+      "releaseInfo": "2007",
+      "runtime": "84 min",
+      "genres": [
+        "Documentary",
+        "Music",
+        "Metal"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/jma7KVMAm4FeMwlC07hAbMNElh.jpg",
+      "imdbRating": "7.3"
+    },
+    {
+      "id": "tt20866712",
+      "type": "movie",
+      "name": "Metallica: Masters of Metal",
+      "poster": "https://image.tmdb.org/t/p/w780/7g4KSeQ4p4uiujTFibZe8Cyta1f.jpg",
+      "posterShape": "poster",
+      "description": "They are one of the most influential heavy metal bands of all time. Alongside Slayer, Anthrax and Megadeth, the Masters of Metal are an important part of the \"big four\".  Over 100 million record sales worldwide, they are one of the most commercially successful bands of all time.  With a career that spans over 33 years, the band created by James Hatfield and Lars Ulrich as renamed a genre after themselves.  From the early days in a garage to the successful heights of sell out stadium tours, they redesigned the concept of heavy metal music.  This is the all access story about their journey.  All rise to Metallica, the Masters of Metal.",
+      "releaseInfo": "2014",
+      "runtime": "66 min",
+      "genres": [
+        "Documentary",
+        "Music",
+        "Metal"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/2KCt1EkEyE4mumYg3VLNzGyofdd.jpg",
+      "imdbRating": "7.2"
+    },
+    {
+      "id": "tt0413847",
+      "type": "movie",
+      "name": "Black Sabbath: The Black Sabbath Story, Volume One",
+      "poster": "https://image.tmdb.org/t/p/w780/1rX5QQ2p1SuJBdgySBBtf1h3B8E.jpg",
+      "posterShape": "poster",
+      "description": "“The Black Sabbath Story, Volume One” traces the roots and origins of Black Sabbath on an album by album basis and features rare performance footage including N.I.B. Paranoid, and War Pigs. Watch Ozzy and company slay the 300,000 plus crowd at California Jam 1974 with a blistering rendition of Children of the Grave. Black Sabbath is a highly visual band and one of the earliest metal groups to experiment with promotional videos. Their hilarious video for Sabbath Bloody Sabbath captures the spirit of similar videos put out by The Beatles. There are a couple of other songs here captured live from the  “Never Say Die” tour including Snowblind, Symptom of the Universe, and Rock ’n’ Roll Doctor. All of these performances are professionally shot and Warner Bros. shows them uncut and without narration. “The Black Sabbath Story, Volume One” covers all the bases of the Ozzy years.",
+      "releaseInfo": "1992",
+      "runtime": "60 min",
+      "genres": [
+        "Documentary",
+        "Music",
+        "Metal"
+      ],
+      "imdbRating": "7.2"
+    },
+    {
+      "id": "tt0392884",
+      "type": "movie",
+      "name": "Van Halen: The Van Halen Story",
+      "poster": "https://image.tmdb.org/t/p/w780/l8qO6Beap34gtfuRogeYMkOPSJV.jpg",
+      "posterShape": "poster",
+      "description": "\"The VAN HALEN Story: The Early Years\", chronicles the rise of four young musicians from their formative years to their transformation into a worldwide phenomenon. Hear the group's gripping tale told by the people who were there when it all began childhood friends, fellow musicians, roadies, bodyguards, producers, and the band themselves. Rare footage and never-before-seen photos help to further document their remarkable story.",
+      "releaseInfo": "2003",
+      "runtime": "65 min",
+      "genres": [
+        "Documentary",
+        "Music",
+        "Metal"
+      ],
+      "imdbRating": "7.1"
+    },
+    {
+      "id": "tt1826632",
+      "type": "movie",
+      "name": "Classic Albums: Black Sabbath - Paranoid",
+      "poster": "https://image.tmdb.org/t/p/w780/t7QByL0XQV2iGHJOqIqRnbUlLZr.jpg",
+      "posterShape": "poster",
+      "description": "The story of how the classic album \"Paranoid\" was made, with stories from band members to those who were influenced by its content, form and vitality.  Paranoid is the second studio album by English rock band Black Sabbath. Released in September 1970, it was the band's only LP to top the UK Albums Chart until the release of 13 in 2013. Paranoid contains several of the band's signature songs, including \"Iron Man\", \"War Pigs\" and the title track, which was the band's only Top 20 hit, reaching number 4 in the UK charts. It is often regarded as one of the most quintessential and influential albums in heavy metal history.",
+      "releaseInfo": "2010",
+      "runtime": "55 min",
+      "genres": [
+        "Documentary",
+        "Music",
+        "Metal"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/6MpQDu3qNHjUgm4iP0HjLvHxbUN.jpg",
+      "imdbRating": "7.1"
+    },
+    {
+      "id": "tt0982864",
+      "type": "movie",
+      "name": "Classic Albums: Motörhead - Ace of Spades",
+      "poster": "https://image.tmdb.org/t/p/w780/hTRLcOdbnvQTBDQfAhW7eEzCQeZ.jpg",
+      "posterShape": "poster",
+      "description": "Motorhead fans, rejoice! This comprehensive look at the heavy metal band's 1980 album \"Ace of Spades\" features band mates Lemmy, \"Fast\" Eddie Clarke and Philip \"Philthy Animal\" Taylor discussing the making of their acclaimed album and performing exclusive tunes. Other goodies include interviews about the band with rockers Slash and Lars Ulrich, Motorhead's candid talk about their adventures with sex, drugs and rock and roll, and much more.",
+      "releaseInfo": "2005",
+      "runtime": "50 min",
+      "genres": [
+        "Documentary",
+        "Music",
+        "Metal"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/yB0Jz3tBpga21OSdumv26XSissl.jpg",
+      "imdbRating": "7.1"
+    },
+    {
+      "id": "tt0367891",
+      "type": "movie",
+      "name": "Iron Maiden: Behind The Iron Curtain",
+      "poster": "https://image.tmdb.org/t/p/w780/mPEWlcWmJwfxA2MfpH1U7k3st5T.jpg",
+      "posterShape": "poster",
+      "description": "Shot during Maiden's historic tour of Poland and other parts of the Eastern Bloc in 1984, featuring interviews, live and offstage footage, capturing the atmosphere of this remarkable journey behind the Wall at the height of the Cold War.",
+      "releaseInfo": "1984",
+      "runtime": "57 min",
+      "genres": [
+        "Documentary",
+        "Music",
+        "Metal"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/6Uec8CCkpsDFLsXx3G5ZqFpacjN.jpg",
+      "imdbRating": "7.1"
+    },
+    {
+      "id": "tt8678982",
+      "type": "movie",
+      "name": "Death by Metal",
+      "poster": "https://image.tmdb.org/t/p/w780/64dE6t7jD9Imdo2AGBMhimpnVru.jpg",
+      "posterShape": "poster",
+      "description": "Here comes DEATH's probing and pulsing rock doc, DEATH BY METAL, pulling back the palm fronds of DEATH's origins in Altamonte Springs, Florida, and latching a narrative hook into the headstrong Chuck Schuldiner juggernaut for fifteen gratifying if sometimes frustrating years. As the baby steps become giant leaps, the stable of supporting players grows and continually shines in its own devious light.",
+      "releaseInfo": "2016",
+      "runtime": "107 min",
+      "genres": [
+        "Documentary",
+        "Music",
+        "Metal"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/sJUZMj3C7xn34ZMVpfhCEY5fIV9.jpg",
+      "imdbRating": "7.1"
+    },
+    {
+      "id": "tt7262346",
+      "type": "movie",
+      "name": "Cum On Feel The Noize",
+      "poster": "https://image.tmdb.org/t/p/w780/mcnWCM2a5k98YuiOUc33WuqZtLA.jpg",
+      "posterShape": "poster",
+      "description": "Exclusive, long-lost live material from rock's most iconic bands and artists, as well as original interviews with the living legends themselves, including Alice Cooper, Ozzy Osbourne, Jimmy Page, Nikki Sixx, David Draiman and more.",
+      "releaseInfo": "2017",
+      "runtime": "90 min",
+      "genres": [
+        "Documentary",
+        "Music",
+        "Metal"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/iyI8wRASEiqaBG3eITJDgSSnc7w.jpg",
+      "imdbRating": "7.0"
+    },
+    {
+      "id": "tt0780524",
+      "type": "movie",
+      "name": "Get Thrashed",
+      "poster": "https://image.tmdb.org/t/p/w780/hl3c0l9jeEe6hZSZOG4mBaXPk8T.jpg",
+      "posterShape": "poster",
+      "description": "Get Thrashed traces the rise, fall and impact of thrash metal; from its early years, through its influence on grunge, nu metal and today's heavy metal scene. It is the story of the heaviest, hardest music of the 80s and early 90s as told by the bands who lived it, the fans and bands that grew up on it and by the artists that carry the \"thrash metal\" flag today.",
+      "releaseInfo": "2006",
+      "runtime": "100 min",
+      "genres": [
+        "Documentary",
+        "Music",
+        "Metal"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/5OCyFTkimdTef3Y3S6MbuTJyNMo.jpg",
+      "imdbRating": "7.0"
+    },
+    {
+      "id": "tt21057826",
+      "type": "movie",
+      "name": "Bon Jovi | No End in Sight",
+      "poster": "https://image.tmdb.org/t/p/w780/fl5AM8LnJ1zsiy4ESdWNfppFqB4.jpg",
+      "posterShape": "poster",
+      "description": "Since the dawn of hair mousse, the New Jersey-based band formed over 40 years ago and quickly took the world by storm. With more than 100 million records sold worldwide, Bon Jovi continues to rock on.",
+      "releaseInfo": "2022",
+      "runtime": "48 min",
+      "genres": [
+        "Documentary",
+        "Music",
+        "Metal"
+      ],
+      "imdbRating": "7.0"
+    },
+    {
+      "id": "tt2450258",
+      "type": "movie",
+      "name": "I Am Thor",
+      "poster": "https://image.tmdb.org/t/p/w780/t5FhxKfIbSvn4fiq7nCcGL8AA3O.jpg",
+      "posterShape": "poster",
+      "description": "Jon Mikl Thor was a bodybuilding, steel bending, brick smashing rock star in the '70s & '80s whose band, Thor, never quite made it big. Years later he attempts a comeback that nearly kills him.",
+      "releaseInfo": "2015",
+      "runtime": "82 min",
+      "genres": [
+        "Documentary",
+        "Music",
+        "Metal"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/1KHXFHTLxuTAhXBnlRJNpd5ZRxZ.jpg",
+      "imdbRating": "7.0"
+    },
+    {
+      "id": "tt1074189",
+      "type": "movie",
+      "name": "Rat Skates: Born in the Basement",
+      "poster": "https://image.tmdb.org/t/p/w780/1xuwQc8AXMvX0QIglAquTqajtFe.jpg",
+      "posterShape": "poster",
+      "description": "I'm sure all the old time Overkill fans out there remember Lee \"Rat Skates\" Kundrat, the band's original drummer. He's gone into indie film and video production over the years, and he's just released a DVD called \"BORN IN THE BASEMENT\" about the early days of not only Overkill but the east coast metal/thrash scenes in general.",
+      "releaseInfo": "2007",
+      "runtime": "113 min",
+      "genres": [
+        "Documentary",
+        "Music",
+        "Metal"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/tzw7g2UurwKG0uuvpMGTpgiH3z7.jpg",
+      "imdbRating": "7.0"
+    },
+    {
+      "id": "tt1014809",
+      "type": "movie",
+      "name": "Until the Light Takes Us",
+      "poster": "https://image.tmdb.org/t/p/w780/sPg2fepwnhGzhRbVZ7bYoneOYaK.jpg",
+      "posterShape": "poster",
+      "description": "Chronicles the history, ideology and aesthetic of Norwegian black metal, a musical subculture infamous as much for a series of murders and church arsons as it is for its unique musical and visual aesthetics. This is the first film to truly shed light on a movement that has heretofore been shrouded by rumor and obscured by inaccurate and shallow depictions. Featuring exclusive interviews with the musicians themselves, Until the Light Takes Us explores every aspect of the controversial movement that has captured the attention of the world.",
+      "releaseInfo": "2008",
+      "runtime": "93 min",
+      "genres": [
+        "Documentary",
+        "Music",
+        "Metal"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/tTOYeamnYF9K0u7y1yj209H6Nad.jpg",
+      "imdbRating": "6.8"
+    },
+    {
+      "id": "tt0819722",
+      "type": "movie",
+      "name": "Heavy Metal: Louder Than Life",
+      "poster": "https://image.tmdb.org/t/p/w780/eKHUJDg168jRAN36rorQje1KJwc.jpg",
+      "posterShape": "poster",
+      "description": "This documentary is a considered look at the continuing story of Metal, in the words of the people that make it, live it, breathe it and keep it vital. The Bands. The Fans, The Producers, The Industry and The Journalists. What makes it tick, why nothing else can touch it for power, emotion and longevity, why it's misunderstood, why it doesn't care, how it continues to upset the establishment, how it manipulates the media, the positivity, and the way it has forced it's iconography and ethos deep into an unsuspecting and unwilling mainstream.",
+      "releaseInfo": "2006",
+      "runtime": "115 min",
+      "genres": [
+        "Documentary",
+        "Music",
+        "Metal"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/c8nbZlD0x1pcZD57HK58S09jFYr.jpg",
+      "imdbRating": "6.8"
+    },
+    {
+      "id": "tt0166959",
+      "type": "movie",
+      "name": "Alice Cooper: Prime Cuts",
+      "poster": "https://image.tmdb.org/t/p/w780/aMCeQgV0JdCwiu4FxmudYvN62FH.jpg",
+      "posterShape": "poster",
+      "description": "This video documentary follows Alice's career from his discovery by Frank Zappa at the Wiskey-a-GoGo in Los Angeles to his \"Hey Stoopid\" album in 1991. It looks at his personal life, like his long-time marriage to Cheryl and his battle with alchoholism, and professional relationships with his manager Shep Gordon and his producer Bob Ezrin. The Prime Cuts documentary was originally released in 1991 on VHS then reissued 16-Oct-2001 as part of a 2-disc DVD set with additional material.",
+      "releaseInfo": "1991",
+      "runtime": "90 min",
+      "genres": [
+        "Documentary",
+        "Music",
+        "Metal"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/qJ9RX501F9PLVH6KrpQU4EbPnfo.jpg",
+      "imdbRating": "6.8"
+    },
+    {
+      "id": "tt1346294",
+      "type": "movie",
+      "name": "Once Upon a Time in Norway",
+      "poster": "https://image.tmdb.org/t/p/w780/jy6ASb7JPllJrCw0p6mlK904bM3.jpg",
+      "posterShape": "poster",
+      "description": "Interviews with central members of early Norwegian black metal bands about Mayhem, the early black metal scene and the crimes they committed.",
+      "releaseInfo": "2007",
+      "runtime": "60 min",
+      "genres": [
+        "Documentary",
+        "Music",
+        "Metal"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/dKWTqlnDbGZ8nAqu0xGRHGf1Y3o.jpg",
+      "imdbRating": "6.8"
+    },
+    {
+      "id": "tt0954937",
+      "type": "movie",
+      "name": "Full Metal Village",
+      "poster": "https://image.tmdb.org/t/p/w780/kA5JsZkYnVJYzPIVuBbisYmvp4Z.jpg",
+      "posterShape": "poster",
+      "description": "The film describes the microcosmos of the small village Wacken and shows the clash of the cultures, before and during the biggest heavy metal festival in Europe.",
+      "releaseInfo": "2007",
+      "runtime": "90 min",
+      "genres": [
+        "Documentary",
+        "Music",
+        "Metal"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/lN4s87TSzOkDi4KFuDj5Q4Gl9Tz.jpg",
+      "imdbRating": "6.7"
+    },
+    {
+      "id": "tt3830598",
+      "type": "movie",
+      "name": "Louder Than Hell: Wacken The Movie",
+      "poster": "https://image.tmdb.org/t/p/w780/vch1JZoqE2YsNpRLXcIrVp8qbR2.jpg",
+      "posterShape": "poster",
+      "description": "Wacken Open Air is the biggest 3-day-rock- and metal-festival in the world. It's three days of raw energy, non-stop Heavy Metal music at full blast and 80.000 fans on a party frenzy. A true legend, taking place annually since 1990 in the sleepy German country town of Wacken, it attracts fans from all over the world. It was released on 24th of December 2014 on dvd, blu ray and 3D blu ray.",
+      "releaseInfo": "2014",
+      "runtime": "96 min",
+      "genres": [
+        "Documentary",
+        "Music",
+        "Metal"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/haL7CaqK7r0KrSAHVmcvzsylWOn.jpg",
+      "imdbRating": "6.7"
+    },
+    {
+      "id": "tt3538328",
+      "type": "movie",
+      "name": "We Are Twisted Fucking Sister!",
+      "poster": "https://image.tmdb.org/t/p/w780/mRGTIjrb1vbvkWGocq4beKcdvzY.jpg",
+      "posterShape": "poster",
+      "description": "In 1984, American heavy metal band Twisted Sister became a global sensation. For 30 years, they been synonymous with hairspray, women's clothing and tasteless album covers. Until now. Ten years ago, director Andrew Horn was granted access to the archives of Twisted Sister founder Jay French and  he explores the decade that preceded their breakthrough.",
+      "releaseInfo": "2016",
+      "runtime": "137 min",
+      "genres": [
+        "Documentary",
+        "Music",
+        "Metal"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/hmTnqV5Dim6wg6zZ30ZAhlmpRsK.jpg",
+      "imdbRating": "6.6"
+    },
+    {
+      "id": "tt13926720",
+      "type": "movie",
+      "name": "Ktulu: Regreso al Sótano",
+      "poster": "https://image.tmdb.org/t/p/w780/ymTbX2wDYXsKQx0eFENWYcqnAES.jpg",
+      "posterShape": "poster",
+      "description": "",
+      "releaseInfo": "2021",
+      "genres": [
+        "Documentary",
+        "Music",
+        "Metal"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/aqhplkg3u2cOPGKZ9dM0HkE6yEZ.jpg",
+      "imdbRating": "6.5"
+    },
+    {
+      "id": "tt0370418",
+      "type": "movie",
+      "name": "Classic Albums: Metallica - Metallica",
+      "poster": "https://image.tmdb.org/t/p/w780/k07VWZsMOnyB5ROWG6NVTg2UDRd.jpg",
+      "posterShape": "poster",
+      "description": "The story of the making of this remarkable album is told here via exclusive interviews with band members James Hetfield, Lars Ulrich, Kirk Hammett and Jason Newsted, archive footage and performance, and contributions from producer Bob Rock. We revisit the original multi-tracks of the album, as well as listen to previously unheard demo recordings. Featuring the five singles from the album, Enter Sandman, Sad But True, \"The Unforgiven\", \"Wherever I May Roam\" and \"Nothing Else Matters\", this is the compelling story of one of the biggest selling albums of all time, a true Classic Album.",
+      "releaseInfo": "2001",
+      "runtime": "50 min",
+      "genres": [
+        "Documentary",
+        "Music",
+        "Metal"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/gMlY4IXyhSEHu4MOsHHqdMHTjoD.jpg",
+      "imdbRating": "6.3"
+    },
+    {
+      "id": "tt0452009",
+      "type": "movie",
+      "name": "Classic Albums: Deep Purple - Machine Head",
+      "poster": "https://image.tmdb.org/t/p/w780/dPoiuXF7iHjCmLu4CVdkMbEpsbo.jpg",
+      "posterShape": "poster",
+      "description": "This musical biography tells the story of the making of Deep Purple's classic album \"Machine Head. Exclusive interviews with Ritchie Blackmore, Ian Gillan, Roger Glover, John Lord and Ian Paice take us through a track by track making of the album. The performers demonstrate riffs & licks from the songs and explain the genesis of the songwriting. Also included are featured songs, archive footage of Deep Purple in concert, including American footage of \"Smoke on the Water\" and \"Space Truckin'\", TV performances and promotional videos, more.",
+      "releaseInfo": "2002",
+      "runtime": "100 min",
+      "genres": [
+        "Documentary",
+        "Music",
+        "Metal"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/5nQYQ0rCbRpJ0usTOmMfblq6yc7.jpg",
+      "imdbRating": "6.2"
+    },
+    {
+      "id": "tt1828124",
+      "type": "movie",
+      "name": "A Spell to Ward Off the Darkness",
+      "poster": "https://image.tmdb.org/t/p/w780/bkFcHfTNXhfJ5nP0JXkXTTT6dvO.jpg",
+      "posterShape": "poster",
+      "description": "A man at three disparate moments in his life: as a member of a fifteen-person collective on a small Estonian island, alone in the wilderness of Northern Finland and as the singer of a neo-pagan black metal band in Norway. Three moments for a radical proposition for the creation of utopia in the present.",
+      "releaseInfo": "2013",
+      "runtime": "99 min",
+      "genres": [
+        "Documentary",
+        "Music",
+        "Metal"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/kZsEybguIAS5KlrVvpJW2e44ebC.jpg",
+      "imdbRating": "6.2"
+    },
+    {
+      "id": "tt2873614",
+      "type": "movie",
+      "name": "Murder Music: Black Metal",
+      "poster": "https://image.tmdb.org/t/p/w780/5qrSoPHuMnJm5qKSEu4iBwFx8D0.jpg",
+      "posterShape": "poster",
+      "description": "The main themes of Murder Music are: the musical origins of black metal, from Birmingham, UK hard rock group Black Sabbath to Newcastle extreme metal pioneers Venom; the anti-Christian sentiment of its practitioners; the controversies surrounding the criminal acts (arson and murder) of the early Norwegian scene; and the paradox of a Christian form of black metal, represented by Scandinavian band Frosthardr. The 64-minute documentary eschews much of the tabloid sensationalism that shrouded the genre in the early to mid-'90s, focusing instead on the music itself, an element thus far overlooked by the mainstream media.",
+      "releaseInfo": "2007",
+      "runtime": "64 min",
+      "genres": [
+        "Documentary",
+        "Music",
+        "Metal"
+      ],
+      "imdbRating": "6.0"
+    },
+    {
+      "id": "tt0246561",
+      "type": "movie",
+      "name": "Demystifying the Devil: Biography Marilyn Manson",
+      "poster": "https://image.tmdb.org/t/p/w780/pfqW5j01PEYQd5S2oldixkqPtK.jpg",
+      "posterShape": "poster",
+      "description": "This unauthorized documentary flashes back to the incarnation of Marilyn Manson and the Spooky Kids and chronicles their controversial trials and tribulations. Included are shocking, first-hand testimonials and outrageous home video from those who were closest to Brian Warner (a.k.a. Marilyn Manson) in his local band-based town of Ft. Lauderdale. This title carries a parental advisory.",
+      "releaseInfo": "2000",
+      "runtime": "90 min",
+      "genres": [
+        "Documentary",
+        "Music",
+        "Metal"
+      ],
+      "imdbRating": "5.9"
+    },
+    {
+      "id": "tt4269678",
+      "type": "movie",
+      "name": "Heavy Metal: The Evolution of the Naval Warship",
+      "poster": "https://image.tmdb.org/t/p/w780/meMonClWwE3Y8LY2tCJoFOERblK.jpg",
+      "posterShape": "poster",
+      "description": "This two-hour series covers the evolution of the design and armament of ocean-going warships. From wooden hulls and sails to nuclear powered floating naval bases,",
+      "releaseInfo": "2009",
+      "runtime": "92 min",
+      "genres": [
+        "Documentary",
+        "Music",
+        "Metal"
+      ],
+      "imdbRating": "6.0"
+    },
+    {
+      "id": "tt1136645",
+      "type": "movie",
+      "name": "Devil Worship: Exposing Satan's Underground",
+      "poster": "https://image.tmdb.org/t/p/w780/LBDOnZwr54U5orfhr7iBRlJwcW.jpg",
+      "posterShape": "poster",
+      "description": "Geraldo Rivera investigates allegations of a widespread Satanic underground in the United States.",
+      "releaseInfo": "1988",
+      "runtime": "90 min",
+      "genres": [
+        "Documentary",
+        "Music",
+        "Metal"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/jGsyOYKPLJoZbExXuNorTedJHXO.jpg",
+      "imdbRating": "5.8"
+    },
+    {
+      "id": "tt0409826",
+      "type": "movie",
+      "name": "Classic Albums: Def Leppard - Hysteria",
+      "poster": "https://image.tmdb.org/t/p/w780/4LquTeBYU4A4u0YiY4yOcxo7uOg.jpg",
+      "posterShape": "poster",
+      "description": "This program takes a track by track look at the making of the album. We speak to Joe Elliott, Rick Allen, Phil Collen, and Rick Savage who lead us through the original multitrack tapes. Joe and Phil play acoustic versions of 'Pour Some Sugar On Me\" and \"Hysteria,\" and Sav and Phil demonstrate riffs and licks from the songs, and explain the genesis of the songwriting. Features songs: Animal, Rocket, Love Bites, Hysteria, Women, Armageddon It, and Pour Some Sugar On Me. In this episode of the CLASSIC ALBUMS series, the surviving members of Def Leppard discuss the making of HYSTERIA as they sort through and explain the original multi-track tapes. In addition, some impromptu acoustic performances and musical demonstrations further dissect this classic album",
+      "releaseInfo": "2002",
+      "runtime": "100 min",
+      "genres": [
+        "Documentary",
+        "Music",
+        "Metal"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/dIdpdIff62LhFBN4y5K3yPoGBS9.jpg",
+      "imdbRating": "5.8"
+    },
+    {
+      "id": "tt36158184",
+      "type": "movie",
+      "name": "The Art of Destruction",
+      "poster": "https://image.tmdb.org/t/p/w780/8L4rcEJ2101YvfNhtPf0ZKT9z8T.jpg",
+      "posterShape": "poster",
+      "description": "The unique music documentary about the legendary thrash metal band Destruction.",
+      "releaseInfo": "2025",
+      "genres": [
+        "Documentary",
+        "Music",
+        "Metal"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/dFA7gtOeS9fOT7zlpBx4dDuDKwL.jpg",
+      "imdbRating": "5.7"
+    },
+    {
+      "id": "tt3479540",
+      "type": "movie",
+      "name": "Eternal Flame of Gehenna",
+      "poster": "https://image.tmdb.org/t/p/w780/hexgB7hoyCg4kfehlDpwdr21aod.jpg",
+      "posterShape": "poster",
+      "description": "Finnish black metal is known for its extreme views and merciless no-compromise approach.  As a music genre, black metal often has a strong ideological aspect. Satanic values, glorification of evil and unsolidarity, as well as pure hatred towards Christian and multicultural society, are more than just childish rebellion for the people involved.  Eternal Flame of Gehenna examines the phenomena through interviewing the key figures of the moment. It gives a face to a subculture seen as a threat to common safety by Finnish Security Intelligence.  In this movie, one will find out about the thoughts of a grave violator, grave robber, and hear what they feel when an old wooden church is burning down. Eternal Flame of Gehenna is also a view on the history and the current state of Finnish black metal, featuring bands like Azaghal, Azazel, Barathrum, Beherit, Enochian Crescent, Goatmoon, Horna, Satanic Warmaster etc.",
+      "releaseInfo": "2011",
+      "runtime": "50 min",
+      "genres": [
+        "Documentary",
+        "Music",
+        "Metal"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/hfTXUywejbpZFyWBZVZ3s5wJVxD.jpg",
+      "imdbRating": "5.8"
+    },
+    {
+      "id": "tt7422238",
+      "type": "movie",
+      "name": "Classic Albums: Rush - 2112 & Moving Pictures",
+      "poster": "https://image.tmdb.org/t/p/w780/3lHI8Ko59dXoKabttbD2XwDvwuD.jpg",
+      "posterShape": "poster",
+      "description": "2112 was the album that saw Rush break through to major chart success, going to No.1 in their native Canada and Top 75 in the USA where it would eventually be certified triple platinum. Moving Pictures opened them to a mass audience for the first time and remains the biggest selling album of their career. It also went to No.1 in Canada and went quadruple platinum there while hitting No.3 in both the UK and USA. Rush members Geddy Lee, Alex Lifeson and Neil Peart talk us through the making of the albums, together with original producer Terry Brown via interviews, demonstrations, archive videos and use of the original multi-track tapes.",
+      "releaseInfo": "2010",
+      "runtime": "112 min",
+      "genres": [
+        "Documentary",
+        "Music",
+        "Metal"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/xvGHszqZVKtNiKRr7W06RDt7JDH.jpg",
+      "imdbRating": "5.6"
+    },
+    {
+      "id": "tt1674713",
+      "type": "movie",
+      "name": "Marimbas from Hell",
+      "poster": "https://image.tmdb.org/t/p/w780/5FRuDuwJoiQ4VwTA5Tubvg1LvtZ.jpg",
+      "posterShape": "poster",
+      "description": "Don Alfonso plays marimbas, the traditional Guatemalan instrument. Facing extortion and without work due to the population's lack of interest for his instrument, he seeks refuge with his godson Chiquilín. Blacko is a pioneer of the Heavy Metal Guatemalan underground stage. He is also a doctor in the public hospital but nobody wants to be treated by him because of his long hair and his tattoos. Chiquilín makes connections for Don Alfonso and Blacko to combine their talents and create a brand new band called Marimbas from Hell.",
+      "releaseInfo": "2010",
+      "runtime": "74 min",
+      "genres": [
+        "Documentary",
+        "Music",
+        "Metal"
+      ],
+      "imdbRating": "5.5"
+    },
+    {
+      "id": "tt0371334",
+      "type": "movie",
+      "name": "Traces of Death V: Back in Action!",
+      "poster": "https://image.tmdb.org/t/p/w780/c87gHvyG1L6Mn7oPf5Abi6rxFXL.jpg",
+      "posterShape": "poster",
+      "description": "The fifth installment of the self-proclaimed \"first true shockumentary\" series, dealing mostly with backyard wrestling and occasional instances of graphic violence and sexual assault.",
+      "releaseInfo": "2000",
+      "runtime": "49 min",
+      "genres": [
+        "Documentary",
+        "Music",
+        "Metal"
+      ],
+      "imdbRating": "5.4"
+    },
+    {
+      "id": "tt1801805",
+      "type": "movie",
+      "name": "Black Metal Satanica",
+      "poster": "https://image.tmdb.org/t/p/w780/2fcc16BkQqaSNS4ML8mOU6ckvrZ.jpg",
+      "posterShape": "poster",
+      "description": "BLACK METAL SATANICA is an in-depth documentary capturing the dark, mystical and evil history of the Black Metal genre. Based on Scandinavian Viking lore, Black Metal borrows from ancient Viking melodies, lyrics and mythology dating back to the 11th century.",
+      "releaseInfo": "2008",
+      "runtime": "80 min",
+      "genres": [
+        "Documentary",
+        "Music",
+        "Metal"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/rOynO3nmtz3iV3tL4JbuDVPPLMU.jpg",
+      "imdbRating": "5.5"
+    },
+    {
+      "id": "tt1365016",
+      "type": "movie",
+      "name": "Black Metal: A Documentary",
+      "poster": "https://image.tmdb.org/t/p/w780/kBbNJcnoEybmkvf7q5tcjYPf8od.jpg",
+      "posterShape": "poster",
+      "description": "A low-budget low-fi documentary about the black metal.",
+      "releaseInfo": "2007",
+      "runtime": "91 min",
+      "genres": [
+        "Documentary",
+        "Music",
+        "Metal"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/e9IDFncT9r2mYAnSEVQVCMulqmH.jpg",
+      "imdbRating": "5.4"
+    },
+    {
+      "id": "tt3666982",
+      "type": "movie",
+      "name": "Devil Worship: The Rise of Satanism",
+      "poster": "https://image.tmdb.org/t/p/w780/dSJJnGdgPkKvA5p2KHr1b8TOwSz.jpg",
+      "posterShape": "poster",
+      "description": "An epidemic of ritual abuse of children from infants to teenagers is sweeping through the country. According to recent TV and radio broadcasts 2 million children a year are reported missing, many too young to be runaways and 5 thousand unidentifiable bodies of children are found each year in the US alone. \"Devil Worship: The Rise of Satanism\" takes you behind the scenes into actual black witchcraft and satanic rituals. Former Satanists, practicing witches and law enforcement experts explain the vastness and diversity of the movement. Experts tell why people join and how Satanists recruit their members as well as their victims. Parents are given clues to determine if their children are involved. Most importantly, dangerous doorways into the occult are exposed.",
+      "releaseInfo": "1989",
+      "runtime": "64 min",
+      "genres": [
+        "Documentary",
+        "Music",
+        "Metal"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/lLnPMRWcXxwVM6KIZSFddeQbHqA.jpg",
+      "imdbRating": "5.2"
+    },
+    {
+      "id": "tt10393022",
+      "type": "movie",
+      "name": "AC/DC: Dirty Deeds",
+      "poster": "https://image.tmdb.org/t/p/w780/1t9WlyNlSnUQIasmb7oF977YkWY.jpg",
+      "posterShape": "poster",
+      "description": "Formed in Australia in 1973 by brothers Angus and Malcolm Young, AC/DC are considered pioneers of heavy metal. They are one of the highest grossing bands of all time. Using archive footage and interviews with Angus Young and former manager Michael Browning this fascinating programme takes you on a journey from their early days in Australia with Bon Scott to Brian Johnson joining the band and beyond.",
+      "releaseInfo": "2012",
+      "runtime": "65 min",
+      "genres": [
+        "Documentary",
+        "Music",
+        "Metal"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/kH9jedhhU2dFiZiOejGMoXL8al8.jpg",
+      "imdbRating": "5.2"
+    },
+    {
+      "id": "tt0223441",
+      "type": "movie",
+      "name": "Deep Purple: Heavy Metal Pioneers",
+      "poster": "https://image.tmdb.org/t/p/w780/fmd1dLcegfydLa5OHQKRdlkVxro.jpg",
+      "posterShape": "poster",
+      "description": "Witness the history of the legendary band, their friends, and their fans in an hour long program of live archival performances, in-depth interviews and behind the scenes footage.",
+      "releaseInfo": "1991",
+      "runtime": "58 min",
+      "genres": [
+        "Documentary",
+        "Music",
+        "Metal"
+      ],
+      "imdbRating": "5.2"
+    },
+    {
+      "id": "tt2920704",
+      "type": "movie",
+      "name": "Desagradável",
+      "poster": "https://image.tmdb.org/t/p/w780/7v9DgYFFWBuGFzWijO3l4z6ire9.jpg",
+      "posterShape": "poster",
+      "description": "Some people seem to have come into the world to confuse, annoy, swim against the current, like the guys from Gangrena Gasosa, the first and only Sarava Metal band of the universe. \"Desagradável\" covers all the 23 years of the band. A special reunion of people that stirred the underground scene of 90's until today. All the legends detailed in a film that will show the most shameful chapters in history of Brazilian Rock. Jello Biafra, Jão and João Gordo, BNegão, Marcelo D2, Anjo Caldas, Dado Villa-Lobos, Rafael Ramos, Fabio from Garage, Marcos Bragatto, Tom Leão, Pedro Só, Adilson Pereira, Larry Antha and the former members (more than 15!) recalls the regrettable moments that Sarava Metal happened in their lives. Archive images, photos and videos to prove, once for all, that \"Home Saint makes miracles too\".",
+      "releaseInfo": "2013",
+      "runtime": "120 min",
+      "genres": [
+        "Documentary",
+        "Music",
+        "Metal"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/yfI0bAxWoXRoN2qQQXbzClRiNYF.jpg",
+      "imdbRating": "5.0"
+    },
+    {
+      "id": "tt3979212",
+      "type": "movie",
+      "name": "Pure Fucking Mayhem",
+      "poster": "https://image.tmdb.org/t/p/w780/qlT8Vf2aTK9bcIts6Ldk9R77fhA.jpg",
+      "posterShape": "poster",
+      "description": "Mayhem is the most notorious group in the annals of black metal. Their nearly 25 years of band history are characterized not only by uncompromising and brutal music, but also by suicide, murder, arson, and many other scandals. Revered by their fans, Mayhem are feared and loathed by the mainstream public. 'Pure Fucking Mayhem' is a 90+ minute DVD documentary featuring exclusive interviews with current and former members of Mayhem. This documentary attains a maximum of authenticity with its rich, often unreleased footage.",
+      "releaseInfo": "2008",
+      "runtime": "80 min",
+      "genres": [
+        "Documentary",
+        "Music",
+        "Metal"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/ndFxEBZR9eZUFIYokaaJJsMFQcU.jpg",
+      "imdbRating": "5.0"
+    },
+    {
+      "id": "tt0105241",
+      "type": "movie",
+      "name": "The Restless Garden",
+      "poster": "https://image.tmdb.org/t/p/w780/m9D3P7HoMHo3gCvwCb9tgt2O9hp.jpg",
+      "posterShape": "poster",
+      "description": "Summer 1991. The last days of the Soviet Empire. Dark clouds gathered over Moscow as the Soviet government prepared to turn back the clock of history. While the world focused on the crashing Soviet Empire, this film focuses on the people who would've been among the first to suffer repression - the women and men who have broken sexual taboos in a consummate act of liberation against a rigid, crippled world. This is a view from their vantage point, unveiling the shadow-side of Soviet culture in the wake of the revolution, where the real provocative nudity is the nakedness of the soul.",
+      "releaseInfo": "1993",
+      "runtime": "86 min",
+      "genres": [
+        "Documentary",
+        "Music",
+        "Metal"
+      ],
+      "imdbRating": "4.7"
+    },
+    {
+      "id": "tt0163871",
+      "type": "movie",
+      "name": "Thunder and Mud",
+      "poster": "https://image.tmdb.org/t/p/w780/mvLOTJXhR7teyDMene1XzvQBHLA.jpg",
+      "posterShape": "poster",
+      "description": "An entertaining combination of heavy-metal rockers and female mud wrestlers hosted by Jessica Hahn.",
+      "releaseInfo": "1990",
+      "runtime": "88 min",
+      "genres": [
+        "Documentary",
+        "Music",
+        "Metal"
+      ],
+      "imdbRating": "4.3"
+    },
+    {
+      "id": "tt4903536",
+      "type": "movie",
+      "name": "Law Enforcement Guide to Satanic Cults",
+      "poster": "https://image.tmdb.org/t/p/w780/oivpy0fFl3Ud73S1r8OvzlUidqz.jpg",
+      "posterShape": "poster",
+      "description": "A rare clip from 1994 warning of the dangers that lurk in America: homosexuals and Satanists.",
+      "releaseInfo": "1994",
+      "runtime": "74 min",
+      "genres": [
+        "Documentary",
+        "Music",
+        "Metal"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/17iNidw9AIHcGBTHkHUFQ2EDcV1.jpg",
+      "imdbRating": "3.5"
+    },
+    {
+      "id": "tt3516440",
+      "type": "series",
+      "name": "MetalXS",
+      "poster": "https://image.tmdb.org/t/p/w780/pf01wB2WAyMGZYuOXcthv3OhjIG.jpg",
+      "posterShape": "poster",
+      "description": "",
+      "releaseInfo": "2012-2023",
+      "genres": [
+        "Documentary",
+        "Music",
+        "Metal"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/gn6vHydNFVg6tG2yXygDn4FA6ZE.jpg"
+    },
+    {
+      "id": "tt2793928",
+      "type": "movie",
+      "name": "Sodom: Lords of Depravity Part I",
+      "poster": "https://image.tmdb.org/t/p/w780/z4akduZ9ovMyJBELXGCd9DTIZj4.jpg",
+      "posterShape": "poster",
+      "description": "An extensive documentary of the band narrated by Tom Angelripper, featuring interviews to current and ex-members, rare pictures and video footage.",
+      "releaseInfo": "2005",
+      "runtime": "196 min",
+      "genres": [
+        "Documentary",
+        "Music",
+        "Metal"
+      ]
+    },
+    {
+      "id": "tt35396881",
+      "type": "movie",
+      "name": "Stabbed in the Face: The Rise and Fall of the World's Most Violent Band",
+      "poster": "https://image.tmdb.org/t/p/w780/Abn6lBGnopsQ7nh11Q8Q53JKtEk.jpg",
+      "posterShape": "poster",
+      "description": "An alternative documentary following the trail of blood and carnage of Philadelphia’s own Deathmatch Rock n’ Roll pioneers, Eat the Turnbuckle, from beer-soaked bars to the largest stage in the world of metal.",
+      "releaseInfo": "2025",
+      "runtime": "90 min",
+      "genres": [
+        "Documentary",
+        "Music",
+        "Metal"
+      ]
+    },
+    {
+      "id": "tt10016296",
+      "type": "movie",
+      "name": "The Devil Made Me Do It",
+      "poster": "https://image.tmdb.org/t/p/w780/sPSf0WgKHLw97bwgRsMoVMoKno3.jpg",
+      "posterShape": "poster",
+      "description": "Ian Leslie (The Aussie Geraldo Rivera) focuses on well known cases of Satanic killings in the United States and England. It gathers a group of victims, heavy metal singers, clergymen, experts and Satanic leaders for a lively studio debate.\r The Australian counterpart to Exposing Satan's Underground.",
+      "releaseInfo": "1990",
+      "runtime": "46 min",
+      "genres": [
+        "Documentary",
+        "Music",
+        "Metal"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/u5uvpsCUQyVt2EKIv4YFi3S70ir.jpg"
+    },
+    {
+      "id": "tt7534278",
+      "type": "movie",
+      "name": "Dieu, Diable & Rock'n'Roll",
+      "poster": "https://image.tmdb.org/t/p/w780/s4N4WrXhCiNFyJyiTv3l8kT17ak.jpg",
+      "posterShape": "poster",
+      "description": "\"We're more popular than Jesus.\" John Lennon's statement caused a scandal. Yet it is just another chapter in the tumultuous history between rock music and religion. A history that began with Elvis's sinful hip-shaking and continues today with the revival of Christian rock. A 60-year story that brings together deified singers, gurus, hippies, metalheads, punks, fundamentalist priests, and stars who died too young...",
+      "releaseInfo": "2017",
+      "genres": [
+        "Documentary",
+        "Music",
+        "Metal"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/3BMovHEyb41w1qbsxXF4hkfItd9.jpg"
+    },
+    {
+      "id": "tt20198940",
+      "type": "movie",
+      "name": "Black Sabbath: Master of Reality Documentary",
+      "poster": "https://image.tmdb.org/t/p/w780/elCPmmjrEvwHEqCETxphPluC3nU.jpg",
+      "posterShape": "poster",
+      "description": "The documentary follows Black Sabbath as they release their iconic album Paranoid through the recording and releasing of their album Master of Reality. Sharing many known and unknown facts about the band's lives in 1971 and 1972.",
+      "releaseInfo": "2022",
+      "runtime": "57 min",
+      "genres": [
+        "Documentary",
+        "Music",
+        "Metal"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/uGmCifNrKmAweWeLiE6vMKcGknO.jpg"
+    },
+    {
+      "id": "tt12845758",
+      "type": "movie",
+      "name": "Andre Matos: Maestro of Rock",
+      "poster": "https://image.tmdb.org/t/p/w780/fthRn3Avd3BitVt0OHoaxnOfbDn.jpg",
+      "posterShape": "poster",
+      "description": "\"Maestro do Rock\" started when Andre Matos himself authorized recording interviews where he would talk about his life and the different phases of his career. Directed by Anderson Bellini and produced and scripted by Thiago Rahal Mauro, the document had it starting point in a long interview where Andre Matos spoke for over 5 hours about all sort of different subjects. With his sudden passing in 2019, the family yielded this material as well as hundreds of other ones from his personal archives so that this film could be finalized.",
+      "releaseInfo": "2021",
+      "runtime": "100 min",
+      "genres": [
+        "Documentary",
+        "Music",
+        "Metal"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/2KZapONzvQmQkLuP4rYYdcuIRDQ.jpg"
+    },
+    {
+      "id": "tt9698866",
+      "type": "movie",
+      "name": "Satanism Unmasked: The Return Part 2",
+      "poster": "https://image.tmdb.org/t/p/w780/rsRNSMIrb6V6pnNeQoVyQjAcqMb.jpg",
+      "posterShape": "poster",
+      "description": "\"Satanism Unmasked: The Return,\" is a hard-hitting and factual look at why the crude elements of Satan worship have become so attractive to teenagers everywhere.  This video features an array of Fire by Nite comedy sketches, a gripping episode of \"Family First\" drama, and much more. Guests include Christian music artist Carman, with his latest music videos, and Bob Larson, popular and controversial radio  show host talking about his tour with Slayer. Also featured are  doctors, and policemen, who are experts in this field, as well as young people who are actually caught up in or have come out of Satanism. \"Satanism Unmasked: The Return,\" also includes an exclusive interview with Warlock Pinchers.  With well-researched information and a pertinent message of hope, this video gives those stung by the forces of evil a way out and provides solid answers for those who want to be a part of the solution to this national crisis.",
+      "releaseInfo": "1990",
+      "runtime": "59 min",
+      "genres": [
+        "Documentary",
+        "Music",
+        "Metal"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/bLNq8Lgjp0MJACTLHXhUiVGvhH0.jpg"
+    },
+    {
+      "id": "tt2281410",
+      "type": "movie",
+      "name": "Assorted Atrocities: The Exodus Documentary",
+      "poster": "https://image.tmdb.org/t/p/w780/bDaCQexoBNWvTTHrluDKCYzN9BO.jpg",
+      "posterShape": "poster",
+      "description": "Explore the history of EXODUS and get a behind the scenes look into life on the road in the documentary.",
+      "releaseInfo": "2010",
+      "runtime": "107 min",
+      "genres": [
+        "Documentary",
+        "Music",
+        "Metal"
+      ]
+    },
+    {
+      "id": "tt4849972",
+      "type": "movie",
+      "name": "The Gorevision's System",
+      "poster": "https://image.tmdb.org/t/p/w780/tvbdOStxYNsvTfeHc3RHN93fPz7.jpg",
+      "posterShape": "poster",
+      "description": "Brash, disrespectful, impudence, violent and urgent entertainment called Gore. Gorevision explained and exhibited.",
+      "releaseInfo": "2015",
+      "runtime": "84 min",
+      "genres": [
+        "Documentary",
+        "Music",
+        "Metal"
+      ]
+    },
+    {
+      "id": "tt36629093",
+      "type": "movie",
+      "name": "Black Sabbath: Vol. 4 Documentary",
+      "poster": "https://image.tmdb.org/t/p/w780/wBlHLN00ielp2rJ1mWuE8NoEUBQ.jpg",
+      "posterShape": "poster",
+      "description": "A deep-dive into the creation, chaos, and cultural impact of Black Sabbath’s 1972 masterpiece, Vol. 4 — the album that redefined heavy metal while nearly destroying the band in the process.",
+      "releaseInfo": "2025",
+      "runtime": "75 min",
+      "genres": [
+        "Documentary",
+        "Music",
+        "Metal"
+      ]
+    },
+    {
+      "id": "tt9698604",
+      "type": "movie",
+      "name": "Satanism Unmasked Part 2",
+      "poster": "https://image.tmdb.org/t/p/w780/amL9dlr49vjhiNoaZReJJlwI7Px.jpg",
+      "posterShape": "poster",
+      "description": "\"Satanism Unmasked\" investigates the supernatural influence Satanism, witchcraft, and Dungeons & Dragons.",
+      "releaseInfo": "1988",
+      "runtime": "58 min",
+      "genres": [
+        "Documentary",
+        "Music",
+        "Metal"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/ke5KnJnmzFHOz9ZyyePkwNHlcSc.jpg"
+    },
+    {
+      "id": "tt12497102",
+      "type": "movie",
+      "name": "Hypnotizing Power: The Story of Master of Puppets",
+      "poster": "https://image.tmdb.org/t/p/w780/chBRT5gj36vGtMRozOQLGLsk00i.jpg",
+      "posterShape": "poster",
+      "description": "Feature documentary chronicling the making of Metallica's third studio album 'Master of Puppets'.  Comprised from a wealth of archive interviews, studio and demo recordings, live performances and stock footage, the documentary is told exclusively in the words of the band members and those that helped make the album.",
+      "releaseInfo": "2020",
+      "runtime": "49 min",
+      "genres": [
+        "Documentary",
+        "Music",
+        "Metal"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/zzJVyQ86dKpfHXdsrPUrIn7q5gA.jpg"
+    },
+    {
+      "id": "tt28814660",
+      "type": "movie",
+      "name": "Andre Matos - Maestro do Rock - Episódio II",
+      "poster": "https://image.tmdb.org/t/p/w780/jtZqtGJMqcoSjLOkzCviIRNM9Lf.jpg",
+      "posterShape": "poster",
+      "description": "The documentary shows the Maestro's entry into the Santa Marcelina Music College, where he met the friends with whom he would form Angra, and questions asked more than 20 years ago that had never been commented on will be answered. These are relevant statements by Andre himself, Kiko Loureiro and Rafael Bittencourt, who talk about the misunderstanding between them and the consequent departure of the singer from the band. Drummer Marco Antunes, who is speaking publicly about Angra for the first time, tells how things started to fall apart right at the beginning of the band.",
+      "releaseInfo": "2023",
+      "genres": [
+        "Documentary",
+        "Music",
+        "Metal"
+      ]
+    },
+    {
+      "id": "tt10623534",
+      "type": "movie",
+      "name": "Sodom: Lords of Depravity Part II",
+      "poster": "https://image.tmdb.org/t/p/w780/lMiIOo9M0zAOcRN1P70wW2T9RR5.jpg",
+      "posterShape": "poster",
+      "description": "Tom Angelripper narrates the struggles of the band in the mid-Nineties, his many side projects, and yet another drastic line-up overhaul.",
+      "releaseInfo": "2010",
+      "runtime": "234 min",
+      "genres": [
+        "Documentary",
+        "Music",
+        "Metal"
+      ]
+    },
+    {
+      "id": "tt9871442",
+      "type": "movie",
+      "name": "The Edge of Evil: The Rise of Satanism in North America",
+      "poster": "https://image.tmdb.org/t/p/w780/jKgXbS5lgTisVaMXWCWYli114Sh.jpg",
+      "posterShape": "poster",
+      "description": "Whether Satan exists is a matter of belief. But we are certain Satanism exists. To some it's a religion. To others it's the practice of evil in the devil's name. It exists and it's flourishing.",
+      "releaseInfo": "1989",
+      "runtime": "70 min",
+      "genres": [
+        "Documentary",
+        "Music",
+        "Metal"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/rZzXOLPsQsbQ6508tv7QBhdhmtO.jpg"
+    },
+    {
+      "id": "tt10096300",
+      "type": "movie",
+      "name": "Der Konzertdealer",
+      "poster": "https://image.tmdb.org/t/p/w780/7CeBV7lFK9hg0W3fEXxa9e8UAN2.jpg",
+      "posterShape": "poster",
+      "description": "Kraftwerk, Björk, Rammstein or Robbie Williams on tour are not just concerts, but pop operas, the most spectacular stage events of our time. Tens of thousands make the pilgrimage to stadiums and halls to be there. But nobody knows the man in the background. Scumeck Sabottka has been a concert promoter for over 30 years. Constantly traveling, constantly negotiating, always on the lookout for the next big thing. An ex-punk from the Ruhr area who started out as a bus driver for Einstürzende Neubauten, worked his way up, came close to bankruptcy twice and then struck a deal with legendary promoters Fritz Rau and Marcel Avram.",
+      "releaseInfo": "2017",
+      "genres": [
+        "Documentary",
+        "Music",
+        "Metal"
+      ]
+    },
+    {
+      "id": "tt2115396",
+      "type": "movie",
+      "name": "Tension: 25 Years Underground",
+      "poster": "https://image.tmdb.org/t/p/w780/xwDOmuFMRa0BR5xROFPFziFESHs.jpg",
+      "posterShape": "poster",
+      "description": "Tension: 25 Years Underground chronicles the band's rise in popularity and how, even through several line-up changes, they stuck to their guns and refused to bow to the demands of record companies. The film leaves you wondering what would have happened to Tension if they had 'sold out' and made it big, and indeed the common notion of success itself. Marty Friedman and Tommy Gattis cut their teeth in this band, and the film opens a time capsule to reveal vintage video footage and unbridled interviews on subjects like how the PMRC helped and hindered 80s heavy metal music, and how 'hair bands' of the time commercialized the public perception of the genre.",
+      "releaseInfo": "2012",
+      "runtime": "98 min",
+      "genres": [
+        "Documentary",
+        "Music",
+        "Metal"
+      ]
+    },
+    {
+      "id": "tt2542830",
+      "type": "series",
+      "name": "Heavy Metal Task Force",
+      "poster": "https://image.tmdb.org/t/p/w780/txdDxKIMewbdBpNLzIA3ACh2KeY.jpg",
+      "posterShape": "poster",
+      "description": "Awesome machines commandeered by specialist crews tackle engineering challenges.",
+      "releaseInfo": "2009-2012",
+      "genres": [
+        "Documentary",
+        "Music",
+        "Metal"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/dU5FbqxSQShJ01UPn8GcHZlIXHR.jpg"
+    },
+    {
+      "id": "tt8865086",
+      "type": "movie",
+      "name": "Songs of Injustice: Heavy Metal Music in Latin America",
+      "poster": "https://image.tmdb.org/t/p/w780/9V5XONZQSLAlMA4sNk3sYDOUwNo.jpg",
+      "posterShape": "poster",
+      "description": "In this documentary film a team of researchers examine the social contexts that influenced the emergence and permanence of heavy metal music in Chile, Argentina, Mexico and Peru. Colonialism, dictatorships, terrorism and neoliberal exploitation serve as points of reference for how heavy metal in the region has been directly linked to each country's social and political context.",
+      "releaseInfo": "2018",
+      "runtime": "96 min",
+      "genres": [
+        "Documentary",
+        "Music",
+        "Metal"
+      ]
+    },
+    {
+      "id": "tt12328088",
+      "type": "movie",
+      "name": "Adam the Apostate",
+      "poster": "https://image.tmdb.org/t/p/w780/yPsWMGj3ux42d2ZaAsjgCZ4roqC.jpg",
+      "posterShape": "poster",
+      "description": "In the realm of contemporary music, Adam “Nergal” Darski surely needs no further introduction. Yet the guitarist and singer has even made inroads into general pop culture and shaped social discourse, all the while not moving away an iota from the underground ethos his ongoing career is based on.  Rising from his humble beginnings in Cold-war Poland to global fame with his band Behemoth, striving for musical excellence throughout the ignominies of life-threatening illness and dubious legal battles, staying deeply spiritual and focused during even the most casual appearances in mundane limelight, it is safe to say the 1977-born has many faces, the sum of which defies categorization. Satanist or dexterous money spinner? Academically certified historian or shallow media figure? Inspired and inspiring spokesperson of a generation or mere agent provocateur? Make your guesses...",
+      "releaseInfo": "2020",
+      "runtime": "59 min",
+      "genres": [
+        "Documentary",
+        "Music",
+        "Metal"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/iXdPRNlylJRfcpv4rA5VGAppZoo.jpg"
+    },
+    {
+      "id": "tt7871148",
+      "type": "movie",
+      "name": "Pamurba Yatmaka Cakra Bhirawa",
+      "poster": "https://image.tmdb.org/t/p/w780/iqF2k316PFqB8bBKv43sfj8BcZS.jpg",
+      "posterShape": "poster",
+      "description": "",
+      "releaseInfo": "2015",
+      "genres": [
+        "Documentary",
+        "Music",
+        "Metal"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/86ZbakTN54gYTvzJn8eNA0UI8Nf.jpg"
+    },
+    {
+      "id": "tt2455302",
+      "type": "movie",
+      "name": "I Goth My World",
+      "poster": "https://image.tmdb.org/t/p/w780/jjcbI2sia7Yp2nqcG7vAWs8MBdh.jpg",
+      "posterShape": "poster",
+      "description": "Born from the ashes of punk, the goth tribe has been evolving rapidly for 30 years. This subculture, initially niche, has grown into a social phenomenon that is flourishing around the world. In Europe, the community includes tens of thousands of people. Marilyn Manson fills concert halls, Jean-Paul Gaultier draws inspiration from gothic aesthetics for his collections, Tim Burton incorporates the movement's codes into his films... Yet the goth community remains relatively unknown. Media coverage of the phenomenon has often been content to perpetuate clichés, without revealing its richness. For over a year, the directors of this documentary traveled to Paris, Strasbourg, and across the Rhine to meet with goths. Over the past decade, Germany has become the center of gravity for this movement.",
+      "releaseInfo": "2012",
+      "genres": [
+        "Documentary",
+        "Music",
+        "Metal"
+      ]
+    },
+    {
+      "id": "tt2301316",
+      "type": "movie",
+      "name": "By Satan Possessed: The Search for the Devil",
+      "poster": "https://image.tmdb.org/t/p/w780/6gtcD0wOnQ2YNshBXIWOl8bTtoL.jpg",
+      "posterShape": "poster",
+      "description": "America Undercover looks at the phenomenon of Satanism in the World. It talks to practitioners of Satan worship and interviews those who claim that they have been victimized by it. It also talks to some of the people who want to stamp Satanism out for good. Same doc as 'In Satan’s Name', but with American narration.",
+      "releaseInfo": "1993",
+      "runtime": "67 min",
+      "genres": [
+        "Documentary",
+        "Music",
+        "Metal"
+      ]
+    },
+    {
+      "id": "tt7716806",
+      "type": "movie",
+      "name": "Death Angel - A Thrashumentary",
+      "poster": "https://image.tmdb.org/t/p/w780/ysSGmVkjla8fOZUc584M5y2ozgB.jpg",
+      "posterShape": "poster",
+      "description": "Documentary on legendary San Francisco Bay Area Thrash Metal band Death Angel.",
+      "releaseInfo": "2015",
+      "runtime": "165 min",
+      "genres": [
+        "Documentary",
+        "Music",
+        "Metal"
+      ]
+    },
+    {
+      "id": "tt3161852",
+      "type": "movie",
+      "name": "Metal Down Under",
+      "poster": "https://image.tmdb.org/t/p/w780/niDV7JnMGEO8wMkZHpHkhhpfiiW.jpg",
+      "posterShape": "poster",
+      "description": "Since the late 1970's a thriving underground scene of extreme music has continued to evolve in Australia. Metal Down Under takes a look at the bands, people and events that have shaped this unique slice of Australian history.  More than just the music, we meet the characters that make metal in Australia what it is today. From promoters, radio hosts and magazine editors, to band members and extreme fans, Metal Down Under introduces you to a world you either didn't want to know existed, or have been a part of all your life.  Featuring over 40 exclusive interviews as well as rare archive footage and photographs from Metal for the Brain, Metal for Melbourne, The Big Day Out, SBS, music videos, live concerts and much more.",
+      "releaseInfo": "2014",
+      "runtime": "165 min",
+      "genres": [
+        "Documentary",
+        "Music",
+        "Metal"
+      ]
+    },
+    {
+      "id": "tt5262602",
+      "type": "movie",
+      "name": "Motörhead: The Guts and the Glory - The Motörhead Story",
+      "poster": "https://image.tmdb.org/t/p/w780/zBdekyuADed9vHqPrdadfcPs5QL.jpg",
+      "posterShape": "poster",
+      "description": "Interviews with Lemmy, Phil Campbell, Mikkey Dee, Eddie Clarke and Phil Taylor. Released with the 30th Anniversary edition of INFERNO.",
+      "releaseInfo": "2005",
+      "runtime": "64 min",
+      "genres": [
+        "Documentary",
+        "Music",
+        "Metal"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/bVun7OciiHar96gjPg7hY21K8Ey.jpg"
+    },
+    {
+      "id": "tt2865452",
+      "type": "movie",
+      "name": "Escuros, Roncos e Compasados",
+      "poster": "https://image.tmdb.org/t/p/w780/4lgsj3h2R2MVgeNq7emDsT9MqVA.jpg",
+      "posterShape": "poster",
+      "description": "Absorbed, Unnatural, Dismal, Deface, SOK, Wisdom, Detestor ... Names linked to a very specific movement such as Death Metal and to a time and place as the Galicia from the 1990s. In this documentary, through interviews with members of that movement, from band members to producers or fanzine writers, we try to pay homage to an underground movement as Galician Death Metal along the 90s, deepening its history and its stories.",
+      "releaseInfo": "2012",
+      "runtime": "126 min",
+      "genres": [
+        "Documentary",
+        "Music",
+        "Metal"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/yrspv9ewzokwcuDpK7RgNLmfxDx.jpg"
+    }
+  ]
+}
