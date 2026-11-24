@@ -4,7 +4,7 @@
     { "imdb_id": "tt1978940", "category": "genre-era-docs", "note": "Metal Evolution (series)" },
     { "imdb_id": "tt0478209", "category": "genre-era-docs", "note": "Metal: A Headbanger's Journey" },
     { "imdb_id": "tt0082252", "category": "genre-era-docs", "note": "The Decline of Western Civilization" },
-    { "imdb_id": "tt0077838", "category": "rock-docs", "note": "The Last Waltz" }
+    { "imdb_id": "tt0077838", "category": "classic-rock-docs", "note": "The Last Waltz" }
   ],
   "pin_category": {},
   "blacklist": []
