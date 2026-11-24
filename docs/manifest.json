@@ -1,8 +1,8 @@
 {
   "id": "org.nuvio.rockmetalpunkdocs",
-  "version": "3.1.0",
+  "version": "3.2.0",
   "name": "Rock, Metal & Punk Documentaries",
-  "description": "Live auto-updating catalog of official, playable English rock, metal, punk, grunge, goth, and new wave documentaries & docuseries.",
+  "description": "Live auto-updating catalog of official English rock, metal, punk, grunge, goth, and new wave documentaries & docuseries.",
   "resources": [
     "catalog"
   ],

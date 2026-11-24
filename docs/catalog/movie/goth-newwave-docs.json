@@ -16,6 +16,243 @@
       "background": "https://image.tmdb.org/t/p/w1280/fI5A46pFe7di6SiqNvzBcraAO4X.jpg"
     },
     {
+      "id": "tt43492793",
+      "type": "movie",
+      "name": "Wham! 10 Days in China",
+      "poster": "https://image.tmdb.org/t/p/w780/l0ButzlJ2amtW8WpPPMI8Jrs5Z0.jpg",
+      "posterShape": "poster",
+      "description": "In 1985, WHAM! made history as the first Western pop act to perform in communist China. George Michael and Andrew Ridgeley’s concerts in Beijing and Guangzhou were a cultural milestone – East meets West, music meets politics. Now, newly restored footage reveals the untold story of the iconic tour that helped launch WHAM! to global superstardom.",
+      "releaseInfo": "2026",
+      "runtime": "90 min",
+      "genres": [
+        "Documentary",
+        "Music",
+        "Goth, New Wave & Industrial"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/dWcJ8hOC7jc9wIIljjT1U0Tb2.jpg",
+      "imdbRating": "7.0"
+    },
+    {
+      "id": "tt21870816",
+      "type": "movie",
+      "name": "Billy Idol Should Be Dead",
+      "poster": "https://image.tmdb.org/t/p/w780/oWFfPpVkNhhUSvfH69uR1iPyPAk.jpg",
+      "posterShape": "poster",
+      "description": "Punk legend turned pop sensation Billy Idol bares it all in this electrifying documentary, revealing his rise to fame, battle with addiction and triumphant comeback that captivated millions of fans worldwide.",
+      "releaseInfo": "2026",
+      "runtime": "118 min",
+      "genres": [
+        "Documentary",
+        "Music",
+        "Goth, New Wave & Industrial"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/yDwaf1LUyJnZf48XMfm0gJWhqb.jpg",
+      "imdbRating": "6.9"
+    },
+    {
+      "id": "tt36591348",
+      "type": "movie",
+      "name": "Boy George & Culture Club",
+      "poster": "https://image.tmdb.org/t/p/w780/dH32lHEdcEeKfperjPbx8U7SqyL.jpg",
+      "posterShape": "poster",
+      "description": "Set against the backdrop of 1980s Britain, four young men – Boy George, Roy Hay, Mikey Craig, and Jon Moss – formed a multi-racial, ethnically diverse, and sexually liberated band with a style and sound that challenged the status quo during the era of New Romantics and Margaret Thatcher’s Britain.",
+      "releaseInfo": "2026",
+      "runtime": "96 min",
+      "genres": [
+        "Documentary",
+        "Music",
+        "Goth, New Wave & Industrial"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/gm6bt0ag8Yzm0X0HY0qMhNcxcSN.jpg"
+    },
+    {
+      "id": "tt39287535",
+      "type": "movie",
+      "name": "Nick Cave's Veiled World",
+      "poster": "https://image.tmdb.org/t/p/w780/npekCJs8Kz9rNRP8cdIAf1lHAJB.jpg",
+      "posterShape": "poster",
+      "description": "An intimate, illuminating and emotionally powerful exploration of Nick Cave’s creative process and enduring influence, told through the eyes of his closest collaborators, friends and the visionaries he’s inspired.",
+      "releaseInfo": "2025",
+      "runtime": "70 min",
+      "genres": [
+        "Documentary",
+        "Music",
+        "Goth, New Wave & Industrial"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/iWARuP9QojiXB718bzFHe3rw6m9.jpg",
+      "imdbRating": "7.3"
+    },
+    {
+      "id": "tt27210519",
+      "type": "movie",
+      "name": "DEVO",
+      "poster": "https://image.tmdb.org/t/p/w780/6aO7f1J5kr8SlSqHnHpYawzHPAS.jpg",
+      "posterShape": "poster",
+      "description": "Originally formed amidst the chaos of the 1970 Kent State anti-Vietnam War protest killings, the not quite new wave band Devo scored a hit with \"Whip It\" and gained mainstream success with their message of societal \"de-evolution.\"",
+      "releaseInfo": "2025",
+      "runtime": "94 min",
+      "genres": [
+        "Documentary",
+        "Music",
+        "Goth, New Wave & Industrial"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/ybVOOiP68Hd5727YzIQh3IX98Ku.jpg",
+      "imdbRating": "7.7"
+    },
+    {
+      "id": "tt19854690",
+      "type": "movie",
+      "name": "Eno",
+      "poster": "https://image.tmdb.org/t/p/w780/6ruB0J7iPWu5LIrxhcqNieu1yE5.jpg",
+      "posterShape": "poster",
+      "description": "Visionary musician and artist Brian Eno — known for producing David Bowie, U2, Talking Heads, among many others; pioneering the genre of ambient music; and releasing over 40 solo and collaboration albums — reveals his creative processes in this groundbreaking generative documentary: a film that’s different every time it’s shown.",
+      "releaseInfo": "2024",
+      "runtime": "80 min",
+      "genres": [
+        "Documentary",
+        "Music",
+        "Goth, New Wave & Industrial"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/m4pqkSSlCR9gAnq848DHxXXOuTK.jpg",
+      "imdbRating": "7.0"
+    },
+    {
+      "id": "tt32576082",
+      "type": "movie",
+      "name": "Rory Gallagher: Calling Card",
+      "poster": "https://image.tmdb.org/t/p/w780/6gpxmh294SqMRrmAnYdpUeu0vel.jpg",
+      "posterShape": "poster",
+      "description": "Rory Gallagher was the original Irish guitar hero, whose artistry with a battered ’61 Stratocaster became the stuff of legend. Bob Dylan and Muddy Waters admired him, the Rolling Stones tried to hire him – and his fans worshipped him. Clad in faded denim and a checked shirt, he sold 30 million records and became a charismatic icon of Irish music, inspiring musicians such as Brian May, The Edge, Slash and Johnny Marr.  But away from the stage, Rory was an intensely private man. His closest confidante was his brother Dónal who accompanied Rory on his rise from their childhood Everly Brothers stage performances and the Showband scene across the North and South of the Irish border through to the deafening heart of the ‘70s rock scene in London – and far beyond. Now, Dónal, along with insights from Rory’s friends and admirers, takes us on a musical journey through the life and career of this shy guitar hero to better understand what made him so great.",
+      "releaseInfo": "2024",
+      "runtime": "50 min",
+      "genres": [
+        "Documentary",
+        "Music",
+        "Goth, New Wave & Industrial"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/1WDbDDR4pLE2jzuJ54v8UTBZFdq.jpg",
+      "imdbRating": "8.5"
+    },
+    {
+      "id": "tt30102962",
+      "type": "movie",
+      "name": "Simple Minds: Everything Is Possible",
+      "poster": "https://image.tmdb.org/t/p/w780/rzUIUu6HI557Nfk36iZfCigQ1Rb.jpg",
+      "posterShape": "poster",
+      "description": "Best known for their megahit ’80s anthem \"Don't You (Forget About Me)”—made famous in John Hughes’ The Breakfast Club—Simple Minds is one of the most iconic and influential Scottish bands in history. From working-class kids growing up in post-industrial Glasgow to rock stars playing Live Aid, this is the unlikely story of an extraordinary band that continues touring to this day.",
+      "releaseInfo": "2023",
+      "runtime": "88 min",
+      "genres": [
+        "Documentary",
+        "Music",
+        "Goth, New Wave & Industrial"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/nuYKrbujXrZRtA6xLBUZXfEZYIL.jpg",
+      "imdbRating": "8.3"
+    },
+    {
+      "id": "tt30057573",
+      "type": "movie",
+      "name": "When Blondie Came to Britain",
+      "poster": "https://image.tmdb.org/t/p/w780/e1t7i1bb02tzpYqsl4j4PQSOquZ.jpg",
+      "posterShape": "poster",
+      "description": "The story of Britain’s long relationship with Blondie - the part it played in helping the band to international success and the impact the band had on British fans and musicians.",
+      "releaseInfo": "2023",
+      "runtime": "59 min",
+      "genres": [
+        "Documentary",
+        "Music",
+        "Goth, New Wave & Industrial"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/13s7PH6Ob8ya4Tr2yIDHpJ8hFgh.jpg",
+      "imdbRating": "7.0"
+    },
+    {
+      "id": "tt19799714",
+      "type": "movie",
+      "name": "AngelHeaded Hipster: The Songs of Marc Bolan & T. Rex",
+      "poster": "https://image.tmdb.org/t/p/w780/b83cGY6Dpj6kRTySzNTAAez3plD.jpg",
+      "posterShape": "poster",
+      "description": "The complex and revolutionary music and lyrics of Marc Bolan and T. Rex, the glam rock powerhouse behind “Bang a Gong (Get it On)” and other iconic songs. Featuring archival performances and interviews with Elton John, Ringo Starr, and David Bowie, plus filmed musical interpretations by artists such as Nick Cave, John Cameron Mitchell, Joan Jett, Macy Gray, U2, and Father John Misty.",
+      "releaseInfo": "2023",
+      "runtime": "99 min",
+      "genres": [
+        "Documentary",
+        "Music",
+        "Goth, New Wave & Industrial"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/dbq4LYd8ljqOzEaTPfsN0Mi4oT7.jpg",
+      "imdbRating": "7.6"
+    },
+    {
+      "id": "tt23787252",
+      "type": "movie",
+      "name": "Gary Numan: Resurrection",
+      "poster": "https://image.tmdb.org/t/p/w780/ragPjRoAwQ5xvU5w6bgMDaFdXK1.jpg",
+      "posterShape": "poster",
+      "description": "40 years after he last played the Wembley Arena, Gary Numan staged the comeback of a lifetime. Follow Numan on his road back to Wembley and follow his turbulent careers, from the crushing lows to the exhilarating highs.",
+      "releaseInfo": "2022",
+      "runtime": "90 min",
+      "genres": [
+        "Documentary",
+        "Music",
+        "Goth, New Wave & Industrial"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/u7VETz77lGBv1kJFDDfO1psajgq.jpg",
+      "imdbRating": "7.3"
+    },
+    {
+      "id": "tt15721828",
+      "type": "movie",
+      "name": "This Much I Know to Be True",
+      "poster": "https://image.tmdb.org/t/p/w780/amYrP5cL5Q2uKJP5RM027ZUzFyQ.jpg",
+      "posterShape": "poster",
+      "description": "Like all musicians in 2021, Nick Cave was unable to connect with his audience in person. He uses this concert film to break the vocal and instrumental silence, talk about himself and perform songs from “Ghosteen” and “Carnage”, with help from Warren Ellis.",
+      "releaseInfo": "2022",
+      "runtime": "105 min",
+      "genres": [
+        "Documentary",
+        "Music",
+        "Goth, New Wave & Industrial"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/vTM2VGFFdgsaP8PEgogmVPoIAlg.jpg",
+      "imdbRating": "7.1"
+    },
+    {
+      "id": "tt13329626",
+      "type": "movie",
+      "name": "Karen Dalton: In My Own Time",
+      "poster": "https://image.tmdb.org/t/p/w780/qLvqAuL3FK1qI8P1sZqxOP84F0K.jpg",
+      "posterShape": "poster",
+      "description": "Blues and folk singer Karen Dalton was a prominent figure in 1960s New York. Idolized by Bob Dylan and Nick Cave, Karen discarded the traditional trappings of success and led an unconventional life until her early death. Since most images of Karen have been lost or destroyed, the film uses Karen's dulcet melodies and interviews with loved ones to build a rich portrait of this singular woman and her hauntingly beautiful voice.",
+      "releaseInfo": "2021",
+      "runtime": "87 min",
+      "genres": [
+        "Documentary",
+        "Music",
+        "Goth, New Wave & Industrial"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/vnI5yeXPLb1plMMMjy6ZJ2JydmW.jpg",
+      "imdbRating": "6.1"
+    },
+    {
+      "id": "tt11874226",
+      "type": "movie",
+      "name": "David Byrne's American Utopia",
+      "poster": "https://image.tmdb.org/t/p/w780/sHVeVCNhlY2asvoGsSMP5HOLbCI.jpg",
+      "posterShape": "poster",
+      "description": "A filmed version of David Byrne's Broadway show, a unifying musical celebration that inspires audiences to connect to each other and to the global community.",
+      "releaseInfo": "2020",
+      "runtime": "105 min",
+      "genres": [
+        "Documentary",
+        "Music",
+        "Goth, New Wave & Industrial"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/nveMpkEf1XNu325Ahxk65BI41Qp.jpg",
+      "imdbRating": "7.5"
+    },
+    {
       "id": "tt11933712",
       "type": "movie",
       "name": "Classic Albums: Tears for Fears - Songs From the Big Chair",
@@ -31,6 +268,23 @@
       ],
       "background": "https://image.tmdb.org/t/p/w1280/CzxMSaNxckMCtC1mgdZLS6FQvG.jpg",
       "imdbRating": "7.5"
+    },
+    {
+      "id": "tt11023922",
+      "type": "movie",
+      "name": "Spirits in the Forest",
+      "poster": "https://image.tmdb.org/t/p/w780/b5TxqFcqQ6eyAOp4i3hgUY2BLiY.jpg",
+      "posterShape": "poster",
+      "description": "A look at Depeche Mode's final moments of their 2017 Global Spirit Tour, featuring intimate stories from select fans.",
+      "releaseInfo": "2019",
+      "runtime": "83 min",
+      "genres": [
+        "Documentary",
+        "Music",
+        "Goth, New Wave & Industrial"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/3imrWA0rQYlHU34V241wnGyGVx.jpg",
+      "imdbRating": "7.2"
     },
     {
       "id": "tt9320300",
@@ -50,6 +304,40 @@
       "imdbRating": "7.6"
     },
     {
+      "id": "tt5938950",
+      "type": "movie",
+      "name": "Mystify: Michael Hutchence",
+      "poster": "https://image.tmdb.org/t/p/w780/qpxLFHp9B9EHKM96JZXJ8uf7ObG.jpg",
+      "posterShape": "poster",
+      "description": "Michael Hutchence was flying high as the lead singer of the legendary rock band INXS until his untimely death in 1997. Richard Lowenstein’s documentary examines Hutchence’s deeply felt life through his many loves and demons.",
+      "releaseInfo": "2019",
+      "runtime": "102 min",
+      "genres": [
+        "Documentary",
+        "Music",
+        "Goth, New Wave & Industrial"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/w6S5oV26ehgLe5QbGKlAd4NdAab.jpg",
+      "imdbRating": "7.2"
+    },
+    {
+      "id": "tt6794466",
+      "type": "movie",
+      "name": "The Public Image Is Rotten",
+      "poster": "https://image.tmdb.org/t/p/w780/9uhE8hoyTjjkyq4vwsSbMdwbUuS.jpg",
+      "posterShape": "poster",
+      "description": "British rock icon John Lydon and fellow bandmates recall the years they spent performing as Public Image Ltd.",
+      "releaseInfo": "2017",
+      "runtime": "103 min",
+      "genres": [
+        "Documentary",
+        "Music",
+        "Goth, New Wave & Industrial"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/gdfdDdng5eT5UhgoiVbDbmStcuz.jpg",
+      "imdbRating": "7.4"
+    },
+    {
       "id": "tt5847760",
       "type": "movie",
       "name": "Liberation Day",
@@ -67,6 +355,23 @@
       "imdbRating": "7.9"
     },
     {
+      "id": "tt5777628",
+      "type": "movie",
+      "name": "One More Time with Feeling",
+      "poster": "https://image.tmdb.org/t/p/w780/opORnjagpi1KKfGVNX2NuNECdzE.jpg",
+      "posterShape": "poster",
+      "description": "Andrew Dominik's One More Time With Feeling is a remarkable black and white documentary which chronicles the creation of Nick Cave & The Bad Seeds' album Skeleton Tree. Originally a performance based concept, the film evolved into something much more significant as Dominik delved into the tragic backdrop of the writing and recording of the album. The result is stark, fragile and raw, and a true testament to an artist trying to find his way through the darkness. It documents the writing, recording and performing of Nick Cave & the Bad Seeds’ sixteenth studio album, Skeleton Tree.",
+      "releaseInfo": "2016",
+      "runtime": "113 min",
+      "genres": [
+        "Documentary",
+        "Music",
+        "Goth, New Wave & Industrial"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/zMhfjTmdZblh37fyVHkwv6DuGGv.jpg",
+      "imdbRating": "7.8"
+    },
+    {
       "id": "tt5378224",
       "type": "movie",
       "name": "Gary Numan: Android In La La Land",
@@ -82,6 +387,89 @@
       ],
       "background": "https://image.tmdb.org/t/p/w1280/3sx25w8xK3YlGK53iKPniifU4P8.jpg",
       "imdbRating": "7.2"
+    },
+    {
+      "id": "tt2920540",
+      "type": "movie",
+      "name": "20,000 Days on Earth",
+      "poster": "https://image.tmdb.org/t/p/w780/pUmYsh07P2Bq6ip2RZmOq6mr2vF.jpg",
+      "posterShape": "poster",
+      "description": "A semi-fictionalized documentary about a day in the life of Australian musician Nick Cave's persona.",
+      "releaseInfo": "2014",
+      "runtime": "97 min",
+      "genres": [
+        "Documentary",
+        "Music",
+        "Goth, New Wave & Industrial"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/vHRbyJFN2bgFsMeVJVJdvQwmyB4.jpg",
+      "imdbRating": "7.1"
+    },
+    {
+      "id": "tt3223480",
+      "type": "movie",
+      "name": "Riot on the Dance Floor",
+      "poster": "https://image.tmdb.org/t/p/w780/nfWxFftzjA1boxkLyI05YaliRTf.jpg",
+      "posterShape": "poster",
+      "description": "Through an oral history format of in-depth interviews and archival footage, RIOT ON THE DANCE FLOOR bring to life the gritty story of City Gardens, one of New Jersey’s most infamous clubs and its larger than life promoter, Randy Now. Featuring the stark and iconic photography of Thrasher Magazine’s Ken Salerno, the film chronicles the rise of several different music scenes in a venue for underground music that traversed the entertainment spectrum; from the comedy of Henny Youngman to Nine Inch Nails, New Order to Nirvana. It is the story of musical champions, underdogs and how hoards of misfit kids found an unlikely home and above all, the freedom and liberation of having complete creative control. - IFF Boston",
+      "releaseInfo": "2014",
+      "runtime": "114 min",
+      "genres": [
+        "Documentary",
+        "Music",
+        "Goth, New Wave & Industrial"
+      ],
+      "imdbRating": "9.0"
+    },
+    {
+      "id": "tt2133214",
+      "type": "movie",
+      "name": "Duran Duran: Unstaged",
+      "poster": "https://image.tmdb.org/t/p/w780/pNrutwpLowWRSsOQwKrtgCzka3y.jpg",
+      "posterShape": "poster",
+      "description": "Duran Duran: Unstaged is a multimedia event that takes the audience on a cinematic journey with one of the most successful acts in the world during their performance at the Mayan Theater in Los Angeles.",
+      "releaseInfo": "2014",
+      "runtime": "112 min",
+      "genres": [
+        "Documentary",
+        "Music",
+        "Goth, New Wave & Industrial"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/vTFRAvrbd8El6OghmRPUj66U0iU.jpg",
+      "imdbRating": "7.4"
+    },
+    {
+      "id": "tt3534542",
+      "type": "movie",
+      "name": "The Night That Changed America: A Grammy Salute to the Beatles",
+      "poster": "https://image.tmdb.org/t/p/w780/kYh09WhTTPdtZz4YTfnU1dwoWeK.jpg",
+      "posterShape": "poster",
+      "description": "In celebration of the 50th anniversary of The Beatles' first appearance on The Ed Sullivan Show, this magnificent star-studded tribute salutes the Fab Four. Appearing with Paul McCartney and Ringo Starr were guest musicians Joe Walsh, Gary Clark, Jr., Stevie Wonder, The Eurythmics, John Legend, Alicia Keys, Maroon 5, Dave Grohl, Katy Perry, Peter Frampton, and more.",
+      "releaseInfo": "2014",
+      "runtime": "110 min",
+      "genres": [
+        "Documentary",
+        "Music",
+        "Goth, New Wave & Industrial"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/khSKzuk5LYNTq3WZpYMSvvqjZnt.jpg",
+      "imdbRating": "7.1"
+    },
+    {
+      "id": "tt2614428",
+      "type": "movie",
+      "name": "Last Shop Standing",
+      "poster": "https://image.tmdb.org/t/p/w780/4HP5eqE4QqXSJ8hYFy7U68Sdc1x.jpg",
+      "posterShape": "poster",
+      "description": "Last Shop Standing, inspired by the book of the same name by Graham Jones, takes you behind the counter to discover why nearly 2000 record shops have already disappeared across the UK. The film charts the rapid rise of record shops in the 1960's, 70's and 80's, the influence of the chart, the underhand deals, the demise of vinyl and rise of the CD as well as new technologies. Where did it all go wrong? Why were 3 shops a week closing? Will we be left with no record shops with the continuing rise of downloading? Hear from over 20 record shop owners and music industry leaders as well as musicians including Paul Weller, Johnny Marr, Norman Cook, Billy Bragg, Nerina Pallot, Richard Hawley and Clint Boon as they all tell us how the shops became and still are a part of their own musical education, a place to cherish and discover new bands and new music.",
+      "releaseInfo": "2012",
+      "runtime": "50 min",
+      "genres": [
+        "Documentary",
+        "Music",
+        "Goth, New Wave & Industrial"
+      ],
+      "imdbRating": "6.1"
     },
     {
       "id": "tt2007385",
@@ -135,6 +523,40 @@
       "imdbRating": "7.8"
     },
     {
+      "id": "tt1097239",
+      "type": "movie",
+      "name": "Joy Division",
+      "poster": "https://image.tmdb.org/t/p/w780/si2Kgb6NRkIUmI5NfWQH1Y8TBVV.jpg",
+      "posterShape": "poster",
+      "description": "A chronological account of the influential late 1970s English rock band.",
+      "releaseInfo": "2009",
+      "runtime": "100 min",
+      "genres": [
+        "Documentary",
+        "Music",
+        "Goth, New Wave & Industrial"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/dVRAaw1XWM6kiJQIJISSfKA0eNY.jpg",
+      "imdbRating": "7.6"
+    },
+    {
+      "id": "tt1289806",
+      "type": "movie",
+      "name": "Kraftwerk and the Electronic Revolution",
+      "poster": "https://image.tmdb.org/t/p/w780/pchTZmSVutFSAp6WvC9fqss8k1f.jpg",
+      "posterShape": "poster",
+      "description": "Kraftwerk's vision of a keyboard-driven world of clicking metronomic rhythms and digitised sound bites may have been the stuff of avant fantasy in the 1970s (the decade that saw the band's first groundbreaking albums), but it is a reality in the new millennium. Their visionary style is explored in KRAFTWERK AND THE ELECTRONIC REVOLUTION, a study of the group, their career and their emergence as the most influential electronic band in the world.",
+      "releaseInfo": "2008",
+      "runtime": "180 min",
+      "genres": [
+        "Documentary",
+        "Music",
+        "Goth, New Wave & Industrial"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/mvYNmnbU6cDw5MhvY0KhSswaXE.jpg",
+      "imdbRating": "8.8"
+    },
+    {
       "id": "tt0402406",
       "type": "movie",
       "name": "The Nomi Song",
@@ -152,6 +574,90 @@
       "imdbRating": "6.4"
     },
     {
+      "id": "tt0368287",
+      "type": "movie",
+      "name": "The Soul of a Man",
+      "poster": "https://image.tmdb.org/t/p/w780/rKZYI4MSwFjTS7QGku3TgdFonLI.jpg",
+      "posterShape": "poster",
+      "description": "Wim Wenders looks at the dramatic tension in the blues between the sacred and the profane by exploring the music and lives of three of his favorite blues artists: Skip James, Blind Willie Johnson and J. B. Lenoir. Part history, part personal pilgrimage, the film tells the story of these lives in music through an extended fictional film sequence (recreations of '20s and '30s events - shot in silent-film, hand-crank style), rare archival footage, present-day documentary scenes and covers of their songs by contemporary musicians such as Shemekia Copeland, Alvin Youngblood Hart, Garland Jeffreys, Chris Thomas King, Cassandra Wilson, Nick Cave, Los Lobos, Eagle Eye Cherry, Vernon Reid, James \"Blood\" Ulmer, Lou Reed, Bonnie Raitt, Marc Ribot, The Jon Spencer Blues Explosion, Lucinda Williams and T-Bone Burnett.",
+      "releaseInfo": "2003",
+      "runtime": "100 min",
+      "genres": [
+        "Documentary",
+        "Music",
+        "Goth, New Wave & Industrial"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/v2KYxwkG4qxXJTTzSFbccYrsx44.jpg",
+      "imdbRating": "6.6"
+    },
+    {
+      "id": "tt0287594",
+      "type": "movie",
+      "name": "Nine Inch Nails: And All That Could Have Been",
+      "poster": "https://image.tmdb.org/t/p/w780/xvQoIibDrbp87XtHPa2cNwwZqD8.jpg",
+      "posterShape": "poster",
+      "description": "Rob Sheridan and other members of the band's crew filmed the Fragility 2.0 tour using consumer DV cameras.",
+      "releaseInfo": "2002",
+      "runtime": "86 min",
+      "genres": [
+        "Documentary",
+        "Music",
+        "Goth, New Wave & Industrial"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/kOTO6wXn8hMpIby5b5JZPlIMqZ9.jpg",
+      "imdbRating": "7.9"
+    },
+    {
+      "id": "tt2671330",
+      "type": "movie",
+      "name": "CAN: The Documentary",
+      "poster": "https://image.tmdb.org/t/p/w780/lrRL1YVTGbRRxs16rF5aVtX6Ijt.jpg",
+      "posterShape": "poster",
+      "description": "The late-'60s avant garde rock band CAN gets a feature-length tribute with this affectionate documentary chronicling its odd inception and subsequent career. In CAN -- The Documentary,  the remaining band members are interviewed amidst culled together archival footage from talk shows, concerts, and television appearances to paint a portrait of a band who always remained happily on the sidelines of mass appeal, mixing street music, jazz, folk, and rock into a sometimes poppy, sometimes abstract stew. The band's influence on such seminal acts as Sonic Youth and Talking Heads is also analyzed.",
+      "releaseInfo": "1999",
+      "runtime": "87 min",
+      "genres": [
+        "Documentary",
+        "Music",
+        "Goth, New Wave & Industrial"
+      ],
+      "imdbRating": "6.5"
+    },
+    {
+      "id": "tt0276902",
+      "type": "movie",
+      "name": "Depeche Mode: Devotional",
+      "poster": "https://image.tmdb.org/t/p/w780/qbO33FjtYQhH9C7iQdy1NeYRe13.jpg",
+      "posterShape": "poster",
+      "description": "This video release by Depeche Mode features almost an entire concert from their 1993-1994 Devotional Tour, filmed in Barcelona, Liévin and Frankfurt.",
+      "releaseInfo": "1993",
+      "runtime": "84 min",
+      "genres": [
+        "Documentary",
+        "Music",
+        "Goth, New Wave & Industrial"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/eL3EftZZxdcTFZW2sMJ6rhmzmuO.jpg",
+      "imdbRating": "8.7"
+    },
+    {
+      "id": "tt0100501",
+      "type": "movie",
+      "name": "The Road to God Knows Where",
+      "poster": "https://image.tmdb.org/t/p/w780/2xfEl5w2RR8saGduMHHXdEoeqFY.jpg",
+      "posterShape": "poster",
+      "description": "Documentary of Nick Cave and the Bad Seeds' 1989 tour of America.",
+      "releaseInfo": "1990",
+      "runtime": "92 min",
+      "genres": [
+        "Documentary",
+        "Music",
+        "Goth, New Wave & Industrial"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/mHqwaSVZnynwsW7QEqOriy5beFt.jpg",
+      "imdbRating": "6.5"
+    },
+    {
       "id": "tt0094590",
       "type": "movie",
       "name": "Depeche Mode: 101",
@@ -167,6 +673,38 @@
       ],
       "background": "https://image.tmdb.org/t/p/w1280/fJNcvIhNAk0Z7BFsgztrsVahxVg.jpg",
       "imdbRating": "8.0"
+    },
+    {
+      "id": "tt0092824",
+      "type": "movie",
+      "name": "Dandy",
+      "poster": "https://image.tmdb.org/t/p/w780/vZL1xKyyCna9KDUqqsObrli5I7c.jpg",
+      "posterShape": "poster",
+      "description": "A selection of seemingly unconnected scenes featuring Nick Cave, Blixa Bargeld, Nina Hagen and Lene Lovich. Losely based on Voltaire's satire \"Candide\".",
+      "releaseInfo": "1988",
+      "runtime": "93 min",
+      "genres": [
+        "Documentary",
+        "Music",
+        "Goth, New Wave & Industrial"
+      ],
+      "imdbRating": "6.8"
+    },
+    {
+      "id": "tt0093802",
+      "type": "movie",
+      "name": "Put More Blood Into the Music",
+      "poster": "https://image.tmdb.org/t/p/w780/2ei46XFCQjqUjf8EbOhYSEfHY9k.jpg",
+      "posterShape": "poster",
+      "description": "PBS produced documentary in two parts: the first is dedicated to saxophonist and composer John Zorn; the second is about Sonic Youth at the height of their powers in 1988.",
+      "releaseInfo": "1988",
+      "runtime": "52 min",
+      "genres": [
+        "Documentary",
+        "Music",
+        "Goth, New Wave & Industrial"
+      ],
+      "imdbRating": "7.8"
     }
   ]
 }

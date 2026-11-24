@@ -18,6 +18,57 @@
       "imdbRating": "6.5"
     },
     {
+      "id": "tt36150957",
+      "type": "movie",
+      "name": "Oasis: Don't Look Back in Anger",
+      "poster": "https://image.tmdb.org/t/p/w780/5XoHhKZ1IROW6f5UlRpADHnTL2l.jpg",
+      "posterShape": "poster",
+      "description": "Experience the meteoric rise of Oasis through rare footage and untold stories as the band reunites for Oasis Live '25, chronicling their journey from Manchester streets to global rock stardom.",
+      "releaseInfo": "2026",
+      "runtime": "123 min",
+      "genres": [
+        "Documentary",
+        "Music",
+        "Grunge & Alternative"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/7Ud7QIJo21odjCaev6V4md9sK16.jpg",
+      "imdbRating": "7.0"
+    },
+    {
+      "id": "tt36971084",
+      "type": "movie",
+      "name": "The Rise of the Red Hot Chili Peppers: Our Brother, Hillel",
+      "poster": "https://image.tmdb.org/t/p/w780/y9hHoO3eB7l3ZjYUZoJUJpZW22V.jpg",
+      "posterShape": "poster",
+      "description": "Explore the formative years of the Red Hot Chili Peppers and the profound influence of original bandmate Hillel Slovak.",
+      "releaseInfo": "2026",
+      "runtime": "95 min",
+      "genres": [
+        "Documentary",
+        "Music",
+        "Grunge & Alternative"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/eUDjpW2wQg2fvSFDohhkIZkjnFw.jpg",
+      "imdbRating": "7.2"
+    },
+    {
+      "id": "tt36590322",
+      "type": "movie",
+      "name": "Matter of Time",
+      "poster": "https://image.tmdb.org/t/p/w780/pFn9VJmZes3Fg6S293XeSVi3tFs.jpg",
+      "posterShape": "poster",
+      "description": "Eddie Vedder's soul-stirring Seattle benefit concert fuels this documentary about the race to cure the rare genetic disorder epidermolysis bullosa (EB).",
+      "releaseInfo": "2026",
+      "runtime": "105 min",
+      "genres": [
+        "Documentary",
+        "Music",
+        "Grunge & Alternative"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/z3euUl9pmRMHPcXQOrU1N8WKZcn.jpg",
+      "imdbRating": "8.4"
+    },
+    {
       "id": "tt36591196",
       "type": "movie",
       "name": "Music Box: Counting Crows: Have You Seen Me Lately?",
@@ -33,6 +84,23 @@
       ],
       "background": "https://image.tmdb.org/t/p/w1280/edeeAj1hxHJWUSKO4M7fdvoISs2.jpg",
       "imdbRating": "8.8"
+    },
+    {
+      "id": "tt34966650",
+      "type": "movie",
+      "name": "It's Never Over, Jeff Buckley",
+      "poster": "https://image.tmdb.org/t/p/w780/rrKe8bC6UKFKvfZHvbwA9Bq5hkR.jpg",
+      "posterShape": "poster",
+      "description": "Rising musician Jeff Buckley had only released one album when he died suddenly in 1997. Now, never-before-seen footage, exclusive voice messages, and accounts from those closest to him offer a portrait of the captivating singer.",
+      "releaseInfo": "2025",
+      "runtime": "106 min",
+      "genres": [
+        "Documentary",
+        "Music",
+        "Grunge & Alternative"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/rU0P9XGl2thKlC7BbOdGc1mQFQ7.jpg",
+      "imdbRating": "7.7"
     },
     {
       "id": "tt30835450",
@@ -52,6 +120,274 @@
       "imdbRating": "7.5"
     },
     {
+      "id": "tt34144682",
+      "type": "movie",
+      "name": "Weezer's Voyage to the Blue Planet: The Concert Film",
+      "poster": "https://image.tmdb.org/t/p/w780/tcxHEMZgzUmr5PSsHWslIFwPBGG.jpg",
+      "posterShape": "poster",
+      "description": "Weezer takes the stage at the TD Garden in Boston for a cinematic event featuring band members Rivers Cuomo, Patrick Wilson, Brian Bell, and Scott Shriner. Listed as one of Rolling Stones \"500 Greatest Albums Of All Time,\" The Blue Album celebrates its 30-year-anniversary with nostalgic performances interlaced with exclusive footage of Weezer's history-making journey.",
+      "releaseInfo": "2024",
+      "runtime": "100 min",
+      "genres": [
+        "Documentary",
+        "Music",
+        "Grunge & Alternative"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/uizjgdDSezkjT6Tp8nECyrIEb8q.jpg",
+      "imdbRating": "10.0"
+    },
+    {
+      "id": "tt31218239",
+      "type": "movie",
+      "name": "blur: To the End",
+      "poster": "https://image.tmdb.org/t/p/w780/dMe30vdWe5xnv71UjCbNoaG3D4B.jpg",
+      "posterShape": "poster",
+      "description": "Iconic British band blur (“Song 2”, “Girls & Boys”) comes together to record their first album in eight years – the chart-topping The Ballad of Darren – and prepare for the biggest concerts of their career, two sold-out shows at Wembley Stadium. With footage of the band in the studio and on the road, plus performances of their much-loved, seminal songs.",
+      "releaseInfo": "2024",
+      "runtime": "104 min",
+      "genres": [
+        "Documentary",
+        "Music",
+        "Grunge & Alternative"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/sHqftQhI5U8tPG2bjorpmVroYTU.jpg",
+      "imdbRating": "7.3"
+    },
+    {
+      "id": "tt18950650",
+      "type": "movie",
+      "name": "The Flaming Lips Space Bubble Film",
+      "poster": "https://image.tmdb.org/t/p/w780/aw5SIVM6FUoyK7EbBi7UkwtmzNg.jpg",
+      "posterShape": "poster",
+      "description": "One of the few uplifting music stories during the early phases of the pandemic, this documentary explains how the Flaming Lips Space Bubble Shows happen and show highlights from the performances.",
+      "releaseInfo": "2022",
+      "runtime": "86 min",
+      "genres": [
+        "Documentary",
+        "Music",
+        "Grunge & Alternative"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/7u0HEq9gmVtpNsUO0HsRKJf7rlc.jpg",
+      "imdbRating": "5.5"
+    },
+    {
+      "id": "tt10011312",
+      "type": "movie",
+      "name": "All I Can Say",
+      "poster": "https://image.tmdb.org/t/p/w780/kJbkTSOvZYvNMByvuOTmoMAObqA.jpg",
+      "posterShape": "poster",
+      "description": "An archive of '90s culture and a philosophical study of fame via the intimate video-diary of Shannon Hoon, the late lead singer of alt-rock band Blind Melon.",
+      "releaseInfo": "2022",
+      "runtime": "100 min",
+      "genres": [
+        "Documentary",
+        "Music",
+        "Grunge & Alternative"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/ptwBXZ7uRxEb2HeHh7f9vVdU8oM.jpg",
+      "imdbRating": "7.0"
+    },
+    {
+      "id": "tt15678802",
+      "type": "movie",
+      "name": "Soul Kids",
+      "poster": "https://image.tmdb.org/t/p/w780/qjqKvt23mrV7izt8I8re8HrX3bl.jpg",
+      "posterShape": "poster",
+      "description": "In Memphis, one of the USA’s most distressed city, the Stax Music Academy is an oasis. Founded in 2000, the academy continues the legacy of Stax Records, the legendary 60s soul label which was a refuge and an active space for dialog during the Civil Rights movement. By learning and understanding soul music in after school programs, teenagers embark into Black Americans legacy and open themselves to new future prospects. Soul Kids is a musical odyssey through history and the concerns of a new generation.",
+      "releaseInfo": "2021",
+      "runtime": "75 min",
+      "genres": [
+        "Documentary",
+        "Music",
+        "Grunge & Alternative"
+      ],
+      "imdbRating": "8.0"
+    },
+    {
+      "id": "tt14781332",
+      "type": "movie",
+      "name": "Freakscene: The Story of Dinosaur Jr.",
+      "poster": "https://image.tmdb.org/t/p/w780/jsdVa7JFmtu0EQLUCeeM4SIXqdD.jpg",
+      "posterShape": "poster",
+      "description": "The American indie rock band “Dinosaur Jr.” is a radical group with an unmistakeable sound. The film tells the story the three charismatic guys in the band: J. Mascis (vocals, guitar), Lou Barlow (bass) and Murph (drums).",
+      "releaseInfo": "2021",
+      "runtime": "82 min",
+      "genres": [
+        "Documentary",
+        "Music",
+        "Grunge & Alternative"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/n9R7kHZclVN9w9vvHCEAI9NQnOW.jpg",
+      "imdbRating": "7.8"
+    },
+    {
+      "id": "tt14482570",
+      "type": "series",
+      "name": "Watch the Sound with Mark Ronson",
+      "poster": "https://image.tmdb.org/t/p/w780/3N0t8A2iaMqVpJI0RDWyv2MTRER.jpg",
+      "posterShape": "poster",
+      "description": "Oscar and Grammy Award-winning producer and artist Mark Ronson explores the intersection of technology and musical innovation with his heroes and fellow hitmakers – including Paul McCartney, DJ Premier, Charli XCX, Dave Grohl, and Questlove.",
+      "releaseInfo": "2021",
+      "genres": [
+        "Documentary",
+        "Music",
+        "Grunge & Alternative"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/jirREMOVVoRbBgZS3n6VDhXMMlb.jpg",
+      "imdbRating": "7.3"
+    },
+    {
+      "id": "tt14609710",
+      "type": "movie",
+      "name": "Skating Polly: Ugly Pop",
+      "poster": "https://image.tmdb.org/t/p/w780/hGaRomb70EpmoBlduMXYk3rJhqj.jpg",
+      "posterShape": "poster",
+      "description": "Peyton Bighorse and Kelli Mayo are stepsisters from Oklahoma who founded their band, Skating Polly, in 2009 at the ages of 14 and 9 respectively. They call their style of music \"Ugly Pop\": building on the sounds of 70s Punk, early Grunge, and Folk, resulting in infectious melodies, but with real-life blemishes still showing.  This fascinating in-depth documentary explores the early years of Skating Polly as Peyton and Kelli get their first taste of success, and try to stay true to themselves and their love of music. We see the two grow as people and musicians, and hear how they became the band they are today. Their earnestness throughout is refreshing and inspiring. Featuring Donita Sparks (L7), Kate Nash, SoKo, Lori Barbero (Babes in Toyland), Kat Bjelland (Babes in Toyland), and many more…",
+      "releaseInfo": "2021",
+      "runtime": "109 min",
+      "genres": [
+        "Documentary",
+        "Music",
+        "Grunge & Alternative"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/52KrJZtTpZDxOXq5PnpaYD9uZu0.jpg",
+      "imdbRating": "10.0"
+    },
+    {
+      "id": "tt16977604",
+      "type": "movie",
+      "name": "Weezer: OK Human Live with the L.A. Philharmonic + Y.O.L.A.",
+      "poster": "https://image.tmdb.org/t/p/w780/xl5ACm9l4AwA0s2510nRWGWLNBf.jpg",
+      "posterShape": "poster",
+      "description": "Weezer invites each and every one of you to stare at your screens while they perform OK Human for the first time ever (along with all your favorite Weezer songs).",
+      "releaseInfo": "2021",
+      "runtime": "56 min",
+      "genres": [
+        "Documentary",
+        "Music",
+        "Grunge & Alternative"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/6l5qaZJxzNZHt3wNc4rg8peLi8p.jpg",
+      "imdbRating": "8.0"
+    },
+    {
+      "id": "tt13580742",
+      "type": "movie",
+      "name": "MoPOP Founders Award 2020 Honoring Alice in Chains",
+      "poster": "https://image.tmdb.org/t/p/w780/mCKZBs2z3er7Fc9NuYt5InTnGJ7.jpg",
+      "posterShape": "poster",
+      "description": "For the first time ever, the Museum of Pop Culture's highly-anticipated Founders Award annual fundraiser event will be free to the public, streaming online Tuesday, December 1 as MoPOP honors Seattle's own Alice in Chains.  The one-night-only benefit will be broadcast virtually beginning at 6 p.m. PT featuring unforgettable performances by Alice in Chains, as well as an acclaimed lineup of musicians who will put their own twist on some of the band's most iconic songs.",
+      "releaseInfo": "2020",
+      "runtime": "146 min",
+      "genres": [
+        "Documentary",
+        "Music",
+        "Grunge & Alternative"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/9W0XNoiBsNUdNIY8iaDnqK4IJaA.jpg",
+      "imdbRating": "9.0"
+    },
+    {
+      "id": "tt8954326",
+      "type": "movie",
+      "name": "Swans: Where Does a Body End?",
+      "poster": "https://image.tmdb.org/t/p/w780/1dqXCynVLkOWaZZ8R17bSuQuXwf.jpg",
+      "posterShape": "poster",
+      "description": "From their roots as a brutal, confrontational industrial band, through breakups and chaos, to their odds-defying current status as one of the most accomplished and ambitious bands in the world, one whose concerts are more like ecstatic rituals than nostalgic trips. SWANS has always been a collection of singular performers, but there's been one constant since its formation in 1982--singer, songwriter Michael Gira. 'Where Does a Body End?' is a SWANS documentary with unfettered access to hundreds of hours of Gira/SWANS archives of never-seen-before recordings, videos, and photographs. An unfiltered story of a life in the arts, frequent difficulty spanning decades without a safety net, creating work because Gira says \"What else am I going to do?\"",
+      "releaseInfo": "2019",
+      "runtime": "161 min",
+      "genres": [
+        "Documentary",
+        "Music",
+        "Grunge & Alternative"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/mQkIBJEMbjjpmafJadI6ibabPpN.jpg",
+      "imdbRating": "7.9"
+    },
+    {
+      "id": "tt10215424",
+      "type": "movie",
+      "name": "Liam Gallagher: As It Was",
+      "poster": "https://image.tmdb.org/t/p/w780/gnh3OQggVn8IivMbl4uYsoFRdy3.jpg",
+      "posterShape": "poster",
+      "description": "From the dizzying heights of his “champagne supernova” years, Oasis frontman Liam Gallagher falls into a wilderness of booze and legal battles, before making an attempt to stage the greatest comeback in rock history.",
+      "releaseInfo": "2019",
+      "runtime": "85 min",
+      "genres": [
+        "Documentary",
+        "Music",
+        "Grunge & Alternative"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/bCAwdJDrK5dQsdyP7WxqUEka15D.jpg",
+      "imdbRating": "6.7"
+    },
+    {
+      "id": "tt7435110",
+      "type": "movie",
+      "name": "Pearl Jam: Let's Play Two",
+      "poster": "https://image.tmdb.org/t/p/w780/pWZoYWcvQ1kxuqo0xCdxZtLrW2G.jpg",
+      "posterShape": "poster",
+      "description": "Let’s Play Two is a documentary film that chronicles Pearl Jam’s legendary performances at Wrigley Field during the Chicago Cubs historic 2016 season. With Chicago being a hometown to Eddie Vedder, Pearl Jam has forged a relationship with the city, the Chicago Cubs and Wrigley Field that is unparalleled in the world of sports and music. From Ten to Lightning Bolt, the documentary film shuffles through Pearl Jam’s ever-growing catalog of originals and covers - spanning the band's 25-year career. Through the eyes of renowned director/photographer Danny Clinch and the voice of Pearl Jam, the film showcases the journey of this special relationship.",
+      "releaseInfo": "2017",
+      "runtime": "120 min",
+      "genres": [
+        "Documentary",
+        "Music",
+        "Grunge & Alternative"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/Ake7IRDgPwafkzunarmHmOtp1E5.jpg",
+      "imdbRating": "7.7"
+    },
+    {
+      "id": "tt6264914",
+      "type": "movie",
+      "name": "The Go-Betweens: Right Here",
+      "poster": "https://image.tmdb.org/t/p/w780/bymCxuB0BkTQEwF28qXTsX9fiWi.jpg",
+      "posterShape": "poster",
+      "description": "A chronological history of one of the most influential bands to come out of Australia, the Go-Betweens.",
+      "releaseInfo": "2017",
+      "runtime": "95 min",
+      "genres": [
+        "Documentary",
+        "Music",
+        "Grunge & Alternative"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/mp3mXPekMTwnblnUFiolsyxsCbM.jpg",
+      "imdbRating": "6.5"
+    },
+    {
+      "id": "tt4587946",
+      "type": "series",
+      "name": "American Epic",
+      "poster": "https://image.tmdb.org/t/p/w780/rkO982aPiq0ZROXUdWu28YwX5c8.jpg",
+      "posterShape": "poster",
+      "description": "Travel the country in search of unknown 1920s artists, when the music of ordinary Americans was recorded for the first time, transforming music forever, in a three-part film narrated by Robert Redford, featuring Jack White, Nas, Taj Mahal and others.",
+      "releaseInfo": "2017",
+      "genres": [
+        "Documentary",
+        "Music",
+        "Grunge & Alternative"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/jJBm7FXyzAZhAYegRp5d9f3GwMc.jpg",
+      "imdbRating": "7.4"
+    },
+    {
+      "id": "tt5990270",
+      "type": "movie",
+      "name": "The Colossus of Destiny: A Melvins Tale",
+      "poster": "https://image.tmdb.org/t/p/w780/dBv9xFy7sN2TFvVXqHwS1NnKmLl.jpg",
+      "posterShape": "poster",
+      "description": "\"How comes no one has ever made a film about The Melvins?\"  Well, no one has ever tried or thought it even possible.....until now that is. The Colossus Of Destiny - A Melvins Tale is a film about a band who have defied all the rules, for over 32 years and counting, and still managed to succeed and do it their own way. The journey of band members King Buzzo and Dale Crover leads us from the backwards-waters of the Chehalis River in Washington State, down through the Golden Gate of Northern California, and finally settling into the Los Angeles River Basin of Southern California. With the rest of the world thrown in along the way. You will witness first hand the beliefs and attitudes, values and obscenities, slows and fasts, triumphs and toils, loves and hates, wits and giggles of a hugely talented and influential band. And you will also come away with a lesson in how to survive in the wicked world of the music biz without taking yourself too damn seriously.",
+      "releaseInfo": "2016",
+      "runtime": "125 min",
+      "genres": [
+        "Documentary",
+        "Music",
+        "Grunge & Alternative"
+      ],
+      "imdbRating": "5.6"
+    },
+    {
       "id": "tt4229236",
       "type": "movie",
       "name": "Cobain: Montage of Heck",
@@ -67,6 +403,23 @@
       ],
       "background": "https://image.tmdb.org/t/p/w1280/n1BjnpeFJ8hVXae8SIlkjJ7BkJO.jpg",
       "imdbRating": "7.6"
+    },
+    {
+      "id": "tt4268850",
+      "type": "movie",
+      "name": "No Manifesto: A Film About Manic Street Preachers",
+      "poster": "https://image.tmdb.org/t/p/w780/u2vyttyllKKqecYNDqe5yZ7QWKS.jpg",
+      "posterShape": "poster",
+      "description": "In 1991, the Manic Street Preachers planned to sell 16 million copies of their debut and split up. Many years, many hits and one big mystery later, this colourful band and its fans appear in a unique documentary that tells their full story.",
+      "releaseInfo": "2015",
+      "runtime": "96 min",
+      "genres": [
+        "Documentary",
+        "Music",
+        "Grunge & Alternative"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/2oC1IHLlFf70rmKcflETLve357X.jpg",
+      "imdbRating": "7.5"
     },
     {
       "id": "tt35728353",
@@ -86,6 +439,39 @@
       "imdbRating": "8.0"
     },
     {
+      "id": "tt4066748",
+      "type": "movie",
+      "name": "R.E.M. by MTV",
+      "poster": "https://image.tmdb.org/t/p/w780/zMosLSyXxTJ8Erats9eeGx7y75p.jpg",
+      "posterShape": "poster",
+      "description": "The career of the band, from its start in Georgia to its breakup in 2011.",
+      "releaseInfo": "2014",
+      "runtime": "107 min",
+      "genres": [
+        "Documentary",
+        "Music",
+        "Grunge & Alternative"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/dDWJ52ptKEHTHE5nK8JK0Pqe4ke.jpg",
+      "imdbRating": "6.6"
+    },
+    {
+      "id": "tt3893538",
+      "type": "series",
+      "name": "Foo Fighters Sonic Highways",
+      "poster": "https://image.tmdb.org/t/p/w780/g6OKf4gfojZg5Npfx6RPzVz8c8T.jpg",
+      "posterShape": "poster",
+      "description": "In this new series, Foo Fighters commemorate their 20th anniversary by documenting the eight-city recording odyssey that produced their latest, and eighth, studio album.",
+      "releaseInfo": "2014",
+      "genres": [
+        "Documentary",
+        "Music",
+        "Grunge & Alternative"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/g5Jfq9y9eiONblboscw5odTmg84.jpg",
+      "imdbRating": "8.0"
+    },
+    {
       "id": "tt1079956",
       "type": "movie",
       "name": "Beautiful Noise",
@@ -101,6 +487,56 @@
       ],
       "background": "https://image.tmdb.org/t/p/w1280/uQlVAJhEFYJ2CS7uvVRMtUjU5iM.jpg",
       "imdbRating": "6.5"
+    },
+    {
+      "id": "tt2244889",
+      "type": "movie",
+      "name": "Heaven Adores You",
+      "poster": "https://image.tmdb.org/t/p/w780/5M4Owu4Z9GjToJhUUz1nqhRkpTC.jpg",
+      "posterShape": "poster",
+      "description": "Heaven Adores You is an intimate, meditative inquiry into the life and music of Elliott Smith. By threading the music of Elliott Smith through the dense, yet often isolating landscapes of the three major cities he lived in -- Portland, New York City, Los Angeles -- Heaven Adores You presents a visual journey and an earnest review of the singer's prolific songwriting and the impact it continues to have on fans, friends, and fellow musicians.",
+      "releaseInfo": "2014",
+      "runtime": "104 min",
+      "genres": [
+        "Documentary",
+        "Music",
+        "Grunge & Alternative"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/yvJxDpIN9QttKwalYR6YF6f559D.jpg",
+      "imdbRating": "7.0"
+    },
+    {
+      "id": "tt2492562",
+      "type": "movie",
+      "name": "I'm Now: The Story of Mudhoney",
+      "poster": "https://image.tmdb.org/t/p/w780/3nuTxrL4x28Bn2B8AOj1EUrxAe3.jpg",
+      "posterShape": "poster",
+      "description": "This documentary tells the story of Mudhoney from their very beginnings, to following them on their recent world tour and everything in between. Complete with testimonials from friends, music industry veterans and musicians such as Pearl Jam's Stone Gossard and Jeff Ament, Sonic Youth's Kim Gordon and Thurston Moore, Soundgarden's Kim Thayil and Mudhoney themselves. This is the true story of the founding fathers of Grunge.",
+      "releaseInfo": "2013",
+      "runtime": "102 min",
+      "genres": [
+        "Documentary",
+        "Music",
+        "Grunge & Alternative"
+      ],
+      "imdbRating": "7.0"
+    },
+    {
+      "id": "tt2126403",
+      "type": "movie",
+      "name": "The Stone Roses: Made of Stone",
+      "poster": "https://image.tmdb.org/t/p/w780/g6RMrCPKwBJpPnqqzfKjGnVxzQM.jpg",
+      "posterShape": "poster",
+      "description": "A documentary about the English alternative rock band, The Stone Roses. Meadows interweaves archive film, intimate behind-the-scenes footage and never-before-seen material, delivering the definitive account of the band and their music. He was also granted unprecedented access to their rehearsals for the summer 2012 Manchester concerts. A momentous occasion in modern music, these were the first gigs performed by The Stone Roses in 16 years.",
+      "releaseInfo": "2013",
+      "runtime": "96 min",
+      "genres": [
+        "Documentary",
+        "Music",
+        "Grunge & Alternative"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/4gjl23lEJ6nOPkSBebf09LU28iJ.jpg",
+      "imdbRating": "6.9"
     },
     {
       "id": "tt1796503",
@@ -154,6 +590,40 @@
       "imdbRating": "7.6"
     },
     {
+      "id": "tt1764726",
+      "type": "movie",
+      "name": "Upside Down: The Creation Records Story",
+      "poster": "https://image.tmdb.org/t/p/w780/jV4USc1ivMeaaD0vMrfVfWiWmWb.jpg",
+      "posterShape": "poster",
+      "description": "Over a quarter of a century since it began and a decade after it folded, this is the definitive film about Creation Records, one of the world's most successful and colorful independent labels. This is the story of the rock n roll dream and its accompanying nightmares. Millions of sales on both sides of the Atlantic, near bankruptcy, pills, thrills, spats, prats, success, excess, pick me ups, breakdowns and of course some of THE defining music of the late 20th Century. This is the definitive and fully authorised story of the UK's most inspired and dissolute label, from the Jesus &amp; Mary Chain at the Living Room to Oasis at Knebworth.",
+      "releaseInfo": "2010",
+      "runtime": "101 min",
+      "genres": [
+        "Documentary",
+        "Music",
+        "Grunge & Alternative"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/uMcJraVZ3ojHV6C6w1KsfNt41CX.jpg",
+      "imdbRating": "6.9"
+    },
+    {
+      "id": "tt1565434",
+      "type": "movie",
+      "name": "Blur: No Distance Left to Run",
+      "poster": "https://image.tmdb.org/t/p/w780/5YbMTw0Nwp3Wf1CF6uQsJH6ig71.jpg",
+      "posterShape": "poster",
+      "description": "A documentary film about the British rock band Blur. Following the band during their 2009 reunion and tour, the film also includes unseen archive footage and interviews.",
+      "releaseInfo": "2010",
+      "runtime": "104 min",
+      "genres": [
+        "Documentary",
+        "Music",
+        "Grunge & Alternative"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/9B665KJt5K97FGosJVAAZ5Nc8mK.jpg",
+      "imdbRating": "7.4"
+    },
+    {
       "id": "tt1487275",
       "type": "movie",
       "name": "The White Stripes: Under Great White Northern Lights",
@@ -171,6 +641,140 @@
       "imdbRating": "7.4"
     },
     {
+      "id": "tt1229360",
+      "type": "movie",
+      "name": "It Might Get Loud",
+      "poster": "https://image.tmdb.org/t/p/w780/86gtHYU7vRnTBcnOu0YxdZuDGhM.jpg",
+      "posterShape": "poster",
+      "description": "A documentary on the electric guitar from the point of view of three significant rock musicians: the Edge, Jimmy Page and Jack White.",
+      "releaseInfo": "2008",
+      "runtime": "97 min",
+      "genres": [
+        "Documentary",
+        "Music",
+        "Grunge & Alternative"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/45veMV65tfHjRRa5tdjdrkysf8z.jpg",
+      "imdbRating": "7.2"
+    },
+    {
+      "id": "tt0965382",
+      "type": "movie",
+      "name": "Tom Petty and the Heartbreakers: Runnin' Down a Dream",
+      "poster": "https://image.tmdb.org/t/p/w780/9mdIZkWQ1rGy3pTTDOHzx6DhY5X.jpg",
+      "posterShape": "poster",
+      "description": "Directed by Peter Bogdanovich and packed with rare concert footage and home movies, this documentary explores the history of Tom Petty and the Heartbreakers, including Petty's famous collaborations and notorious clashes with the record industry. Interviews with musical luminaries including Jackson Browne, George Harrison, Eddie Vedder, Roger McGuinn, Jeff Lynne, Dave Stewart and Petty himself shed some revelatory vision.",
+      "releaseInfo": "2007",
+      "runtime": "239 min",
+      "genres": [
+        "Documentary",
+        "Music",
+        "Grunge & Alternative"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/ybP8SRS6Xo90aKcnkbUQDZskjUB.jpg",
+      "imdbRating": "7.7"
+    },
+    {
+      "id": "tt0790769",
+      "type": "movie",
+      "name": "Kurt Cobain: About a Son",
+      "poster": "https://image.tmdb.org/t/p/w780/9BSHkt8VU2V22lCIewCqn4gJQVC.jpg",
+      "posterShape": "poster",
+      "description": "An intimate and moving meditation on the late musician and artist Kurt Cobain, based on more than 25 hours of previously unheard audiotaped interviews conducted with Cobain by noted music journalist Michael Azerrad for his book \"Come As You Are: The Story of Nirvana.\" In the film, Kurt Cobain recounts his own life - from his childhood and adolescence to his days of musical discovery and later dealings with explosive fame - and offers often piercing insights into his life, music, and times. The conversations heard in the film have never before been made public, and they reveal a highly personal portrait of an artist much discussed but not particularly well understood.",
+      "releaseInfo": "2007",
+      "runtime": "97 min",
+      "genres": [
+        "Documentary",
+        "Music",
+        "Grunge & Alternative"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/h2wvbEKgBpALcniJ4SP4fn1MlDX.jpg",
+      "imdbRating": "6.9"
+    },
+    {
+      "id": "tt0449121",
+      "type": "movie",
+      "name": "loudQUIETloud: A Film About the Pixies",
+      "poster": "https://image.tmdb.org/t/p/w780/haTQZD2MWhC1QoiJT6VgxaEVK2X.jpg",
+      "posterShape": "poster",
+      "description": "When college rock darlings the Pixies broke up in 1992, their fans were shocked and dismayed. When they reunited in 2004, those same fans and legions of new listeners were ecstatic and filled with high hopes. loudQUIETloud follows the rehearsals and live shows of the band as they struggle through the reunion tour \"Sell Out\"",
+      "releaseInfo": "2006",
+      "runtime": "85 min",
+      "genres": [
+        "Documentary",
+        "Music",
+        "Grunge & Alternative"
+      ],
+      "imdbRating": "6.6"
+    },
+    {
+      "id": "tt0424494",
+      "type": "movie",
+      "name": "There We Were, Now Here We Are... The Making of Oasis",
+      "poster": "https://image.tmdb.org/t/p/w780/iOhJwqwgP14eoX2CdHdL4FpajaM.jpg",
+      "posterShape": "poster",
+      "description": "A documentary made for television that looks back on the development and rapid rise of Oasis from being a band practicing nightly in the Boardwalk to one the biggest British bands of the last thirty years. Building from the formation of the band (with Liam apparently just fed up waiting for other bands to release records and decides to do something himself), the film uses contributions from key people really well to tell the story in an engaging way.",
+      "releaseInfo": "2004",
+      "runtime": "52 min",
+      "genres": [
+        "Documentary",
+        "Music",
+        "Grunge & Alternative"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/zhDbSCUWnZ6BQAIY9deot2DArBw.jpg",
+      "imdbRating": "8.0"
+    },
+    {
+      "id": "tt0358631",
+      "type": "movie",
+      "name": "Pavement: Slow Century",
+      "poster": "https://image.tmdb.org/t/p/w780/42ZDqdiEJp87ZOA8qeJP4TPateW.jpg",
+      "posterShape": "poster",
+      "description": "Documentary tracing the existence of noted rock band Pavement from 1989 to their final performance in late 1999. The first hour is the history of the band, the last 20 minutes is uninterrupted footage of the band’s final encore.",
+      "releaseInfo": "2002",
+      "runtime": "85 min",
+      "genres": [
+        "Documentary",
+        "Music",
+        "Grunge & Alternative"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/jbhg1ev3xqStPmOte0DUQM53o5g.jpg",
+      "imdbRating": "7.9"
+    },
+    {
+      "id": "tt0351127",
+      "type": "movie",
+      "name": "Jeff Buckley: Everybody Here Wants You",
+      "poster": "https://image.tmdb.org/t/p/w780/wA1PCrTEPfkf0xDaP4ahRmv6F2J.jpg",
+      "posterShape": "poster",
+      "description": "Retrospective look at the life and music of Jeff Buckley through the eyes of family, friends, and fans.",
+      "releaseInfo": "2002",
+      "runtime": "62 min",
+      "genres": [
+        "Documentary",
+        "Music",
+        "Grunge & Alternative"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/epO6PgTn9yYmJdEwkp7TDgdTcVq.jpg",
+      "imdbRating": "8.0"
+    },
+    {
+      "id": "tt0407602",
+      "type": "movie",
+      "name": "Blur: Live 13 & Bonus Footage",
+      "poster": "https://image.tmdb.org/t/p/w780/25MHODm86gjLEvVzPQ2JYF8RrHh.jpg",
+      "posterShape": "poster",
+      "description": "B.L.U.R.E.M.I., No Distance Left to Run, Tender, Battle, Beetlebum, Bugman, Trimm Trabb, Mellow Song & Song 2 (Live 13 at London Depot, 10 March 1999). Plus, Seymour - Dizzy, There's No Other Way BBC Live Version (1st TV Performance), To the End (La Comedie) with Francoise Hardy, It Could Be You, Music Is My Radar, Out of Time, Crazy Beat & Good Song (Promo Videos).",
+      "releaseInfo": "1999",
+      "runtime": "74 min",
+      "genres": [
+        "Documentary",
+        "Music",
+        "Grunge & Alternative"
+      ],
+      "imdbRating": "9.5"
+    },
+    {
       "id": "tt0268226",
       "type": "movie",
       "name": "Classic Albums: U2 - The Joshua Tree",
@@ -186,6 +790,56 @@
       ],
       "background": "https://image.tmdb.org/t/p/w1280/gBefONfD9unErBFAwc0dBGORhcW.jpg",
       "imdbRating": "6.5"
+    },
+    {
+      "id": "tt0183887",
+      "type": "movie",
+      "name": "Three Days",
+      "poster": "https://image.tmdb.org/t/p/w780/dOJPkYD8H15kZoBVKVP8egUjScH.jpg",
+      "posterShape": "poster",
+      "description": "Three Days is a feature film exploring the on-and-off-tour lives of Jane's Addiction. Set predominately on their 1997 'Relapse Tour', this docu-drama weaves audiences throughout the band's legacy in a colorful, fast-paced orgy of gritty backstage drama and rare musical performances",
+      "releaseInfo": "1999",
+      "runtime": "96 min",
+      "genres": [
+        "Documentary",
+        "Music",
+        "Grunge & Alternative"
+      ],
+      "imdbRating": "7.5"
+    },
+    {
+      "id": "tt0195909",
+      "type": "movie",
+      "name": "Meeting People Is Easy",
+      "poster": "https://image.tmdb.org/t/p/w780/3WtnnmgQNAZ2il10aW86haQI8g1.jpg",
+      "posterShape": "poster",
+      "description": "Meeting People Is Easy takes place during the promotion of Radiohead's 1997 release OK Computer, containing a collage of video clips, sound bites, and dialogue going behind the scenes with the band on their world tour, showing the eventual burn-out of the group as the world tour progresses. The inaugural show of the OK Computer tour began on 22 May 1997 in Barcelona, Spain.",
+      "releaseInfo": "1998",
+      "runtime": "95 min",
+      "genres": [
+        "Documentary",
+        "Music",
+        "Grunge & Alternative"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/aOAuDRx1xeztkhFB3yl37IrRD92.jpg",
+      "imdbRating": "7.5"
+    },
+    {
+      "id": "tt0138563",
+      "type": "movie",
+      "name": "Kurt & Courtney",
+      "poster": "https://image.tmdb.org/t/p/w780/m60KpD60vXOXjJXRjb4veX88Y8q.jpg",
+      "posterShape": "poster",
+      "description": "After rocker Kurt Cobain's death, ruled a suicide, a film crew arrives in Seattle to make a documentary. Director Nick Broomfield talks to lots of people. Portraits emerge: a shy, slight Kurt, weary of touring, embarrassed by fame, hooked on heroin; an out-going Courtney, dramatic, controlling, moving from groupie to star.",
+      "releaseInfo": "1998",
+      "runtime": "95 min",
+      "genres": [
+        "Documentary",
+        "Music",
+        "Grunge & Alternative"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/eAyVDKMf8Gg2DWLqpzrVxgrrQ0s.jpg",
+      "imdbRating": "6.0"
     }
   ]
 }

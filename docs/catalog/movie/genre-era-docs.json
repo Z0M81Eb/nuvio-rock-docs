@@ -1,6 +1,89 @@
 {
   "metas": [
     {
+      "id": "tt22941170",
+      "type": "movie",
+      "name": "CFNY: The Spirit of Radio",
+      "poster": "https://image.tmdb.org/t/p/w780/n9UTrNgrgS12XRxW2HL9oOY3kXe.jpg",
+      "posterShape": "poster",
+      "description": "In 1976, radio station CFNY 102.1FM went on the air, broadcast live from a modest suburban house just north of Toronto, and went on to become one of the most influential punk, new wave and alternative radio stations in the world. This is the story of their mission to bring the most exciting music in the world to the masses. It's also a story of the personalities, lawsuits, bankruptcies, concerts, and listener protests that went along with it.",
+      "releaseInfo": "2026",
+      "runtime": "86 min",
+      "genres": [
+        "Documentary",
+        "Music",
+        "Genres & Eras"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/oThZFxbmEKAjiEnJCo81cxkykFV.jpg",
+      "imdbRating": "8.5"
+    },
+    {
+      "id": "tt22754562",
+      "type": "movie",
+      "name": "Punk Rock Lottery",
+      "poster": "https://image.tmdb.org/t/p/w780/yaAEvTDtJjamZJHsmEsKjU5FCrT.jpg",
+      "posterShape": "poster",
+      "description": "Directed by Jacob Miguel, \"PUNK ROCK LOTTERY\" embarks on a mission to capture the rapid growth of an annual event known as \"The Punk Rock Lottery\" in Austin, Texas. What sets this film apart is its self-awareness, playfully breaking the fourth wall and transforming into an immersive journey through history and the creative process. The narrative builds its foundation by featuring insights from punk legends and influential figures who helped shape both the film and Austin itself.  As the story unfolds, it delves into the heart of the project as Jacob actively participates in the event, offering an inside look at the frenetic pace of life in a band. Through the experiences of over 30 characters, the film uncovers universal truths about creativity, camaraderie, and the struggles inherent in pursuing one's artistic passion.",
+      "releaseInfo": "2025",
+      "runtime": "90 min",
+      "genres": [
+        "Documentary",
+        "Music",
+        "Genres & Eras"
+      ]
+    },
+    {
+      "id": "tt21346810",
+      "type": "movie",
+      "name": "No Hamburg, No Beatles",
+      "poster": "https://image.tmdb.org/t/p/w780/jyxXoTAvoZt9FzgVS7d8ikMpsnO.jpg",
+      "posterShape": "poster",
+      "description": "“We were born in Liverpool but grew up in Hamburg”, John Lennon once said. This feature documentary seeks to find the truth in those words. The long and winding road that the Beatles took to worldwide fame passed through Hamburg, Germany in the early 1960s. Only a couple of years before they became household names, the former Quarrymen were cutting their musical teeth on nightclub stages in the city. Hamburg had become the vice capital of Europe after World War Two, its neon-lit streets home to sailors, sex workers, drug dealers, gangs and low life. Meanwhile, the English band was still developing, still young and virtually unknown. By the time of their last German visit in 1966, the Beatles were an international phenomenon. 'No Hamburg, No Beatles' explains how learning their trade in this fascinating city helped propel them to global stardom.",
+      "releaseInfo": "2024",
+      "runtime": "55 min",
+      "genres": [
+        "Documentary",
+        "Music",
+        "Genres & Eras"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/knmBxVqQOLbd8eqCelMjEUnbLID.jpg",
+      "imdbRating": "7.4"
+    },
+    {
+      "id": "tt10850264",
+      "type": "movie",
+      "name": "Squaring the Circle (The Story of Hipgnosis)",
+      "poster": "https://image.tmdb.org/t/p/w780/1ksxdRaNfsLMr6ml9s3sFfUk4ej.jpg",
+      "posterShape": "poster",
+      "description": "In 1968, art students Storm Thorgerson and Aubrey “Po” Powell made a trippy photo collage for their musician friends Syd, David and Roger. The resulting album and album cover, A Saucerful of Secrets, helped launch two careers: that of Pink Floyd, one of the 70s megabands, and of Hipgnosis, which, over the course of the next 25 years, designed a stream of iconic album covers.",
+      "releaseInfo": "2023",
+      "runtime": "100 min",
+      "genres": [
+        "Documentary",
+        "Music",
+        "Genres & Eras"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/zLIXyxOXccfn9hghdcHH86Hoca1.jpg",
+      "imdbRating": "7.4"
+    },
+    {
+      "id": "tt30387069",
+      "type": "movie",
+      "name": "Rock Chicks",
+      "poster": "https://image.tmdb.org/t/p/w780/4HYk7N9QNmNY7zDUeTrOb6PakyQ.jpg",
+      "posterShape": "poster",
+      "description": "Rock'n'roll was a man's world they say. The film documents the often ignored female impact on rock's history, from the groundbreaking guitar stylings of Memphis Minnie and Sister Rosetta to the gnarly singing of Big Mama Thornton. Musicians as different as Suzi Quatro and Kristin Hersh tell about their experiences on and off the grid of stardom and the music industry.",
+      "releaseInfo": "2023",
+      "runtime": "79 min",
+      "genres": [
+        "Documentary",
+        "Music",
+        "Genres & Eras"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/330inYN5VJSbwiTUTkEAPQqrmkg.jpg",
+      "imdbRating": "8.5"
+    },
+    {
       "id": "tt21217912",
       "type": "series",
       "name": "Trainwreck: Woodstock '99",
@@ -17,6 +100,88 @@
       "imdbRating": "7.3"
     },
     {
+      "id": "tt17669732",
+      "type": "series",
+      "name": "Women Who Rock",
+      "poster": "https://image.tmdb.org/t/p/w780/9blyC7YnzbscbDkCgq1ss2ctk88.jpg",
+      "posterShape": "poster",
+      "description": "A four-part docuseries that pays homage to the legion of women pioneers in music who have stormed the stage, wielded their instruments, and sung the soundtrack of our lives. Celebrating women artists, in their own words, on power, fame, truth, defiance, artistic expression, hard-won success, and most importantly, the insights and tales behind their anthemic music.",
+      "releaseInfo": "2022",
+      "genres": [
+        "Documentary",
+        "Music",
+        "Genres & Eras"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/gNes4LoWTbZV1wxg7q5uqFr9IuN.jpg",
+      "imdbRating": "9.0"
+    },
+    {
+      "id": "tt12624904",
+      "type": "series",
+      "name": "They All Came Out to Montreux",
+      "poster": "https://image.tmdb.org/t/p/w780/8zavbxcwOWCU2M7oHWo9S4qQXek.jpg",
+      "posterShape": "poster",
+      "description": "This documentary mini-series retraces the incredible story of Claude Nobs and his now legendary event, the Montreux Jazz Festival.\n\nWith over 70 performances and testimonials from: David Bowie, Ray Charles, Miles Davis, Deep Purple, Aretha Franklin, Gilberto Gil, Buddy Guy, Herbie Hancock, Alicia Keys, Questlove, Quincy Jones, John Mclaughlin, Marcus Miller, Prince, Rag’n’Bone Man, Keith Richards, Carlos Santana, Nina Simone, Sting, Shania Twain, Jack White and many more.",
+      "releaseInfo": "2022",
+      "genres": [
+        "Documentary",
+        "Music",
+        "Genres & Eras"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/zUSgDegZEOgcP4jUZ80SrP52AAX.jpg",
+      "imdbRating": "8.2"
+    },
+    {
+      "id": "tt30325991",
+      "type": "movie",
+      "name": "Bay Area Godfathers II",
+      "poster": "https://image.tmdb.org/t/p/w780/xrbf6i8N3Fs3JB8bXGNLwhfk0V9.jpg",
+      "posterShape": "poster",
+      "description": "The local hard rock and heavy metal scene in the San Francisco Bay area catapulted many groups to stardom, including Metallica, Exodus, and Testament",
+      "releaseInfo": "2021",
+      "runtime": "83 min",
+      "genres": [
+        "Documentary",
+        "Music",
+        "Genres & Eras"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/k1eyekp55biHMt0FGL5aTjKnPrP.jpg",
+      "imdbRating": "8.5"
+    },
+    {
+      "id": "tt14966042",
+      "type": "movie",
+      "name": "The History of Metal and Horror",
+      "poster": "https://image.tmdb.org/t/p/w780/xpGo52T2ks9dISWnFackLhkjtx.jpg",
+      "posterShape": "poster",
+      "description": "A documentary that explores the history of heavy metal music, horror films, and how the two genres have merged together over time.",
+      "releaseInfo": "2021",
+      "runtime": "101 min",
+      "genres": [
+        "Documentary",
+        "Music",
+        "Genres & Eras"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/msre31rgxzabjmKNGoXSHhtWRMR.jpg",
+      "imdbRating": "5.0"
+    },
+    {
+      "id": "tt8696966",
+      "type": "movie",
+      "name": "Long Live Rock... Celebrate the Chaos",
+      "poster": "https://image.tmdb.org/t/p/w780/ljEEiVmtzkidIEJRhLRGLD3cDM5.jpg",
+      "posterShape": "poster",
+      "description": "Featuring exclusive interviews with the leading titans of rock that include: Metallica, Guns N' Roses, Slipknot, Korn, Avenged Sevenfold, Rob Zombie, Five Finger Death Punch, Prophets Of Rage, Greta Van Fleet, Halestorm, and many, many more, \"Long Live Rock\" is a deep dive into the fandom of this often misunderstood but beloved genre of music.",
+      "releaseInfo": "2021",
+      "runtime": "83 min",
+      "genres": [
+        "Documentary",
+        "Music",
+        "Genres & Eras"
+      ],
+      "imdbRating": "6.1"
+    },
+    {
       "id": "tt14155414",
       "type": "series",
       "name": "This Is Pop",
@@ -31,6 +196,74 @@
       ],
       "background": "https://image.tmdb.org/t/p/w1280/hw6CdkZ0NOdnkFv6cJHHRI6qt3y.jpg",
       "imdbRating": "6.0"
+    },
+    {
+      "id": "tt10541126",
+      "type": "movie",
+      "name": "Rockfield : The Studio on the Farm",
+      "poster": "https://image.tmdb.org/t/p/w780/yDvoCGyffTuznlbBWzMHoos7LY8.jpg",
+      "posterShape": "poster",
+      "description": "50 years ago, deep in the Welsh countryside, two brothers were milking cows and preparing to take over the family farm but dreamed of making music. They had the audacious idea to build a studio in their farmhouse. Animals were kicked out of barns and musicians moved into Nan’s spare bedroom. Inadvertently, they’d launched the world’s first independent residential recording studio: Rockfield. Black Sabbath, Queen, Robert Plant, Iggy Pop, Simple Minds, The Stone Roses, Oasis, Coldplay and more made music and mayhem at Rockfield over the decades. This is their story of rock and roll dreams intertwined with a family business’s fight for survival in the face of an ever-changing music landscape.",
+      "releaseInfo": "2020",
+      "runtime": "91 min",
+      "genres": [
+        "Documentary",
+        "Music",
+        "Genres & Eras"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/vRYCqBxMV9bH5HLgI26b8xyA6kz.jpg",
+      "imdbRating": "7.0"
+    },
+    {
+      "id": "tt10795414",
+      "type": "movie",
+      "name": "The Rainbow",
+      "poster": "https://image.tmdb.org/t/p/w780/megNJVYcZNChv9JPqASrekPT0bQ.jpg",
+      "posterShape": "poster",
+      "description": "While the world around it has changed dramatically, The Rainbow Bar and Grill has remianed as one of the last bastions of true Rock n' Roll on Hollywood's famed Sunset Strip. Legendary musicians recount their stories from the iconic venue.",
+      "releaseInfo": "2019",
+      "runtime": "71 min",
+      "genres": [
+        "Documentary",
+        "Music",
+        "Genres & Eras"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/m6c00xOa6GWFz90l6O58tSXkG9z.jpg",
+      "imdbRating": "6.9"
+    },
+    {
+      "id": "tt9185816",
+      "type": "movie",
+      "name": "Woodstock: Three Days That Defined a Generation",
+      "poster": "https://image.tmdb.org/t/p/w780/ejPrzjG17UrYHjUn8xE3EAYnoDl.jpg",
+      "posterShape": "poster",
+      "description": "50 years after the legendary fest, Barak Goodman’s electric retelling of Woodstock, from the point of view of those who were on the ground, evokes the freedom, passion, community, and joy the three-day music festival created.",
+      "releaseInfo": "2019",
+      "runtime": "106 min",
+      "genres": [
+        "Documentary",
+        "Music",
+        "Genres & Eras"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/aXLcNxJI2JDdASNL6ZaNI0jWl2s.jpg",
+      "imdbRating": "7.3"
+    },
+    {
+      "id": "tt8884430",
+      "type": "movie",
+      "name": "Echo in the Canyon",
+      "poster": "https://image.tmdb.org/t/p/w780/58ppMUxWFKHnGXfZUoWhhi8CVMR.jpg",
+      "posterShape": "poster",
+      "description": "A look at the roots of the historic music scene in L.A.'s Laurel Canyon featuring the music of iconic music groups such as The Byrds, The Beach Boys, Buffalo Springfield, and The Mamas and the Papas.",
+      "releaseInfo": "2019",
+      "runtime": "82 min",
+      "genres": [
+        "Documentary",
+        "Music",
+        "Genres & Eras"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/gWsseHW73OOKvmZFoAff91xgj09.jpg",
+      "imdbRating": "6.8"
     },
     {
       "id": "tt9419282",
@@ -66,21 +299,37 @@
       "imdbRating": "7.9"
     },
     {
-      "id": "tt3913194",
+      "id": "tt9623334",
       "type": "movie",
-      "name": "Turn It Around: The Story of East Bay Punk",
-      "poster": "https://image.tmdb.org/t/p/w780/cGeKIwcfLxPojm6ODQ5Pn2pxonk.jpg",
+      "name": "Black Wave",
+      "poster": "https://image.tmdb.org/t/p/w780/6NFTLXm2ULooMLS2CDGKz3zdQp6.jpg",
       "posterShape": "poster",
-      "description": "Turn It Around: The Story of East Bay Punk spans over 30 years of the California Bay Area’s punk music history with a central focus on the emergence of the inspiring 924 Gilman Street collective. This diverse group of artists, writers, organizers and musicians created a do-it-yourself petri dish that changed the punk scene... and the world at large.",
-      "releaseInfo": "2017",
-      "runtime": "157 min",
+      "description": "In the conservative city of Munich, a local punk starts a record store. Inspiringly, the shop becomes a cultural hub for the worldwide punk community. BLACK WAVE is an intimate look at a resilient music scene set against the backdrop of today’s explosive politics.",
+      "releaseInfo": "2018",
+      "runtime": "85 min",
       "genres": [
         "Documentary",
         "Music",
         "Genres & Eras"
       ],
-      "background": "https://image.tmdb.org/t/p/w1280/ifEatursYAG6ZvpwFQrrbCN0cxS.jpg",
-      "imdbRating": "7.5"
+      "imdbRating": "5.0"
+    },
+    {
+      "id": "tt7238634",
+      "type": "movie",
+      "name": "Don't Break Down: A Film About Jawbreaker",
+      "poster": "https://image.tmdb.org/t/p/w780/pXBhmIFckGZwstr79Zoeor8Am2K.jpg",
+      "posterShape": "poster",
+      "description": "In 2007, 11 years after one of the most influential American punk bands, Jawbreaker, called it quits, the three members, Blake Schwarzenbach, Chris Bauermeister, and Adam Pfahler reconnect in a San Francisco recording studio to listen back to their albums, reminisce and even perform together one last time. Follow the band as they retell their \"rags to riches to rags\" story writhe with inner band turmoil, health issues, and the aftermath of signing to a major label. Featuring interviews with Billy Joe Armstrong, Steve Albini, Jessica Hopper, Graham Elliot, Chris Shifflet, Josh Caterer and more.",
+      "releaseInfo": "2017",
+      "runtime": "74 min",
+      "genres": [
+        "Documentary",
+        "Music",
+        "Genres & Eras"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/kH0M5oMYBgQaYczEO6ryFze0X8g.jpg",
+      "imdbRating": "8.2"
     },
     {
       "id": "tt6679242",
@@ -100,6 +349,189 @@
       "imdbRating": "7.3"
     },
     {
+      "id": "tt7689424",
+      "type": "movie",
+      "name": "Believer",
+      "poster": "https://image.tmdb.org/t/p/w780/rkR9BsoecpBAWknViMRnO42f43n.jpg",
+      "posterShape": "poster",
+      "description": "Imagine Dragons’ Mormon frontman Dan Reynolds is taking on a new mission to explore how the church treats its LGBTQ members. With the rising suicide rate amongst teens in the state of Utah, his concern with the church’s policies sends him on an unexpected path for acceptance and change.",
+      "releaseInfo": "2017",
+      "runtime": "102 min",
+      "genres": [
+        "Documentary",
+        "Music",
+        "Genres & Eras"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/4rVBkclzy2YQQBtsvbwBb34GQKV.jpg",
+      "imdbRating": "6.7"
+    },
+    {
+      "id": "tt6424820",
+      "type": "movie",
+      "name": "The Story of Skinhead",
+      "poster": "https://image.tmdb.org/t/p/w780/igM1fS4SQw5nP4fjHmmvJA1ye68.jpg",
+      "posterShape": "poster",
+      "description": "Don Letts examines the history of this notorious subculture in a fascinating documentary, which features interviews with members of different skinhead scenes through the decades. Beginning in the late 1960s, Don fondly recalls a time of multiracial harmony as youngsters bonded over a love of ska, reggae and smart clothes as white working-class kids were attracted to Jamaican culture and adopted its music and fashions. But when far-right politics targeted skinheads in the 1970s and 1980s, an ugly intolerance emerged, and Don reveals how the once-harmonious subgroup has since struggled to shake this stigma.",
+      "releaseInfo": "2016",
+      "runtime": "60 min",
+      "genres": [
+        "Documentary",
+        "Music",
+        "Genres & Eras"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/90xhRhZ1HzWbHRGywdrtixKa4Tv.jpg",
+      "imdbRating": "8.0"
+    },
+    {
+      "id": "tt2531318",
+      "type": "movie",
+      "name": "The Beatles: Eight Days a Week - The Touring Years",
+      "poster": "https://image.tmdb.org/t/p/w780/A6q7Jy4vXgXXoCoHX4lpCaKvcMV.jpg",
+      "posterShape": "poster",
+      "description": "The Beatles stormed through Europe's music scene in 1963, and, in 1964, they conquered America. Their groundbreaking world tours changed global youth culture forever and, arguably, invented mass entertainment as we know it today. All the while, the group were composing and recording a series of extraordinarily successful singles and albums. However the relentless pressure of such unprecedented fame, that in 1966 became uncontrollable turmoil, led to the decision to stop touring. In the ensuing years The Beatles were then free to focus on a series of albums that changed the face of recorded music.",
+      "releaseInfo": "2016",
+      "runtime": "106 min",
+      "genres": [
+        "Documentary",
+        "Music",
+        "Genres & Eras"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/2qQ93RRTwNv7aTL9fafT3sPAVAy.jpg",
+      "imdbRating": "7.5"
+    },
+    {
+      "id": "tt5876324",
+      "type": "movie",
+      "name": "EMI: The Inside Story",
+      "poster": "https://image.tmdb.org/t/p/w780/whQAW6V6STp0saB6RuTZs9FB7Qj.jpg",
+      "posterShape": "poster",
+      "description": "One record company has been a constant presence in popular music throughout our lives.  EMI brought The Beatles to the world and in every decade since has been instrumental in producing some of Britain's most celebrated and enduring music.",
+      "releaseInfo": "2016",
+      "runtime": "60 min",
+      "genres": [
+        "Documentary",
+        "Music",
+        "Genres & Eras"
+      ],
+      "imdbRating": "6.5"
+    },
+    {
+      "id": "tt5591236",
+      "type": "movie",
+      "name": "The Smart Studios Story",
+      "poster": "https://image.tmdb.org/t/p/w780/1pwnMKCxjWKf1S8vmpPVzhtYPCP.jpg",
+      "posterShape": "poster",
+      "description": "The post-70’s explosion of independent music in America has many traceable roots, each with a compelling story. One of its most significant has never been told until now. Drawing on never-before-seen archival footage, in-depth-interviews with musicians and producers, and a mighty soundtrack, THE SMART STUDIOS STORY reveals the pivotal Midwest link to the global rise of 1990's Alternative Rock and the unassuming Madison, Wisconsin recording studio at its center. If you’ve ever been touched by the music of Nirvana, Smashing Pumpkins, Garbage, L7 or their peers, you’ve been touched by the music created at Smart Studios, the legendary recording facility founded by Butch Vig and Steve Marker.",
+      "releaseInfo": "2016",
+      "runtime": "81 min",
+      "genres": [
+        "Documentary",
+        "Music",
+        "Genres & Eras"
+      ],
+      "imdbRating": "8.0"
+    },
+    {
+      "id": "tt5080988",
+      "type": "movie",
+      "name": "The Most Dangerous Band In The World: The Story of Guns N’ Roses",
+      "poster": "https://image.tmdb.org/t/p/w780/8kru7jmoFtDA7CDMZkIu83hyclX.jpg",
+      "posterShape": "poster",
+      "description": "Never-before-seen video footage of Guns N' Roses in their formative years, and how they climbed the charts from the gutters of Hollywood's Sunset Strip. The film tells the story of how the band came from playing bars on the Sunset Strip in Los Angeles to stadiums across the world and has been compiled from a host of exclusive interviews and the early footage of GNR fan and friend Marc Canter.  Interview subjects include Slash, drummer Steven Adler, former manager Vicky Hamilton, Whisky A Go Go owner Mario Maglieri.  Marc Canter has also said there is a full-cinema biopic (with actors) in the works.",
+      "releaseInfo": "2016",
+      "runtime": "90 min",
+      "genres": [
+        "Documentary",
+        "Music",
+        "Genres & Eras"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/zyLOGmKhbksEQJl94vbmMA6P31p.jpg",
+      "imdbRating": "8.0"
+    },
+    {
+      "id": "tt4024202",
+      "type": "movie",
+      "name": "Soaring Highs and Brutal Lows: The Voices of Women in Metal",
+      "poster": "https://image.tmdb.org/t/p/w780/wiu6zCQyVW40r7jEmN9zPAMZwko.jpg",
+      "posterShape": "poster",
+      "description": "Celebrates the stories of eight female vocalists in the heavy metal genre. Through personal interviews, behind the scenes insights, and concert footage, these women describe in their own words, their choices, their lives, and the hardships and triumphs of being center stage in what is widely perceived as a male-dominated music scene.",
+      "releaseInfo": "2015",
+      "runtime": "93 min",
+      "genres": [
+        "Documentary",
+        "Music",
+        "Genres & Eras"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/2fPRE2wZEpin65vcFT2kcHMn8FK.jpg",
+      "imdbRating": "7.0"
+    },
+    {
+      "id": "tt3417444",
+      "type": "movie",
+      "name": "Big Gold Dream: Scottish Post-Punk and Infiltrating the Mainstream",
+      "poster": "https://image.tmdb.org/t/p/w780/xkg1RITrcmc8iacRlG3XdL3oA5e.jpg",
+      "posterShape": "poster",
+      "description": "Documentary on the independent Edinburgh record label Fast Product and Postcard Records and associated bands like Fire Engines, Scars and Josef K",
+      "releaseInfo": "2015",
+      "runtime": "94 min",
+      "genres": [
+        "Documentary",
+        "Music",
+        "Genres & Eras"
+      ],
+      "imdbRating": "6.0"
+    },
+    {
+      "id": "tt3606298",
+      "type": "movie",
+      "name": "Industrial Soundtrack for the Urban Decay",
+      "poster": "https://image.tmdb.org/t/p/w780/paparoduZeWWLNGn2fa6H9Xj3c0.jpg",
+      "posterShape": "poster",
+      "description": "Industrial Soundtrack For The Urban Decay traces the origins of Industrial music, taking you on a journey through the crumbling industrial cities of Europe to America's thriving avant-garde scene.  Featuring Throbbing Gristle, Cabaret Voltaire, NON, SPK, Test Dept, Clock DVA, Re/Search - V Vale, Z'EV, Click Click, Sordide Sentimental, Hula, The Klinik, Ant Zen, Orphx, In The Nursery and Prima Linea.",
+      "releaseInfo": "2015",
+      "runtime": "52 min",
+      "genres": [
+        "Documentary",
+        "Music",
+        "Genres & Eras"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/4hcYRnJUq92H5Xc4JidlcbCoGwo.jpg",
+      "imdbRating": "6.2"
+    },
+    {
+      "id": "tt4468132",
+      "type": "movie",
+      "name": "Orion: The Man Who Would Be King",
+      "poster": "https://image.tmdb.org/t/p/w780/77jtA8aO0GYQwr5MXdL1kaxOGoE.jpg",
+      "posterShape": "poster",
+      "description": "August 16, 1977. All of America was stunned by the news of Elvis Presley's untimely passing. Some went so far as to believe that it couldn't be true. Somehow he had faked his death. For the executives at Sun Records that fantasy became an opportunity in the form of Orion, a mysterious masked performer with the voice of The King. First appearing in 1979, Orion recorded 11 albums and performed live to packed houses and rapturous fans around the nation. But who was the man behind the mask?  In this stranger-than-fiction true story, Jeanie Finlay exposes the incredible life of an unknown singer plucked from obscurity and thrust into the spotlight with the complicity of a manipulative music industry and a public fan base unwilling to let The King go. Resonant in its themes of identity, fate, and the double-edged nature of fame, Orion is a stylish mystery story that finally gives a name and a face to a gifted artist who had been unjustly deprived of both.",
+      "releaseInfo": "2015",
+      "runtime": "86 min",
+      "genres": [
+        "Documentary",
+        "Music",
+        "Genres & Eras"
+      ],
+      "imdbRating": "7.0"
+    },
+    {
+      "id": "tt3905662",
+      "type": "movie",
+      "name": "Salad Days: A Decade of Punk in Washington, DC (1980-90)",
+      "poster": "https://image.tmdb.org/t/p/w780/2GfEkcbTzoZMmevgt1lG09vWKzP.jpg",
+      "posterShape": "poster",
+      "description": "\"Salad Days: A Decade of Punk in Washington, DC (1980-90)\" examines the early DIY punk scene in the Nation's Capital. It was a decade when seminal bands like Bad Brains, Minor Threat, Government Issue, Scream, Void, Faith, Rites of Spring, Marginal Man, Fugazi, and others released their own records and booked their own shows-without major record label constraints or mainstream media scrutiny. Contextually, it was a cultural watershed that predated the alternative music explosion of the 1990s (and the industry's subsequent implosion). Thirty years later, DC's original DIY punk spirit serves as a reminder of the hopefulness of youth, the power of community and the strength of conviction.",
+      "releaseInfo": "2015",
+      "runtime": "103 min",
+      "genres": [
+        "Documentary",
+        "Music",
+        "Genres & Eras"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/srt5bYfWCdRaXScLOE828TH6wOy.jpg",
+      "imdbRating": "6.9"
+    },
+    {
       "id": "tt4485246",
       "type": "movie",
       "name": "Danny Says",
@@ -115,6 +547,89 @@
       ],
       "background": "https://image.tmdb.org/t/p/w1280/a5WufTRhakSX8SFLzCpGz6xoUNq.jpg",
       "imdbRating": "7.0"
+    },
+    {
+      "id": "tt3743374",
+      "type": "movie",
+      "name": "Morphine: Journey of Dreams",
+      "poster": "https://image.tmdb.org/t/p/w780/jKX5yGmHPzleMFEZI0bAl3rETeB.jpg",
+      "posterShape": "poster",
+      "description": "The band Morphine blazed like a comet across the global music scene in the 1990s with its innovative “Low Rock” sound. Fronted by two-string bassist/vocalist/songwriter Mark Sandman, the trio rose from local Boston clubs to indie and major label record deals, international touring, and wide critical acclaim until their tragic and untimely demise in 1999. In “Morphine: Journey of Dreams,” the group’s surviving members and associates tell their story intercut with passages from saxophonist Dana Colley’s vivid tour journals. Rare live performances from throughout their career woven into the story display why their unique and mesmeric sound continues to resonate with music lovers today. This artfully- delivered documentary doesn’t just get behind but rather inside the music and the soul of the group to honor Morphine’s notable artistic achievements and the creative bond the musicians shared. (LVFF)",
+      "releaseInfo": "2014",
+      "runtime": "93 min",
+      "genres": [
+        "Documentary",
+        "Music",
+        "Genres & Eras"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/8n3Vh47HtFUVQRwSsb1RIXzjuuG.jpg",
+      "imdbRating": "7.2"
+    },
+    {
+      "id": "tt3124986",
+      "type": "movie",
+      "name": "Frank Zappa – Summer '82: When Zappa Came to Sicily",
+      "poster": "https://image.tmdb.org/t/p/w780/xvHdkv6zOG0raF5OJhJfsoACdBD.jpg",
+      "posterShape": "poster",
+      "description": "In the feature documentary, Summer 82 – When Zappa Came to Sicily, filmmaker and Zappa fan Salvo Cuccia tells the behind-the-scenes story of Frank Zappa's star-crossed concert in Palermo, Sicily, the wrap-up to a European tour that ended in public disturbances and police intervention. Cuccia had a ticket to the concert but never made it.  Thirty years later, collaborating with Zappa's family, he re-creates the events through a combination of rare concert and backstage footage; photographs; anecdotes from family, band members, and concertgoers; and insights from Zappa biographer and friend Massimo Bassoli. The story is also a personal one, as Cuccia interweaves the story of Zappa's trip to Sicily with his own memories from that summer.",
+      "releaseInfo": "2014",
+      "runtime": "81 min",
+      "genres": [
+        "Documentary",
+        "Music",
+        "Genres & Eras"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/p9sLva1ocp9li0aICil8H5FHuCi.jpg",
+      "imdbRating": "7.4"
+    },
+    {
+      "id": "tt2974068",
+      "type": "movie",
+      "name": "Looking for Johnny",
+      "poster": "https://image.tmdb.org/t/p/w780/65KQv4HWhw4csFCo5A3WspzTzvZ.jpg",
+      "posterShape": "poster",
+      "description": "Johnny Thunders was the legendary hard-living rock'n'roll guitarist who inspired glam-metal, punk and the music scene in general. 'Looking For Johnny' is a 90-minute film that documents Thunders' career from his beginnings to his tragic death in 1991.  The film examines Johnny Thunders' career from the early 70's as a founding member of the influential New York Dolls; the birth of the punk scene with The Heartbreakers in New York City and London; Gang War and The Oddballs. It also explores Johnny's unique musical style, his personal battle with drugs and theories on his death in a New Orleans hotel in 1991 at age 38. The film includes forty songs with historic film of Johnny, including unseen New York Dolls and Heartbreakers footage and photos. Cult filmmakers Bob Gruen, Don Letts, Patrick Grandperret, Rachael Amadeo and others contribute classic archive footage.",
+      "releaseInfo": "2014",
+      "runtime": "94 min",
+      "genres": [
+        "Documentary",
+        "Music",
+        "Genres & Eras"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/m9sGQLgATWTE2ne8cvvXoS9jF6J.jpg",
+      "imdbRating": "6.6"
+    },
+    {
+      "id": "tt3511442",
+      "type": "movie",
+      "name": "What Difference Does It Make?",
+      "poster": "https://image.tmdb.org/t/p/w780/4ygJTGZCE7bt8m06pwkzr6oRMm0.jpg",
+      "posterShape": "poster",
+      "description": "A documentary that explores the challenges that a life in music can bring.",
+      "releaseInfo": "2014",
+      "runtime": "95 min",
+      "genres": [
+        "Documentary",
+        "Music",
+        "Genres & Eras"
+      ],
+      "imdbRating": "5.1"
+    },
+    {
+      "id": "tt3458236",
+      "type": "movie",
+      "name": "Lambert & Stamp",
+      "poster": "https://image.tmdb.org/t/p/w780/e983eWlwSjTEMAPV8WboStCq34E.jpg",
+      "posterShape": "poster",
+      "description": "In this crazy, chaotic gospel of chance, aspiring filmmakers Chris Stamp and Kit Lambert set out to search for a subject for their underground movie, leading them to discover, mentor, and manage the iconic band the Who and create rock 'n' roll history.",
+      "releaseInfo": "2014",
+      "runtime": "120 min",
+      "genres": [
+        "Documentary",
+        "Music",
+        "Genres & Eras"
+      ],
+      "imdbRating": "7.1"
     },
     {
       "id": "tt2306745",
@@ -134,6 +649,57 @@
       "imdbRating": "7.4"
     },
     {
+      "id": "tt1610013",
+      "type": "movie",
+      "name": "Can't Stand Losing You: Surviving The Police",
+      "poster": "https://image.tmdb.org/t/p/w780/b6esoeyPX5sKsvickaqD54dGZSJ.jpg",
+      "posterShape": "poster",
+      "description": "Based on the acclaimed memoir by renowned guitarist Andy Summers, Can’t Stand Losing You: Surviving The Police follows Summers’ journey from his early days in the psychedelic ‘60s music scene, when he played with The Animals, to chance encounters with drummer Stewart Copeland and bassist Sting, which led to the formation of a new wave trio, The Police.  The band’s phenomenal rise and its highly publicized dissolution at the height of their fame in the early ’80s captured by Summers’ camera.  Utilizing rare archival footage, Summers’ photos, and insights from the guitarist’s side of the stage, Can’t Stand Losing You brings together past and present as the band members prepare to reunite for the first time in two decades later for a global reunion tour in 2007.",
+      "releaseInfo": "2012",
+      "runtime": "83 min",
+      "genres": [
+        "Documentary",
+        "Music",
+        "Genres & Eras"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/9vnCnCQPRXjE6Ub3IhZFUAAI3R1.jpg",
+      "imdbRating": "6.4"
+    },
+    {
+      "id": "tt1996339",
+      "type": "movie",
+      "name": "No Room for Rockstars",
+      "poster": "https://image.tmdb.org/t/p/w780/306qRhWDB0rqRVWaNT40pNB5u48.jpg",
+      "posterShape": "poster",
+      "description": "With more than 300 hours of film shot during the 2010 Tour, 'No Room for Rockstars' documents the true stories of modern era rock and roll . From the kids traveling cross country in a van playing parking lots to gain notice, to the veteran stage manager whose life was saved by the Tour, to the musician who crosses over to mainstream success while on the road.",
+      "releaseInfo": "2012",
+      "runtime": "103 min",
+      "genres": [
+        "Documentary",
+        "Music",
+        "Genres & Eras"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/1BsNiX0pRzaAmtcIXdOuSJyovZv.jpg",
+      "imdbRating": "8.0"
+    },
+    {
+      "id": "tt1821635",
+      "type": "movie",
+      "name": "The Ballad of Genesis and Lady Jaye",
+      "poster": "https://image.tmdb.org/t/p/w780/mlmc7MoSVjs3tQeYtJ8JojYKPHD.jpg",
+      "posterShape": "poster",
+      "description": "An intimate, affecting portrait of the life and work of ground-breaking performance artist and music pioneer Genesis Breyer P-Orridge (Throbbing Gristle, Psychic TV +) and their wife and collaborator, Lady Jaye, centered around the daring sexual transformations the pair underwent for their 'Pandrogyne' project.",
+      "releaseInfo": "2012",
+      "runtime": "72 min",
+      "genres": [
+        "Documentary",
+        "Music",
+        "Genres & Eras"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/gfLfZvzVMkstbAeKEfaKuARB21P.jpg",
+      "imdbRating": "6.8"
+    },
+    {
       "id": "tt1978940",
       "type": "series",
       "name": "Metal Evolution",
@@ -150,21 +716,38 @@
       "imdbRating": "8.1"
     },
     {
-      "id": "tt1977894",
+      "id": "tt0870210",
       "type": "movie",
-      "name": "Queen: Days of Our Lives",
-      "poster": "https://image.tmdb.org/t/p/w780/bsWSDe7bJATCJpXIeDB9bjVRXEp.jpg",
+      "name": "All Tomorrow's Parties",
+      "poster": "https://image.tmdb.org/t/p/w780/zknQaZysLZUG8SRiVAUSGubHhDM.jpg",
       "posterShape": "poster",
-      "description": "In 1971, four college students got together to form a rock band. Since then, that certain band called Queen have released 26 albums and sold over 300 million records worldwide. The popularity of Freddie Mercury, Brian May, Roger Taylor and John Deacon is stronger than ever 40 years on. But it was no bed of roses. No pleasure cruise. Queen had their share of kicks in the face, but they came through and this is how they did it, set against the backdrop of brilliant music and stunning live performances from every corner of the globe. In this film, for the first time, it is the band that tells their story. Featuring brand new interviews with the band and unseen archive footage (including their recently unearthed, first ever TV performance), it is a compelling story told with intelligence, wit, plenty of humor and painful honesty.",
-      "releaseInfo": "2011",
-      "runtime": "120 min",
+      "description": "Covers the history of the long running All Tomorrow's Parties music festival, utilizing footage generated by the fans and musicians attending the events themselves, on a multitude of formats including Super8, camcorder and mobile phone.",
+      "releaseInfo": "2009",
+      "runtime": "82 min",
       "genres": [
         "Documentary",
         "Music",
         "Genres & Eras"
       ],
-      "background": "https://image.tmdb.org/t/p/w1280/dXl3zlrPYA1f3rikYsZIAlC7B6X.jpg",
-      "imdbRating": "8.1"
+      "background": "https://image.tmdb.org/t/p/w1280/vblPnZEORJL2cONX1c4NvgEx6zq.jpg",
+      "imdbRating": "6.5"
+    },
+    {
+      "id": "tt1014809",
+      "type": "movie",
+      "name": "Until the Light Takes Us",
+      "poster": "https://image.tmdb.org/t/p/w780/sPg2fepwnhGzhRbVZ7bYoneOYaK.jpg",
+      "posterShape": "poster",
+      "description": "Chronicles the history, ideology and aesthetic of Norwegian black metal, a musical subculture infamous as much for a series of murders and church arsons as it is for its unique musical and visual aesthetics. This is the first film to truly shed light on a movement that has heretofore been shrouded by rumor and obscured by inaccurate and shallow depictions. Featuring exclusive interviews with the musicians themselves, Until the Light Takes Us explores every aspect of the controversial movement that has captured the attention of the world.",
+      "releaseInfo": "2008",
+      "runtime": "93 min",
+      "genres": [
+        "Documentary",
+        "Music",
+        "Genres & Eras"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/tTOYeamnYF9K0u7y1yj209H6Nad.jpg",
+      "imdbRating": "6.8"
     },
     {
       "id": "tt1249171",
@@ -184,6 +767,71 @@
       "imdbRating": "7.3"
     },
     {
+      "id": "tt1632700",
+      "type": "movie",
+      "name": "If It Ain't Stiff: The Stiff Records Story",
+      "poster": "https://image.tmdb.org/t/p/w780/ndsEe5yjk1j3mW6Yd32xNnpbBZx.jpg",
+      "posterShape": "poster",
+      "description": "Adrian Edmondson narrates a documentary chronicling the story of Stiff Records, a tiny independent that took music out of the boardroom and gave it back to the fans. Stiff's successes included Nick Lowe, the Damned, Elvis Costello, Ian Dury, Madness, Tracey Ullman and the Pogues. Contributors include Captain Sensible, Jonathan Ross, Suggs, Shane MacGowan and label founders Jake Riviera and Dave Robinson.",
+      "releaseInfo": "2007",
+      "runtime": "90 min",
+      "genres": [
+        "Documentary",
+        "Music",
+        "Genres & Eras"
+      ],
+      "imdbRating": "7.0"
+    },
+    {
+      "id": "tt1346294",
+      "type": "movie",
+      "name": "Once Upon a Time in Norway",
+      "poster": "https://image.tmdb.org/t/p/w780/jy6ASb7JPllJrCw0p6mlK904bM3.jpg",
+      "posterShape": "poster",
+      "description": "Interviews with central members of early Norwegian black metal bands about Mayhem, the early black metal scene and the crimes they committed.",
+      "releaseInfo": "2007",
+      "runtime": "60 min",
+      "genres": [
+        "Documentary",
+        "Music",
+        "Genres & Eras"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/dKWTqlnDbGZ8nAqu0xGRHGf1Y3o.jpg",
+      "imdbRating": "6.8"
+    },
+    {
+      "id": "tt0350002",
+      "type": "movie",
+      "name": "Punk's Not Dead",
+      "poster": "https://image.tmdb.org/t/p/w780/gcqqxXFBfRMo5hDsyUVtzU57zBc.jpg",
+      "posterShape": "poster",
+      "description": "On the edge of the 30th anniversary of punk rock, Punk's Not Dead takes you into the sweaty underground clubs, backyard parties, recording studios, shopping malls and stadiums where punk rock music and culture continue to thrive.",
+      "releaseInfo": "2007",
+      "runtime": "93 min",
+      "genres": [
+        "Documentary",
+        "Music",
+        "Genres & Eras"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/cEub49VwJymNmOFxmfRCcnlYKsI.jpg",
+      "imdbRating": "6.1"
+    },
+    {
+      "id": "tt2168250",
+      "type": "movie",
+      "name": "924 Gilman Street",
+      "poster": "https://image.tmdb.org/t/p/w780/pMzdOktFse2YBqXNRcWkv1HN2KI.jpg",
+      "posterShape": "poster",
+      "description": "Starting with its inception in 1986, the all-ages nonprofit punk venue at 924 Gilman St. in Berkeley, Calif., was a mainstay of a thriving music scene. In this punk-tastic documentary, filmmaker Jack Curran takes a loving look at the historic club. Chronicling the DIY roots of the volunteer-run establishment, the program features interviews with Jello Biafra, Ian McKaye, Lars Frederickson and Matt Freeman, as well as many live performances.",
+      "releaseInfo": "2007",
+      "runtime": "86 min",
+      "genres": [
+        "Documentary",
+        "Music",
+        "Genres & Eras"
+      ]
+    },
+    {
       "id": "tt0419434",
       "type": "movie",
       "name": "American Hardcore",
@@ -199,6 +847,39 @@
       ],
       "background": "https://image.tmdb.org/t/p/w1280/suJ3beeMSJgGKwPtIFcHaFw79OI.jpg",
       "imdbRating": "6.9"
+    },
+    {
+      "id": "tt0464022",
+      "type": "movie",
+      "name": "Glastonbury",
+      "poster": "https://image.tmdb.org/t/p/w780/ihJyqShaUOJdAzFu9NO5gYgHpnO.jpg",
+      "posterShape": "poster",
+      "description": "Julien Temple's 2006 documentary film about the famous music festival from 1970 to 2005, featuring performances from artists such as David Bowie, Bjork, Blur, Oasis and Coldplay. The film is made up of footage shot by Temple at the festival in 2002, 2003, 2004 and 2005, as well as footage sent in by festival goers after a request on websites and newspapers for footage. Temple had initially only agreed to make a film of the 2002 festival after organiser Michael Eavis expressed concern that that would be the last year of the festival. Temple then realised that he wanted to make a film detailing the full history of the festival. The film also includes footage shot by Channel 4 and the BBC during their coverage of the festival since 1994. Text from Wikipedia.",
+      "releaseInfo": "2006",
+      "runtime": "135 min",
+      "genres": [
+        "Documentary",
+        "Music",
+        "Genres & Eras"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/dPSPwTj72HgXmZh5dKK6PV3JrBE.jpg",
+      "imdbRating": "5.5"
+    },
+    {
+      "id": "tt0838250",
+      "type": "movie",
+      "name": "Beijing Bubbles",
+      "poster": "https://image.tmdb.org/t/p/w780/rcdn7R76GIshYkUCG2gT79tyviA.jpg",
+      "posterShape": "poster",
+      "description": "Beijing Bubbles is a portrait of the punk and rock scene in Beijing, which as a subculture is barely recognized there. Center stage of the film takes not only the music, but first of all the attitude to life of the young musicians who deny consumerism and pressure to perform well. The Berlin filmmakers Susanne Messmer and George Lindt go on a ramble through the musical underground of Beijing and thereby meet people, who give them naturally and spontaneously an up-front insight in their daily live. Kind of a video diary it gives insight in a counter culture hardly anyone would assume in an authoritarian state like the People's Republic of China.",
+      "releaseInfo": "2006",
+      "runtime": "80 min",
+      "genres": [
+        "Documentary",
+        "Music",
+        "Genres & Eras"
+      ],
+      "imdbRating": "6.0"
     },
     {
       "id": "tt0478209",
@@ -218,6 +899,40 @@
       "imdbRating": "7.6"
     },
     {
+      "id": "tt0441758",
+      "type": "movie",
+      "name": "The Fearless Freaks",
+      "poster": "https://image.tmdb.org/t/p/w780/6cts8yAGUn69v2ZYsRIOQcQFf9t.jpg",
+      "posterShape": "poster",
+      "description": "Equal parts punk and psychedelia, the Flaming Lips emerged from Oklahoma City as one of the most bracing bands of the late 1980s. The Fearless Freaks documents their rise from Butthole Surfers-imitating noisemakers to grand poobahs of orchestral pop masterpieces. Filmmaker Bradley Beesely had the good fortune of living in the same neighborhood as lead Lip Wayne Coyne, who quickly enlisted his buddy to document his band's many concerts and assorted exploits. The early footage is a riot, with tragic hair styles on proud display as the boys attempt to cover up their lack of natural talent with sheer volume. During one show, they even have a friend bring a motorcycle on stage, which is then miked for sound and revved throughout the performance, clearing the club with toxic levels of carbon monoxide. Great punk rock stuff. Interspersed among the live bits are interviews with the band's family and friends, revealing the often tragic circumstances of their childhoods and early career.",
+      "releaseInfo": "2005",
+      "runtime": "100 min",
+      "genres": [
+        "Documentary",
+        "Music",
+        "Genres & Eras"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/aiSyJKRLDj4JdgbOuiXrvFKuEUs.jpg",
+      "imdbRating": "7.1"
+    },
+    {
+      "id": "tt0436727",
+      "type": "movie",
+      "name": "Rock School",
+      "poster": "https://image.tmdb.org/t/p/w780/9yyIDpDoq5MBVFqZGvaPg4dAeAK.jpg",
+      "posterShape": "poster",
+      "description": "It is about a music school in Philadelphia, The Paul Green School of Rock Music, run by Paul Green that teaches kids ages 9 to 17 how to play rock music and be rock stars. Paul Green teaches his students how to play music such as Black Sabbath and Frank Zappa better than anyone expects them to by using a unique style of teaching that includes getting very angry and acting childish.",
+      "releaseInfo": "2005",
+      "runtime": "93 min",
+      "genres": [
+        "Documentary",
+        "Music",
+        "Genres & Eras"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/kxUIsz05ATz4PAe16dbLd6FZPjJ.jpg",
+      "imdbRating": "6.3"
+    },
+    {
       "id": "tt0387412",
       "type": "movie",
       "name": "Metallica: Some Kind of Monster",
@@ -233,6 +948,123 @@
       ],
       "background": "https://image.tmdb.org/t/p/w1280/kVlnObukrKh1vyAuLyHGdsCxJNH.jpg",
       "imdbRating": "7.1"
+    },
+    {
+      "id": "tt0413644",
+      "type": "movie",
+      "name": "A to Zeppelin: The Story of Led Zeppelin",
+      "poster": "https://image.tmdb.org/t/p/w780/5PaV8ySOK0ndOckGIbIvJlMil5F.jpg",
+      "posterShape": "poster",
+      "description": "The Led Zeppelin Story documents the colorful and outrageous history of rock's heaviest band. This unique DVD features candid interviews with long-time tour manager Richard Cole, members of The Yardbirds, Bad Company, The Ramones, Foreigner, Vanilla Fudge, engineer Andy Johns, ex-girlfriends, Lori Mattix and Pamela Des Barres and more. Rare archival interview footage with John Bonham, Jimmy Page, Robert Plant and manager Peter Grant, along with rare photos spanning the \"New Yardbirds\" era through the breakup of Led Zeppelin illustrates their fascinating story.",
+      "releaseInfo": "2004",
+      "runtime": "55 min",
+      "genres": [
+        "Documentary",
+        "Music",
+        "Genres & Eras"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/wvj1jHWZd4Z90ebTx13CwgTLSVC.jpg",
+      "imdbRating": "6.2"
+    },
+    {
+      "id": "tt0372279",
+      "type": "movie",
+      "name": "Festival Express",
+      "poster": "https://image.tmdb.org/t/p/w780/5ehULJQMNCdASy2i7jaTbcIvQKA.jpg",
+      "posterShape": "poster",
+      "description": "The filmed account of a large Canadian rock festival train tour boasting major acts.  In the summer of 1970, a chartered train crossed Canada carrying some of the world's greatest rock bands. The Grateful Dead, Janis Joplin, The Band, Buddy Guy, and others lived (and partied) together for five days, stopping in major cities along the way to play live concerts. Their journey was filmed.",
+      "releaseInfo": "2003",
+      "runtime": "90 min",
+      "genres": [
+        "Documentary",
+        "Music",
+        "Genres & Eras"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/ltI7NLGZB5TR0C9zdCW2BEMiVGr.jpg",
+      "imdbRating": "7.1"
+    },
+    {
+      "id": "tt0327920",
+      "type": "movie",
+      "name": "I Am Trying to Break Your Heart: A Film About Wilco",
+      "poster": "https://image.tmdb.org/t/p/w780/fM4eEtfq0Nsvz6gi6t8UpC4Xdhq.jpg",
+      "posterShape": "poster",
+      "description": "A documentary by photographer Sam Jones documenting American rock band Wilco recording their fourth album Yankee Hotel Foxtrot. Originally intended as a showcase of the band's creative process, the film crew catches unexpected complications between the band and its record label and problems among the band members themselves.",
+      "releaseInfo": "2002",
+      "runtime": "92 min",
+      "genres": [
+        "Documentary",
+        "Music",
+        "Genres & Eras"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/7Oix1MrIQtp4AhrBd6KRn6hDJ2N.jpg",
+      "imdbRating": "7.6"
+    },
+    {
+      "id": "tt0230803",
+      "type": "movie",
+      "name": "Songs for Cassavetes",
+      "poster": "https://image.tmdb.org/t/p/w780/jtg9mbT84HvgVJg2usbQekHVnlJ.jpg",
+      "posterShape": "poster",
+      "description": "In this documentary from director Justin Mitchell, the world of the U.S. indie-music scene of the 1980s and '90s is explored, specifically with regard to how it transcended clichés about where music was heading in that era. Taking its title from renowned independent cinema pioneer John Cassavetes, the black-and-white film takes a peek at several fringe bands of the period, including Sleater-Kinney, the Make-up, and the Hi-Fives, and their various attitudes toward the ever-changing business.",
+      "releaseInfo": "2001",
+      "runtime": "91 min",
+      "genres": [
+        "Documentary",
+        "Music",
+        "Genres & Eras"
+      ],
+      "imdbRating": "7.5"
+    },
+    {
+      "id": "tt0281365",
+      "type": "movie",
+      "name": "We Sold Our Souls for Rock 'n Roll",
+      "poster": "https://image.tmdb.org/t/p/w780/iYyk4hZ09lOieIqUi2y0vLO9Mjr.jpg",
+      "posterShape": "poster",
+      "description": "Penelope Spheeris presents an amazing chronicle of the travelling musical carnival known as OZZfest, the most successful summer concert tour for the last five years. Complete access to incredible material sends this documentary film into the realm of pure entertainment. Unforgettable moments from zealous religious protesters, outrageous fans and the guys (and girls) backstage provide an insightful view into the soul of white, middle-class America. A stunning and sometimes disturbing glimpse of a cultural movement, this film is sure to be a reference for historians for decades to come. This comment on Middle America skates the line between your worst nightmare and the best time you’ve ever had. Features interviews with, and performances by BLACK SABBATH, SYSTEM OF A DOWN, SLIPKNOT, PRIMUS, ROB ZOMBIE, GODSMACK and more.",
+      "releaseInfo": "2001",
+      "runtime": "90 min",
+      "genres": [
+        "Documentary",
+        "Music",
+        "Genres & Eras"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/70Da7lH4XwmSHOuENqYjPdx1AbJ.jpg",
+      "imdbRating": "7.0"
+    },
+    {
+      "id": "tt0498554",
+      "type": "movie",
+      "name": "Pantera - 3 Vulgar Videos From Hell",
+      "poster": "https://image.tmdb.org/t/p/w780/29QONFmHdA29RbSp9zhW0sGFspe.jpg",
+      "posterShape": "poster",
+      "description": "With raucous videos, rare footage of the guys on the road and exclusive interviews with the band, this Pantera collection is a must for aficionados of the popular heavy-metal group. Videos include Cowboys from Hell, I'm Broken, Drag the Waters, Mouth for War and Primal Concrete Sledge. Also contains footage of Pantera wowing the crowd during a performance at the Monsters of Rock Festival in Moscow.",
+      "releaseInfo": "1999",
+      "runtime": "245 min",
+      "genres": [
+        "Documentary",
+        "Music",
+        "Genres & Eras"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/xaZb44yIbHOYASZNdzQeOs5cUUs.jpg",
+      "imdbRating": "6.9"
+    },
+    {
+      "id": "tt0296774",
+      "type": "movie",
+      "name": "N.Y.H.C.",
+      "poster": "https://image.tmdb.org/t/p/w780/upEP07FjOFtHpdiShROLbb4oZ7n.jpg",
+      "posterShape": "poster",
+      "description": "N.Y.H.C. is the first feature-length documentary to explore the New York Hardcore music scene. Drawings its roots from punk rock, hardcore evolved into a dedicated, self-contained movement, unconcerned with success in the mainstream. The documentary follows seven bands in the summer of 1995, ranging from Bronx inner-city youth to Long Island suburbanites to Hare Krishna devotees. N.Y.H.C. is a surprisingly in-depth and non-exploitive look into a vital and often neglected music community.",
+      "releaseInfo": "1999",
+      "runtime": "87 min",
+      "genres": [
+        "Documentary",
+        "Music",
+        "Genres & Eras"
+      ],
+      "imdbRating": "7.3"
     },
     {
       "id": "tt0116589",
@@ -252,6 +1084,55 @@
       "imdbRating": "7.4"
     },
     {
+      "id": "tt5278426",
+      "type": "series",
+      "name": "The History of Rock 'n' Roll",
+      "poster": "https://image.tmdb.org/t/p/w780/c6gNGXPDBvn4LGvtlrSmIT9gT7U.jpg",
+      "posterShape": "poster",
+      "description": "Chronicles the history of rock 'n' roll music from its origins.",
+      "releaseInfo": "1995",
+      "genres": [
+        "Documentary",
+        "Music",
+        "Genres & Eras"
+      ],
+      "imdbRating": "10.0"
+    },
+    {
+      "id": "tt32567899",
+      "type": "movie",
+      "name": "Nine Inch Nails: Woodstock 94",
+      "poster": "https://image.tmdb.org/t/p/w780/xS9Y4OcyrSfnuxqqWuWbh5w4xQL.jpg",
+      "posterShape": "poster",
+      "description": "Nine Inch Nails’ mud soaked Woodstock '94 performance.  A memorable and chaotic show featuring power outages, mud-covered crowd members, and a setlist with Trent Reznor's intense energy on display. Despite technical difficulties and the challenging conditions, the band managed to deliver a raw and electrifying performance that has become legendary in music history.",
+      "releaseInfo": "1994",
+      "runtime": "81 min",
+      "genres": [
+        "Documentary",
+        "Music",
+        "Genres & Eras"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/eDlU5atNVHoEI7zJaepWNGWUOsQ.jpg",
+      "imdbRating": "9.5"
+    },
+    {
+      "id": "tt0474568",
+      "type": "movie",
+      "name": "Starshaped",
+      "poster": "https://image.tmdb.org/t/p/w780/voVr9EeW4UoYJ9f6TpHYKqLTKn2.jpg",
+      "posterShape": "poster",
+      "description": "Three years of candid camera on the road with Blur, from Reading 1991 through the dark ages of the EEC in 1992 and then on to Modern Life. This tour film features live footage including scenes from Glastonbury ’92, the Heineken Music Festival ’94 in Nottingham, and festivals in Germany, Denmark and Sweden. It is a fascinating rockumentary about the early days of one of the most influential bands of the 1990s.",
+      "releaseInfo": "1993",
+      "runtime": "60 min",
+      "genres": [
+        "Documentary",
+        "Music",
+        "Genres & Eras"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/pMikgAfvtzs9eNcjsbDkD2gs4vH.jpg",
+      "imdbRating": "8.2"
+    },
+    {
       "id": "tt0103595",
       "type": "movie",
       "name": "1991: The Year Punk Broke",
@@ -269,6 +1150,22 @@
       "imdbRating": "6.8"
     },
     {
+      "id": "tt0092591",
+      "type": "movie",
+      "name": "Athens, GA Inside/Out",
+      "poster": "https://image.tmdb.org/t/p/w780/oebGE35BwqHGmFAcpc551aqSAs5.jpg",
+      "posterShape": "poster",
+      "description": "Led by the success of the B-52's and R.E.M., Athens, Georgia was the most happening music scene in the country by the mid 80's. Following several different bands from different genres, this film paints Athens as a magical artistic environment where bands are not in competition, but co-exist in harmony and share the ideals of the land. Live performances of R.E.M.'s \"Swan Swan H\" and \"Dream (All I Have To Do)\" at the Lucy Cobb Institute chapel are included. Also featured are performances and interviews frm the B-52's, Pylon, B-B-Que Killers, Time Toy, Jim Herbert, Flat Duo Jets, Love Tractor, Kilkenny Cats, Squalls and more",
+      "releaseInfo": "1987",
+      "runtime": "82 min",
+      "genres": [
+        "Documentary",
+        "Music",
+        "Genres & Eras"
+      ],
+      "imdbRating": "7.8"
+    },
+    {
       "id": "tt0082252",
       "type": "movie",
       "name": "The Decline of Western Civilization",
@@ -284,6 +1181,40 @@
       ],
       "background": "https://image.tmdb.org/t/p/w1280/f8xL5NhRuZNyai9Sijb9aykU1z5.jpg",
       "imdbRating": "7.2"
+    },
+    {
+      "id": "tt0070242",
+      "type": "movie",
+      "name": "Jimi Hendrix",
+      "poster": "https://image.tmdb.org/t/p/w780/9oeGx5bfr4NbvIEF7t22yqshPU4.jpg",
+      "posterShape": "poster",
+      "description": "Made shortly after his death, this documentary explores the brief life and remarkable legacy of guitarist Jimi Hendrix. After finding fame in the U.K., Hendrix brought his act back to the U.S., where his influential playing style left a blazing imprint on a whole generation of musicians. Employing interviews with family and contemporaries, such as Eric Clapton, as well as scorching live performances from Woodstock and Isle of Wight, the film paints an indelible portrait of a rock 'n' roll legend.",
+      "releaseInfo": "1973",
+      "runtime": "98 min",
+      "genres": [
+        "Documentary",
+        "Music",
+        "Genres & Eras"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/2hgNNT6bOvVYIrD5pB0k52s2Z7C.jpg",
+      "imdbRating": "7.7"
+    },
+    {
+      "id": "tt0179205",
+      "type": "movie",
+      "name": "Groupies",
+      "poster": "https://image.tmdb.org/t/p/w780/5hmHUEBd46TRDx1fwlevzTZZHcM.jpg",
+      "posterShape": "poster",
+      "description": "This documentary on rock 'n' roll groupies, including the infamous Plaster Casters, features performances (musical) by such bands as Ten Years After, Terry Reid, Spooky Tooth, and Cat Mother.",
+      "releaseInfo": "1970",
+      "runtime": "85 min",
+      "genres": [
+        "Documentary",
+        "Music",
+        "Genres & Eras"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/oAS1k5qyXnf1evv44X4rsgcvLlK.jpg",
+      "imdbRating": "5.2"
     },
     {
       "id": "tt0066580",

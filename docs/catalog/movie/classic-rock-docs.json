@@ -1,38 +1,87 @@
 {
   "metas": [
     {
-      "id": "tt36971084",
+      "id": "tt44085358",
       "type": "movie",
-      "name": "The Rise of the Red Hot Chili Peppers: Our Brother, Hillel",
-      "poster": "https://image.tmdb.org/t/p/w780/y9hHoO3eB7l3ZjYUZoJUJpZW22V.jpg",
+      "name": "Neil Peart: No One's Disciple",
+      "poster": "https://image.tmdb.org/t/p/w780/7FoNihuGcbhKsjLcCPalHZXq8Tf.jpg",
       "posterShape": "poster",
-      "description": "Explore the formative years of the Red Hot Chili Peppers and the profound influence of original bandmate Hillel Slovak.",
+      "description": "Geddy Lee and Alex Lifeson team up with four revered drummers — Stewart Copeland, Danny Carey, Chad Smith, and Gavin Harrison — for an exhilarating and poignant tribute to late Rush legend Neil Peart.",
       "releaseInfo": "2026",
-      "runtime": "95 min",
+      "runtime": "108 min",
       "genres": [
         "Documentary",
         "Music",
         "Classic Rock"
       ],
-      "background": "https://image.tmdb.org/t/p/w1280/eUDjpW2wQg2fvSFDohhkIZkjnFw.jpg",
+      "background": "https://image.tmdb.org/t/p/w1280/jFG4BHWbkISWxK6zs3ionv06cgV.jpg",
       "imdbRating": "7.2"
     },
     {
-      "id": "tt36590322",
+      "id": "tt40210973",
       "type": "movie",
-      "name": "Matter of Time",
-      "poster": "https://image.tmdb.org/t/p/w780/pFn9VJmZes3Fg6S293XeSVi3tFs.jpg",
+      "name": "Gregg Allman: The Music of My Soul",
+      "poster": "https://image.tmdb.org/t/p/w780/ayshNAjQqvWVv15THBiA74S9LL2.jpg",
       "posterShape": "poster",
-      "description": "Eddie Vedder's soul-stirring Seattle benefit concert fuels this documentary about the race to cure the rare genetic disorder epidermolysis bullosa (EB).",
+      "description": "This visionary music documentary traces the turbulent, transcendent life of Gregg Allman — from a childhood ruptured by his father’s murder to the soulful emergence that reshaped American music. Through archival recordings, candid interviews, and electric performances, the film follows Gregg’s musical awakening amid the blues he worshipped, the creation of the Allman Brothers Band with his brother.",
       "releaseInfo": "2026",
-      "runtime": "105 min",
+      "runtime": "99 min",
       "genres": [
         "Documentary",
         "Music",
         "Classic Rock"
       ],
-      "background": "https://image.tmdb.org/t/p/w1280/z3euUl9pmRMHPcXQOrU1N8WKZcn.jpg",
-      "imdbRating": "8.4"
+      "background": "https://image.tmdb.org/t/p/w1280/fa53jhqTsXUu9BjVFp2tGhnFyd3.jpg"
+    },
+    {
+      "id": "tt26931594",
+      "type": "movie",
+      "name": "Man on the Run",
+      "poster": "https://image.tmdb.org/t/p/w780/6wHOJ6pAkj0RWCZx8U4dqsrlQpa.jpg",
+      "posterShape": "poster",
+      "description": "After the breakup of The Beatles, Paul McCartney formed Wings with his wife Linda. Archival footage captures their life together, with Linda inspiring Paul's music in the 1970s, a decade in which Wings achieved numerous hits.",
+      "releaseInfo": "2026",
+      "runtime": "115 min",
+      "genres": [
+        "Documentary",
+        "Music",
+        "Classic Rock"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/mA03GgESjKMCUAiCywyx6I7kSZx.jpg",
+      "imdbRating": "7.5"
+    },
+    {
+      "id": "tt35003538",
+      "type": "movie",
+      "name": "EPiC: Elvis Presley in Concert",
+      "poster": "https://image.tmdb.org/t/p/w780/2K2NH5dforjT9kLcUC0eeBpdZkC.jpg",
+      "posterShape": "poster",
+      "description": "Long-lost footage from Elvis Presley's legendary Las Vegas residency in the 1970s woven together with rare 16mm footage from Elvis on Tour, and 8mm from the Graceland archive, plus recordings of Elvis telling \"his side of the story\" rediscovered during Baz Luhrmann's research for his 2022 film, Elvis.",
+      "releaseInfo": "2026",
+      "runtime": "98 min",
+      "genres": [
+        "Documentary",
+        "Music",
+        "Classic Rock"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/ttOBvac1oW0OCCfFzZlXh3NeKyl.jpg",
+      "imdbRating": "8.2"
+    },
+    {
+      "id": "tt36458116",
+      "type": "series",
+      "name": "Billy Joel: And So It Goes",
+      "poster": "https://image.tmdb.org/t/p/w780/xxXyWzAMNanhgiBzvfpRZJ5RdMU.jpg",
+      "posterShape": "poster",
+      "description": "An expansive portrait of the life and music of Billy Joel, exploring the love, loss, and personal struggles that fuel his songwriting. With unprecedented access to never-before-seen performances, home movies, and personal photographs, along with extensive, in-depth one-on-one interviews, the documentary intimately explores the life and work of Joel, whose music has endured across generations.",
+      "releaseInfo": "2025",
+      "genres": [
+        "Documentary",
+        "Music",
+        "Classic Rock"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/iFAZ89ziLF6oLChvGid1I9pZo7E.jpg",
+      "imdbRating": "8.6"
     },
     {
       "id": "tt35931046",
@@ -52,6 +101,57 @@
       "imdbRating": "6.6"
     },
     {
+      "id": "tt27687871",
+      "type": "movie",
+      "name": "Borrowed Time: Lennon's Last Decade",
+      "poster": "https://image.tmdb.org/t/p/w780/zFkz9Np35TpLqUXbUU7KAV4Dvyg.jpg",
+      "posterShape": "poster",
+      "description": "A visionary new documentary exploring the final decade of John Lennon's life in extraordinary detail. Follow the legend as he evolves beyond The Beatles, creating revolutionary music and standing at the forefront of anti-war protests that would make him one of the most influential pop culture icons of all time.",
+      "releaseInfo": "2025",
+      "runtime": "134 min",
+      "genres": [
+        "Documentary",
+        "Music",
+        "Classic Rock"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/nWZFILDWK0eoo4Nt5vobJqnJeP8.jpg",
+      "imdbRating": "6.8"
+    },
+    {
+      "id": "tt33029977",
+      "type": "movie",
+      "name": "TWST / Things We Said Today",
+      "poster": "https://image.tmdb.org/t/p/w780/7Ij4bkEBlHbmZcgZgdNdcONynBK.jpg",
+      "posterShape": "poster",
+      "description": "A time capsule of New York City between August 13-15, 1965, framed by the Beatles’ arrival in the city and their first concert at Shea Stadium. The film consists exclusively of archive material from the period (ABC, CBS, NBC), 8mm home movies and images of the concert, which was recorded with fourteen 35mm cameras. Four teenagers are sent on a trip through time and inserted in the archive material by means of animation.",
+      "releaseInfo": "2025",
+      "runtime": "91 min",
+      "genres": [
+        "Documentary",
+        "Music",
+        "Classic Rock"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/pPCADwiwGU2yMnSrxU5MvLObVSu.jpg",
+      "imdbRating": "8.0"
+    },
+    {
+      "id": "tt33029955",
+      "type": "movie",
+      "name": "One to One: John & Yoko",
+      "poster": "https://image.tmdb.org/t/p/w780/9SncSYtmHNJv2hwFkkHw6k8vNvX.jpg",
+      "posterShape": "poster",
+      "description": "An exploration of the seminal and transformative 18 months that one of music’s most famous couples — John Lennon and Yoko Ono — spent living in Greenwich Village, New York City, in the early 1970s.",
+      "releaseInfo": "2025",
+      "runtime": "104 min",
+      "genres": [
+        "Documentary",
+        "Music",
+        "Classic Rock"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/9n78URb0Q3U8OjXQF98UNaw6MIZ.jpg",
+      "imdbRating": "7.1"
+    },
+    {
       "id": "tt10365912",
       "type": "movie",
       "name": "Becoming Led Zeppelin",
@@ -67,6 +167,57 @@
       ],
       "background": "https://image.tmdb.org/t/p/w1280/zjqvYpo7SZ23QI8GO77zRO68kEO.jpg",
       "imdbRating": "7.4"
+    },
+    {
+      "id": "tt10850320",
+      "type": "movie",
+      "name": "Luther: Never Too Much",
+      "poster": "https://image.tmdb.org/t/p/w780/qxvvnQS2cw8boE9PtDboLrSchsX.jpg",
+      "posterShape": "poster",
+      "description": "Luther Vandross started his career supporting David Bowie, Roberta Flack, Bette Midler, and more. His undeniable talent earned platinum records and accolades, but he struggled to break out beyond the R&B charts. Intensely driven, he overcame personal and professional challenges to secure his place amongst the greatest vocalists in history.",
+      "releaseInfo": "2025",
+      "runtime": "101 min",
+      "genres": [
+        "Documentary",
+        "Music",
+        "Classic Rock"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/1HV2v30FbqrNrOoBPBUxwZY7Jlp.jpg",
+      "imdbRating": "7.7"
+    },
+    {
+      "id": "tt35097198",
+      "type": "movie",
+      "name": "Phil Collins: Drummer First",
+      "poster": "https://image.tmdb.org/t/p/w780/4DjNZ85mAknKSlFeBr0cEuY6Zjn.jpg",
+      "posterShape": "poster",
+      "description": "For the first time on film, Phil takes us on a journey through his life and career from a drumming perspective—from his early days behind the kit to his groundbreaking work with Genesis and his celebrated solo career, from his time with the jazz-fusion group Brand X to composing for Disney’s Tarzan, forming his own big band, and ultimately passing the torch to Nic during the final Genesis and Phil Collins tours.  This is Phil’s story, told in his own words.  This documentary offers a rare and personal glimpse into the life and legacy of a true drumming icon. Phil’s story is one of passion, perseverance, and sacrifice—a testament to the power of giving everything you have for what you love. We are deeply grateful to Phil for trusting Drumeo to share his remarkable story.",
+      "releaseInfo": "2024",
+      "runtime": "120 min",
+      "genres": [
+        "Documentary",
+        "Music",
+        "Classic Rock"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/xZeBRPpwkcipefASwf3M6Ui8FDy.jpg",
+      "imdbRating": "7.3"
+    },
+    {
+      "id": "tt20316978",
+      "type": "movie",
+      "name": "Elton John: Never Too Late",
+      "poster": "https://image.tmdb.org/t/p/w780/zFvflqdWsrKLwh28VgOurgRlnPe.jpg",
+      "posterShape": "poster",
+      "description": "Sir Elton John looks back on his life and the astonishing early days of his 50-year career in this emotionally charged, full-circle journey. As he prepares for his final concert in North America at Dodger Stadium, Elton takes us back in time and recounts his struggles with adversity, abuse, and addiction, and how he overcame them to become the icon he is today.",
+      "releaseInfo": "2024",
+      "runtime": "102 min",
+      "genres": [
+        "Documentary",
+        "Music",
+        "Classic Rock"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/pV3BtaHjZjwFa22rS5jYW9kntS8.jpg",
+      "imdbRating": "6.6"
     },
     {
       "id": "tt34280353",
@@ -86,6 +237,57 @@
       "imdbRating": "6.9"
     },
     {
+      "id": "tt33986138",
+      "type": "movie",
+      "name": "Beatles '64",
+      "poster": "https://image.tmdb.org/t/p/w780/ny9fI756vTYVG3PrJwBUwXOeSBO.jpg",
+      "posterShape": "poster",
+      "description": "Featuring never-before-seen footage of the band and the legions of young fans who helped fuel their ascendance, follow McCartney, John Lennon, George Harrison and Starr as they land in New York City in February 1964 and solidify their status as the biggest band in the world.",
+      "releaseInfo": "2024",
+      "runtime": "108 min",
+      "genres": [
+        "Documentary",
+        "Music",
+        "Classic Rock"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/e2ux9R577fPJH2uGXG0NTaEKeCC.jpg",
+      "imdbRating": "6.6"
+    },
+    {
+      "id": "tt34139335",
+      "type": "movie",
+      "name": "Return of the King: The Fall and Rise of Elvis Presley",
+      "poster": "https://image.tmdb.org/t/p/w780/eijfr4QiMu1ZK2XfBNd9KjoRmau.jpg",
+      "posterShape": "poster",
+      "description": "He had one chance to show the world he was still the King of Rock 'n' Roll. Discover the story behind Elvis Presley's triumphant '68 comeback special.",
+      "releaseInfo": "2024",
+      "runtime": "91 min",
+      "genres": [
+        "Documentary",
+        "Music",
+        "Classic Rock"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/9o29QNQh1TT0zkZfcciFFA5sUNP.jpg",
+      "imdbRating": "7.5"
+    },
+    {
+      "id": "tt21380552",
+      "type": "movie",
+      "name": "Hung Up on a Dream: The Zombies Documentary",
+      "poster": "https://image.tmdb.org/t/p/w780/2NaT5CtZvwFdz0egqM8L0AxI0Dw.jpg",
+      "posterShape": "poster",
+      "description": "British rock icons The Zombies reflect on their 60-year path from teenage friends to legends in the Rock and Roll Hall of Fame.",
+      "releaseInfo": "2024",
+      "runtime": "116 min",
+      "genres": [
+        "Documentary",
+        "Music",
+        "Classic Rock"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/A3IuBQ3rnUFom5l92AXb0baQRuh.jpg",
+      "imdbRating": "7.5"
+    },
+    {
       "id": "tt32368703",
       "type": "movie",
       "name": "Road Diary: Bruce Springsteen and The E Street Band",
@@ -103,21 +305,71 @@
       "imdbRating": "7.7"
     },
     {
-      "id": "tt31218239",
+      "id": "tt0223840",
       "type": "movie",
-      "name": "blur: To the End",
-      "poster": "https://image.tmdb.org/t/p/w780/dMe30vdWe5xnv71UjCbNoaG3D4B.jpg",
+      "name": "Paul McCartney & Wings: One Hand Clapping",
+      "poster": "https://image.tmdb.org/t/p/w780/nPFAXe27V1c8iMbwJVQ2Mwi6hS0.jpg",
       "posterShape": "poster",
-      "description": "Iconic British band blur (“Song 2”, “Girls & Boys”) comes together to record their first album in eight years – the chart-topping The Ballad of Darren – and prepare for the biggest concerts of their career, two sold-out shows at Wembley Stadium. With footage of the band in the studio and on the road, plus performances of their much-loved, seminal songs.",
+      "description": "A rarely seen 'rockumentary' made by Paul McCartney and his then band, Wings, at Abbey Road studios in London, in August 1974. The film features live performances and voiceovers with each member talking about their musical experiences up to that point.",
       "releaseInfo": "2024",
-      "runtime": "104 min",
+      "runtime": "52 min",
       "genres": [
         "Documentary",
         "Music",
         "Classic Rock"
       ],
-      "background": "https://image.tmdb.org/t/p/w1280/sHqftQhI5U8tPG2bjorpmVroYTU.jpg",
-      "imdbRating": "7.3"
+      "background": "https://image.tmdb.org/t/p/w1280/e1Cao6S2PNjL1ILAjaZFVr3Aock.jpg",
+      "imdbRating": "7.5"
+    },
+    {
+      "id": "tt32149801",
+      "type": "movie",
+      "name": "Stevie Van Zandt: Disciple",
+      "poster": "https://image.tmdb.org/t/p/w780/pWzarMH3CLHULpAIeGh6I0af4BV.jpg",
+      "posterShape": "poster",
+      "description": "Stevie Van Zandt, known as New Jersey's most famous consigliere to Bruce Springsteen and Tony Soprano, takes center stage. Featuring a wealth of never-before-seen footage, this documentary traces Van Zandt's career as a producer, musician, songwriter, activist, actor, and more, from the clubs of Asbury Park, N.J. to arenas and stadiums, to the Bada Bing Club and the Underground Garage.",
+      "releaseInfo": "2024",
+      "runtime": "145 min",
+      "genres": [
+        "Documentary",
+        "Music",
+        "Classic Rock"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/6jfWM0LRIknJu3aYD3bHE8p7orP.jpg",
+      "imdbRating": "6.8"
+    },
+    {
+      "id": "tt31840942",
+      "type": "series",
+      "name": "Johnson and Knopfler's Music Legends",
+      "poster": "https://image.tmdb.org/t/p/w780/4kEiHJltCKtNwBNDslprpUb8VAf.jpg",
+      "posterShape": "poster",
+      "description": "Join AC/DC singer, Brian Johnson and Dire Straits singer and guitarist, Mark Knopfler as they share their incredible knowledge and experiences with each other - and a hand-picked selection of music royalty.",
+      "releaseInfo": "2024",
+      "genres": [
+        "Documentary",
+        "Music",
+        "Classic Rock"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/9JEUEx6mEKQaiASJgh213Y8jryl.jpg",
+      "imdbRating": "8.5"
+    },
+    {
+      "id": "tt4406238",
+      "type": "movie",
+      "name": "Lost Angel: The Genius of Judee Sill",
+      "poster": "https://image.tmdb.org/t/p/w780/xLJq0l6GeUD85A6oRmt1jn4qvBH.jpg",
+      "posterShape": "poster",
+      "description": "The never-before-told story of folk-rock icon Judee Sill, who in just two years went from living in a car to appearing on the cover of Rolling Stone. The documentary charts her troubled adolescence through her meteoric rise in the music world and early tragic death. Featuring Linda Ronstadt, Jackson Browne, David Crosby, Graham Nash, Fleet Foxes, David Geffen, and more.",
+      "releaseInfo": "2024",
+      "runtime": "91 min",
+      "genres": [
+        "Documentary",
+        "Music",
+        "Classic Rock"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/aFPlYNlcV1mm9wQrWZr4553qBBD.jpg",
+      "imdbRating": "6.7"
     },
     {
       "id": "tt28490042",
@@ -137,6 +389,91 @@
       "imdbRating": "6.0"
     },
     {
+      "id": "tt28486112",
+      "type": "movie",
+      "name": "Welcome to the Darkness",
+      "poster": "https://image.tmdb.org/t/p/w780/3Y9MCWsgFNCsOx7vR1ZluGppTSr.jpg",
+      "posterShape": "poster",
+      "description": "In 2003, British glam rockers The Darkness took the world by storm with their smash hit single \"I Believe in a Thing Called Love\". Then at the height of their fame, the band split up and fell into obscurity. 20 years on from their platinum-selling debut, Justin Hawkins, his brother Dan, eccentric bassist Frankie Poullain, and new drummer Rufus Taylor tell their story.",
+      "releaseInfo": "2023",
+      "runtime": "90 min",
+      "genres": [
+        "Documentary",
+        "Music",
+        "Classic Rock"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/clvuSJiY8jLvKAzWyYsEejczFYC.jpg",
+      "imdbRating": "7.0"
+    },
+    {
+      "id": "tt30294412",
+      "type": "movie",
+      "name": "The Beatles and the BBC",
+      "poster": "https://image.tmdb.org/t/p/w780/pRIktLiR9Gunx4ecCpHOm9YqHuV.jpg",
+      "posterShape": "poster",
+      "description": "The relationship between The Beatles and the BBC has always been a special and fascinating one. This special looks back at some key moments that saw the BBC document the band’s journey as they went from Merseybeat heroes with mop-tops and MBEs to seeing out the sixties as long-haired heroes of the counter-culture.",
+      "releaseInfo": "2023",
+      "runtime": "66 min",
+      "genres": [
+        "Documentary",
+        "Music",
+        "Classic Rock"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/lTGBtxc3UzGzxD6nqrIB2TNphy1.jpg",
+      "imdbRating": "6.7"
+    },
+    {
+      "id": "tt28765636",
+      "type": "movie",
+      "name": "Zucchero | Sugar Fornaciari",
+      "poster": "https://image.tmdb.org/t/p/w780/uMKyQ0L3WfGCRWBEJnBdBNiQi0Y.jpg",
+      "posterShape": "poster",
+      "description": "The documentary film tells the story of Zucchero Sugar Fornaciari through his words and those of colleagues and friends such as Bono, Sting, Brian May, Paul Young, Andrea Bocelli, Salmo, Francesco Guccini, Francesco De Gregori, Roberto Baggio, Jack Savoretti, Don Was, Randy Jackson and Corrado Rustici. A journey of the soul which, thanks to images coming from Zucchero's private archives and from the \"World Wild Tour\", his last and triumphant world tour, goes beyond the portrait of a successful musician reaching into the doubts and fragilities of 'man.",
+      "releaseInfo": "2023",
+      "runtime": "100 min",
+      "genres": [
+        "Documentary",
+        "Music",
+        "Classic Rock"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/5EK3SlpJXSLoc38rvSnmAtPjAWu.jpg",
+      "imdbRating": "7.6"
+    },
+    {
+      "id": "tt15334664",
+      "type": "movie",
+      "name": "Who Killed the KLF?",
+      "poster": "https://image.tmdb.org/t/p/w780/nNYqNZrQURIRAXf5fEeYHqTZ8y5.jpg",
+      "posterShape": "poster",
+      "description": "Between 1988 and 1992, British Electronic duo The KLF had scored #1 records throughout the world and had become household names. Determined to ridicule the establishment, they battled The Beatles and ABBA after sampling their music in hit records, and published the best-selling book The Manual (How to Have a Number One the Easy Way). In 1993, to mock performance art in the ultimate fashion, The KLF set fire to £1,000,000 in cash and destroyed their entire catalogue, vanishing from the public view... until now.",
+      "releaseInfo": "2023",
+      "runtime": "88 min",
+      "genres": [
+        "Documentary",
+        "Music",
+        "Classic Rock"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/1TgUTQu6NZoCOj2D8nXcyx46shS.jpg",
+      "imdbRating": "7.2"
+    },
+    {
+      "id": "tt13259956",
+      "type": "movie",
+      "name": "The Elephant 6 Recording Co.",
+      "poster": "https://image.tmdb.org/t/p/w780/2pFwveOV1BEKwGfa37RgrFze7ut.jpg",
+      "posterShape": "poster",
+      "description": "The unique inside story of the collective creative evolution behind the sounds of 1990s psychedelic rock bands Olivia Tremor Control, Neutral Milk Hotel, and The Apples in Stereo — the founding groups behind the Elephant 6 collective, as well as a host of other artists — with inspirational resonance for today’s music makers, and music lovers everywhere.",
+      "releaseInfo": "2023",
+      "runtime": "93 min",
+      "genres": [
+        "Documentary",
+        "Music",
+        "Classic Rock"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/sQicIWMVw5BEis6YSk0vqZrIlXh.jpg",
+      "imdbRating": "6.2"
+    },
+    {
       "id": "tt7182482",
       "type": "movie",
       "name": "Have You Got It Yet? The Story of Syd Barrett and Pink Floyd",
@@ -152,6 +489,73 @@
       ],
       "background": "https://image.tmdb.org/t/p/w1280/mdgA8fzzDVKFcBjwFTbddzicReM.jpg",
       "imdbRating": "7.3"
+    },
+    {
+      "id": "tt27192366",
+      "type": "series",
+      "name": "Ed Sheeran: The Sum of It All",
+      "poster": "https://image.tmdb.org/t/p/w780/cFkNarRn5RujHPwwLe1U8AmCUEf.jpg",
+      "posterShape": "poster",
+      "description": "For the first time ever, global superstar, Ed Sheeran opens the doors to a definitive and searingly honest view into his private life as he explores the universal themes that inspire his music. This series follows Ed after he learns of life changing news and reveals his hardships and triumphs during the most challenging period of his life. Featuring exclusive footage behind his iconic hits, never-before-seen personal archive with his friends and family, and epic stadium performances giving insight into Ed’s world.",
+      "releaseInfo": "2023",
+      "genres": [
+        "Documentary",
+        "Music",
+        "Classic Rock"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/9aBrOSfThT8cCyuqQssTEoZI2ky.jpg",
+      "imdbRating": "8.4"
+    },
+    {
+      "id": "tt9001572",
+      "type": "movie",
+      "name": "Louder Than Rock",
+      "poster": "https://image.tmdb.org/t/p/w780/x114kVGmg1LMQ9WmGAK9xY5LtJh.jpg",
+      "posterShape": "poster",
+      "description": "In this compelling documentary, we follow the life of Caleb Quaye, the complicated guitarist behind some of the world's most famous musicians such as Elton John, Mick Jagger, Paul McCartney, Hall & Oates, among others.",
+      "releaseInfo": "2023",
+      "runtime": "97 min",
+      "genres": [
+        "Documentary",
+        "Music",
+        "Classic Rock"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/z1Clbj77dVtRjU6X1k0OIJV5ncu.jpg",
+      "imdbRating": "4.0"
+    },
+    {
+      "id": "tt13885492",
+      "type": "movie",
+      "name": "Little Richard: I Am Everything",
+      "poster": "https://image.tmdb.org/t/p/w780/5u5kkH6ux1wHHJHLePAR1xMgSv5.jpg",
+      "posterShape": "poster",
+      "description": "The story of the black, gay origins of rock n' roll. It explodes the whitewashed canon of American pop music to reveal the innovator – the originator – Richard Penniman. Through a wealth of archive and performance that brings us into Richard's complicated inner world, the film unspools the icon's life story with all its switchbacks and contradictions.",
+      "releaseInfo": "2023",
+      "runtime": "98 min",
+      "genres": [
+        "Documentary",
+        "Music",
+        "Classic Rock"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/712eF5TMRNaOss5vtXojaJftYxQ.jpg",
+      "imdbRating": "6.6"
+    },
+    {
+      "id": "tt27132393",
+      "type": "movie",
+      "name": "A Grammy Salute to The Beach Boys",
+      "poster": "https://image.tmdb.org/t/p/w780/bgxpsQJaKAygYLlJAPCXD7ahDxD.jpg",
+      "posterShape": "poster",
+      "description": "A special all-star tribute concert honoring the legacy of The Beach Boys.",
+      "releaseInfo": "2023",
+      "runtime": "88 min",
+      "genres": [
+        "Documentary",
+        "Music",
+        "Classic Rock"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/wuBoMe0F9TjqQmBLgCEdAiYAZ6x.jpg",
+      "imdbRating": "8.1"
     },
     {
       "id": "tt16430904",
@@ -171,6 +575,56 @@
       "imdbRating": "5.3"
     },
     {
+      "id": "tt22409096",
+      "type": "movie",
+      "name": "Jimmie & Stevie Ray Vaughan: Brothers in Blues",
+      "poster": "https://image.tmdb.org/t/p/w780/6wBUhmgMjf6bqvfrgKsHEUxwH7T.jpg",
+      "posterShape": "poster",
+      "description": "The story of brothers Jimmie and Stevie Ray Vaughan. Jimmie and Stevie went from a small, post-war house in Oak Cliff, Texas to becoming rock and roll legends, selling millions of records and playing alongside the likes of David Bowie, Jimi Hendrix, Eric Clapton, Jackson Browne, Carlos Santana and more.",
+      "releaseInfo": "2023",
+      "runtime": "107 min",
+      "genres": [
+        "Documentary",
+        "Music",
+        "Classic Rock"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/iNKLEEjxQMIbqd7tYObgwz8P5ct.jpg",
+      "imdbRating": "7.4"
+    },
+    {
+      "id": "tt26229554",
+      "type": "movie",
+      "name": "Bono & The Edge: A Sort of Homecoming with Dave Letterman",
+      "poster": "https://image.tmdb.org/t/p/w780/cyUpftk8IzR6BAhEAR8GG79A4o5.jpg",
+      "posterShape": "poster",
+      "description": "Filmmaker Morgan Neville captures Dave Letterman on his first visit to Dublin to hang out with Bono and The Edge in their hometown, experience Dublin, and join the two U2 musicians for a concert performance unlike any they’ve done before.",
+      "releaseInfo": "2023",
+      "runtime": "84 min",
+      "genres": [
+        "Documentary",
+        "Music",
+        "Classic Rock"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/3Z3JHhkyzuFYdzZ7uX7g7CXkPwm.jpg",
+      "imdbRating": "7.6"
+    },
+    {
+      "id": "tt24512706",
+      "type": "series",
+      "name": "Sometimes When We Touch",
+      "poster": "https://image.tmdb.org/t/p/w780/sIa1ow0l2CIMe9hqh9EpZ9PNzfi.jpg",
+      "posterShape": "poster",
+      "description": "The untold story of soft rock, whose artists dominated pop music worldwide in the '70s, only to crash and burn in the '80s, eventually experiencing one of the most unlikely comebacks in music history.",
+      "releaseInfo": "2023",
+      "genres": [
+        "Documentary",
+        "Music",
+        "Classic Rock"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/ukRm4njk4g7PjJduZt7oSncPUBW.jpg",
+      "imdbRating": "6.0"
+    },
+    {
       "id": "tt10148150",
       "type": "movie",
       "name": "In the Court of the Crimson King: King Crimson at 50",
@@ -186,23 +640,6 @@
       ],
       "background": "https://image.tmdb.org/t/p/w1280/1pTaAQjHclbOTVd0bNIYrzNxJb3.jpg",
       "imdbRating": "7.2"
-    },
-    {
-      "id": "tt10196368",
-      "type": "movie",
-      "name": "Nothing Compares",
-      "poster": "https://image.tmdb.org/t/p/w780/2GndW8LtfOonZsqmV3XKgxvmNeY.jpg",
-      "posterShape": "poster",
-      "description": "Since the beginning of her career, Sinéad O’Connor has used her powerful voice to challenge the narratives she was surrounded by while growing up in predominantly Roman Catholic Ireland. Despite her agency, depth and perspective, O’Connor’s unflinching refusal to conform means that she has often been patronized and unfairly dismissed as an attention-seeking pop star.",
-      "releaseInfo": "2022",
-      "runtime": "96 min",
-      "genres": [
-        "Documentary",
-        "Music",
-        "Classic Rock"
-      ],
-      "background": "https://image.tmdb.org/t/p/w1280/qbpsf5UcelWhslcw8sk0UIKJ1Oh.jpg",
-      "imdbRating": "7.8"
     },
     {
       "id": "tt21053478",
@@ -222,6 +659,140 @@
       "imdbRating": "6.8"
     },
     {
+      "id": "tt9883832",
+      "type": "movie",
+      "name": "Moonage Daydream",
+      "poster": "https://image.tmdb.org/t/p/w780/xr4EYd4WHr3Z6MXIYR3tEzP6yuT.jpg",
+      "posterShape": "poster",
+      "description": "A cinematic odyssey featuring never-before-seen footage exploring David Bowie's creative and musical journey.",
+      "releaseInfo": "2022",
+      "runtime": "135 min",
+      "genres": [
+        "Documentary",
+        "Music",
+        "Classic Rock"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/bSgSJfkTutcllEvhDDWtMGgdl2b.jpg",
+      "imdbRating": "7.4"
+    },
+    {
+      "id": "tt19298882",
+      "type": "series",
+      "name": "My Life as a Rolling Stone",
+      "poster": "https://image.tmdb.org/t/p/w780/o982ok3ptXbRnRapkciV38OA19d.jpg",
+      "posterShape": "poster",
+      "description": "One by one the extraordinary, exhilarating stories of each of The Rolling Stones are vividly told with exclusive interviews from the band and a stellar cast of rock stars.",
+      "releaseInfo": "2022",
+      "genres": [
+        "Documentary",
+        "Music",
+        "Classic Rock"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/p9qS2Nf0LQ4eSQnrwNO0Hmyoj8K.jpg",
+      "imdbRating": "7.6"
+    },
+    {
+      "id": "tt7600742",
+      "type": "movie",
+      "name": "Hallelujah: Leonard Cohen, a Journey, a Song",
+      "poster": "https://image.tmdb.org/t/p/w780/jvAjJvpu4EYuByjebjKl3QntQ0Z.jpg",
+      "posterShape": "poster",
+      "description": "This feature-length documentary explores the life of singer-songwriter Leonard Cohen as seen through the prism of his internationally renowned hymn, Hallelujah.",
+      "releaseInfo": "2022",
+      "runtime": "115 min",
+      "genres": [
+        "Documentary",
+        "Music",
+        "Classic Rock"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/fe1CU9Whjeq8qTcAYBEJzLrkgjw.jpg",
+      "imdbRating": "7.4"
+    },
+    {
+      "id": "tt23182478",
+      "type": "movie",
+      "name": "Eric Clapton - Nothing But The Blues",
+      "poster": "https://image.tmdb.org/t/p/w780/xZYYRd1WiZHRbi1J5KRikv6j2lv.jpg",
+      "posterShape": "poster",
+      "description": "Eric Clapton’s lifelong passion for the blues burns brightly inNothing But The Blues. The film – which was broadcasted once in the U.S. on PBS in 1995 and nominated for an Emmy®Award – has been upgraded to 4K for its long-awaited official release. Written and produced by Scooter Weintraub and executive produced by Martin Scorsese, the documentary includes an in-depth interview with Clapton conducted by Scorsese. Throughout the interview, Clapton discusses his love for the blues and the profound impact bluesmen like Muddy Waters and B.B. King had on his music. Many of those artists (Robert Johnson, Howlin’ Wolf, Buddy Guy, T-Bone Walker) appear in the film through vintage performances, interviews, and photographs. The film also features 20 previously unreleased live performances recorded in 1994 during the legendary guitarist’s tour supportingFrom The Cradle, his Grammy-winning, multi-platinum blues album.",
+      "releaseInfo": "2022",
+      "runtime": "100 min",
+      "genres": [
+        "Documentary",
+        "Music",
+        "Classic Rock"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/8sv8FU8nDYT7sUifbpQlvHxwuEI.jpg",
+      "imdbRating": "7.6"
+    },
+    {
+      "id": "tt11764342",
+      "type": "movie",
+      "name": "Jerry Lee Lewis: Trouble in Mind",
+      "poster": "https://image.tmdb.org/t/p/w780/A5rLX2MgUMAsdpT0Jbd7c1JiSM8.jpg",
+      "posterShape": "poster",
+      "description": "An electrifying glimpse into the complex life and thrilling, unparalleled performances of rock and roll's first and wildest practitioner: Jerry Lee Lewis.",
+      "releaseInfo": "2022",
+      "runtime": "74 min",
+      "genres": [
+        "Documentary",
+        "Music",
+        "Classic Rock"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/w2kzNhdET87IrGA2ciRDQsNuEdV.jpg",
+      "imdbRating": "5.9"
+    },
+    {
+      "id": "tt16277412",
+      "type": "movie",
+      "name": "Freddie Mercury: The Final Act",
+      "poster": "https://image.tmdb.org/t/p/w780/tctFh2aNKCG7C1l5oPQGxK8qvHn.jpg",
+      "posterShape": "poster",
+      "description": "The story of the extraordinary final chapter of Freddie Mercury’s life and how, after his death from AIDS, Queen staged one of the biggest concerts in history, the Freddie Mercury Tribute Concert at Wembley Stadium, to celebrate his life and challenge the prejudices around HIV/AIDS. For the first time, Freddie's story is told alongside the experiences of those who tested positive for HIV and lost loved ones during the same period. Medical practitioners, survivors, and human rights campaigners recount the intensity of living through the AIDS pandemic and the moral panic it brought about.",
+      "releaseInfo": "2022",
+      "runtime": "89 min",
+      "genres": [
+        "Documentary",
+        "Music",
+        "Classic Rock"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/s6VIrsUr4Am6VpwJ15QUCiramsU.jpg",
+      "imdbRating": "6.7"
+    },
+    {
+      "id": "tt16899584",
+      "type": "movie",
+      "name": "The Beatles: Get Back - The Rooftop Concert",
+      "poster": "https://image.tmdb.org/t/p/w780/4MPsj31FTnfXg1NO93lzr3PqNuE.jpg",
+      "posterShape": "poster",
+      "description": "On the 30th of January, 1969, the Beatles performed an unannounced concert from the rooftop of their Apple Corps headquarters at Savile Row, within central London's office and fashion district. Experience the final and unforgettable iconic performance of The Beatles in a special 60-minute presentation, digitally remastered into the image and sound quality of IMAX DMR technology.",
+      "releaseInfo": "2022",
+      "runtime": "65 min",
+      "genres": [
+        "Documentary",
+        "Music",
+        "Classic Rock"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/ySP2yLUKnayXmJ0JNlQohT0Hxjo.jpg",
+      "imdbRating": "8.0"
+    },
+    {
+      "id": "tt30984345",
+      "type": "movie",
+      "name": "Barn",
+      "poster": "https://image.tmdb.org/t/p/w780/aqAY4unPSP2v6f7sVk6Zybc60bS.jpg",
+      "posterShape": "poster",
+      "description": "The documentary provides an unprecedented glimpse into Young and Crazy Horse’s creative process, as they took to tape in Colorado’s Rocky Mountains during the Covid-19 pandemic. Kicking off with a note of gratitude from Young (“I’m so glad we’re fuckin’ here!”), the trailer shows what things were like as the legendary band got back into their element, in the wild, making music in a restored, 19th-century log barn under a full, glowing moon. The film captures the group—a 50-year-old musical family that includes, Billy Talbot, Ralph Molina and Nils Lofgren —building the powerful new record, but also their easy humour and enduring brotherhood. - The Sound Cafe (www.thesoundcafe.com)",
+      "releaseInfo": "2021",
+      "runtime": "73 min",
+      "genres": [
+        "Documentary",
+        "Music",
+        "Classic Rock"
+      ],
+      "imdbRating": "9.0"
+    },
+    {
       "id": "tt9735318",
       "type": "series",
       "name": "The Beatles: Get Back",
@@ -236,6 +807,57 @@
       ],
       "background": "https://image.tmdb.org/t/p/w1280/bCKlJ0yCpbKTT7BcMvlcVSofJwg.jpg",
       "imdbRating": "8.4"
+    },
+    {
+      "id": "tt9378672",
+      "type": "movie",
+      "name": "Brian Wilson: Long Promised Road",
+      "poster": "https://image.tmdb.org/t/p/w780/kSZiUQtBeQjiCn7v51d6poTXqli.jpg",
+      "posterShape": "poster",
+      "description": "Join The Beach Boy's Brian Wilson on an intimate journey through his legendary career as he reminisces with Rolling Stone editor and longtime friend, Jason Fine. Featuring a new song written and performed by Wilson and interviews with Elton John, Bruce Springsteen, Nick Jonas, Linda Perry, Jim James, Gustavo Dudamel and Al Jardine.",
+      "releaseInfo": "2021",
+      "runtime": "95 min",
+      "genres": [
+        "Documentary",
+        "Music",
+        "Classic Rock"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/9QFPy1uf1sbrILsfiDbRcwlqSnb.jpg",
+      "imdbRating": "6.5"
+    },
+    {
+      "id": "tt19365078",
+      "type": "movie",
+      "name": "Bruce Springsteen & The E Street Band: The Legendary 1979 No Nukes Concerts",
+      "poster": "https://image.tmdb.org/t/p/w780/g11LGBKupwduatOjdBqODIdU9Ay.jpg",
+      "posterShape": "poster",
+      "description": "“The Legendary 1979 No Nukes Concerts,” a Bruce Springsteen and The E Street Band film featuring ten never-before released performances from the Madison Square Garden MUSE benefit concerts, and full footage of the band’s entire setlist, will be released worldwide for the first time. Edited by Bruce’s longtime collaborator Thom Zimny from the original 16mm film alongside remixed audio from Bob Clearmountain, “The Legendary 1979 No Nukes Concerts” represent the highest quality and best recorded Bruce performances from an explosive, ascendant and rarely-filmed era of the E Street Band.A composite of two performances captured during the multi-day ‘No Nukes’ concerts, the film packs the intensity of a marathon show into a crackling 90 minute run-time.",
+      "releaseInfo": "2021",
+      "runtime": "90 min",
+      "genres": [
+        "Documentary",
+        "Music",
+        "Classic Rock"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/ujgdCx2Y4TDay2Jhx2akmr1R8G7.jpg",
+      "imdbRating": "6.8"
+    },
+    {
+      "id": "tt14030266",
+      "type": "movie",
+      "name": "Tom Petty, Somewhere You Feel Free",
+      "poster": "https://image.tmdb.org/t/p/w780/orNWDuMBq7w4zIFX2dnqCmHL0W2.jpg",
+      "posterShape": "poster",
+      "description": "Drawn from a newly discovered archive of 16mm film showing Tom Petty at work on his 1994 record Wildflowers, considered by many including Rolling Stone to be his greatest album ever, Somewhere You Feel Free is an intimate view of a musical icon.",
+      "releaseInfo": "2021",
+      "runtime": "89 min",
+      "genres": [
+        "Documentary",
+        "Music",
+        "Classic Rock"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/ddJUDTcrTC1NUTKwXl7kssxI4NS.jpg",
+      "imdbRating": "6.8"
     },
     {
       "id": "tt7230750",
@@ -255,6 +877,40 @@
       "imdbRating": "6.8"
     },
     {
+      "id": "tt15519958",
+      "type": "movie",
+      "name": "Genesis | The Last Domino?",
+      "poster": "https://image.tmdb.org/t/p/w780/hMw1RidcwMwDb22HeOxo3IfdB20.jpg",
+      "posterShape": "poster",
+      "description": "Genesis – The Last Domino? follows Tony Banks, Phil Collins and Mike Rutherford and their crew as they build and rehearse their Last Domino tour. Despite the complications and uncertainties of the global COVID pandemic, and without confirmed dates, the band made the decision to spend the time and money so they would be prepared once the world returned to normal. The film follows the creative and emotional processes involved and features band interviews and live performances from the spectacular yet-to-be-seen show.",
+      "releaseInfo": "2021",
+      "runtime": "55 min",
+      "genres": [
+        "Documentary",
+        "Music",
+        "Classic Rock"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/3IFALqWSemmxgXziKrVptJydUgG.jpg",
+      "imdbRating": "6.5"
+    },
+    {
+      "id": "tt14736144",
+      "type": "movie",
+      "name": "The Beatles and India",
+      "poster": "https://image.tmdb.org/t/p/w780/zi2uPVFtxsdLljamZn2ijDVk1oI.jpg",
+      "posterShape": "poster",
+      "description": "Explores the The Beatles’ love affair with India, its religions and its culture and, in turn, the impact of their music and style on a young generation in India.",
+      "releaseInfo": "2021",
+      "runtime": "92 min",
+      "genres": [
+        "Documentary",
+        "Music",
+        "Classic Rock"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/sN4ccLh301NKSDb1bQRThqPnvF1.jpg",
+      "imdbRating": "6.3"
+    },
+    {
       "id": "tt14547008",
       "type": "series",
       "name": "Biography: KISStory",
@@ -269,6 +925,56 @@
       ],
       "background": "https://image.tmdb.org/t/p/w1280/fka6nc7hSCoZ2Ydat860Q1x1edI.jpg",
       "imdbRating": "7.8"
+    },
+    {
+      "id": "tt14972882",
+      "type": "movie",
+      "name": "Bob Dylan: Odds and Ends",
+      "poster": "https://image.tmdb.org/t/p/w780/eRpiWND4R7OtmUFO9i0yDovXB1k.jpg",
+      "posterShape": "poster",
+      "description": "Bob Dylan \"Odds and Ends\" is composed of archival interviews, promotional videos and documentary shorts. It tells the story of some of the most important moments in the legendary artist's career.",
+      "releaseInfo": "2021",
+      "runtime": "115 min",
+      "genres": [
+        "Documentary",
+        "Music",
+        "Classic Rock"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/5pp408AdZJWRgP6VWneqwa7SGry.jpg",
+      "imdbRating": "6.6"
+    },
+    {
+      "id": "tt15787470",
+      "type": "movie",
+      "name": "Classic Albums: The Who Sell Out",
+      "poster": "https://image.tmdb.org/t/p/w780/3Ph38yw88EoyNlcgLXWY9y5dN06.jpg",
+      "posterShape": "poster",
+      "description": "A retrospective about The Who's third studio album 'The Who Sell Out'. Including interviews with Who members Roger Daltrey and Pete Townsend alongside other people involved in the albums production.",
+      "releaseInfo": "2021",
+      "runtime": "60 min",
+      "genres": [
+        "Documentary",
+        "Music",
+        "Classic Rock"
+      ],
+      "imdbRating": "8.5"
+    },
+    {
+      "id": "tt11811310",
+      "type": "movie",
+      "name": "The Pedal Movie",
+      "poster": "https://image.tmdb.org/t/p/w780/2ykbFE2YRhuZUs8RxS7qGzQ2nrE.jpg",
+      "posterShape": "poster",
+      "description": "For the first time ever, the story of guitar pedals and effects will be told by the people who make them and the artists that use them. Coming in 2021, The Pedal Movie, Reverb's first-ever feature-length film, will dive into the culture of pedals and tell the story of how a small industry grew from a handful of companies into the galaxy of different makers building pedals today.",
+      "releaseInfo": "2021",
+      "runtime": "142 min",
+      "genres": [
+        "Documentary",
+        "Music",
+        "Classic Rock"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/vAR0QTnTCDInkVEkS9s62Bm1ieF.jpg",
+      "imdbRating": "7.0"
     },
     {
       "id": "tt14450630",
@@ -288,6 +994,57 @@
       "imdbRating": "6.8"
     },
     {
+      "id": "tt14314826",
+      "type": "movie",
+      "name": "Fanny: The Right to Rock",
+      "poster": "https://image.tmdb.org/t/p/w780/bhgsmscMezxle8eRmJAn0WwBPii.jpg",
+      "posterShape": "poster",
+      "description": "The untold story of a Filipina American founded, California garage band that morphed into the ferocious rock group Fanny, the first all female band to release an LP with a major label. Adored by David Bowie, the band's groundbreaking impact in music has been lost in the mists of time... until now. Fifty years later, bandmates reunite with a new record deal and a second chance to right the wrongs of history.",
+      "releaseInfo": "2021",
+      "runtime": "92 min",
+      "genres": [
+        "Documentary",
+        "Music",
+        "Classic Rock"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/jTTSDONkPuMY06TQFo2DxusKodG.jpg",
+      "imdbRating": "6.4"
+    },
+    {
+      "id": "tt14534316",
+      "type": "movie",
+      "name": "David Bowie: Out of this World",
+      "poster": "https://image.tmdb.org/t/p/w780/qIinIyCdBt2n057w8HJcydgfECY.jpg",
+      "posterShape": "poster",
+      "description": "Through his ever changing reinvention, Bowie has become a symbol for fearlessness, innovation and creativity. He has become a true icon. A Phenomena that people will always remember, as he altered music forever.",
+      "releaseInfo": "2021",
+      "runtime": "60 min",
+      "genres": [
+        "Documentary",
+        "Music",
+        "Classic Rock"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/h6ocH0eFMVcHS3WS3tXZpXTkufv.jpg",
+      "imdbRating": "5.8"
+    },
+    {
+      "id": "tt15110932",
+      "type": "movie",
+      "name": "Jealous Guy: The Assassination of John Lennon",
+      "poster": "https://image.tmdb.org/t/p/w780/z06eKIqZ5z1l4XgNAZwoyP5xWYZ.jpg",
+      "posterShape": "poster",
+      "description": "An exploration of the life and career of the Beatles superstar, with a look at the strange parallels between him and his killer Mark David Chapman.",
+      "releaseInfo": "2020",
+      "runtime": "85 min",
+      "genres": [
+        "Documentary",
+        "Music",
+        "Classic Rock"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/hUi7azmY8EL7xQP1BpVONd4QAjA.jpg",
+      "imdbRating": "6.0"
+    },
+    {
       "id": "tt4881578",
       "type": "movie",
       "name": "Zappa",
@@ -303,6 +1060,39 @@
       ],
       "background": "https://image.tmdb.org/t/p/w1280/jRI4gyDI0I7jwbqN8QpT9psiGRm.jpg",
       "imdbRating": "7.2"
+    },
+    {
+      "id": "tt7099702",
+      "type": "movie",
+      "name": "Chuck Leavell: The Tree Man",
+      "poster": "https://image.tmdb.org/t/p/w780/3Pddckx8caANfgyRrdBDuhBBnMZ.jpg",
+      "posterShape": "poster",
+      "description": "It took his whole life to live and three full years to film  Chuck Leavell: The Tree Man.  Filmed in four countries with more than 80 interviews from artists with a combined 58 Grammy Awards by the artist included, “Chuck Leavell: The Tree Man,” an Allen Farst film, is the cinematic documentary that shines a light on one of the greatest rock’n roll pianists and keyboardists over the last 40 years.  Not just known for his musical influence, Leavell is also one of the biggest names in environmental forestry and was selected the National Tree Farmer of the Year in the United States.  -His commitment to the planet and his strong family ties are refreshing reminders to be kind and treat your neighbor with respect.  As Leavell puts it,  “if you cut a tree down, plant two for the next guy.”",
+      "releaseInfo": "2020",
+      "runtime": "105 min",
+      "genres": [
+        "Documentary",
+        "Music",
+        "Classic Rock"
+      ],
+      "imdbRating": "5.0"
+    },
+    {
+      "id": "tt13093506",
+      "type": "movie",
+      "name": "Bruce Springsteen's Letter to You",
+      "poster": "https://image.tmdb.org/t/p/w780/eSvs9mobDPPVT3gCHc3KakCzNB0.jpg",
+      "posterShape": "poster",
+      "description": "A tribute to The E Street Band, rock 'n' roll, and the way music has shaped Bruce Springsteen's life, this documentary captures Bruce reflecting on love and loss while recording with his full band for the first time since Born in the U.S.A.",
+      "releaseInfo": "2020",
+      "runtime": "90 min",
+      "genres": [
+        "Documentary",
+        "Music",
+        "Classic Rock"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/qneJNYO4nli9Y2U8KTfHjkvqI1c.jpg",
+      "imdbRating": "7.0"
     },
     {
       "id": "tt9850386",
@@ -322,21 +1112,88 @@
       "imdbRating": "7.7"
     },
     {
-      "id": "tt11723944",
+      "id": "tt12938760",
       "type": "movie",
-      "name": "The Nine Lives of Ozzy Osbourne",
-      "poster": "https://image.tmdb.org/t/p/w780/3uGcO8xS92rrFFTgQ2JIO3hjuZc.jpg",
+      "name": "Lennon's Last Weekend",
+      "poster": "https://image.tmdb.org/t/p/w780/xBAJgkUvrdskeG1PY84v7AshYPV.jpg",
       "posterShape": "poster",
-      "description": "For over five decades, Ozzy Osbourne has personified rock and roll, from his childhood in poverty and time in prison, to fronting metal band Black Sabbath, a successful solo career and a lovable 21st century television dad.",
+      "description": "In December 1980, John Lennon and Yoko Ono had not spoken to the media for more than five years. With a new album to promote Lennon was prepared to speak in New York to Radio One D.J. Andy Peebles of the BBC. John surprised everyone by candidly discussing a variety of subjects he'd never spoken of before including The Beatles break-up, his relationship with Paul McCartney, his battles with addiction, political issues in the US and UK, his family and his homesickness for Liverpool. Lennon's heartfelt honesty and forthright revelations make this film all the more potent as he was brutally shot and murdered 48 hours later. John Lennon was just 40 years of age when he died. December 2020 is the 40th anniversary of his death. He would have been 80 years of age.",
       "releaseInfo": "2020",
-      "runtime": "86 min",
+      "runtime": "65 min",
       "genres": [
         "Documentary",
         "Music",
         "Classic Rock"
       ],
-      "background": "https://image.tmdb.org/t/p/w1280/24ur1OYquOIij9zuybU4H8zTgIo.jpg",
-      "imdbRating": "7.2"
+      "background": "https://image.tmdb.org/t/p/w1280/7sIHxfGk00RkS0kY7O8mH05sWma.jpg",
+      "imdbRating": "6.0"
+    },
+    {
+      "id": "tt11052174",
+      "type": "movie",
+      "name": "Somebody Up There Likes Me",
+      "poster": "https://image.tmdb.org/t/p/w780/wwG9HKV3FB3hvZ3hcWie9YXKimv.jpg",
+      "posterShape": "poster",
+      "description": "Mike Figgis' enthralling documentary about the turbulent life and career of Ronnie Wood, legendary rock guitarist and long-time member of The Rolling Stones.",
+      "releaseInfo": "2020",
+      "runtime": "71 min",
+      "genres": [
+        "Documentary",
+        "Music",
+        "Classic Rock"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/rtavGkYdXMBJzDFhcQtmKMdPmaK.jpg",
+      "imdbRating": "7.4"
+    },
+    {
+      "id": "tt20852148",
+      "type": "movie",
+      "name": "Chuck Berry: Brown Eyed Handsome Man",
+      "poster": "https://image.tmdb.org/t/p/w780/cJttQpC07HF1nkOgxM1NISxel7f.jpg",
+      "posterShape": "poster",
+      "description": "\"Chuck Berry-Brown Eyed Handsome Man\" is a collection of performances by the greatest rock icons in history performing their favorite songs by their self-proclaimed hero Chuck Berry. For the first and possibly the only time ever you will see full performances from the legends of rock and roll honoring the man they agree started it all. The program is a historic record of the decades-long and continuing impact for the father of Rock 'N Roll. We are proud to present in just one program these superstars of Rock; The Beatles, the Rolling Stones, Bruce Springsteen, Tom Petty, Jimi Hendrix, Jeff Lynne, and more, all filmed at the heights of their own careers performing the work of Chuck Berry.",
+      "releaseInfo": "2020",
+      "runtime": "54 min",
+      "genres": [
+        "Documentary",
+        "Music",
+        "Classic Rock"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/f5kp9uz6XIWEW2fdIYLafrccJ.jpg",
+      "imdbRating": "7.3"
+    },
+    {
+      "id": "tt7999072",
+      "type": "movie",
+      "name": "Meeting the Beatles in India",
+      "poster": "https://image.tmdb.org/t/p/w780/lckvWRHLW0ckMfEwZynwICZ1Zde.jpg",
+      "posterShape": "poster",
+      "description": "Filmmaker Paul Saltzman retraces his journey of 50 years ago when he spent a life-changing time with the Beatles at the Maharishi Mahesh Yogi's ashram on the banks of the Ganges River. In 1968, he discovered his own soul, learned meditation, which changed his life, and hung out with John, Paul, George and Ringo. Fifty years later, he finds \"Bungalow Bill\" in Hawaii; connects with David Lynch about his own inner journey; as well as preeminent Beatles historian, Mark Lewisohn; Academy Award nominated film composer, Laurence Rosenthal; and Pattie and Jenny Boyd. And much of this is due to Saltzman's own daughter, Devyani, reminding him that he had put away and forgotten these remarkably intimate photographs of that time in 1968.",
+      "releaseInfo": "2020",
+      "runtime": "85 min",
+      "genres": [
+        "Documentary",
+        "Music",
+        "Classic Rock"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/umAKhkVwU94gj9Tiu4H10237R63.jpg",
+      "imdbRating": "6.5"
+    },
+    {
+      "id": "tt11017950",
+      "type": "series",
+      "name": "Laurel Canyon",
+      "poster": "https://image.tmdb.org/t/p/w780/kBwT79gCXhTM7KP13T3tHVyAMJl.jpg",
+      "posterShape": "poster",
+      "description": "Featuring all-new, original interviews with Jackson Browne, Don Henley, Michelle Phillips, Graham Nash, Linda Ronstadt, Bonnie Raitt, Roger McGuinn and more, this uniquely immersive and experiential two-part docuseries takes us back in time to a place where a rustic canyon in the heart of Los Angeles became a musical petri dish.",
+      "releaseInfo": "2020",
+      "genres": [
+        "Documentary",
+        "Music",
+        "Classic Rock"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/yDbMTJZbRqRYwsrUqmyf4y0OQCq.jpg",
+      "imdbRating": "8.2"
     },
     {
       "id": "tt10334456",
@@ -373,21 +1230,38 @@
       "imdbRating": "7.0"
     },
     {
-      "id": "tt10795414",
+      "id": "tt10687158",
       "type": "movie",
-      "name": "The Rainbow",
-      "poster": "https://image.tmdb.org/t/p/w780/megNJVYcZNChv9JPqASrekPT0bQ.jpg",
+      "name": "Western Stars",
+      "poster": "https://image.tmdb.org/t/p/w780/aT5lsPynkYhDgFZH48jdNLobnZY.jpg",
       "posterShape": "poster",
-      "description": "While the world around it has changed dramatically, The Rainbow Bar and Grill has remianed as one of the last bastions of true Rock n' Roll on Hollywood's famed Sunset Strip. Legendary musicians recount their stories from the iconic venue.",
+      "description": "The incomparable Bruce Springsteen performs his critically acclaimed latest album and muses on life, rock, and the American dream, in this intimate and personal concert film co-directed by Thom Zimny and Springsteen himself.",
       "releaseInfo": "2019",
-      "runtime": "71 min",
+      "runtime": "83 min",
       "genres": [
         "Documentary",
         "Music",
         "Classic Rock"
       ],
-      "background": "https://image.tmdb.org/t/p/w1280/m6c00xOa6GWFz90l6O58tSXkG9z.jpg",
-      "imdbRating": "6.9"
+      "background": "https://image.tmdb.org/t/p/w1280/5taScILscWm17F3ndboj3FnMCZK.jpg",
+      "imdbRating": "7.0"
+    },
+    {
+      "id": "tt10121372",
+      "type": "movie",
+      "name": "Roger Waters: Us + Them",
+      "poster": "https://image.tmdb.org/t/p/w780/h5iaU213fe4cV5hiw2FR6c8YCe1.jpg",
+      "posterShape": "poster",
+      "description": "Filmed in Amsterdam on the European leg of his 2017 – 2018 Us + Them tour which saw Waters perform to over two million people worldwide, the film features songs from his legendary Pink Floyd albums (The Dark Side of the Moon, The Wall, Animals, Wish You Were Here) and from his last album, Is This The Life We Really Want?",
+      "releaseInfo": "2019",
+      "runtime": "119 min",
+      "genres": [
+        "Documentary",
+        "Music",
+        "Classic Rock"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/AcfbMzfOMX17fAR8syLcUgwiXMh.jpg",
+      "imdbRating": "7.8"
     },
     {
       "id": "tt9783620",
@@ -424,23 +1298,6 @@
       "imdbRating": "7.6"
     },
     {
-      "id": "tt9015306",
-      "type": "movie",
-      "name": "ZZ Top: That Little Ol' Band from Texas",
-      "poster": "https://image.tmdb.org/t/p/w780/jN4lG0lLre6wWECSmW0x1hHgZgt.jpg",
-      "posterShape": "poster",
-      "description": "The story of how three oddball teenage bluesmen became one of the biggest, most beloved bands on the planet.",
-      "releaseInfo": "2019",
-      "runtime": "91 min",
-      "genres": [
-        "Documentary",
-        "Music",
-        "Classic Rock"
-      ],
-      "background": "https://image.tmdb.org/t/p/w1280/jgejC6PdKSCaiYn2JTt2TAHUVKr.jpg",
-      "imdbRating": "7.5"
-    },
-    {
       "id": "tt5884004",
       "type": "movie",
       "name": "David Crosby: Remember My Name",
@@ -458,38 +1315,105 @@
       "imdbRating": "7.0"
     },
     {
-      "id": "tt9185816",
+      "id": "tt9358196",
       "type": "movie",
-      "name": "Woodstock: Three Days That Defined a Generation",
-      "poster": "https://image.tmdb.org/t/p/w780/ejPrzjG17UrYHjUn8xE3EAYnoDl.jpg",
+      "name": "Marianne & Leonard: Words of Love",
+      "poster": "https://image.tmdb.org/t/p/w780/vB0gEuF1uqSHCA7IUrLYiSm1zLr.jpg",
       "posterShape": "poster",
-      "description": "50 years after the legendary fest, Barak Goodman’s electric retelling of Woodstock, from the point of view of those who were on the ground, evokes the freedom, passion, community, and joy the three-day music festival created.",
+      "description": "A story of enduring love between Leonard Cohen and his Norwegian muse, Marianne Ihlen. The film follows their relationship from their early days in Greece, a time of \"free love\" and open marriage, to how their love evolved when Leonard became a successful musician.",
       "releaseInfo": "2019",
-      "runtime": "106 min",
+      "runtime": "98 min",
       "genres": [
         "Documentary",
         "Music",
         "Classic Rock"
       ],
-      "background": "https://image.tmdb.org/t/p/w1280/aXLcNxJI2JDdASNL6ZaNI0jWl2s.jpg",
-      "imdbRating": "7.3"
+      "background": "https://image.tmdb.org/t/p/w1280/uYGPb4urXjn1mdY7x6h6mGu9DCW.jpg",
+      "imdbRating": "6.4"
     },
     {
-      "id": "tt5938950",
+      "id": "tt9577852",
       "type": "movie",
-      "name": "Mystify: Michael Hutchence",
-      "poster": "https://image.tmdb.org/t/p/w780/qpxLFHp9B9EHKM96JZXJ8uf7ObG.jpg",
+      "name": "Rolling Thunder Revue: A Bob Dylan Story by Martin Scorsese",
+      "poster": "https://image.tmdb.org/t/p/w780/ixxELBgYj9OH8hz0XCrcZOJpIx9.jpg",
       "posterShape": "poster",
-      "description": "Michael Hutchence was flying high as the lead singer of the legendary rock band INXS until his untimely death in 1997. Richard Lowenstein’s documentary examines Hutchence’s deeply felt life through his many loves and demons.",
+      "description": "Part documentary, part concert film, part fever dream, this film captures the troubled spirit of America in 1975 and the joyous music that Dylan performed during the fall of that year.",
       "releaseInfo": "2019",
-      "runtime": "102 min",
+      "runtime": "142 min",
       "genres": [
         "Documentary",
         "Music",
         "Classic Rock"
       ],
-      "background": "https://image.tmdb.org/t/p/w1280/w6S5oV26ehgLe5QbGKlAd4NdAab.jpg",
-      "imdbRating": "7.2"
+      "background": "https://image.tmdb.org/t/p/w1280/4MYtYsSGzQUUYQqHGWBNeEkT91s.jpg",
+      "imdbRating": "7.0"
+    },
+    {
+      "id": "tt5666750",
+      "type": "movie",
+      "name": "WITCH: We Intend to Cause Havoc",
+      "poster": "https://image.tmdb.org/t/p/w780/b8TQwtgxIQC58IITAqDACrFsOUz.jpg",
+      "posterShape": "poster",
+      "description": "The film follows the 21st Century formation of WITCH (We Intend To Cause Havoc), Zambia's most popular rock band of the 1970s, and documents the life of its lead singer, Jagari, whose name is an Africanisation of Mick Jagger's. Through the resurrection of a music that was forgotten by many and unheard by most, the film explores the life of a former African rock-star, and the excitement around the rediscovery of his music by Western fans, many of whom had yet to be born when his last album was released.",
+      "releaseInfo": "2019",
+      "runtime": "88 min",
+      "genres": [
+        "Documentary",
+        "Music",
+        "Classic Rock"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/3LiUsQuDQ9VWSPBke5kwcD0TwwC.jpg"
+    },
+    {
+      "id": "tt10382116",
+      "type": "movie",
+      "name": "The Cavern Club: The Beat Goes On",
+      "poster": "https://image.tmdb.org/t/p/w780/q1UIi7ZOlGO2VK4xNCZv7nd8cqv.jpg",
+      "posterShape": "poster",
+      "description": "Presented by Paul McGann, The Cavern Club and LA Factual have come together to produce \"The Cavern Club: The Beat Goes On\" - a unique documentary feature, telling the untold, complete and colourful story of the 'greatest club in the world'.",
+      "releaseInfo": "2019",
+      "runtime": "70 min",
+      "genres": [
+        "Documentary",
+        "Music",
+        "Classic Rock"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/kww2VIZp1pxmCzuo714zQ2wI87Y.jpg",
+      "imdbRating": "7.6"
+    },
+    {
+      "id": "tt9144476",
+      "type": "movie",
+      "name": "David Bowie: Finding Fame",
+      "poster": "https://image.tmdb.org/t/p/w780/kAE8n4oqd1w13G7cYuLB5MU2QCr.jpg",
+      "posterShape": "poster",
+      "description": "Coming 50 years after the release of Space Oddity, the 90-minute film explores the Bowie before Ziggy Stardust, following the period from 1966 when he changed his name from David Jones to Bowie. It includes footage from the BBC Archives including footage of a BBC audition in 1965 of David Bowie and the Lower Third, which included a performance of Chim-Chim-Cheree and Baby That's A Promise.",
+      "releaseInfo": "2019",
+      "runtime": "94 min",
+      "genres": [
+        "Documentary",
+        "Music",
+        "Classic Rock"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/g1xy3zBWqsDFn1uw5sA8291M0s2.jpg",
+      "imdbRating": "6.9"
+    },
+    {
+      "id": "tt8965432",
+      "type": "movie",
+      "name": "John & Yoko: Above Us Only Sky",
+      "poster": "https://image.tmdb.org/t/p/w780/mHO1NdxQ5gXi8ygQ2MqI8KWzrQp.jpg",
+      "posterShape": "poster",
+      "description": "Film telling the untold story of John Lennon's 1971 album Imagine, exploring the creative collaboration between Lennon and Yoko Ono and featuring interviews and never-seen-before footage.",
+      "releaseInfo": "2018",
+      "runtime": "90 min",
+      "genres": [
+        "Documentary",
+        "Music",
+        "Classic Rock"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/xBmTgvHPWGjo2l9mEc7YDY4SHss.jpg",
+      "imdbRating": "7.1"
     },
     {
       "id": "tt9095324",
@@ -509,21 +1433,20 @@
       "imdbRating": "7.8"
     },
     {
-      "id": "tt6775942",
-      "type": "movie",
-      "name": "The King",
-      "poster": "https://image.tmdb.org/t/p/w780/Tgv0kLi8obD2bfiGyErp4BJMeH.jpg",
+      "id": "tt8068670",
+      "type": "series",
+      "name": "Breaking the Band",
+      "poster": "https://image.tmdb.org/t/p/w780/g85G6qvMkfa6m7x0Uf4XOTRdyhH.jpg",
       "posterShape": "poster",
-      "description": "A cultural portrait of the American dream at a critical time in the nation’s history. Set against the 2016 American election, The King takes a musical road trip across the country in Elvis Presley's 1963 Rolls Royce.",
-      "releaseInfo": "2018",
-      "runtime": "107 min",
+      "description": "The battling egos, power struggles and inter-band rivalries that split up The Beatles, The Supremes, Fleetwood Mac, The Eagles, The Beach Boys, N.W.A, Van Halen and Sonny and Cher. From crippling drug addictions to scandalous affairs, we uncover the incredible true stories by recreating the key moments the cameras missed in addition to using rare band interviews and off-stage footage to piece together each dramatic tale.",
+      "releaseInfo": "2018-2022",
       "genres": [
         "Documentary",
         "Music",
         "Classic Rock"
       ],
-      "background": "https://image.tmdb.org/t/p/w1280/8gEy8zrnaubHdSn2f7sdmdiNrkg.jpg",
-      "imdbRating": "6.3"
+      "background": "https://image.tmdb.org/t/p/w1280/gmekCcoKxkyDOPeWB7uY0kWCq8T.jpg",
+      "imdbRating": "5.0"
     },
     {
       "id": "tt6498644",
@@ -543,6 +1466,40 @@
       "imdbRating": "7.1"
     },
     {
+      "id": "tt6214722",
+      "type": "movie",
+      "name": "If I Leave Here Tomorrow: A Film About Lynyrd Skynyrd",
+      "poster": "https://image.tmdb.org/t/p/w780/exLlZ3tQNMCMPF36tX8Vg7XCCBw.jpg",
+      "posterShape": "poster",
+      "description": "The story of Lynyrd Skynyrd; The Greatest American Rock Band Ever. We fly beyond Free Bird to celebrate the life & times of leader Ronnie Van Zant, from boogie-woogie beginnings in Jacksonville’s Shantytown to a tragic end in a Mississippi swamp.",
+      "releaseInfo": "2018",
+      "runtime": "94 min",
+      "genres": [
+        "Documentary",
+        "Music",
+        "Classic Rock"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/hGOzmChV7cq4q7HdDtJOJCJj86B.jpg",
+      "imdbRating": "7.6"
+    },
+    {
+      "id": "tt8267204",
+      "type": "movie",
+      "name": "Betty: They Say I’m Different",
+      "poster": "https://image.tmdb.org/t/p/w780/aZrUTCZEwzXULdgr3mlfEjP8ASe.jpg",
+      "posterShape": "poster",
+      "description": "An aspiring songwriter from a small steel town, Betty Mabry Davis arrived on the scene to break boundaries for women with her daring personality, iconic fashion style and outrageous funk. She befriended Jimi Hendrix and Sly Stone, wrote songs for the Chambers Brothers and The Commodores and married Miles Davis, turning him from jazz to funk and then went on to ignite stages in the 70s with her sassy sexed up mix of hard rock and bluesy funk, inspiring artists from Prince to Erykah Badu to Karen 0 and Peaches. Then she vanished…",
+      "releaseInfo": "2017",
+      "runtime": "54 min",
+      "genres": [
+        "Documentary",
+        "Music",
+        "Classic Rock"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/q2svyubeFQI57AuiO7MGwaoseA6.jpg",
+      "imdbRating": "7.3"
+    },
+    {
       "id": "tt6170130",
       "type": "movie",
       "name": "How the Beatles Changed the World",
@@ -558,6 +1515,39 @@
       ],
       "background": "https://image.tmdb.org/t/p/w1280/h234Z2W5nImDaHYs0pYgB2Xfu3x.jpg",
       "imdbRating": "7.3"
+    },
+    {
+      "id": "tt7804016",
+      "type": "movie",
+      "name": "Queen: Rock the World",
+      "poster": "https://image.tmdb.org/t/p/w780/lNcmXoNGjKLSocZpU18uXa7Hy9c.jpg",
+      "posterShape": "poster",
+      "description": "In 1977, BBC music presenter Bob Harris was given exclusive and extensive access to the Queen. Conducting insightful interviews with all four band members as well as filming them at work in the studio as they were planning and rehearsing their forthcoming North American Tour, and then following them as they performed across the US, Bob captured a band attempting to replicate their huge domestic success on the global stage. To mark the 40th anniversary of the release of the News of the World album, the footage has now been carefully restored and revisited to compile this hour-long portrait of a group setting out to take the next step on their remarkable journey to becoming one of the biggest bands on the planet.",
+      "releaseInfo": "2017",
+      "runtime": "60 min",
+      "genres": [
+        "Documentary",
+        "Music",
+        "Classic Rock"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/A2Ef5yQdOeoAyGrnkymniUFsCf6.jpg",
+      "imdbRating": "7.9"
+    },
+    {
+      "id": "tt3982826",
+      "type": "movie",
+      "name": "Meal Tickets",
+      "poster": "https://image.tmdb.org/t/p/w780/h2Y3foM42DLM8u8uIJYtTsiJw7S.jpg",
+      "posterShape": "poster",
+      "description": "Director Mat de Koning captures the rollercoaster journey of a young Perth band, the Screwtop Detonators, their manager Dave Kavanagh (an ex-mentor to The Libertines) and their one-time roadie, Will Stoker, as they grapple with the music industry's long road to the top. Initially ambitious and eager for fame and fortune, their aspirations change over time as they individually discover what truly matters in life.",
+      "releaseInfo": "2017",
+      "runtime": "93 min",
+      "genres": [
+        "Documentary",
+        "Music",
+        "Classic Rock"
+      ],
+      "imdbRating": "5.0"
     },
     {
       "id": "tt4143508",
@@ -576,6 +1566,40 @@
       "imdbRating": "6.2"
     },
     {
+      "id": "tt2134077",
+      "type": "movie",
+      "name": "It Was Fifty Years Ago Today! The Beatles: Sgt. Pepper & Beyond",
+      "poster": "https://image.tmdb.org/t/p/w780/67oSOM1yGEB59pWh4Qa1pCwWOae.jpg",
+      "posterShape": "poster",
+      "description": "Featuring interviews with former employees, fellow musicians, family members and journalists, and supported by original and exclusive never-seen-before footage, this star-studded rockumentary offers a fascinating insight into the creation and recording of one of the most ground-breaking and influential albums in pop history.",
+      "releaseInfo": "2017",
+      "runtime": "113 min",
+      "genres": [
+        "Documentary",
+        "Music",
+        "Classic Rock"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/lCOX24hgFN1QrrDwbEbffLdHXr2.jpg",
+      "imdbRating": "5.8"
+    },
+    {
+      "id": "tt7135152",
+      "type": "movie",
+      "name": "Beside Bowie - The Mick Ronson Story",
+      "poster": "https://image.tmdb.org/t/p/w780/vrOFJGiIylGmH0O87ZAcZuN8YYy.jpg",
+      "posterShape": "poster",
+      "description": "Beside Bowie: The Mick Ronson Story is a documentary about the life and work of Michael \"Mick\" Ronson, the guitarist, songwriter, producer and arranger who, in the early part of his career, performed with David Bowie as one of the 'Spiders from Mars'.",
+      "releaseInfo": "2017",
+      "runtime": "102 min",
+      "genres": [
+        "Documentary",
+        "Music",
+        "Classic Rock"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/rohaNXEhLDAqRUqHgnKf7j9xM3A.jpg",
+      "imdbRating": "8.0"
+    },
+    {
       "id": "tt6740234",
       "type": "series",
       "name": "Brian Johnson's A Life on the Road",
@@ -590,6 +1614,91 @@
       ],
       "background": "https://image.tmdb.org/t/p/w1280/jEMinMCBn1GrjU5mhQjDOIea4F.jpg",
       "imdbRating": "7.9"
+    },
+    {
+      "id": "tt6375308",
+      "type": "movie",
+      "name": "David Bowie: The Last Five Years",
+      "poster": "https://image.tmdb.org/t/p/w780/2n2urwABiQ94z0DnifiHF9bKgQk.jpg",
+      "posterShape": "poster",
+      "description": "In the last five years of his life, David Bowie ended nearly a decade of silence to engage in an extraordinary burst of activity, producing two groundbreaking albums and a musical. David Bowie: The Last Five Years explores this unexpected end to a remarkable career. Made with remarkable access, Francis Whately’s documentary is a revelatory follow-up to his acclaimed 2013 documentary David Bowie: Five Years, which chronicled Bowie’s golden ‘70s and early-‘80s period.",
+      "releaseInfo": "2017",
+      "runtime": "90 min",
+      "genres": [
+        "Documentary",
+        "Music",
+        "Classic Rock"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/jxfGpEDhJERO6exsyfmLw0TyDXs.jpg",
+      "imdbRating": "7.1"
+    },
+    {
+      "id": "tt7291132",
+      "type": "movie",
+      "name": "Bruce Springsteen: In His Own Words",
+      "poster": "https://image.tmdb.org/t/p/w780/b8SZrJH3Sv1VyxKLgtAfOBuO2Xk.jpg",
+      "posterShape": "poster",
+      "description": "Revealing bio-documentary giving an exclusive look into the life of one of the world's most admired and respected musicians as Bruce Springsteen explores and explains his greatest influences",
+      "releaseInfo": "2017",
+      "runtime": "71 min",
+      "genres": [
+        "Documentary",
+        "Music",
+        "Classic Rock"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/yTbLCky8MAqe4PuFiFSykKh9zAQ.jpg",
+      "imdbRating": "6.8"
+    },
+    {
+      "id": "tt6151042",
+      "type": "movie",
+      "name": "Rush: Time Stand Still",
+      "poster": "https://image.tmdb.org/t/p/w780/1yEdrdtC5Ox1uyD5EoZLm2yO4p0.jpg",
+      "posterShape": "poster",
+      "description": "This feature-length documentary film chronicles the final major tour for legendary rock band Rush. It is an intimate view 'under the hood' of a historic moment from the perspective of the band, their fans, crew, and management. Featuring interviews with the band throughout their sold-out 2015 40th Anniversary tour, the film also shows rarely seen backstage footage capturing the final moments of life on the road. Highlighted as well is the impact on the band's fans and the world that has been built around the beloved Canadian trio. This is the final touring chapter of a band that has meant so much to so many fans around the world. With narration by Paul Rudd. Feature run time: 1 hour 37 minutes; Bonus content: 67 minutes.",
+      "releaseInfo": "2016",
+      "runtime": "97 min",
+      "genres": [
+        "Documentary",
+        "Music",
+        "Classic Rock"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/bNka4uqToaVZv7S22lEtne75cyQ.jpg",
+      "imdbRating": "8.2"
+    },
+    {
+      "id": "tt5914350",
+      "type": "movie",
+      "name": "The Rolling Stones: Olé Olé Olé! – A Trip Across Latin America",
+      "poster": "https://image.tmdb.org/t/p/w780/qJx1Kf1yybpjXIqhoEPdG6OJ63H.jpg",
+      "posterShape": "poster",
+      "description": "This exhilarating rock 'n' roll road movie follows The Rolling Stones on their 2016 tour of Latin America, climaxing with their historic concert in Havana, Cuba.",
+      "releaseInfo": "2016",
+      "runtime": "105 min",
+      "genres": [
+        "Documentary",
+        "Music",
+        "Classic Rock"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/tdArpv2Av7MhGwbIMVnRgCy8dDn.jpg",
+      "imdbRating": "7.2"
+    },
+    {
+      "id": "tt5987200",
+      "type": "movie",
+      "name": "The Tragically Hip -  A National Celebration",
+      "poster": "https://image.tmdb.org/t/p/w780/jj9tTup4ixVvr98weo9Cr1VVeGB.jpg",
+      "posterShape": "poster",
+      "description": "When it was announced in May of 2016 that lead singer Gord Downie had been diagnosed with terminal brain cancer, the band decided that they would do one final run of 15 dates across Canada.  A National Celebration was the final show of the Tragically Hip's Man Machine Poem Tour recorded on August 20th, 2016 at the K-Rock Centre in their home town of Kingston Ontario.  Originally aired live by CBC across all platforms, the concert was experienced by an estimated one-third of Canadians, among the biggest events in the country's broadcast history.",
+      "releaseInfo": "2016",
+      "runtime": "162 min",
+      "genres": [
+        "Documentary",
+        "Music",
+        "Classic Rock"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/2T1SZ6ARtIPWScx7CY1gVoB8I1N.jpg",
+      "imdbRating": "9.6"
     },
     {
       "id": "tt5598234",
@@ -607,6 +1716,23 @@
       ],
       "background": "https://image.tmdb.org/t/p/w1280/2CbgsjUzoyEXBH0rvAxfdI5fwLU.jpg",
       "imdbRating": "5.7"
+    },
+    {
+      "id": "tt5704344",
+      "type": "movie",
+      "name": "When Pop Went Epic: The Crazy World of the Concept Album",
+      "poster": "https://image.tmdb.org/t/p/w780/typad5xMeatdQ2YcNPS4ZB0jMKU.jpg",
+      "posterShape": "poster",
+      "description": "Rick Wakeman tells the story of the concept album from Woody Guthrie to the present day - a musical format usually based around a structured narrative that developed to become the equivalent of rock 'n' roll theatre.",
+      "releaseInfo": "2016",
+      "runtime": "59 min",
+      "genres": [
+        "Documentary",
+        "Music",
+        "Classic Rock"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/iRmFFMpw12Nz6poisciNRrFUvEp.jpg",
+      "imdbRating": "7.0"
     },
     {
       "id": "tt5275830",
@@ -643,6 +1769,57 @@
       "imdbRating": "7.2"
     },
     {
+      "id": "tt3807496",
+      "type": "movie",
+      "name": "Now More than Ever: The History of Chicago",
+      "poster": "https://image.tmdb.org/t/p/w780/tMOYjVeAAafABdUT03S3rnD5ig6.jpg",
+      "posterShape": "poster",
+      "description": "The history of legendary rock band Chicago is chronicled from their inception in 1967 all the way to the present.",
+      "releaseInfo": "2016",
+      "runtime": "113 min",
+      "genres": [
+        "Documentary",
+        "Music",
+        "Classic Rock"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/9zsPFvDFDfAGO4301T0zcWVTlOF.jpg",
+      "imdbRating": "7.2"
+    },
+    {
+      "id": "tt5172570",
+      "type": "movie",
+      "name": "David Gilmour: Wider Horizons",
+      "poster": "https://image.tmdb.org/t/p/w780/vOfvuicU14kel5GRcUoxUZrype0.jpg",
+      "posterShape": "poster",
+      "description": "After a break of nine years, David Gilmour steps back into the spotlight with a number one album and world tour. This film is an intimate portrait of one of the greatest guitarists and singers of all time, exploring his past and present.  With unprecedented access, the film crew have captured and detailed key moments in David Gilmour's personal and professional life that have shaped him both as a person and a musician.",
+      "releaseInfo": "2015",
+      "runtime": "72 min",
+      "genres": [
+        "Documentary",
+        "Music",
+        "Classic Rock"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/ouwJQiD04607LlXPxf337v9wWlE.jpg",
+      "imdbRating": "8.2"
+    },
+    {
+      "id": "tt5645196",
+      "type": "movie",
+      "name": "Gone with the Wind: The Remarkable Rise and Tragic Fall of Lynyrd Skynyrd",
+      "poster": "https://image.tmdb.org/t/p/w780/7GmgBjhmXaKDAcqFHRa1GzeP3hx.jpg",
+      "posterShape": "poster",
+      "description": "The story of the Southern rock band Lynyrd Skynyrd from their early beginnings to the fatal plane that ended the original incarnation of the group.",
+      "releaseInfo": "2015",
+      "runtime": "170 min",
+      "genres": [
+        "Documentary",
+        "Music",
+        "Classic Rock"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/nU1a6mIpfOLsatu6wS2gkQ82sUz.jpg",
+      "imdbRating": "10.0"
+    },
+    {
       "id": "tt4900018",
       "type": "movie",
       "name": "Keith Richards: Under the Influence",
@@ -660,37 +1837,72 @@
       "imdbRating": "6.8"
     },
     {
-      "id": "tt4268850",
+      "id": "tt3707114",
       "type": "movie",
-      "name": "No Manifesto: A Film About Manic Street Preachers",
-      "poster": "https://image.tmdb.org/t/p/w780/u2vyttyllKKqecYNDqe5yZ7QWKS.jpg",
+      "name": "Janis: Little Girl Blue",
+      "poster": "https://image.tmdb.org/t/p/w780/qosDLnAcHRAUjgmZIU0c1ktEhx2.jpg",
       "posterShape": "poster",
-      "description": "In 1991, the Manic Street Preachers planned to sell 16 million copies of their debut and split up. Many years, many hits and one big mystery later, this colourful band and its fans appear in a unique documentary that tells their full story.",
+      "description": "Janis Joplin is one of the most respected and iconic rock & roll singers of all time, a tragic and misunderstood figure who captivated millions of listeners and blazed new creative trails before her death in 1970 at age 27. Director Amy Berg explored Joplin's story in depth. A portrait of a complicated, driven and often beleaguered artist. Joplin's own words recount a series of letters she wrote to her family over the years. Janis was a vessel of energy when she sang. Her rapid rise and untimely death changed music forever.",
       "releaseInfo": "2015",
-      "runtime": "96 min",
+      "runtime": "106 min",
       "genres": [
         "Documentary",
         "Music",
         "Classic Rock"
       ],
-      "background": "https://image.tmdb.org/t/p/w1280/2oC1IHLlFf70rmKcflETLve357X.jpg",
-      "imdbRating": "7.5"
+      "background": "https://image.tmdb.org/t/p/w1280/j8pbIA3bn6KAh2FtS3R9jpvjNd3.jpg",
+      "imdbRating": "7.3"
     },
     {
-      "id": "tt3893538",
-      "type": "series",
-      "name": "Foo Fighters Sonic Highways",
-      "poster": "https://image.tmdb.org/t/p/w780/g6OKf4gfojZg5Npfx6RPzVz8c8T.jpg",
+      "id": "tt4638152",
+      "type": "movie",
+      "name": "Tales from the Tour Bus: Rock 'n' Roll on the Road",
+      "poster": "https://image.tmdb.org/t/p/w780/uEHxoQJF5dPHodqmN5d5ta6xwJj.jpg",
       "posterShape": "poster",
-      "description": "In this new series, Foo Fighters commemorate their 20th anniversary by documenting the eight-city recording odyssey that produced their latest, and eighth, studio album.",
-      "releaseInfo": "2014",
+      "description": "Rock legend and tour bus aficionado Rick Wakeman takes us on a time-travelling trip through the decades in this first-hand account of rockers on the road from the late 1950s to the 80s and beyond. It's a secret history of transport cafes, transit vans, B&Bs, sleepless roadies and of loved ones left at home or, on one occasion, by the roadside. Also audiences both good and bad, and the gigs themselves - from the early variety package to the head clubs, the stadiums, and the pubs.",
+      "releaseInfo": "2015",
+      "runtime": "60 min",
       "genres": [
         "Documentary",
         "Music",
         "Classic Rock"
       ],
-      "background": "https://image.tmdb.org/t/p/w1280/g5Jfq9y9eiONblboscw5odTmg84.jpg",
-      "imdbRating": "8.0"
+      "background": "https://image.tmdb.org/t/p/w1280/oeGJvPHCtZyNbeBF49uWfieNEtw.jpg",
+      "imdbRating": "10.0"
+    },
+    {
+      "id": "tt3685922",
+      "type": "movie",
+      "name": "Lost Songs: The Basement Tapes Continued",
+      "poster": "https://image.tmdb.org/t/p/w780/rb4zZNbDvH72A5BGUKPQIGQ6Ee8.jpg",
+      "posterShape": "poster",
+      "description": "A documentary that goes behind the scenes with some of today's most talented songwriters as they make new music based on long-lost, newly discovered lyrics from Bob Dylan's legendary Basement Tapes sessions. T Bone Burnett brings Elvis Costello, Rhiannon Giddens, Taylor Goldsmith, Jim James and Marcus Mumford together in a dramatic two-week studio session in the basement of Capitol Records. Features an exclusive interview with Bob Dylan.",
+      "releaseInfo": "2014",
+      "runtime": "106 min",
+      "genres": [
+        "Documentary",
+        "Music",
+        "Classic Rock"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/oGKShtvwS4g0UGjHWu6L2TWYIq0.jpg",
+      "imdbRating": "7.3"
+    },
+    {
+      "id": "tt3966500",
+      "type": "movie",
+      "name": "Genesis: Together and Apart",
+      "poster": "https://image.tmdb.org/t/p/w780/wbomIsgQC7w7nbESgSAT8YYuVlx.jpg",
+      "posterShape": "poster",
+      "description": "A feature-length documentary about one of the most successful British bands in rock music. The film recounts their extraordinary musical story, exploring the songwriting and the emotional highs and lows.",
+      "releaseInfo": "2014",
+      "runtime": "90 min",
+      "genres": [
+        "Documentary",
+        "Music",
+        "Classic Rock"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/v528XB5MwIdIkJ1Zkdylg74fhcC.jpg",
+      "imdbRating": "6.6"
     },
     {
       "id": "tt3692768",
@@ -710,38 +1922,38 @@
       "imdbRating": "6.8"
     },
     {
-      "id": "tt3228830",
+      "id": "tt4661866",
       "type": "movie",
-      "name": "Super Duper Alice Cooper",
-      "poster": "https://image.tmdb.org/t/p/w780/A72W2mvQ5EZ4pzx96RjKyHYAfGJ.jpg",
+      "name": "John Mayer: Someday I'll Fly",
+      "poster": "https://image.tmdb.org/t/p/w780/UDpWEIWLx4FbnhQuQn89ajhJJ0.jpg",
       "posterShape": "poster",
-      "description": "Emerging from the Detroit music scene of the 1970s in a flurry of long hair and sequins, Alice Cooper restored hard rock with a sense of showmanship, while simultaneously striking fear into the hearts of Middle America with the chicken-slaughtering, dead-baby-eating theatrics that would cement his identity as a glam metal icon. Meticulously crafted from rare archival footage, Super Duper Alice Cooper tells the story of the man behind the makeup, Vincent Furnier, the son of a preacher, who got caught in the grip of his own monster.",
+      "description": "John Mayer: Someday I'll Fly chronicles the musical evolution of one of the most influential solo artists of his generation. Featuring rare demos, interviews and live performances; it is told in it's entirety from Mayer's perspective.  Centered mostly on his career and professional accomplishments, Someday I'll Fly strips away the typical gossip surrounding Mayer to provide an intimate look at the life and career of a lauded musician.",
       "releaseInfo": "2014",
-      "runtime": "86 min",
+      "runtime": "66 min",
       "genres": [
         "Documentary",
         "Music",
         "Classic Rock"
       ],
-      "background": "https://image.tmdb.org/t/p/w1280/w2ELcHBcIvbcXbtiGxEEJ5PiOBU.jpg",
-      "imdbRating": "7.1"
+      "background": "https://image.tmdb.org/t/p/w1280/pTPeXxDAY11KgyQPmHNM2xMsBzW.jpg",
+      "imdbRating": "9.5"
     },
     {
-      "id": "tt3181314",
+      "id": "tt3688378",
       "type": "movie",
-      "name": "Jimi Hendrix: Hear My Train a Comin'",
-      "poster": "https://image.tmdb.org/t/p/w780/8dMu2RFdYEBb8Ob136Jq9Z8tQ0w.jpg",
+      "name": "Bad Company | The Official Authorized 40th Anniversary Documentary",
+      "poster": "https://image.tmdb.org/t/p/w780/zAc5tLADYqfaOnvzLPsU9KALkaf.jpg",
       "posterShape": "poster",
-      "description": "An account of the short life of genius musician Jimi Hendrix (1942-70), probably the most talented and influential guitarist of the twentieth century: his humble beginnings in Seattle, his time in New York, his rise to fame in swinging London… Live fast, love hard, die young.",
-      "releaseInfo": "2013",
-      "runtime": "90 min",
+      "description": "Supported by Bad Company's major hit tracks, this candid film celebrates rock's hottest anthems in the company of the group's remaining three members: Paul Rodgers, Simon Kirke and Mick Ralphs, alongside contemporaries Brian May, Zoot Money, Sam Moore, Joe Elliott, Jason Bonham and many more.",
+      "releaseInfo": "2014",
+      "runtime": "84 min",
       "genres": [
         "Documentary",
         "Music",
         "Classic Rock"
       ],
-      "background": "https://image.tmdb.org/t/p/w1280/1t11FBDabS7hVWjdfg0ttCiFaiF.jpg",
-      "imdbRating": "7.4"
+      "background": "https://image.tmdb.org/t/p/w1280/okjr9ruKkneLG67e9pLnI3VcpUi.jpg",
+      "imdbRating": "5.0"
     },
     {
       "id": "tt3233548",
@@ -759,23 +1971,6 @@
       ],
       "background": "https://image.tmdb.org/t/p/w1280/wuEI05YD0i1Pc6p2cd3eYKibSoP.jpg",
       "imdbRating": "7.3"
-    },
-    {
-      "id": "tt3074780",
-      "type": "movie",
-      "name": "Supermensch: The Legend of Shep Gordon",
-      "poster": "https://image.tmdb.org/t/p/w780/6cUD0vmz2ZCXeejLpPXkP2hJexl.jpg",
-      "posterShape": "poster",
-      "description": "Supermensch documents the astounding career of Hollywood insider, the loveable Shep Gordon, who fell into music management by chance after moving to LA straight out of college, and befriending Janis Joplin, Jim Morrison and Jimi Hendrix. Shep managed rock stars such as Pink Floyd, Luther Vandross, Teddy Pendergrass and Alice Cooper, and later went on to manage chefs such as Emeril Lagasse, ushering in the era of celebrity chefs on television.",
-      "releaseInfo": "2013",
-      "runtime": "75 min",
-      "genres": [
-        "Documentary",
-        "Music",
-        "Classic Rock"
-      ],
-      "background": "https://image.tmdb.org/t/p/w1280/vGe38lBYBOLp0jthuBOIVGap4fM.jpg",
-      "imdbRating": "7.1"
     },
     {
       "id": "tt2505938",
@@ -812,6 +2007,40 @@
       "imdbRating": "7.2"
     },
     {
+      "id": "tt2290151",
+      "type": "movie",
+      "name": "Big Star: Nothing Can Hurt Me",
+      "poster": "https://image.tmdb.org/t/p/w780/keziAcJmShoh2ofQoOePabrjLgG.jpg",
+      "posterShape": "poster",
+      "description": "Big Star: Nothing Can Hurt Me is a feature-length documentary film about the dismal commercial failure, subsequent massive critical acclaim, and enduring legacy of pop music's greatest cult phenomenon, Big Star.",
+      "releaseInfo": "2013",
+      "runtime": "100 min",
+      "genres": [
+        "Documentary",
+        "Music",
+        "Classic Rock"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/3ShU5UjihXTaKe1c2lhprTrRqqa.jpg",
+      "imdbRating": "7.1"
+    },
+    {
+      "id": "tt2865380",
+      "type": "movie",
+      "name": "Quadrophenia: Can You See the Real Me?",
+      "poster": "https://image.tmdb.org/t/p/w780/b3rtxJ84BBByFwNQdk3lrWXALr4.jpg",
+      "posterShape": "poster",
+      "description": "In his home studio and revisiting old haunts in Shepherds Bush and Battersea, Pete Townshend opens his heart and his personal archive to revisit 'the last great album the Who ever made', one that took the Who full circle back to their earliest days via the adventures of a pill-popping mod on an epic journey of self-discovery.  But in 1973 Quadrophenia was an album that almost never was. Beset by money problems, a studio in construction, heroin-taking managers, a lunatic drummer and a culture of heavy drinking, Townshend took on an album that nearly broke him and one that within a year the band had turned their back on and would ignore for nearly three decades.  Contributors include: Pete Townshend, Roger Daltrey, Ethan Russell, Ron Nevison, Richard Barnes, Irish Jack Lyons, Bill Curbishley, John Woolf, Howie Edelson, Mark Kermode and Georgiana Steele Waller.",
+      "releaseInfo": "2013",
+      "runtime": "70 min",
+      "genres": [
+        "Documentary",
+        "Music",
+        "Classic Rock"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/7o7l6T9Et0LNFVOYpL65ojdWqCb.jpg",
+      "imdbRating": "8.6"
+    },
+    {
       "id": "tt7973610",
       "type": "movie",
       "name": "Frank Zappa: A Token Of His Extreme",
@@ -829,6 +2058,40 @@
       "imdbRating": "6.1"
     },
     {
+      "id": "tt2973408",
+      "type": "movie",
+      "name": "David Bowie: Five Years",
+      "poster": "https://image.tmdb.org/t/p/w780/dFIa89v7Tk1AsJImbxnpk8OwNwX.jpg",
+      "posterShape": "poster",
+      "description": "Featuring a wealth of previously unseen archive, this film looks at how Bowie continually evolved: from Ziggy Stardust to the Soul Star of Young Americans, to the ‘Thin White Duke’. It explores his regeneration in Berlin with the critically acclaimed album Heroes, his triumph with Scary Monsters and his global success with Let’s Dance.  With interviews with all his closest collaborators, David Bowie - Five Years presents a unique account of why Bowie has become an ‘icon of our times’.",
+      "releaseInfo": "2013",
+      "runtime": "90 min",
+      "genres": [
+        "Documentary",
+        "Music",
+        "Classic Rock"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/zJAHuHPJndk2Z2wnOvOvp4IJT0Z.jpg",
+      "imdbRating": "7.5"
+    },
+    {
+      "id": "tt1308756",
+      "type": "movie",
+      "name": "Don’t Stop Believin’: Everyman’s Journey",
+      "poster": "https://image.tmdb.org/t/p/w780/eonEn9zzU6zX4UB5mzcJNulc31y.jpg",
+      "posterShape": "poster",
+      "description": "Follows the real life rock-n-roll fairy tale story of Filipino Arnel Pineda, who was plucked from You Tube to become the front man for iconic American rock band, Journey, thereby becoming the latest performer to go from the Internet to real life celebrity. Having already overcome a life full of painful obstacles and now saddled with the immense pressures of leading a world renowned band and replacing a legendary singer, the film follows Arnel on this personal journey.",
+      "releaseInfo": "2013",
+      "runtime": "105 min",
+      "genres": [
+        "Documentary",
+        "Music",
+        "Classic Rock"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/vdYeY0sx8qPg9wC1Sl1JXWiMox5.jpg",
+      "imdbRating": "6.9"
+    },
+    {
       "id": "tt4728244",
       "type": "series",
       "name": "Rock Legends",
@@ -843,6 +2106,57 @@
       ],
       "background": "https://image.tmdb.org/t/p/w1280/uMWVRaweK3PXvtIpQoWJiyQfNN3.jpg",
       "imdbRating": "8.0"
+    },
+    {
+      "id": "tt1931388",
+      "type": "movie",
+      "name": "Beware of Mr. Baker",
+      "poster": "https://image.tmdb.org/t/p/w780/z8U2FGiRoyCej0Mh8VU6iAZVRY9.jpg",
+      "posterShape": "poster",
+      "description": "Ginger Baker is known for playing in Cream and Blind Faith, but the world's greatest drummer didn’t hit his stride until 1972, when he arrived in Nigeria and discovered Fela Kuti's Afrobeat. After leaving Nigeria, Ginger returned to his pattern of drug-induced self-destruction, and countless groundbreaking musical works, eventually settling in South Africa, where the 73-year-old lives with his young bride and 39 polo ponies. This documentary includes interviews with Eric Clapton, Steve Winwood, Carlos Santana and more. Beware of Mr. Baker! With every smash of the drum is a man smashing his way through life.",
+      "releaseInfo": "2012",
+      "runtime": "100 min",
+      "genres": [
+        "Documentary",
+        "Music",
+        "Classic Rock"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/5p1MPUS4RLmdAFRH3DsTRrSYEbT.jpg",
+      "imdbRating": "7.5"
+    },
+    {
+      "id": "tt2471626",
+      "type": "movie",
+      "name": "Freddie Mercury: The Great Pretender",
+      "poster": "https://image.tmdb.org/t/p/w780/2zTtw8VNZtLrcUtHiiEzADkUKkm.jpg",
+      "posterShape": "poster",
+      "description": "Archive footage of interviews, concerts and personal material bring to light the solo performance work of Mercury, the lead singer of Queen.",
+      "releaseInfo": "2012",
+      "runtime": "107 min",
+      "genres": [
+        "Documentary",
+        "Music",
+        "Classic Rock"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/k4uh2jcZKgiPFbrbCeK45fBHOnk.jpg",
+      "imdbRating": "7.3"
+    },
+    {
+      "id": "tt2043931",
+      "type": "movie",
+      "name": "Neil Young Journeys",
+      "poster": "https://image.tmdb.org/t/p/w780/dWCCrn8zuniBxWbHW1dahvjTdk4.jpg",
+      "posterShape": "poster",
+      "description": "In May of 2011, Neil Young drove a 1956 Crown Victoria from his idyllic hometown of Omemee, Ontario to downtown Toronto's iconic Massey Hall where he intimately performed the last two nights of his solo world tour. Along the drive, Young recounted insightful and introspective stories from his youth to filmmaker Jonathan Demme. Through the tunes and the tales, Demme portrays a personal, retrospective look into the heart and soul of the artist.",
+      "releaseInfo": "2012",
+      "runtime": "87 min",
+      "genres": [
+        "Documentary",
+        "Music",
+        "Classic Rock"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/9NiFo67U9T8m9HLR9oAi69EdqRR.jpg",
+      "imdbRating": "7.1"
     },
     {
       "id": "tt2296909",
@@ -862,6 +2176,107 @@
       "imdbRating": "7.3"
     },
     {
+      "id": "tt2223820",
+      "type": "movie",
+      "name": "David Bowie & The Story of Ziggy Stardust",
+      "poster": "https://image.tmdb.org/t/p/w780/B7pQQrxChSydU2Me9NyZazujQO.jpg",
+      "posterShape": "poster",
+      "description": "BBC documentary telling the story of how David Bowie arrived at one of the most iconic creations in pop history - Ziggy Stardust - with contributions from colleagues and famous fans.",
+      "releaseInfo": "2012",
+      "runtime": "57 min",
+      "genres": [
+        "Documentary",
+        "Music",
+        "Classic Rock"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/cxwjgigqkP1OBkNCIs9ChjmCPCY.jpg",
+      "imdbRating": "7.2"
+    },
+    {
+      "id": "tt1800669",
+      "type": "movie",
+      "name": "Better Than Something: Jay Reatard",
+      "poster": "https://image.tmdb.org/t/p/w780/X6Wyvgf2TiL5yuWLdusdySh4CA.jpg",
+      "posterShape": "poster",
+      "description": "BETTER THAN SOMETHING is an exciting and intimate portrait of Memphis-based punk musician Jay Reatard, who toured the world and released dozens of records over the course of a 15 year career that began in his mid-teens. Original and never-before-seen footage documents his self-made journey to iconic garage rock star, with colleagues, friends, and family speaking candidly about Jay's vibrant and complicated life. Jay Reatard himself - filmed just nine months before his untimely death at the age of twenty-nine - shares his experiences both on and off stage, with all the humor, savvy, and pathos one can expect from such a prolific and vital artist.",
+      "releaseInfo": "2012",
+      "runtime": "89 min",
+      "genres": [
+        "Documentary",
+        "Music",
+        "Classic Rock"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/vsty7Y0qUJR3VQfqe5CBZlDuoHX.jpg",
+      "imdbRating": "5.1"
+    },
+    {
+      "id": "tt10085000",
+      "type": "movie",
+      "name": "Romantic Warriors II: A Progressive Music Saga About Rock in Opposition",
+      "poster": "https://image.tmdb.org/t/p/w780/jnQaK7T5LG7PguivU29DhVrVoD4.jpg",
+      "posterShape": "poster",
+      "description": "Romantic Warriors II explores the origins of the Rock in Opposition movement in the late 70s, and how it continues to influence contemporary bands throughout the world. Featured bands include Henry Cow, Art Zoyd, Magma, Univers Zero, Magma, Thinking Plague, Etron Fou Leloublan and Samla Mammas Manna.",
+      "releaseInfo": "2012",
+      "runtime": "98 min",
+      "genres": [
+        "Documentary",
+        "Music",
+        "Classic Rock"
+      ],
+      "imdbRating": "7.0"
+    },
+    {
+      "id": "tt2006276",
+      "type": "movie",
+      "name": "The Love We Make",
+      "poster": "https://image.tmdb.org/t/p/w780/mIxERkq5fZE4B46ThJo1jp8p3ah.jpg",
+      "posterShape": "poster",
+      "description": "\"The Love We Make\", a film directed by Albert Maysles (\"Gimme Shelter\") and Bradley Kaplan, follows Paul McCartney as he journeys through the streets of New York City in the aftermath of the destruction of the World Trade Center on September 11th, 2001. It also chronicles the planning and performance of the benefit concert that took place less than six months after the attacks: \"The Concert For New York City\".",
+      "releaseInfo": "2011",
+      "runtime": "94 min",
+      "genres": [
+        "Documentary",
+        "Music",
+        "Classic Rock"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/sKFyvcLBpGGwA4oq1kwJSDBjdBg.jpg",
+      "imdbRating": "6.8"
+    },
+    {
+      "id": "tt1884431",
+      "type": "movie",
+      "name": "Talihina Sky: The Story of Kings of Leon",
+      "poster": "https://image.tmdb.org/t/p/w780/i4V8MNMn3v0sAYyUa4O2WdL6wc1.jpg",
+      "posterShape": "poster",
+      "description": "A behind-the-scenes look at the rise of the American rock band, Kings of Leon.",
+      "releaseInfo": "2011",
+      "runtime": "87 min",
+      "genres": [
+        "Documentary",
+        "Music",
+        "Classic Rock"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/adjqok5LkSGSyyo0guvxnHMUXbh.jpg",
+      "imdbRating": "6.1"
+    },
+    {
+      "id": "tt1935098",
+      "type": "movie",
+      "name": "Classic Albums: Primal Scream - Screamadelica",
+      "poster": "https://image.tmdb.org/t/p/w780/ebQodtMO2p4aIfElDPkxLSb1Wvq.jpg",
+      "posterShape": "poster",
+      "description": "Primal Scream's seminal album \"Screamadelica\" defined a generation. It's mix of rock, dance, dub, gospel and more caught the zeitgeist of the early nineties to perfection and it went on to win the inaugural Mercury Music Prize in 1992 and consistently be named as \"Best Album Of The Nineties\" and appear in numerous \"All Time Best Albums\" lists. This latest addition to the acclaimed Classic Albums series tells the story behind the making of this legendary album. There are contributions from all the band members, main producer Andrew Weatherall, Creation Records founder Alan McGee and many others involved in the creation of this masterpiece.",
+      "releaseInfo": "2011",
+      "runtime": "58 min",
+      "genres": [
+        "Documentary",
+        "Music",
+        "Classic Rock"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/hAuv2v987fhssHPV9tzPxtZVShQ.jpg",
+      "imdbRating": "6.7"
+    },
+    {
       "id": "tt1678050",
       "type": "movie",
       "name": "Cure for Pain: The Mark Sandman Story",
@@ -876,6 +2291,56 @@
         "Classic Rock"
       ],
       "imdbRating": "6.8"
+    },
+    {
+      "id": "tt1854364",
+      "type": "movie",
+      "name": "The Union",
+      "poster": "https://image.tmdb.org/t/p/w780/pHtJkK3G190wD4uTRVtOq1HClng.jpg",
+      "posterShape": "poster",
+      "description": "In November 2009, filmmaker Cameron Crowe began filming a behind-the-scenes look at the creation of the album The Union, a collaboration between musicians Elton John and Leon Russell, who hadn't spoken to one another in 38 years prior to beginning work on the album. In addition, the documentary offers a rare glimpse into the process John goes through to create and compose his music. Featured in the film are musicians Neil Young, Brian Wilson, Booker T. Jones, steel guitarist Robert Randolph, Don Was and a 10-piece gospel choir who all contribute to the album, which is produced by award-winning producer T-Bone Burnett. Musician Stevie Nicks and John's long-time lyricist Bernie Taupin also appear.",
+      "releaseInfo": "2011",
+      "runtime": "87 min",
+      "genres": [
+        "Documentary",
+        "Music",
+        "Classic Rock"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/35Hl78ce7q8UUgOugFkSANaHgXG.jpg",
+      "imdbRating": "10.0"
+    },
+    {
+      "id": "tt3679238",
+      "type": "movie",
+      "name": "Pink Floyd: Whatever Happened to Pink Floyd? The Strange Case of Waters and Gilmour",
+      "poster": "https://image.tmdb.org/t/p/w780/5xp24H0xMqRSDGfBDoFbeA9zbJx.jpg",
+      "posterShape": "poster",
+      "description": "This film traces the path Floyd took after the recording of the Animals album - an era when cracks in the band first started to show - and brings the strange story of the group and the intense relationship between Waters and Gilmour right up to date with the unexpected collaboration of these two maverick musicians at a 2010 charity event. Featuring numerous interviews.",
+      "releaseInfo": "2011",
+      "runtime": "82 min",
+      "genres": [
+        "Documentary",
+        "Music",
+        "Classic Rock"
+      ],
+      "imdbRating": "6.0"
+    },
+    {
+      "id": "tt6207404",
+      "type": "movie",
+      "name": "Classic Albums: The Beach Boys - Pet Sounds",
+      "poster": "https://image.tmdb.org/t/p/w780/tHAju0YDfuq4t6rx0KaciIHCypx.jpg",
+      "posterShape": "poster",
+      "description": "Groundbreaking and ahead of its time, Pet Sounds — the 11th album by The Beach Boys — was a pioneering feat in production, sound, and songwriting…a work that continues to inspire musicians and fans to this day.  The latest addition to acclaimed & award-winning Classic Albums series. gives fans a behind-the-scenes look at its creation.",
+      "releaseInfo": "2010",
+      "runtime": "59 min",
+      "genres": [
+        "Documentary",
+        "Music",
+        "Classic Rock"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/1s5m79VAJELbWBuShPXwFGm9hRV.jpg",
+      "imdbRating": "6.4"
     },
     {
       "id": "tt1721693",
@@ -912,6 +2377,23 @@
       "imdbRating": "7.1"
     },
     {
+      "id": "tt1856680",
+      "type": "movie",
+      "name": "Classic Albums: Tom Petty & The Heartbreakers - Damn the Torpedoes",
+      "poster": "https://image.tmdb.org/t/p/w780/zi0xwndA0tNeSMsdiKXgvFKhx01.jpg",
+      "posterShape": "poster",
+      "description": "The latest addition to Eagle's critically acclaimed and highly successful Classic Albums series is Tom Petty & The Heartbreakers 1979 breakthrough album Damn The Torpedoes . The band s third album defined their musical style and took them into the mainstream hitting No.2 on the US charts and spawning the top 10 single Don t Do Me Like That . The DVD features newly filmed contributions from the band members Tom Petty, Mike Campbell, Benmont Tench, Ron Blair and Stan Lynch along with co-producer Jimmy Iovine and engineer Shelly Yakus as they analyse the tracks from the original multi-track tapes and through new and archive performances. Damn The Torpedoes has stood the test of time as one of the great American rock albums of its era and is a worthy addition to the Classic Albums series.",
+      "releaseInfo": "2010",
+      "runtime": "98 min",
+      "genres": [
+        "Documentary",
+        "Music",
+        "Classic Rock"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/6nKehBRbLZS60NaDjRHKpKybDt6.jpg",
+      "imdbRating": "6.3"
+    },
+    {
       "id": "tt1545103",
       "type": "movie",
       "name": "Rush: Beyond the Lighted Stage",
@@ -946,6 +2428,23 @@
       "imdbRating": "7.3"
     },
     {
+      "id": "tt14525644",
+      "type": "movie",
+      "name": "Pink Floyd: Momentary Lapses - The True Story of Pink Floyd",
+      "poster": "https://image.tmdb.org/t/p/w780/rYlretUDqrHH0hFE9QgDT2jTPeD.jpg",
+      "posterShape": "poster",
+      "description": "This is the independent film history of Pink Floyd. The controversial twists and turns of the Floyd story is told in a unique series of interviews featuring Roger Waters, David Gilmour, Nick Mason and the late Richard Wright. The recollections of the band are compared and contrasted the views of the insiders who worked with Pink Floyd in the studio and on the road.",
+      "releaseInfo": "2010",
+      "runtime": "76 min",
+      "genres": [
+        "Documentary",
+        "Music",
+        "Classic Rock"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/6lSQnHESagpnohulmUMiSsomZbW.jpg",
+      "imdbRating": "5.8"
+    },
+    {
       "id": "tt1411663",
       "type": "movie",
       "name": "Bon Jovi | When We Were Beautiful",
@@ -963,38 +2462,103 @@
       "imdbRating": "6.7"
     },
     {
-      "id": "tt1229360",
+      "id": "tt1977020",
       "type": "movie",
-      "name": "It Might Get Loud",
-      "poster": "https://image.tmdb.org/t/p/w780/86gtHYU7vRnTBcnOu0YxdZuDGhM.jpg",
+      "name": "Fleetwood Mac - Don't Stop",
+      "poster": "https://image.tmdb.org/t/p/w780/rhq1BhZAKD8XN0ufJX98of3fa0p.jpg",
       "posterShape": "poster",
-      "description": "A documentary on the electric guitar from the point of view of three significant rock musicians: the Edge, Jimmy Page and Jack White.",
-      "releaseInfo": "2008",
-      "runtime": "97 min",
+      "description": "Fleetwood Mac are one of the biggest-selling bands of all time and still on the road. Their story, told in their own words, is an epic tale of love and confrontation, of success and loss.  Few bands have undergone such radical musical and personal change. The band evolved from the 60s British blues boom to perfect a US West Coast sound that saw them sell 40 million copies of the album Rumours.  However, behind the scenes relationships were turbulent. The band went through multiple line-ups with six different lead guitarists. While working on Rumours, the two couples at the heart of the band separated, yet this heartache inspired the perfect pop record.",
+      "releaseInfo": "2009",
+      "runtime": "60 min",
       "genres": [
         "Documentary",
         "Music",
         "Classic Rock"
       ],
-      "background": "https://image.tmdb.org/t/p/w1280/45veMV65tfHjRRa5tdjdrkysf8z.jpg",
-      "imdbRating": "7.2"
+      "imdbRating": "6.8"
     },
     {
-      "id": "tt1289806",
+      "id": "tt1512238",
       "type": "movie",
-      "name": "Kraftwerk and the Electronic Revolution",
-      "poster": "https://image.tmdb.org/t/p/w780/pchTZmSVutFSAp6WvC9fqss8k1f.jpg",
+      "name": "The Beatles on Record",
+      "poster": "https://image.tmdb.org/t/p/w780/nvJHXGem2jd1zrbj4twRgYdPjOX.jpg",
       "posterShape": "poster",
-      "description": "Kraftwerk's vision of a keyboard-driven world of clicking metronomic rhythms and digitised sound bites may have been the stuff of avant fantasy in the 1970s (the decade that saw the band's first groundbreaking albums), but it is a reality in the new millennium. Their visionary style is explored in KRAFTWERK AND THE ELECTRONIC REVOLUTION, a study of the group, their career and their emergence as the most influential electronic band in the world.",
-      "releaseInfo": "2008",
-      "runtime": "180 min",
+      "description": "A collection of interviews and footage of the band detailing how their sound progressed and how their albums were made.",
+      "releaseInfo": "2009",
+      "runtime": "58 min",
       "genres": [
         "Documentary",
         "Music",
         "Classic Rock"
       ],
-      "background": "https://image.tmdb.org/t/p/w1280/mvYNmnbU6cDw5MhvY0KhSswaXE.jpg",
-      "imdbRating": "8.8"
+      "background": "https://image.tmdb.org/t/p/w1280/rVFqKHyl6VgnOIhDqXlQhbsKSTe.jpg",
+      "imdbRating": "6.4"
+    },
+    {
+      "id": "tt8269310",
+      "type": "movie",
+      "name": "The Beatles: Parting Ways",
+      "poster": "https://image.tmdb.org/t/p/w780/n0JSwsZzeXr3RH7W3r1oABduHo3.jpg",
+      "posterShape": "poster",
+      "description": "Parting Ways treats The Beatles with the respect they deserve and details their lives since the world's number one band fell apart.",
+      "releaseInfo": "2009",
+      "runtime": "53 min",
+      "genres": [
+        "Documentary",
+        "Music",
+        "Classic Rock"
+      ],
+      "imdbRating": "6.5"
+    },
+    {
+      "id": "tt0235297",
+      "type": "movie",
+      "name": "Jimi Hendrix: Electric Ladyland",
+      "poster": "https://image.tmdb.org/t/p/w780/jh9LxWInTXnx8itadq2Lowf4M0F.jpg",
+      "posterShape": "poster",
+      "description": "Originally produced in 1997 as part of the Classic Albums television series, this newly edited, expanded edition features almost 40 minutes of additional content not see in the original feature. Bassist Noel Redding, drummer Mitch Mitchell and co-manager Chas Chandler detailed their contributions while engineer Eddie Kramer re-examined the many multi-track tapes created during the sessions. Help from Jimi's `friends and passengers' came by way of new interviews with drummer Buddy Miles, Jefferson Airplane bassist Jack Casady, Traffic's Dave Mason and Steve Winwood, among others.",
+      "releaseInfo": "2008",
+      "runtime": "60 min",
+      "genres": [
+        "Documentary",
+        "Music",
+        "Classic Rock"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/lgUB8NGvHMkJEP3uQY4vTdQfn7v.jpg",
+      "imdbRating": "8.2"
+    },
+    {
+      "id": "tt1423354",
+      "type": "movie",
+      "name": "DFW Punk",
+      "poster": "https://image.tmdb.org/t/p/w780/vSROs2VEBuMVxLRBOowZ9hXp4si.jpg",
+      "posterShape": "poster",
+      "description": "DFW Punk, covering the Dallas/Ft. Worth punk/new wave scene. If you thought Texas in the late ’70s was all about urban cowboys, country tunes and bible-thumping, get ready to be proved dead wrong. 2007, MiniDV.",
+      "releaseInfo": "2008",
+      "runtime": "68 min",
+      "genres": [
+        "Documentary",
+        "Music",
+        "Classic Rock"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/7W5OAYePqbV8vp8SyvrYhDi39j0.jpg",
+      "imdbRating": "5.8"
+    },
+    {
+      "id": "tt1232771",
+      "type": "movie",
+      "name": "Genesis | Come Rain or Shine",
+      "poster": "https://image.tmdb.org/t/p/w780/3G9n113J1O0Gx5z7lJ1Zvf9j3Ep.jpg",
+      "posterShape": "poster",
+      "description": "Come Rain or Shine is an unusually frank and humorous music documentary about the band Genesis getting back together for their first tour in 15 years. Director Anthony Mathile followed the band for nearly a year to create this film which explores the relationship of three band members and the mechanics, decisions, and debacles that go into producing a stadium tour for a legendary band of this scale. This \"rockumentary\" was released as part of the \"When in Rome\" boxset, that was released in 2008 as a registration of the live show that Genesis performed in Rome, the last show in their European tour. The camera accompanies Genesis through all periods of tour preparation, from the first rehearsals in New York to the moment in autumn 2007 when the final bars of The Carpet Crawlers fade away.",
+      "releaseInfo": "2008",
+      "runtime": "110 min",
+      "genres": [
+        "Documentary",
+        "Music",
+        "Classic Rock"
+      ],
+      "imdbRating": "9.0"
     },
     {
       "id": "tt0893382",
@@ -1031,21 +2595,155 @@
       "imdbRating": "7.4"
     },
     {
-      "id": "tt0965382",
+      "id": "tt0892375",
       "type": "movie",
-      "name": "Tom Petty and the Heartbreakers: Runnin' Down a Dream",
-      "poster": "https://image.tmdb.org/t/p/w780/9mdIZkWQ1rGy3pTTDOHzx6DhY5X.jpg",
+      "name": "U2 3D",
+      "poster": "https://image.tmdb.org/t/p/w780/5OT1s7NOpnJ5IVlpe5hGC7dYGoK.jpg",
       "posterShape": "poster",
-      "description": "Directed by Peter Bogdanovich and packed with rare concert footage and home movies, this documentary explores the history of Tom Petty and the Heartbreakers, including Petty's famous collaborations and notorious clashes with the record industry. Interviews with musical luminaries including Jackson Browne, George Harrison, Eddie Vedder, Roger McGuinn, Jeff Lynne, Dave Stewart and Petty himself shed some revelatory vision.",
-      "releaseInfo": "2007",
-      "runtime": "239 min",
+      "description": "A 3-D presentation of U2's global \"Vertigo\" tour. Shot at seven different shows, this production employs the greatest number of 3-D cameras ever used for a single project.",
+      "releaseInfo": "2008",
+      "runtime": "85 min",
       "genres": [
         "Documentary",
         "Music",
         "Classic Rock"
       ],
-      "background": "https://image.tmdb.org/t/p/w1280/ybP8SRS6Xo90aKcnkbUQDZskjUB.jpg",
-      "imdbRating": "7.7"
+      "background": "https://image.tmdb.org/t/p/w1280/62fRvoQhnp7ufDxX0XyI5iYFCS1.jpg",
+      "imdbRating": "7.4"
+    },
+    {
+      "id": "tt0462441",
+      "type": "movie",
+      "name": "Amazing Journey: The Story of The Who",
+      "poster": "https://image.tmdb.org/t/p/w780/1c0gwzn18r3A1YGH2w13Ff3zs8o.jpg",
+      "posterShape": "poster",
+      "description": "A documentary on The Who, featuring interviews with the band's two surviving members, Pete Townshend and Roger Daltrey.",
+      "releaseInfo": "2007",
+      "runtime": "119 min",
+      "genres": [
+        "Documentary",
+        "Music",
+        "Classic Rock"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/ndv5HqSo9Nn05nlfgV0cCnA2btY.jpg",
+      "imdbRating": "7.1"
+    },
+    {
+      "id": "tt1093836",
+      "type": "movie",
+      "name": "Lou Reed's Berlin",
+      "poster": "https://image.tmdb.org/t/p/w780/hxlGPd24svIi1izZNj2qhAHgqBo.jpg",
+      "posterShape": "poster",
+      "description": "Lou Reed recorded the album Berlin in 1973. It was a commercial failure. Over the next 33 years, he never performed the album live. For five nights in December 2006 at St. Ann's Warehouse Brooklyn, Lou Reed performed his masterwork about love's dark sisters: jealousy, rage and loss.",
+      "releaseInfo": "2007",
+      "runtime": "81 min",
+      "genres": [
+        "Documentary",
+        "Music",
+        "Classic Rock"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/h80Ea2ccxg1tFOetC4qJ70aNmPm.jpg",
+      "imdbRating": "6.7"
+    },
+    {
+      "id": "tt2256655",
+      "type": "movie",
+      "name": "Classic Albums: Frank Zappa - Apostrophe (') Over-Nite Sensation",
+      "poster": "https://image.tmdb.org/t/p/w780/7Yj7EifXNWuK8xShIHYA9fR1wkT.jpg",
+      "posterShape": "poster",
+      "description": "This episode focuses on Zappa's early 70s albums, Overnight Sensation (1973) and Apostrophy (') (1974). Together they encapsulate Zappa's extraordinary musical diversity and were also the 2 most commercially successful albums that he released in his prolific career. Included are interviews, musical demonstrations, rare archive & home movie footage, plus live performances to tell the story behind the conception and recording of these groundbreaking albums. Extras include additional interviews and demonstrations not included in the broadcast version, 2 full performances from the Roxy in 1973 and Saturday Night Live in 1976, and new full live performance done specially for these Classic Albums.",
+      "releaseInfo": "2007",
+      "runtime": "50 min",
+      "genres": [
+        "Documentary",
+        "Music",
+        "Classic Rock"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/oLdlIRRV0ekh9hqzSZYpl0C6TDL.jpg",
+      "imdbRating": "6.5"
+    },
+    {
+      "id": "tt0492968",
+      "type": "movie",
+      "name": "Everyone Stares: The Police Inside Out",
+      "poster": "https://image.tmdb.org/t/p/w780/fplFilsQ1PKHBe4rZEvec209CpP.jpg",
+      "posterShape": "poster",
+      "description": "Stewart Copeland, drummer for The Police, compiles his Super 8 footage to offer an intimate look at what it was like to be a member of one of the most important rock bands of all time.",
+      "releaseInfo": "2007",
+      "runtime": "74 min",
+      "genres": [
+        "Documentary",
+        "Music",
+        "Classic Rock"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/fjJEA5S6qMprrjKMZXRe6bIVDUP.jpg",
+      "imdbRating": "6.8"
+    },
+    {
+      "id": "tt1046927",
+      "type": "movie",
+      "name": "Hawkwind: Do Not Panic",
+      "poster": "https://image.tmdb.org/t/p/w780/2S0xocr5ul17ZmoyZJDedwy3Es.jpg",
+      "posterShape": "poster",
+      "description": "The inside story of Hawkwind, one of Britain's wildest acid rock bands. Emerging from the Ladbroke Grove underground at the end of the 60s, the band trailed radicalism and counter-culture in their wake, and have been a direct influence on punk, metal, dance and rave.",
+      "releaseInfo": "2007",
+      "runtime": "60 min",
+      "genres": [
+        "Documentary",
+        "Music",
+        "Classic Rock"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/dh5fCjQcOskmKAAU7ZTKmELXvAT.jpg",
+      "imdbRating": "4.0"
+    },
+    {
+      "id": "tt0949819",
+      "type": "movie",
+      "name": "Hotel California: LA from The Byrds to The Eagles",
+      "poster": "https://image.tmdb.org/t/p/w780/m84CwB1T6aoEspR9bAnGTqJtaBL.jpg",
+      "posterShape": "poster",
+      "description": "Documentary looking at the music and mythology of a golden era in Californian culture, and telling the story of how Los Angeles changed from a kooky backwater in the early 1960s to become the artistic and industrial hub of the American music industry by the end of the 1970s. The film explores how the socially-conscious folk rock of young hippies with acoustic guitars was transformed into the coked-out stadium excess of the late 1970s and the biggest selling album of all time.",
+      "releaseInfo": "2007",
+      "runtime": "90 min",
+      "genres": [
+        "Documentary",
+        "Music",
+        "Classic Rock"
+      ]
+    },
+    {
+      "id": "tt1034080",
+      "type": "movie",
+      "name": "Meat Loaf: In Search of Paradise",
+      "poster": "https://image.tmdb.org/t/p/w780/iai3BWe21TwBhPPtfDd1jo1d83q.jpg",
+      "posterShape": "poster",
+      "description": "Meat Loaf, the legendary rocker, reveals surprising shades of himself -- and his internal demons -- as he sets out on an ambitious world tour.",
+      "releaseInfo": "2007",
+      "runtime": "88 min",
+      "genres": [
+        "Documentary",
+        "Music",
+        "Classic Rock"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/89iWdGUwbZc0WBan1RjBLdDqynk.jpg",
+      "imdbRating": "7.5"
+    },
+    {
+      "id": "tt0800081",
+      "type": "movie",
+      "name": "I Trust You to Kill Me",
+      "poster": "https://image.tmdb.org/t/p/w780/h6ZF3UwJQe5ZqAOudbC9xs6NoFN.jpg",
+      "posterShape": "poster",
+      "description": "Taking off after the end of filming on the last season of 24, Kiefer Sutherland heads to Europe with his band Rocco DeLuca &amp; The Burden. As their road manager, Sutherland faces the trials and joys of life on the road, whether it is locked venues, storming gigs, quiet audiences or giving out free tickets at the last minute to avoid an empty venue. The tour takes across Europe, including England, Germany and Iceland.",
+      "releaseInfo": "2006",
+      "runtime": "105 min",
+      "genres": [
+        "Documentary",
+        "Music",
+        "Classic Rock"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/nzCV9DngAX8jaJlth9PphEbswD3.jpg",
+      "imdbRating": "5.3"
     },
     {
       "id": "tt0367555",
@@ -1065,6 +2763,23 @@
       "imdbRating": "7.8"
     },
     {
+      "id": "tt0343107",
+      "type": "movie",
+      "name": "Tom Dowd & The Language of Music",
+      "poster": "https://image.tmdb.org/t/p/w780/oeIquM2sS76vdWWAN2qgcPNrQ0H.jpg",
+      "posterShape": "poster",
+      "description": "Tom Dowd & the Language Of Music profiles the extraordinary life and legendary work of music producer/recording engineer Tom Dowd. Historical footage, vintage photographs and interviews with a who's who list of musical giants from the worlds of jazz, soul and classic rock shine a spotlight on the brilliance of Tom Dowd, whose creative spirit and passion for innovative technology helped shape the course of modern music.",
+      "releaseInfo": "2004",
+      "runtime": "82 min",
+      "genres": [
+        "Documentary",
+        "Music",
+        "Classic Rock"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/bxk55xvB4IirzGKdTc7J70H9G8V.jpg",
+      "imdbRating": "7.4"
+    },
+    {
       "id": "tt0388888",
       "type": "movie",
       "name": "Dig!",
@@ -1080,6 +2795,23 @@
       ],
       "background": "https://image.tmdb.org/t/p/w1280/tyvPer6haotGIa6pgNO1k563jLU.jpg",
       "imdbRating": "6.8"
+    },
+    {
+      "id": "tt0484852",
+      "type": "movie",
+      "name": "Jimi Hendrix: The Last 24 Hours",
+      "poster": "https://image.tmdb.org/t/p/w780/1oBdQAfcWgGGYQW7ys3IMO9O7Jx.jpg",
+      "posterShape": "poster",
+      "description": "In this documentary film, the final day in the short life of the guitar god Jimi Hendrix is reconstructed using theories swirling around a CIA hit list, Mafia debt, and police surveillance.",
+      "releaseInfo": "2004",
+      "runtime": "63 min",
+      "genres": [
+        "Documentary",
+        "Music",
+        "Classic Rock"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/xG5mmyVAb3zztsBGG3A77ufza9W.jpg",
+      "imdbRating": "8.5"
     },
     {
       "id": "tt0390441",
@@ -1099,38 +2831,205 @@
       "imdbRating": "8.3"
     },
     {
-      "id": "tt0368711",
+      "id": "tt0923636",
       "type": "movie",
-      "name": "End of the Century: The Story of the Ramones",
-      "poster": "https://image.tmdb.org/t/p/w780/pqoZkkOVWE5f0H8jnrFRc7KAHs7.jpg",
+      "name": "Classic Albums: Elvis Presley",
+      "poster": "https://image.tmdb.org/t/p/w780/7iiiPJBEGqbJhGCBhicxcUsBvZ9.jpg",
       "posterShape": "poster",
-      "description": "A years-in-the-making documentary on the legendary punk band the Ramones. Through a mixture of archival footage, archival and new interviews with all members of the band's various lineups, and new interviews with a number of their contemporaries, the film traces the peaks and valleys the band experienced over the course of its 20-plus year career before disbanding in 1995.",
-      "releaseInfo": "2003",
-      "runtime": "110 min",
+      "description": "The story behind Elvis's first album features performances from 1955 and '56, interviews with the King and rare home movies of him at play and work.",
+      "releaseInfo": "2002",
+      "runtime": "60 min",
       "genres": [
         "Documentary",
         "Music",
         "Classic Rock"
       ],
-      "background": "https://image.tmdb.org/t/p/w1280/lnGcVQGBdSywCX4nmqXo3upk9mZ.jpg",
-      "imdbRating": "7.6"
+      "background": "https://image.tmdb.org/t/p/w1280/cceYdNDXpoOm6RgNooTUnl7EuDb.jpg",
+      "imdbRating": "6.6"
     },
     {
-      "id": "tt0195909",
+      "id": "tt0829122",
       "type": "movie",
-      "name": "Meeting People Is Easy",
-      "poster": "https://image.tmdb.org/t/p/w780/3WtnnmgQNAZ2il10aW86haQI8g1.jpg",
+      "name": "Elton John - Goodbye Yellow Brick Road",
+      "poster": "https://image.tmdb.org/t/p/w780/mieYQUZmr6qGg6Qdd6xhhqvNNYi.jpg",
       "posterShape": "poster",
-      "description": "Meeting People Is Easy takes place during the promotion of Radiohead's 1997 release OK Computer, containing a collage of video clips, sound bites, and dialogue going behind the scenes with the band on their world tour, showing the eventual burn-out of the group as the world tour progresses. The inaugural show of the OK Computer tour began on 22 May 1997 in Barcelona, Spain.",
-      "releaseInfo": "1998",
-      "runtime": "95 min",
+      "description": "The worlds of glitz, glam, and pop-rock fused immortally on Goodbye Yellow Brick Road, born of the formidable partnership of Elton John and Bernie Taupin. This 1973 double album may well have been the peak of their collaboration. Ranging from perennial favorites like \"Candle in the Wind,\" \"Bennie and the Jets,\" and the title track to more ambitious compositions like \"Funeral for a Friend/Love Lies Bleeding\" and everything in between, Goodbye is unmatched in its depth and scope. This entry in the Classic Albums series of DVDs documents the often tumultuous writing and recording sessions for that masterpiece through vintage clips of the musicians in the studio and new interviews with Elton, Bernie, producer Gus Dudgeon, and the band members. We may never know how the John-Taupin team achieved their magic, but this release offers a both a peek at the process and a few reasons why the album endures today.",
+      "releaseInfo": "2001",
+      "runtime": "90 min",
       "genres": [
         "Documentary",
         "Music",
         "Classic Rock"
       ],
-      "background": "https://image.tmdb.org/t/p/w1280/aOAuDRx1xeztkhFB3yl37IrRD92.jpg",
+      "background": "https://image.tmdb.org/t/p/w1280/3X3Jxt2KGsfT0YmEPtmlSX9pBes.jpg",
+      "imdbRating": "6.9"
+    },
+    {
+      "id": "tt0243925",
+      "type": "movie",
+      "name": "Gimme Some Truth: The Making of John Lennon's Imagine Album",
+      "poster": "https://image.tmdb.org/t/p/w780/nK0DWRqdrBud46pt5qzCcOlhKgg.jpg",
+      "posterShape": "poster",
+      "description": "An instant classic when released in September 1971, John Lennon's Imagine was the ex-Beatle's solo masterpiece, and its musical legacy is matched here by priceless footage of Lennon's creative process, independently edited from original 16-millimeter footage by producer-director Andrew Solt with the hands-off approval of Lennon's widow, Yoko Ono. Incorporating footage from John and Yoko's original film Imagine (clips of which were previously included in the 1988 documentary Imagine: John Lennon), Gimme Some Truth presents Lennon, Ono, coproducer Phil Spector, and a host of gifted musicians in a fluid context of conflict, community, and craftsmanship. Bearing witness to every stage of the recording process, this 63-minute documentary succeeds as a visual diary, a study of familiar music in its infancy, and a revealing portrait of the then-30-year-old Lennon--from witty clown to confrontational perfectionist--at the peak of his post-Fab Four inspiration.",
+      "releaseInfo": "2000",
+      "runtime": "63 min",
+      "genres": [
+        "Documentary",
+        "Music",
+        "Classic Rock"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/9QepnwKGkvyT0RFYJuuftzYgwOx.jpg",
       "imdbRating": "7.5"
+    },
+    {
+      "id": "tt0219142",
+      "type": "movie",
+      "name": "Louis Prima: The Wildest!",
+      "poster": "https://image.tmdb.org/t/p/w780/yQk5035nphlCqfeSv19vMRWdpkj.jpg",
+      "posterShape": "poster",
+      "description": "Documentary about the mid-20th century Vegas bandleader and trumpeter Louis Prima, who showed the world what a rock show could be.",
+      "releaseInfo": "1999",
+      "runtime": "90 min",
+      "genres": [
+        "Documentary",
+        "Music",
+        "Classic Rock"
+      ],
+      "imdbRating": "5.5"
+    },
+    {
+      "id": "tt0367528",
+      "type": "movie",
+      "name": "Hendrix: Band of Gypsys",
+      "poster": "https://image.tmdb.org/t/p/w780/2gJKS5VAsa7kkzSIvt1Ys6TgZJw.jpg",
+      "posterShape": "poster",
+      "description": "Made less than a year before his death in September 1970, Band of Gypsys was an album recorded live to fulfill a contractual obligation for a long-forgotten deal Jimi Hendrix signed when he still spelled his name \"Jimmy.\" Hendrix had just disbanded the Jimi Hendrix Experience, and in order to dispense with the album as quickly as possible, he put together a new trio featuring Billy Cox (an old Army buddy) and drummer Buddy Miles.",
+      "releaseInfo": "1999",
+      "runtime": "130 min",
+      "genres": [
+        "Documentary",
+        "Music",
+        "Classic Rock"
+      ],
+      "imdbRating": "7.2"
+    },
+    {
+      "id": "tt0200396",
+      "type": "movie",
+      "name": "ABBA: The Winner Takes It All - The ABBA Story",
+      "poster": "https://image.tmdb.org/t/p/w780/yhJCozg952UXSuAcwdVIvtdkd4k.jpg",
+      "posterShape": "poster",
+      "description": "The story of one of the greatest pop bands of all time, this programme features, for the first time, all four members talking about their lives before during and after ABBA.  Included with extracts from the rehearsals and performances of the smash hit musical Mamma Mia!, based on the songs of ABBA, are all the big hits, concert footage and interviews with Bono, Malcolm McLaren, Pete Waterman, Tim Rice Bjorn Again and Steps!",
+      "releaseInfo": "1999",
+      "runtime": "90 min",
+      "genres": [
+        "Documentary",
+        "Music",
+        "Classic Rock"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/1yWZGUsACagWTgIPowrIAj8xMuk.jpg",
+      "imdbRating": "6.2"
+    },
+    {
+      "id": "tt0310013",
+      "type": "movie",
+      "name": "The Beach Boys and The Satan",
+      "poster": "https://image.tmdb.org/t/p/w780/rEzrejqWstvsI01y2BujBBFJAav.jpg",
+      "posterShape": "poster",
+      "description": "A German documentary that explores the darker side of the Beach Boys, primarily focusing on Brian Wilson and the Pet Sounds album, with detours to the Manson Family.",
+      "releaseInfo": "1997",
+      "runtime": "60 min",
+      "genres": [
+        "Documentary",
+        "Music",
+        "Classic Rock"
+      ],
+      "imdbRating": "5.0"
+    },
+    {
+      "id": "tt0120539",
+      "type": "movie",
+      "name": "Year of the Horse",
+      "poster": "https://image.tmdb.org/t/p/w780/kLO7UAx8OalCeW2JqTAispzNBJr.jpg",
+      "posterShape": "poster",
+      "description": "A document of Neil Young and Crazy Horse's 1996 concert tour. Director Jarmusch conducts interviews about the band's long history, interspersed with backstage footage from the 1970s and 1980s.",
+      "releaseInfo": "1997",
+      "runtime": "106 min",
+      "genres": [
+        "Documentary",
+        "Music",
+        "Classic Rock"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/4tODjTeNOvM1XUqGtSzFrG2rHKo.jpg",
+      "imdbRating": "6.4"
+    },
+    {
+      "id": "tt0259254",
+      "type": "movie",
+      "name": "Classic Albums: The Band - The Band",
+      "poster": "https://image.tmdb.org/t/p/w780/eqkn3nvwiwsf8TsY24qugWdi1G9.jpg",
+      "posterShape": "poster",
+      "description": "Comprised of Rick Danko, Levon Helm, Garth Hudson, Richard Manuel and Robbie Robertson, The Band's self-titled sophomore effort spent 24 weeks in the Billboard Top 40. The album was released at a time when the US album charts were taken over by the psychedelic rock movement, and despite this, the album had the aforementioned chart success and would go on to sell over one million copies. This edition of the \"Classic Albums\" series focuses on The Band's follow-up to \"MUSIC FROM BIG PINK\". Featuring classics such as \"Up On Cripple Creek\", \"The Night They Drove Old Dixie Down\", and \"Rag Mama Rag\", the story of the album is told through interviews with surviving members of The Band, fellow musicians Eric Clapton, Don Was, and George Harrison, and vintage footage. The Band is a classic album!",
+      "releaseInfo": "1997",
+      "runtime": "75 min",
+      "genres": [
+        "Documentary",
+        "Music",
+        "Classic Rock"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/uAsaeLLckc1mOMIHzwmE6U16hVz.jpg",
+      "imdbRating": "6.7"
+    },
+    {
+      "id": "tt0124158",
+      "type": "movie",
+      "name": "Elton John: Tantrums & Tiaras",
+      "poster": "https://image.tmdb.org/t/p/w780/e377HQKpgrO42fbGloqkhDMyTk3.jpg",
+      "posterShape": "poster",
+      "description": "Unprecedented access into one of the world's greatest musical talents and his larger than life lifestyle: Elton John. With frank, funny, and touching filmmaking, this documentary is a fascinating and honest look at the complex character of a modern day composer and performing artist.",
+      "releaseInfo": "1997",
+      "runtime": "74 min",
+      "genres": [
+        "Documentary",
+        "Music",
+        "Classic Rock"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/kagC0llY0mNwHL2duyPgmzxU86W.jpg",
+      "imdbRating": "6.1"
+    },
+    {
+      "id": "tt0259336",
+      "type": "movie",
+      "name": "Grateful Dead: Anthem to Beauty",
+      "poster": "https://image.tmdb.org/t/p/w780/ibT8qJPgemlz1OYJO4qtUF45LGi.jpg",
+      "posterShape": "poster",
+      "description": "This installment of the Classic Albums series follows the making of two Grateful Dead albums, the fiercely experimental Anthem of the Sun and the understated masterwork American Beauty, which spawned melodic gems like \"Sugar Magnolia\" and \"Ripple.\" Between the archival scenes and contemporary interviews with band members, the DVD shows a band making seismic inroads in pop music--and five young guys coming to terms with artistry, mortality, and, yes, the pursuit of happiness. There is priceless footage of Neal Cassady driving Ken Kesey's bus and of the Dead, surrounded by martini-sipping hipsters, on Playboy After Dark. The best scenes involve band members talking about specific songs (you will never hear Phil Lesh's \"Box of Rain\" again without thinking of it as a gift to his dying father) or deconstructing a tune by playing each track separately. Intimate and surprisingly cohesive, Anthem to Beauty is a rare glimpse into how the Dead's magic was made.",
+      "releaseInfo": "1997",
+      "runtime": "75 min",
+      "genres": [
+        "Documentary",
+        "Music",
+        "Classic Rock"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/8oFuaNMjzilxI3nSbiF8PGo0Edc.jpg",
+      "imdbRating": "6.8"
+    },
+    {
+      "id": "tt0116360",
+      "type": "movie",
+      "name": "Lynyrd Skynyrd - Freebird, The Movie & Tribute Tour",
+      "poster": "https://image.tmdb.org/t/p/w780/aKXDQqXDwTitedXATMbqcIW8pQf.jpg",
+      "posterShape": "poster",
+      "description": "See classic live performances, interviews and vintage footage of the original Lynyrd Skynyrd band.",
+      "releaseInfo": "1996",
+      "runtime": "103 min",
+      "genres": [
+        "Documentary",
+        "Music",
+        "Classic Rock"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/kZjTBmeK7ZUvabLrZZst6nX6Fp1.jpg",
+      "imdbRating": "7.7"
     },
     {
       "id": "tt0111893",
@@ -1149,21 +3048,186 @@
       "imdbRating": "8.2"
     },
     {
-      "id": "tt0095360",
+      "id": "tt12828690",
       "type": "movie",
-      "name": "Imagine: John Lennon",
-      "poster": "https://image.tmdb.org/t/p/w780/whND9JruVi676VN1hZzV28XEvNE.jpg",
+      "name": "The Rolling Stones: Totally Stripped",
+      "poster": "https://image.tmdb.org/t/p/w780/2UX9nAD9s7TKkNLgluX9SjfhxSr.jpg",
       "posterShape": "poster",
-      "description": "The biography of former Beatle, John Lennon—narrated by Lennon himself—with extensive material from Yoko Ono's personal collection, previously unseen footage from Lennon's private archives, and interviews with David Bowie, his first wife Cynthia, second wife Yoko Ono and sons Julian and Sean.",
-      "releaseInfo": "1988",
-      "runtime": "100 min",
+      "description": "Totally Stripped is a newly revised version of the documentary that was originally made to coincide with the release of The Rolling Stones Stripped album released in November 1995. It tells the story of the two studio sessions and three live shows that made up the Stripped project on 4 Blu ray discs. This followed the conclusion of the mammoth Voodoo Lounge tour and found The Stones reimagining tracks from their back catalogue in pared back versions alongside a couple of carefully chosen covers in the studio and doing smaller scale club gigs to showcase these versions, which was a marked contrast to the huge arenas and stadiums that had hosted the Voodoo Lounge tour. This new version of the documentary includes previously unseen footage and lays bare the inner workings of both The Rolling Stones and of some of their best loved tracks. Revealing, intimate and moving, Totally Stripped is unmissable.",
+      "releaseInfo": "1995",
+      "runtime": "91 min",
       "genres": [
         "Documentary",
         "Music",
         "Classic Rock"
       ],
-      "background": "https://image.tmdb.org/t/p/w1280/uwNyHyxfk1a8hfw58I3MFCB4ya1.jpg",
-      "imdbRating": "7.0"
+      "background": "https://image.tmdb.org/t/p/w1280/sAu3icPizW3FSxHlw9KQCTyP4vg.jpg",
+      "imdbRating": "6.9"
+    },
+    {
+      "id": "tt0301691",
+      "type": "movie",
+      "name": "The Original Fleetwood Mac - The Early Years",
+      "poster": "https://image.tmdb.org/t/p/w780/eiw1SHp8ot7Ls7IbTjD2pDdCr9H.jpg",
+      "posterShape": "poster",
+      "description": "This rare Fleetwood Mac documentary provides an intimate look at the original band as led by Peter Green, during the 1960s British blues boom.",
+      "releaseInfo": "1995",
+      "runtime": "54 min",
+      "genres": [
+        "Documentary",
+        "Music",
+        "Classic Rock"
+      ],
+      "imdbRating": "7.2"
+    },
+    {
+      "id": "tt0306923",
+      "type": "movie",
+      "name": "Guns N' Roses: Estranged - Part IV of the Trilogy!!!",
+      "poster": "https://image.tmdb.org/t/p/w780/WGtbA2iWx7UFgt2Iq2qBkmfLHW.jpg",
+      "posterShape": "poster",
+      "description": "A look behind the scenes at the making of the video for the song \"Estranged\" from Guns N Roses Use Your Illusion album, giving fans an up close and intimate look at the band when it was near the peak of its popularity. Inludes footage of the Axl, Slash and the rest of the bandmembers hard at work in the studio, as well as in some of their more relaxed moments.",
+      "releaseInfo": "1994",
+      "runtime": "60 min",
+      "genres": [
+        "Documentary",
+        "Music",
+        "Classic Rock"
+      ],
+      "imdbRating": "9.2"
+    },
+    {
+      "id": "tt0306922",
+      "type": "movie",
+      "name": "Guns N' Roses: Makin' F@*!ing Videos Part I - Don't Cry",
+      "poster": "https://image.tmdb.org/t/p/w780/2X0u708wDBZ3WTXnq3n8RdVjozL.jpg",
+      "posterShape": "poster",
+      "description": "A look behind the scenes at the making of the video for the song \"Don't Cry\" from Guns N Roses Use Your Illusion album from when the band was near the peak of its popularity. Inludes footage of the bandmembers hard at work in the studio, as well as in some of their more relaxed moments.",
+      "releaseInfo": "1993",
+      "runtime": "60 min",
+      "genres": [
+        "Documentary",
+        "Music",
+        "Classic Rock"
+      ],
+      "imdbRating": "9.6"
+    },
+    {
+      "id": "tt0306924",
+      "type": "movie",
+      "name": "Guns N' Roses: Makin' F@*!ing Videos Part II - November Rain",
+      "poster": "https://image.tmdb.org/t/p/w780/9Jj6766fXuQgt0MrtxN66e6HsqX.jpg",
+      "posterShape": "poster",
+      "description": "A look behind the scenes at the making of the video for the song \"November Rain\" from Guns N Roses Use Your Illusion album, giving fans an intimate look at the band from when they were near the peak of their popularity. Inludes footage of the Axl, Slash and the rest of the group hard at work in the studio, as well as in some of their more relaxed moments.",
+      "releaseInfo": "1993",
+      "runtime": "60 min",
+      "genres": [
+        "Documentary",
+        "Music",
+        "Classic Rock"
+      ],
+      "imdbRating": "7.8"
+    },
+    {
+      "id": "tt0094743",
+      "type": "movie",
+      "name": "Tom Waits: Big Time",
+      "poster": "https://image.tmdb.org/t/p/w780/qPYWVf2wJWFgfsU63CbR4Q7KjNv.jpg",
+      "posterShape": "poster",
+      "description": "Bringing his unique sense of humor to this bizarre and original piece of moviemaking, Tom Waits takes the audience through a musical journey with his jazzy, quirky, bluesy tunes presented as you would never, ever, ever expect.",
+      "releaseInfo": "1988",
+      "runtime": "87 min",
+      "genres": [
+        "Documentary",
+        "Music",
+        "Classic Rock"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/eAl8xHaiPehBjBSqoP0HBbMBQP5.jpg",
+      "imdbRating": "7.5"
+    },
+    {
+      "id": "tt0096328",
+      "type": "movie",
+      "name": "U2: Rattle and Hum",
+      "poster": "https://image.tmdb.org/t/p/w780/h78np6cU2cZCs9YPpvP5vz0SA7f.jpg",
+      "posterShape": "poster",
+      "description": "A concert movie on an unprecedented scale, Rattle And Hum captures U2 - on and off the stage - during their triumphant Joshua Tree tour. From the giant technicolour stadium celebrations to the black-and-white intensity of the indoor shows, this is U2 at their best. Follow the group across America, exploring new influences, playing with the legendary B.B. King from Dublin to Graceland.",
+      "releaseInfo": "1988",
+      "runtime": "98 min",
+      "genres": [
+        "Documentary",
+        "Music",
+        "Classic Rock"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/bIbDsyTnapNycfvkbeOPpIZmMDN.jpg",
+      "imdbRating": "7.1"
+    },
+    {
+      "id": "tt5656122",
+      "type": "movie",
+      "name": "Prince: Lovesexy Live",
+      "poster": "https://image.tmdb.org/t/p/w780/hoQGgS6kzFnVrvsNibW41hYHOdn.jpg",
+      "posterShape": "poster",
+      "description": "Lovesexy Live was the fifth Prince home video to be released and second live concert released on Home Video format.  It was first released on 2 cassettes under the name of \"Lovesexy Live 1\" and \"Lovesexy Live 2\" in Europe. Confusingly Vol.1 contained the latter part of the concert, while Vol.2 contained the first part. The concert was later re-released as Lovesexy Live on one cassette (of 127 minutes) and on laserdisc.",
+      "releaseInfo": "1988",
+      "runtime": "122 min",
+      "genres": [
+        "Documentary",
+        "Music",
+        "Classic Rock"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/30TVpX70vGPqVWMTp9WzA3BlEoN.jpg",
+      "imdbRating": "8.2"
+    },
+    {
+      "id": "tt0092758",
+      "type": "movie",
+      "name": "Chuck Berry: Hail! Hail! Rock 'n' Roll",
+      "poster": "https://image.tmdb.org/t/p/w780/l2UO83nc3Z2xluh355pD8ZWgjpd.jpg",
+      "posterShape": "poster",
+      "description": "St. Louis, 1986. For Chuck Berry's 60th, Keith Richards assembles a pickup band of Robert Cray, Joey Spampinato, Eric Clapton, himself and long-time Berry pianist, Johnnie Johnson. Joined on stage by Etta James, Linda Ronstadt and Julian Lennon, Berry performs his classic rock songs. His abilities as a composer, lyricist, singer, musician and entertainer are on display and, in behind-the-scenes interviews, are discussed by Bo Diddley, Little Richard, Jerry Lee Lewis, Bruce Springstein, the Everly Brothers, Roy Orbison and others. There's even a rarity for Berry—a rehearsal. Archival footage from the early 1950s and a duet with John Lennon round out this portrait of a master.",
+      "releaseInfo": "1987",
+      "runtime": "120 min",
+      "genres": [
+        "Documentary",
+        "Music",
+        "Classic Rock"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/hYbzLECmri38TIIeVrWoARTHWbg.jpg",
+      "imdbRating": "7.4"
+    },
+    {
+      "id": "tt0175471",
+      "type": "movie",
+      "name": "The Beach Boys: An American Band",
+      "poster": "https://image.tmdb.org/t/p/w780/hyNiM2spkFjJLTSmyqaTzYkK8r5.jpg",
+      "posterShape": "poster",
+      "description": "A biography of the American rock band The Beach Boys, with interviews, concert footage and clips from movies and television shows they appeared in.",
+      "releaseInfo": "1985",
+      "runtime": "103 min",
+      "genres": [
+        "Documentary",
+        "Music",
+        "Classic Rock"
+      ],
+      "imdbRating": "5.2"
+    },
+    {
+      "id": "tt0089035",
+      "type": "movie",
+      "name": "Frank Zappa: Does Humor Belong in Music?",
+      "poster": "https://image.tmdb.org/t/p/w780/d8WiX7iLInFpp1IjrsBKRrvfEl5.jpg",
+      "posterShape": "poster",
+      "description": "Frank Zappa and his band in a digitally recorded live performance at \"The Pier\" in New York, NY on August 26, 1984.",
+      "releaseInfo": "1985",
+      "runtime": "57 min",
+      "genres": [
+        "Documentary",
+        "Music",
+        "Classic Rock"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/uxe3QBwCxrxPQW3EWzXr16KvweY.jpg",
+      "imdbRating": "8.1"
     },
     {
       "id": "tt33319965",
@@ -1181,6 +3245,23 @@
       ],
       "background": "https://image.tmdb.org/t/p/w1280/uiHdrkKCoyyLciTe9coBqEu8QFt.jpg",
       "imdbRating": "6.2"
+    },
+    {
+      "id": "tt0083752",
+      "type": "movie",
+      "name": "The Compleat Beatles",
+      "poster": "https://image.tmdb.org/t/p/w780/ktaMtm19kVmgLpnuAANC69o8rp2.jpg",
+      "posterShape": "poster",
+      "description": "Now, for the first time, you can re-live the Beatles legends with this stunning 2-hour musical “Rockumentary”. It’s all there from the wild exuberance of the early Cavern Club days through eight incredible years, to the grim finality of “Let It Be”. See John, Paul, George and Ringo in performance, on tour, in films, recording with George Martin and in rare footage never before seen. Narrated by Malcom McDowell.",
+      "releaseInfo": "1982",
+      "runtime": "119 min",
+      "genres": [
+        "Documentary",
+        "Music",
+        "Classic Rock"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/uoTyRYXDGOxMW0OwNw8ni4rJVuE.jpg",
+      "imdbRating": "7.5"
     },
     {
       "id": "tt0083193",
@@ -1217,6 +3298,23 @@
       "imdbRating": "6.6"
     },
     {
+      "id": "tt0079400",
+      "type": "movie",
+      "name": "The Who: The Kids Are Alright",
+      "poster": "https://image.tmdb.org/t/p/w780/30KLQduKvVzuYbqHMrWBcDHKs7O.jpg",
+      "posterShape": "poster",
+      "description": "Through concert performances and interviews, this film offers us a comprehensive look at the British pioneer rock group, The Who. It captures their zany craziness and outrageous antics from the initial formation of the group in 1964 to 1978. It notably features the band's last performance with long-term drummer Keith Moon, filmed at Shepperton Studios in May 1978, three months before his death.",
+      "releaseInfo": "1979",
+      "runtime": "101 min",
+      "genres": [
+        "Documentary",
+        "Music",
+        "Classic Rock"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/8aBVwfbUvIJKgOzi1Q1Qor9DebG.jpg",
+      "imdbRating": "7.3"
+    },
+    {
       "id": "tt0077838",
       "type": "movie",
       "name": "The Last Waltz",
@@ -1232,6 +3330,40 @@
       ],
       "background": "https://image.tmdb.org/t/p/w1280/noOz8qEQKBJZ7aEk7VboOUsJyR2.jpg",
       "imdbRating": "7.7"
+    },
+    {
+      "id": "tt0076104",
+      "type": "movie",
+      "name": "The Grateful Dead Movie",
+      "poster": "https://image.tmdb.org/t/p/w780/xEsT99Xe75dGd8Pdt0a7EcRN2Oa.jpg",
+      "posterShape": "poster",
+      "description": "The Grateful Dead performs live at Winterland in San Francisco in October 1974.",
+      "releaseInfo": "1977",
+      "runtime": "132 min",
+      "genres": [
+        "Documentary",
+        "Music",
+        "Classic Rock"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/wG9koPQUdvX7EkBukkvMsYbB69N.jpg",
+      "imdbRating": "7.2"
+    },
+    {
+      "id": "tt0377047",
+      "type": "movie",
+      "name": "David Bowie: Cracked Actor",
+      "poster": "https://image.tmdb.org/t/p/w780/3BfacEk5ou0P5JYj0H7noWJWEfV.jpg",
+      "posterShape": "poster",
+      "description": "The documentary depicts Bowie on tour in Los Angeles, using a mixture of vérité sequences filmed in limousines and hotels, and concert footage. Most of the concert footage was taken from a show at the Los Angeles Universal Amphitheatre on 2 September 1974 (Also featured are excerpts from D.A. Pennebaker's concert film shot at London's Hammersmith Odeon on 3 July 1973). Cracked Actor is notable for being a source for footage of Bowie's ambitious Diamond Dogs tour, and also for showing Bowie's fragile mental state during this period.",
+      "releaseInfo": "1975",
+      "runtime": "53 min",
+      "genres": [
+        "Documentary",
+        "Music",
+        "Classic Rock"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/flI7n35NxOh0ie8ajsH9tEdz8Mi.jpg",
+      "imdbRating": "7.5"
     },
     {
       "id": "tt0070283",
@@ -1251,6 +3383,57 @@
       "imdbRating": "5.8"
     },
     {
+      "id": "tt0167923",
+      "type": "movie",
+      "name": "Elvis - Aloha from Hawaii",
+      "poster": "https://image.tmdb.org/t/p/w780/sfvtF7Ojwb40Q9gWLOufuqdkT72.jpg",
+      "posterShape": "poster",
+      "description": "A 1973 concert by Elvis Presley that was broadcast live via satellite on January 14, 1973. The concert took place at the Honolulu International Center in Honolulu and aired in over 40 countries across Asia and Europe. Viewing figures have been estimated at over 1 billion viewers world wide, and the show was the most expensive entertainment special at the time, costing $2.5 million.",
+      "releaseInfo": "1973",
+      "runtime": "65 min",
+      "genres": [
+        "Documentary",
+        "Music",
+        "Classic Rock"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/fNs3mS80fXDaUqlHFjP0i7i8scv.jpg",
+      "imdbRating": "8.2"
+    },
+    {
+      "id": "tt0172586",
+      "type": "movie",
+      "name": "Imagine",
+      "poster": "https://image.tmdb.org/t/p/w780/b51Fvc1mXo9CcMNIXyKJzDNUqSN.jpg",
+      "posterShape": "poster",
+      "description": "A surreal, half-fiction, half real life footage of a day in the life of John lennon and Yoko Ono, composed to music from John's historic 'Imagine' album and Yoko's 'Fly'.",
+      "releaseInfo": "1972",
+      "runtime": "68 min",
+      "genres": [
+        "Documentary",
+        "Music",
+        "Classic Rock"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/t6NS4M9VvYV0SP8QVzsugffSVKK.jpg",
+      "imdbRating": "7.1"
+    },
+    {
+      "id": "tt0068537",
+      "type": "movie",
+      "name": "Elvis on Tour",
+      "poster": "https://image.tmdb.org/t/p/w780/hXxKJuQnkwFtWvOX161ppbaiaC2.jpg",
+      "posterShape": "poster",
+      "description": "This documentary captures Elvis Presley on his 1972 American tour and includes rehearsals, interviews, archival television appearances and backstage moments. With Elvis at his most flamboyant, the film features well-known hits and cover songs showcasing his country, gospel and rhythm-and-blues influences.",
+      "releaseInfo": "1972",
+      "runtime": "93 min",
+      "genres": [
+        "Documentary",
+        "Music",
+        "Classic Rock"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/nGayQ5MnzzkftZhCmB0hoIDzebs.jpg",
+      "imdbRating": "7.6"
+    },
+    {
       "id": "tt0068389",
       "type": "movie",
       "name": "Cocksucker Blues",
@@ -1266,6 +3449,23 @@
       ],
       "background": "https://image.tmdb.org/t/p/w1280/oLXVSSvaghazH48eaXsca5FYgbM.jpg",
       "imdbRating": "5.8"
+    },
+    {
+      "id": "tt0065687",
+      "type": "movie",
+      "name": "Elvis: That's the Way It Is",
+      "poster": "https://image.tmdb.org/t/p/w780/AfhXqhT8wR7WXYp777SKplPx5Wj.jpg",
+      "posterShape": "poster",
+      "description": "On July 31, 1970, in Las Vegas, Nevada, Elvis Presley staged a triumphant return to the concert stage from which he had been absent for almost a decade. His series of concerts broke all box office records and completely reenergized the career of the King of Rock ‘n’ Roll.",
+      "releaseInfo": "1970",
+      "runtime": "95 min",
+      "genres": [
+        "Documentary",
+        "Music",
+        "Classic Rock"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/tXwXxjxuTZFy6PJqhSzwOI1Grzd.jpg",
+      "imdbRating": "8.1"
     },
     {
       "id": "tt0065976",
@@ -1317,6 +3517,40 @@
       ],
       "background": "https://image.tmdb.org/t/p/w1280/5dJ8t6CljwZ1NUXwW1nsmEpMf8x.jpg",
       "imdbRating": "7.4"
+    },
+    {
+      "id": "tt0061149",
+      "type": "movie",
+      "name": "The Velvet Underground and Nico: A Symphony of Sound",
+      "poster": "https://image.tmdb.org/t/p/w780/jk6kZUhHmrJYIqQoUlghKtZozCm.jpg",
+      "posterShape": "poster",
+      "description": "The film depicts a rehearsal of The Velvet Underground including Nico, and is essentially one long loose improvisation.",
+      "releaseInfo": "1966",
+      "runtime": "70 min",
+      "genres": [
+        "Documentary",
+        "Music",
+        "Classic Rock"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/4ZdXjwTGTdblhjiOGgRaK1XHqT1.jpg",
+      "imdbRating": "6.8"
+    },
+    {
+      "id": "tt0060167",
+      "type": "movie",
+      "name": "The Big T.N.T. Show",
+      "poster": "https://image.tmdb.org/t/p/w780/tu5cCUDl5McwQB1dlljQTQxY0B3.jpg",
+      "posterShape": "poster",
+      "description": "Live performances by some of the top rock-and-roll acts of the mid 60s. Includes Ray Charles, The Byrds, Joan Baez, Ike and Tina Turner, Donovan, The Lovin' Spoonful, and several more.",
+      "releaseInfo": "1965",
+      "runtime": "93 min",
+      "genres": [
+        "Documentary",
+        "Music",
+        "Classic Rock"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/wZUZmAI7jTMgypA6QAc98cbLjuy.jpg",
+      "imdbRating": "8.5"
     },
     {
       "id": "tt0058631",
