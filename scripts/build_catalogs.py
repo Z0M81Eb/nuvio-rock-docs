@@ -40,6 +40,7 @@ def compile_terms(terms: list[str]) -> re.Pattern:
 
 def tmdb_get(endpoint: str, params: dict | None = None, retries: int = 3) -> dict:
     params = dict(params or {})
+    params.setdefault("language", "en-US")
     if len(TMDB_API_KEY) <= 40:
         params["api_key"] = TMDB_API_KEY
 
@@ -301,11 +302,12 @@ def discover_candidates() -> tuple[set[int], set[int]]:
     ])
     kw_pipe = "|".join(str(k) for k in kw_ids)
 
-    # 1. Full sweep of keyword-matched Rock/Metal/Punk/Goth/New Wave/Industrial docs (Movies + TV)
+    # 1. Full sweep of English keyword-matched Rock/Metal/Punk/Goth/New Wave/Industrial docs
     if kw_pipe:
         movie_ids |= collect_all_pages("/discover/movie", {
             "with_genres": "99",
             "with_keywords": kw_pipe,
+            "with_original_language": "en",
             "primary_release_date.lte": TODAY,
             "sort_by": "primary_release_date.desc",
             "include_adult": "false",
@@ -314,21 +316,23 @@ def discover_candidates() -> tuple[set[int], set[int]]:
         tv_ids |= collect_all_pages("/discover/tv", {
             "with_genres": "99",
             "with_keywords": kw_pipe,
+            "with_original_language": "en",
             "first_air_date.lte": TODAY,
             "sort_by": "first_air_date.desc",
             "include_adult": "false",
         }, max_pages=100)
 
-    # 2. Broad sweep of Documentary + Music (catches docs missing genre keywords)
+    # 2. Broad sweep of English Documentary + Music (catches docs missing genre keywords)
     for sort_by in ["primary_release_date.desc", "vote_count.desc"]:
         movie_ids |= collect_all_pages("/discover/movie", {
             "with_genres": "99,10402",
+            "with_original_language": "en",
             "primary_release_date.lte": TODAY,
             "sort_by": sort_by,
             "include_adult": "false",
         }, max_pages=25)
 
-    # 3. Targeted title searches for genre/scene/era & notable band docuseries + films
+    # 3. Targeted title searches for English genre/scene/era & notable band docuseries + films
     targeted_queries = [
         "metal evolution", "punk", "new wave", "goth", "gothic rock", "darkwave",
         "synthpop", "synthwave", "post-punk", "industrial", "heavy metal",
@@ -341,12 +345,12 @@ def discover_candidates() -> tuple[set[int], set[int]]:
         for page in (1, 2):
             tv_search = tmdb_get("/search/tv", {"query": q, "page": page})
             for item in tv_search.get("results", []):
-                if 99 in (item.get("genre_ids") or []):
+                if 99 in (item.get("genre_ids") or []) and item.get("original_language") == "en":
                     tv_ids.add(item["id"])
 
             mv_search = tmdb_get("/search/movie", {"query": q, "page": page})
             for item in mv_search.get("results", []):
-                if 99 in (item.get("genre_ids") or []):
+                if 99 in (item.get("genre_ids") or []) and item.get("original_language") == "en":
                     movie_ids.add(item["id"])
 
     return movie_ids, tv_ids
@@ -382,6 +386,7 @@ def fetch_movie_meta(tmdb_id: int, overrides: dict, forced_category: str | None 
 
     release_date = details.get("release_date") or ""
     status = details.get("status") or ""
+    original_lang = details.get("original_language") or ""
     title = details.get("title") or details.get("original_title") or ""
     overview = details.get("overview") or ""
     runtime = details.get("runtime") or 0
@@ -390,12 +395,13 @@ def fetch_movie_meta(tmdb_id: int, overrides: dict, forced_category: str | None 
     combined = f"{title} {overview} {' '.join(keywords)}"
 
     if not forced_category:
-        # Strict gate: exclude unreleased, TBA, or future-dated movies
+        # Strict gates: English only, released only, Documentary only
+        if original_lang != "en":
+            return None
         if status != "Released" or not release_date or release_date > TODAY:
             return None
         if 99 not in genre_ids:
             return None
-        # Only reject if runtime is known and shorter than MIN_MOVIE_RUNTIME
         if 0 < runtime < MIN_MOVIE_RUNTIME:
             return None
         if not has_music_relevance(genre_ids, keywords, combined):
@@ -465,6 +471,7 @@ def fetch_series_meta(tmdb_id: int, overrides: dict, forced_category: str | None
 
     first_air = details.get("first_air_date") or ""
     status = details.get("status") or ""
+    original_lang = details.get("original_language") or ""
     title = details.get("name") or details.get("original_name") or ""
     overview = details.get("overview") or ""
     genre_ids = {g["id"] for g in (details.get("genres") or [])}
@@ -472,7 +479,9 @@ def fetch_series_meta(tmdb_id: int, overrides: dict, forced_category: str | None
     combined = f"{title} {overview} {' '.join(keywords)}"
 
     if not forced_category:
-        # Strict gate: exclude unreleased or future-dated series
+        # Strict gates: English only, aired/released only, Documentary only
+        if original_lang != "en":
+            return None
         if status in {"Planned", "In Production", "Rumored"} or not first_air or first_air > TODAY:
             return None
         if 99 not in genre_ids:
@@ -551,7 +560,7 @@ def sort_and_clean(items: list[dict]) -> list[dict]:
 
 def main():
     overrides = load_overrides()
-    print(f"Discovering released candidates from TMDB (up to {TODAY})...")
+    print(f"Discovering released English candidates from TMDB (up to {TODAY})...")
     movie_ids, tv_ids = discover_candidates()
     print(f"Found {len(movie_ids)} candidate movies and {len(tv_ids)} candidate series.")
 
@@ -609,9 +618,9 @@ def main():
 
     manifest = {
         "id": "org.nuvio.rockmetalpunkdocs",
-        "version": "2.2.0",
+        "version": "2.3.0",
         "name": "Rock, Metal & Punk Documentaries",
-        "description": "Live auto-updating catalog of released Genres/Eras, Rock, Metal, and Punk documentaries & docuseries.",
+        "description": "Live auto-updating catalog of released English Genres/Eras, Rock, Metal, and Punk documentaries & docuseries.",
         "resources": ["catalog"],
         "types": ["movie", "series", "other"],
         "idPrefixes": ["tt"],
