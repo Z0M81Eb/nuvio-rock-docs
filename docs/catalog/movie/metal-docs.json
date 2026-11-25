@@ -18,6 +18,23 @@
       "imdbRating": "10.0"
     },
     {
+      "id": "tt36163614",
+      "type": "movie",
+      "name": "Iron Maiden: Burning Ambition",
+      "poster": "https://image.tmdb.org/t/p/w780/yZqhFJDenLfgF1VygOOCNmAdS1P.jpg",
+      "posterShape": "poster",
+      "description": "With unprecedented access to the official archives and intimate recollections from the band, both current and past,  Iron Maiden: Burning Ambition invites fans to experience one of the most iconic journeys in music history.  Spanning five decades, this electrifying documentary charts the band’s rise from the pubs of East London to the world’s biggest stadiums. Featuring exclusive interviews with band members and contributors such as Javier Bardem, Lars Ulrich and Chuck D, as well as all-new animated sequences of the band's legendary mascot, Eddie, the film offers a rare and intimate look at Iron Maiden’s uncompromising vision and unwavering connection with their truly global army of fans.",
+      "releaseInfo": "2026",
+      "runtime": "105 min",
+      "genres": [
+        "Documentary",
+        "Music",
+        "Metal"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/52t7nT1f117FW6gdG32DrQKxpU1.jpg",
+      "imdbRating": "8.6"
+    },
+    {
       "id": "tt39091623",
       "type": "movie",
       "name": "Living Dead Girl (Behind the Screams)",
@@ -167,6 +184,23 @@
       "imdbRating": "6.3"
     },
     {
+      "id": "tt7583876",
+      "type": "movie",
+      "name": "Rock Camp: The Movie",
+      "poster": "https://image.tmdb.org/t/p/w780/nrQDJpN9XbkSTdskt3EcbfUHWq4.jpg",
+      "posterShape": "poster",
+      "description": "Summer camp meets Spinal Tap as we journey to Rock 'n' Roll Fantasy Camp, where dreamers from across America and around the world gather to shred with their heroes - and learn to rock like the legends. Rock Camp is an institution and cultural phenomenon that has been going on in Los Angeles, New York and other cities since 1996. The brainchild of music producer David Fishof, Rock Camp boasts a jaw-dropping array of rock star \"counselors\" that include Roger Daltrey, Alice Cooper, Paul Stanley and Gene Simmons, Nancy Wilson, Joe Perry, Jeff Beck, Slash and countless other rock legends. The counselors teach, inspire and jam with the campers over the course of four days. Each Rock Camp concludes with all of the counselors and their respective campers, performing together.",
+      "releaseInfo": "2021",
+      "runtime": "87 min",
+      "genres": [
+        "Documentary",
+        "Music",
+        "Metal"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/Ap09rL0XSKtbyML7sxuu7uQuidO.jpg",
+      "imdbRating": "6.0"
+    },
+    {
       "id": "tt30325987",
       "type": "movie",
       "name": "Bay Area Godfathers",
@@ -200,6 +234,23 @@
       "imdbRating": "7.2"
     },
     {
+      "id": "tt11242532",
+      "type": "movie",
+      "name": "Viva the Underdogs",
+      "poster": "https://image.tmdb.org/t/p/w780/whoSgQutfDgWtk6OUyARzmZT1Ol.jpg",
+      "posterShape": "poster",
+      "description": "Follow the self-managed Australian heavy metal band Parkway Drive on their 15 year underdog journey.",
+      "releaseInfo": "2020",
+      "runtime": "73 min",
+      "genres": [
+        "Documentary",
+        "Music",
+        "Metal"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/ialpuWCInTpEyhrqRFeGrK8liis.jpg",
+      "imdbRating": "6.3"
+    },
+    {
       "id": "tt10191866",
       "type": "movie",
       "name": "Murder in the Front Row: The San Francisco Bay Area Thrash Metal Story",
@@ -215,6 +266,23 @@
       ],
       "background": "https://image.tmdb.org/t/p/w1280/o5hxa4ES8a2esehZMhqBnntAlIr.jpg",
       "imdbRating": "7.3"
+    },
+    {
+      "id": "tt7638110",
+      "type": "movie",
+      "name": "Loud Krazy Love",
+      "poster": "https://image.tmdb.org/t/p/w780/iK3obxgT7ZkzU0fzBjnZz5LDBS3.jpg",
+      "posterShape": "poster",
+      "description": "At the downbeat of the new millennium there was no bigger, darker, or more deeply influential hard rock band in the world than KoRn. But for lead guitarist Brian Head Welch, a dream come true was giving way to a raging nightmare of self-loathing and addiction. At the end of himself, he made an even harder decision than leaving KoRn. Told with intimate access to the family and band, this genre-bending documentary delivers unprecedented access to one of rock's most unbelievable stories of restoration.",
+      "releaseInfo": "2019",
+      "runtime": "87 min",
+      "genres": [
+        "Documentary",
+        "Music",
+        "Metal"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/9hcc5a4XnQhFecjaZ8ZRWHYG4Ot.jpg",
+      "imdbRating": "6.7"
     },
     {
       "id": "tt7954282",
@@ -251,6 +319,23 @@
       "imdbRating": "7.7"
     },
     {
+      "id": "tt4958390",
+      "type": "movie",
+      "name": "Who the Fuck Is That Guy?: The Fabulous Journey of Michael Alago",
+      "poster": "https://image.tmdb.org/t/p/w780/ifKlwtqehwumOsGCAiQedhf9t1t.jpg",
+      "posterShape": "poster",
+      "description": "The astonishing story of a gay Puerto Rican kid growing up in a Hasidic Brooklyn neighborhood, who got on the subway one day and began a musical odyssey that helped shape the musical landscape across N.Y.C. and around the world. Directed by Drew Stone and produced by Michael Alex the film tells the incredible story of a cherished New York City icon. From rubbing elbows with N. Y. scene makers as an teenager at Max's Kansas City and CBGB, to being the architect of a rock 'n' roll renaissance as the 19 year-old talent booker at the legendary Ritz, to making history as a 24 year-old A&R exec, signing the biggest metal band in a generation in Metallica, Michael Alago was on fire.",
+      "releaseInfo": "2017",
+      "runtime": "85 min",
+      "genres": [
+        "Documentary",
+        "Music",
+        "Metal"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/fXKKOAaQbDXgnZ9TGHq5Mza8GdO.jpg",
+      "imdbRating": "5.4"
+    },
+    {
       "id": "tt6545506",
       "type": "movie",
       "name": "Deep Purple: From Here To Infinite",
@@ -266,6 +351,23 @@
       ],
       "background": "https://image.tmdb.org/t/p/w1280/ihQFIibeEVFHykWmHQc0jxzgtfy.jpg",
       "imdbRating": "7.9"
+    },
+    {
+      "id": "tt7262346",
+      "type": "movie",
+      "name": "Cum On Feel The Noize",
+      "poster": "https://image.tmdb.org/t/p/w780/mcnWCM2a5k98YuiOUc33WuqZtLA.jpg",
+      "posterShape": "poster",
+      "description": "Exclusive, long-lost live material from rock's most iconic bands and artists, as well as original interviews with the living legends themselves, including Alice Cooper, Ozzy Osbourne, Jimmy Page, Nikki Sixx, David Draiman and more.",
+      "releaseInfo": "2017",
+      "runtime": "90 min",
+      "genres": [
+        "Documentary",
+        "Music",
+        "Metal"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/iyI8wRASEiqaBG3eITJDgSSnc7w.jpg",
+      "imdbRating": "7.0"
     },
     {
       "id": "tt6212934",
@@ -499,6 +601,23 @@
         "Metal"
       ],
       "imdbRating": "7.3"
+    },
+    {
+      "id": "tt3074780",
+      "type": "movie",
+      "name": "Supermensch: The Legend of Shep Gordon",
+      "poster": "https://image.tmdb.org/t/p/w780/6cUD0vmz2ZCXeejLpPXkP2hJexl.jpg",
+      "posterShape": "poster",
+      "description": "Supermensch documents the astounding career of Hollywood insider, the loveable Shep Gordon, who fell into music management by chance after moving to LA straight out of college, and befriending Janis Joplin, Jim Morrison and Jimi Hendrix. Shep managed rock stars such as Pink Floyd, Luther Vandross, Teddy Pendergrass and Alice Cooper, and later went on to manage chefs such as Emeril Lagasse, ushering in the era of celebrity chefs on television.",
+      "releaseInfo": "2013",
+      "runtime": "75 min",
+      "genres": [
+        "Documentary",
+        "Music",
+        "Metal"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/vGe38lBYBOLp0jthuBOIVGap4fM.jpg",
+      "imdbRating": "7.1"
     },
     {
       "id": "tt1828124",
@@ -1057,6 +1176,23 @@
       "imdbRating": "6.8"
     },
     {
+      "id": "tt3666982",
+      "type": "movie",
+      "name": "Devil Worship: The Rise of Satanism",
+      "poster": "https://image.tmdb.org/t/p/w780/dSJJnGdgPkKvA5p2KHr1b8TOwSz.jpg",
+      "posterShape": "poster",
+      "description": "An epidemic of ritual abuse of children from infants to teenagers is sweeping through the country. According to recent TV and radio broadcasts 2 million children a year are reported missing, many too young to be runaways and 5 thousand unidentifiable bodies of children are found each year in the US alone. \"Devil Worship: The Rise of Satanism\" takes you behind the scenes into actual black witchcraft and satanic rituals. Former Satanists, practicing witches and law enforcement experts explain the vastness and diversity of the movement. Experts tell why people join and how Satanists recruit their members as well as their victims. Parents are given clues to determine if their children are involved. Most importantly, dangerous doorways into the occult are exposed.",
+      "releaseInfo": "1989",
+      "runtime": "64 min",
+      "genres": [
+        "Documentary",
+        "Music",
+        "Metal"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/lLnPMRWcXxwVM6KIZSFddeQbHqA.jpg",
+      "imdbRating": "5.2"
+    },
+    {
       "id": "tt1136645",
       "type": "movie",
       "name": "Devil Worship: Exposing Satan's Underground",
@@ -1138,6 +1274,23 @@
         "Metal"
       ],
       "imdbRating": "9.0"
+    },
+    {
+      "id": "tt0413846",
+      "type": "movie",
+      "name": "Black Sabbath: Never Say Die",
+      "poster": "https://image.tmdb.org/t/p/w780/eJzMOdjKPzujupWOgBHSDTjUF1S.jpg",
+      "posterShape": "poster",
+      "description": "Recorded live in 1978, Never Say Die is a defining moment in Black Sabbath's history. This unique concert is one of Sabbath's final performances with the original line-up of Ozzy Osbourne, Tony Iommi, Geezer Butler and Bill Ward.\r Setlist:\r 1. Symptom Of The Universe  2. War Pigs  3. Snow Blind  4. Never Say Die  5. Black Sabbath  6. Dirty Women  7. Rock And Roll Doctor  8. Electric Funeral  9. Children Of The Grave  10. Paranoid",
+      "releaseInfo": "1980",
+      "runtime": "57 min",
+      "genres": [
+        "Documentary",
+        "Music",
+        "Metal"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/w4KYsXtF38fWuiYcleH4lEI7VLc.jpg",
+      "imdbRating": "5.4"
     }
   ]
 }

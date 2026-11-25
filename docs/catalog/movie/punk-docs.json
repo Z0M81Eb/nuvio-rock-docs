@@ -68,6 +68,40 @@
       "background": "https://image.tmdb.org/t/p/w1280/l02ioUGH86BvwY82Py3A7sQlr0h.jpg"
     },
     {
+      "id": "tt12585288",
+      "type": "movie",
+      "name": "The Big Johnson",
+      "poster": "https://image.tmdb.org/t/p/w780/b2N7arsRkNbleaXgZ6MnzE8mNff.jpg",
+      "posterShape": "poster",
+      "description": "Dean Johnson, drag queen, rock star, LGBTQI activist, junkie, genius, escort then John Doe. How does someone so famous in New York die as an unknown in DC? This documentary explores the incredible highs and the crushing lows of Dean Johnson’s life and untimely death. Was it murder? Was it an accident? We may never know, but what is certain is that Dean and “the Big Johnson” changed New York City and all who knew him forever.",
+      "releaseInfo": "2026",
+      "runtime": "95 min",
+      "genres": [
+        "Documentary",
+        "Music",
+        "Punk"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/mu4ZPLyzXFQI5o9ueevDngJUVDK.jpg",
+      "imdbRating": "6.0"
+    },
+    {
+      "id": "tt37542725",
+      "type": "movie",
+      "name": "YUNGBLUD. Are You Ready, Boy?",
+      "poster": "https://image.tmdb.org/t/p/w780/gsL4h1clfb6boFPi0Q8MR97oauw.jpg",
+      "posterShape": "poster",
+      "description": "Ahead of releasing 'Idols', his most personal album to date, and before anyone had heard a note, Yungblud and his touring family travelled to Berlin, where he would perform and record these brand new songs live for the very first time. A personal journey of change, confidence and rock-and-roll chaos, set against a city that has always celebrated counterculture and creativity, this is a revealing and uncompromising documentary about a generational artist finding his own voice.",
+      "releaseInfo": "2025",
+      "runtime": "120 min",
+      "genres": [
+        "Documentary",
+        "Music",
+        "Punk"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/4cEZKTP5Sn54ABmeakowqWTsWgR.jpg",
+      "imdbRating": "7.0"
+    },
+    {
       "id": "tt15740890",
       "type": "movie",
       "name": "My Way",
@@ -204,6 +238,23 @@
       "imdbRating": "5.5"
     },
     {
+      "id": "tt10404910",
+      "type": "movie",
+      "name": "Wake Up Punk",
+      "poster": "https://image.tmdb.org/t/p/w780/aVagEL3QUzg3ETdKh7kVHWcXzz5.jpg",
+      "posterShape": "poster",
+      "description": "Joe Corré, son of punk visionaries Vivienne Westwood and Malcolm McLaren, burns an estimated £5M worth of punk memorabilia protesting the commodification of punk. The film takes this incendiary act of ‘cultural terrorism’ and the questions it raised to explore the lifespan and true worth of punk - the 20th century's most volatile movement.",
+      "releaseInfo": "2022",
+      "runtime": "85 min",
+      "genres": [
+        "Documentary",
+        "Music",
+        "Punk"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/1gqWx8LCcWzieEYXrRY9JDpnmPw.jpg",
+      "imdbRating": "8.0"
+    },
+    {
       "id": "tt9174746",
       "type": "movie",
       "name": "Rebel Dread",
@@ -323,6 +374,23 @@
       "imdbRating": "7.6"
     },
     {
+      "id": "tt5537096",
+      "type": "movie",
+      "name": "Beyond Barricades",
+      "poster": "https://image.tmdb.org/t/p/w780/8ekabSRyRzzAzxdFaQHOFJlUz9n.jpg",
+      "posterShape": "poster",
+      "description": "Beyond Barricades is a documentary on political punk band Anti-Flag, featuring interviews with Tom Morello, Billy Bragg, Tim McIlrath, Brian Baker & More. The film explores the trials and tribulations of playing politically charged music and devoting your life to activism.",
+      "releaseInfo": "2020",
+      "runtime": "87 min",
+      "genres": [
+        "Documentary",
+        "Music",
+        "Punk"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/oLqrUEE3Ml0DdsSUNMpeO95L7nw.jpg",
+      "imdbRating": "8.0"
+    },
+    {
       "id": "tt12922778",
       "type": "movie",
       "name": "You Don't Know Ivan Julian",
@@ -336,6 +404,22 @@
         "Music",
         "Punk"
       ]
+    },
+    {
+      "id": "tt13129218",
+      "type": "movie",
+      "name": "This Film Should Not Exist",
+      "poster": "https://image.tmdb.org/t/p/w780/omQ9MsUCABGiTZ4EMTQbO4e4X0H.jpg",
+      "posterShape": "poster",
+      "description": "THIS FILM SHOULD NOT EXIST is a slight-of-hand trick replete with all the details of a rock documentary. Archival footage from the orgiastic 1995 tour with The Oblivians and stories of everyday life leads the audience down a familiar path, and with a delicately insistent grin, transports us somewhere else completely. Echoing the artistic path taken by Ben Wallers, the film winds through the underground world of the 1990's garage rock band Country Teasers to form a portrait of a man, musician, and leader.",
+      "releaseInfo": "2020",
+      "runtime": "95 min",
+      "genres": [
+        "Documentary",
+        "Music",
+        "Punk"
+      ],
+      "imdbRating": "5.0"
     },
     {
       "id": "tt8351520",
@@ -370,6 +454,23 @@
       ],
       "background": "https://image.tmdb.org/t/p/w1280/ybRUwE7R8EBLlerr5EpD6rHIow5.jpg",
       "imdbRating": "6.4"
+    },
+    {
+      "id": "tt5788598",
+      "type": "movie",
+      "name": "Ibiza: The Silent Movie",
+      "poster": "https://image.tmdb.org/t/p/w780/oolTeWyqq11yGZ42abkQMoj6YTl.jpg",
+      "posterShape": "poster",
+      "description": "This unique and innovative project provides a compelling audiovisual journey into 2,000 years of Ibiza’s bohemian soul. The film captures Temple’s iconic style and boasts a soundtrack curated by world renowned artist Fatboy Slim, including his smash hits RIGHT HERE, RIGHT NOW; EAT SLEEP RAVE REPEAT as well as legendary tracks from artists including Ultra Nate, Cream, Brian Eno, The Dandy Warhols, The Sex Pistols and more.",
+      "releaseInfo": "2019",
+      "runtime": "100 min",
+      "genres": [
+        "Documentary",
+        "Music",
+        "Punk"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/iWmTU039PMSPOCqYc7bs1Qk9dSl.jpg",
+      "imdbRating": "6.0"
     },
     {
       "id": "tt3736766",
@@ -643,6 +744,23 @@
       "imdbRating": "7.2"
     },
     {
+      "id": "tt3512486",
+      "type": "movie",
+      "name": "The Damned: Don't You Wish That We Were Dead",
+      "poster": "https://image.tmdb.org/t/p/w780/4rYaJzmX8AltVQLEfF7nEB1VcZB.jpg",
+      "posterShape": "poster",
+      "description": "From Lemmy filmmaker Wes Orshoski comes the story of the long-ignored pioneers of punk: The Damned, the first U.K. punks on wax and the first to cross the Atlantic. This authorized film includes appearances from Chrissie Hynde, Mick Jones (The Clash), Lemmy and members of Pink Floyd, Black Flag, GNR, the Sex Pistols, Blondie, Buzzcocks, and more. Shot around the globe over three years, the film charts the band's complex history and infighting, as it celebrated its 35th anniversary and found its estranged former members striking out on their own anniversary tour, while still others battle cancer.",
+      "releaseInfo": "2015",
+      "runtime": "107 min",
+      "genres": [
+        "Documentary",
+        "Music",
+        "Punk"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/oGjAePO1ANqcrW44wQjG4dMQ0tr.jpg",
+      "imdbRating": "7.7"
+    },
+    {
       "id": "tt3004624",
       "type": "movie",
       "name": "Life After Death from Above 1979",
@@ -692,6 +810,22 @@
       ],
       "background": "https://image.tmdb.org/t/p/w1280/7O0yvw9tApjEuO1m02ZyCAqwwgk.jpg",
       "imdbRating": "6.9"
+    },
+    {
+      "id": "tt2191618",
+      "type": "movie",
+      "name": "Every Everything: The Music, Life & Times of Grant Hart",
+      "poster": "https://image.tmdb.org/t/p/w780/5h601lOxUHLmgJ2Y9ajag68Vz07.jpg",
+      "posterShape": "poster",
+      "description": "A rock & roll Fog of War about Hüsker Dü's legendary singer/songwriter Grant Hart.",
+      "releaseInfo": "2013",
+      "runtime": "97 min",
+      "genres": [
+        "Documentary",
+        "Music",
+        "Punk"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/4F4RJjSQpHH7PjOYP74zvOIpzCJ.jpg"
     },
     {
       "id": "tt2417154",
@@ -777,23 +911,6 @@
       "imdbRating": "7.1"
     },
     {
-      "id": "tt2953170",
-      "type": "movie",
-      "name": "Pussy Riot: The Movement",
-      "poster": "https://image.tmdb.org/t/p/w780/x0ShtwfgwJgWBMz4EoA1UHc1yjJ.jpg",
-      "posterShape": "poster",
-      "description": "Pussy Riot: The Movement embarks on the odyssey of the girls who rocked a country and continue to fight for human rights throughout the world. Documentary follows Masha Alyokhina, Nadezhda Tolokonnikova, and Yekaterina Samutsevich through their harsh two year sentences for playing music to their freedom. What started as a punk rock collective has catapulted to a world movement for human rights.",
-      "releaseInfo": "2013",
-      "runtime": "85 min",
-      "genres": [
-        "Documentary",
-        "Music",
-        "Punk"
-      ],
-      "background": "https://image.tmdb.org/t/p/w1280/xlGO2CNbIEtcP43QpChzuvR6y8o.jpg",
-      "imdbRating": "4.2"
-    },
-    {
       "id": "tt2034085",
       "type": "movie",
       "name": "Punk in Africa",
@@ -809,21 +926,6 @@
       ],
       "background": "https://image.tmdb.org/t/p/w1280/lmIKTRiSsxdunST4ENSQ7CknDYv.jpg",
       "imdbRating": "7.2"
-    },
-    {
-      "id": "tt2461726",
-      "type": "movie",
-      "name": "Circle Jerks: My Career as a Jerk",
-      "poster": "https://image.tmdb.org/t/p/w780/emtfYp60tsLpZv13sGcYHjJ7l9M.jpg",
-      "posterShape": "poster",
-      "description": "From the beginning, LA punk band the Circle Jerks were rooted in controversy. Formed by ex members of Black Flag and Red Cross (now Redd Kross) in late 1979, the band came to encapsulate the image, sound and energy of California Hardcore Punk. Filmmaker David Markey (1991: The Year Punk Broke, The Slog Movie) mixes in-depth interviews, rare live footage and historical perspective to illustrate the story of one of the most influential bands in the American underground. My Career as a Jerk follows the band from their early days and classic debut to navigating the independent label and touring scene of the 80s to the addictions, fights and injuries that forced their break up. Of course the story doesn't quite end there.",
-      "releaseInfo": "2012",
-      "runtime": "96 min",
-      "genres": [
-        "Documentary",
-        "Music",
-        "Punk"
-      ]
     },
     {
       "id": "tt5645388",
@@ -875,21 +977,6 @@
       "imdbRating": "7.5"
     },
     {
-      "id": "tt3769098",
-      "type": "movie",
-      "name": "Punk O Cine",
-      "poster": "https://image.tmdb.org/t/p/w780/dCmuE8uJenQg3jkd7ag3Ozv8B61.jpg",
-      "posterShape": "poster",
-      "description": "Documentary about Finnish punk scene in the early 2010s.",
-      "releaseInfo": "2011",
-      "runtime": "55 min",
-      "genres": [
-        "Documentary",
-        "Music",
-        "Punk"
-      ]
-    },
-    {
       "id": "tt1633989",
       "type": "movie",
       "name": "Dragonslayer",
@@ -907,6 +994,22 @@
       "imdbRating": "6.1"
     },
     {
+      "id": "tt2005225",
+      "type": "movie",
+      "name": "From the Back of the Room",
+      "poster": "https://image.tmdb.org/t/p/w780/pMPM9rLaWWuNhYcF9zjgxg9COxh.jpg",
+      "posterShape": "poster",
+      "description": "Although it is often credited with spurring the \"third wave\" of feminism, Riot Grrrl seemed to many to be a blip in the media. Riot Grrrl paved the way for the more mainstream \"girl power\" phenomenon, but was ultimately forgotten until recently. This film tackles the past thirty years of female involvement in Do It Yourself music, and aims to give a more complete picture of how women have participated in the D.I.Y. community, and how it affects their daily lives.",
+      "releaseInfo": "2011",
+      "runtime": "105 min",
+      "genres": [
+        "Documentary",
+        "Music",
+        "Punk"
+      ],
+      "imdbRating": "4.0"
+    },
+    {
       "id": "tt1398949",
       "type": "movie",
       "name": "Blank City",
@@ -922,6 +1025,23 @@
       ],
       "background": "https://image.tmdb.org/t/p/w1280/w2JSPj40o64vpoc7MqvLnDo7tY.jpg",
       "imdbRating": "6.9"
+    },
+    {
+      "id": "tt1546381",
+      "type": "movie",
+      "name": "Color Me Obsessed: A Film About The Replacements",
+      "poster": "https://image.tmdb.org/t/p/w780/4XGaqMrrB2gU6CBcPF5zYrD7xOm.jpg",
+      "posterShape": "poster",
+      "description": "For some aging music fans and kids with a passion for musical history, The Replacements are rock and roll defined. Gorman Bechard's remarkable history of the 'Mats takes us from their first show as the Impediments to their 1991 onstage breakup in Chicago, and everywhere in between. Bechard bravely eschews including the band's music, photos, and live footage, instead relying solely on the fans: their well-kept memories, hilarious anecdotes, and differing points of views about the foursome's wildly varied discography and infamous antics.",
+      "releaseInfo": "2011",
+      "runtime": "123 min",
+      "genres": [
+        "Documentary",
+        "Music",
+        "Punk"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/4w3LcSxjRuYk89F2w1MCTKTk2iG.jpg",
+      "imdbRating": "7.0"
     },
     {
       "id": "tt5872466",
@@ -1023,6 +1143,23 @@
       "imdbRating": "5.0"
     },
     {
+      "id": "tt0463028",
+      "type": "movie",
+      "name": "The Gits",
+      "poster": "https://image.tmdb.org/t/p/w780/iSB4Xs8LStxmZhroofXMcC9Dc0n.jpg",
+      "posterShape": "poster",
+      "description": "The inception and ascent of Seattle-based post-punk band the Gits, whose rise to prominence was cut short by the shocking rape and murder of their fiery lead singer, Mia Zapata, in 1993. Featuring performance footage and reflective interviews with the remaining members of the Gits, O'Kane's labor of love celebrates Zapata's memory and the group's enduring legacy.",
+      "releaseInfo": "2008",
+      "runtime": "82 min",
+      "genres": [
+        "Documentary",
+        "Music",
+        "Punk"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/wYhEfYT8SaCJ17yTtUssB1icYMA.jpg",
+      "imdbRating": "7.4"
+    },
+    {
       "id": "tt1274725",
       "type": "movie",
       "name": "I Need That Record!",
@@ -1054,21 +1191,6 @@
       ],
       "background": "https://image.tmdb.org/t/p/w1280/9H238fST6cNkq2y1oRRQrs2Igb1.jpg",
       "imdbRating": "6.1"
-    },
-    {
-      "id": "tt1340142",
-      "type": "movie",
-      "name": "You Weren't There: A History of Chicago Punk 1977–1984",
-      "poster": "https://image.tmdb.org/t/p/w780/4UiyWA0yixqbWoAayYw1KQBNar0.jpg",
-      "posterShape": "poster",
-      "description": "Often overshadowed by the stars of the New York scene, Chicago punk gets its day in the limelight in this raw documentary that captures the noisemakers and tastemakers who left their mark at venues like La Mere Vipere and Oz.",
-      "releaseInfo": "2007",
-      "runtime": "120 min",
-      "genres": [
-        "Documentary",
-        "Music",
-        "Punk"
-      ]
     },
     {
       "id": "tt1080761",
@@ -1285,6 +1407,23 @@
       "imdbRating": "7.5"
     },
     {
+      "id": "tt0425388",
+      "type": "movie",
+      "name": "Ramones: Raw",
+      "poster": "https://image.tmdb.org/t/p/w780/kLUFgHFYZuzHsHnxUMX0wvaqXpQ.jpg",
+      "posterShape": "poster",
+      "description": "Punk icons the Ramones star in this compilation of rare concert and behind-the-scenes footage that spans the band's 30-year history. The 20 vintage live performances include \"Blitzkrieg Bop,\" \"I Wanna Be Sedated,\" \"Sheena Is a Punk Rocker\" and \"Gimme Gimme Shock Treatment.\" Also featured is a never-before-seen 1980 performance that aired live on European television, other rare TV appearances, celebrity cameos and home video footage.",
+      "releaseInfo": "2004",
+      "runtime": "105 min",
+      "genres": [
+        "Documentary",
+        "Music",
+        "Punk"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/oTGW0MHYvWfY8M82AZrDZeQAR63.jpg",
+      "imdbRating": "6.4"
+    },
+    {
       "id": "tt0415935",
       "type": "movie",
       "name": "Joe Strummer & The Mescaleros: Let's Rock Again!",
@@ -1350,21 +1489,20 @@
       "imdbRating": "7.7"
     },
     {
-      "id": "tt0370694",
+      "id": "tt0379162",
       "type": "movie",
-      "name": "Hey! Is Dee Dee Home?",
-      "poster": "https://image.tmdb.org/t/p/w780/tdXG6icWwaEb7hZz040mrbVkTLS.jpg",
+      "name": "Afro-Punk",
+      "poster": "https://image.tmdb.org/t/p/w780/43jWAoPMJAjV5sD4qaZGfT0IWRV.jpg",
       "posterShape": "poster",
-      "description": "Punk rock devotees will welcome director Lech Kowalski's reflective video portrait of late bassist Dee Dee Ramone and his life as a music industry icon -- including his self-destructive bouts with heroin. The centerpiece of the hourlong documentary -- which is peppered with vintage performance clips -- is a 1991 interview with a clean Dee Dee, who talks at length about his storied career and penchant for living on the edge.",
+      "description": "This film, which many may assume is a historical punk documentary, actually is an honest and needed treatment of race and identity. Punk and Hardcore music is simply the microcosm in which it is told. First time Director, James Spooner, in telling this story, has opened new dialogues on these crucial subject both intra and interracially. Many times funny, sometimes sobering, a wake up call to America. An examination of the duality of racial identity that DuBois called \"double consciousness.\" What could have been \"The Bad Brains Story\" is a story about kids, alienated by two cultures and two communities. Many of these punk and hardcore kids have never questioned their role in the punk scene or the black community until their interviews, and it's obvious as they struggle on camera to reconcile a fragmented self.",
       "releaseInfo": "2003",
-      "runtime": "63 min",
+      "runtime": "66 min",
       "genres": [
         "Documentary",
         "Music",
         "Punk"
       ],
-      "background": "https://image.tmdb.org/t/p/w1280/hk7iP0FT7P6gxbulNMLuLQnCD86.jpg",
-      "imdbRating": "5.9"
+      "imdbRating": "5.6"
     },
     {
       "id": "tt0759960",
@@ -1486,6 +1624,22 @@
       "imdbRating": "6.7"
     },
     {
+      "id": "tt0196074",
+      "type": "movie",
+      "name": "Scared Straight! 20 Years Later",
+      "poster": "https://image.tmdb.org/t/p/w780/kcfN7TFskn9qSk4ZLRxAZuUKWnS.jpg",
+      "posterShape": "poster",
+      "description": "Adults meet up with the people who changed their lives twenty years ago by confronting them about their lifestyles as teenagers.",
+      "releaseInfo": "1999",
+      "runtime": "95 min",
+      "genres": [
+        "Documentary",
+        "Music",
+        "Punk"
+      ],
+      "imdbRating": "6.6"
+    },
+    {
       "id": "tt0230334",
       "type": "movie",
       "name": "Instrument",
@@ -1600,23 +1754,6 @@
       "imdbRating": "6.4"
     },
     {
-      "id": "tt0285510",
-      "type": "movie",
-      "name": "Dead Kennedys: DMPO's on Broadway",
-      "poster": "https://image.tmdb.org/t/p/w780/q3UdNuyencMX2P5rSJVKgWVZKeS.jpg",
-      "posterShape": "poster",
-      "description": "This 58 minute DVD video is one of the Dead Kennedy's last ever live concerts, captured on film just months before their breakup in 1984. This 14-song performance at San Francisco's On Broadway catches Jello and company at the height of their punk powers.",
-      "releaseInfo": "1985",
-      "runtime": "58 min",
-      "genres": [
-        "Documentary",
-        "Music",
-        "Punk"
-      ],
-      "background": "https://image.tmdb.org/t/p/w1280/eKgglqwtzoZFcaOgZoyNdT6vVVq.jpg",
-      "imdbRating": "8.0"
-    },
-    {
       "id": "tt0198307",
       "type": "movie",
       "name": "Another State of Mind",
@@ -1698,6 +1835,23 @@
         "Punk"
       ],
       "imdbRating": "6.8"
+    },
+    {
+      "id": "tt0079834",
+      "type": "movie",
+      "name": "Neil Young & Crazy Horse: Rust Never Sleeps",
+      "poster": "https://image.tmdb.org/t/p/w780/jdObkSIZLMd7Oiq7mBMgnSqrqK7.jpg",
+      "posterShape": "poster",
+      "description": "Concert film covering Neil Young's October 22 1978 concert performance at the Cow Palace with nearly 20 songs (including two versions of \"Hey Hey, My My,\" his nod to the punk movement), acoustic and electric (with long-time companions Crazy Horse), dating back to his Buffalo Springfield days (\"I Am a Child\") and continuing through popular solo numbers like \"Cinnamon Girl\" and the extended \"Like a Hurricane.\"",
+      "releaseInfo": "1979",
+      "runtime": "117 min",
+      "genres": [
+        "Documentary",
+        "Music",
+        "Punk"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/j4sA1k5XiSUFkCegtnqsW4xKR0s.jpg",
+      "imdbRating": "7.8"
     },
     {
       "id": "tt0207685",

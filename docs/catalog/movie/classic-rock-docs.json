@@ -1,6 +1,23 @@
 {
   "metas": [
     {
+      "id": "tt40851760",
+      "type": "movie",
+      "name": "McCartney: The Hunt for the Lost Bass",
+      "poster": "https://image.tmdb.org/t/p/w780/uC6Zx4uy4C4eGcrJZk7iN34G8Uv.jpg",
+      "posterShape": "poster",
+      "description": "For over fifty years, the disappearance of Paul McCartney’s original Höfner bass has been one of rock ‘n’ roll’s enduring mysteries. The Hunt for the Lost Bass tells the extraordinary story of this iconic instrument, and the fan powered quest to find it.",
+      "releaseInfo": "2026",
+      "runtime": "90 min",
+      "genres": [
+        "Documentary",
+        "Music",
+        "Classic Rock"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/crnp58N370CY8LQxXIvCzOKBdmU.jpg",
+      "imdbRating": "8.3"
+    },
+    {
       "id": "tt44085358",
       "type": "movie",
       "name": "Neil Peart: No One's Disciple",
@@ -389,6 +406,40 @@
       "imdbRating": "6.0"
     },
     {
+      "id": "tt30973483",
+      "type": "movie",
+      "name": "Queen Rock Montreal",
+      "poster": "https://image.tmdb.org/t/p/w780/8IZOtAvF9lxLh25FNeJZxw94oD1.jpg",
+      "posterShape": "poster",
+      "description": "The iconic rock band Queen performs their best hits like \"We Will Rock You, \" \"Somebody To Love, \" and \"Bohemian Rhapsody\" in an unforgettable live concert.",
+      "releaseInfo": "2024",
+      "runtime": "95 min",
+      "genres": [
+        "Documentary",
+        "Music",
+        "Classic Rock"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/dCDAHct2uYXXzpmM3cIaRo6juEJ.jpg",
+      "imdbRating": "8.4"
+    },
+    {
+      "id": "tt27696645",
+      "type": "movie",
+      "name": "The Stones and Brian Jones",
+      "poster": "https://image.tmdb.org/t/p/w780/yiBLSBoyJdAS5dpVCNfYRPLFaGH.jpg",
+      "posterShape": "poster",
+      "description": "A look at the relationships and rivalries within The Rolling Stones in their formative years, as well as the creative musical genius of Brian Jones, key to the success of the band.",
+      "releaseInfo": "2023",
+      "runtime": "93 min",
+      "genres": [
+        "Documentary",
+        "Music",
+        "Classic Rock"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/5A2ESl91lz1J5b1MH0HrkIORK4B.jpg",
+      "imdbRating": "6.9"
+    },
+    {
       "id": "tt28486112",
       "type": "movie",
       "name": "Welcome to the Darkness",
@@ -640,6 +691,23 @@
       ],
       "background": "https://image.tmdb.org/t/p/w1280/1pTaAQjHclbOTVd0bNIYrzNxJb3.jpg",
       "imdbRating": "7.2"
+    },
+    {
+      "id": "tt10709114",
+      "type": "movie",
+      "name": "Immediate Family",
+      "poster": "https://image.tmdb.org/t/p/w780/ajTMBYqfQtuNgipWsDlkkukmCbY.jpg",
+      "posterShape": "poster",
+      "description": "If you listen to 1970s pop music, you’ve undoubtedly heard these guys play, but do you know their names? This documentary highlights five talented men—Danny, Leland, Rus, Waddy, and Steve— who shunned the spotlight for themselves yet enjoyed decades of success as session musicians on iconic tracks. Interviewees include their collaborators James Taylor, Don Henley, Lyle Lovett, Jackson Browne, Phil Collins, Carole King, Stevie Nicks, Keith Richards, Steve Jordan, and dozens more who take us behind the scenes on the songs that shaped an era.",
+      "releaseInfo": "2022",
+      "runtime": "102 min",
+      "genres": [
+        "Documentary",
+        "Music",
+        "Classic Rock"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/2BkN7HxQI4UoWC3f0r0t24NwDTM.jpg",
+      "imdbRating": "7.4"
     },
     {
       "id": "tt21053478",
@@ -1196,6 +1264,22 @@
       "imdbRating": "8.2"
     },
     {
+      "id": "tt12070948",
+      "type": "movie",
+      "name": "FOX Presents the iHeart Living Room Concert for America",
+      "poster": "https://image.tmdb.org/t/p/w780/nrqnaOkrBeXHLwVEWiI6PbYJIc0.jpg",
+      "posterShape": "poster",
+      "description": "Elton John hosts the one-hour benefit special in response to the COVID-19 pandemic; performers include Alicia Keys, Backstreet Boys, and Billie Eilish.",
+      "releaseInfo": "2020",
+      "runtime": "60 min",
+      "genres": [
+        "Documentary",
+        "Music",
+        "Classic Rock"
+      ],
+      "imdbRating": "4.0"
+    },
+    {
       "id": "tt10334456",
       "type": "movie",
       "name": "Once Were Brothers: Robbie Robertson and the Band",
@@ -1213,6 +1297,40 @@
       "imdbRating": "6.7"
     },
     {
+      "id": "tt6744988",
+      "type": "movie",
+      "name": "Street Survivors: The True Story of the Lynyrd Skynyrd Plane Crash",
+      "poster": "https://image.tmdb.org/t/p/w780/zYnQ9BYyi9mpEKqsP6TOA7YPwgX.jpg",
+      "posterShape": "poster",
+      "description": "The movie centers on drummer Artimus Pyle's experience as a band member in Lynyrd Skynyrd and the tragically fateful day their rented plane crashed in the swamps of Gillsburg, MS on October 20th, 1977 and took the lives of singer Ronnie Van Zant, guitarist Steve Gaines, his sister backup singer Cassie Gaines, road manager Dean Kilpatrick, and the two pilots. This movie focuses on the hours leading up to the event, the day of, and the aftermath.",
+      "releaseInfo": "2020",
+      "runtime": "92 min",
+      "genres": [
+        "Documentary",
+        "Music",
+        "Classic Rock"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/hMZzL7bO601QDVtRYGxNzP9Eteu.jpg",
+      "imdbRating": "4.7"
+    },
+    {
+      "id": "tt11464046",
+      "type": "movie",
+      "name": "Days of Rage: The Rolling Stones' Road to Altamont",
+      "poster": "https://image.tmdb.org/t/p/w780/jwnTkfu9GPS9bUnkG92OZHhuE4D.jpg",
+      "posterShape": "poster",
+      "description": "The decade that began with peace and love was shattered in the late 1960s amidst riots, assassinations and a war that wouldn't end. The Rolling Stones became the voice of this new era, which came to a horrific end at the Altamont festival.",
+      "releaseInfo": "2020",
+      "runtime": "107 min",
+      "genres": [
+        "Documentary",
+        "Music",
+        "Classic Rock"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/gLBbY76XevMiQL29DdCbWkdrt4W.jpg",
+      "imdbRating": "7.4"
+    },
+    {
       "id": "tt10229846",
       "type": "movie",
       "name": "Rolling Stone: Life and Death of Brian Jones",
@@ -1228,6 +1346,23 @@
       ],
       "background": "https://image.tmdb.org/t/p/w1280/xMUdPUMBpWiXyT0eozZb1U52oiH.jpg",
       "imdbRating": "7.0"
+    },
+    {
+      "id": "tt11091348",
+      "type": "movie",
+      "name": "Elton John: Uncensored",
+      "poster": "https://image.tmdb.org/t/p/w780/6szeeqtNwSqcnzF46S1BNVWlf6l.jpg",
+      "posterShape": "poster",
+      "description": "Elton John opens up about his childhood, stardom and battles with addiction in an exclusive interview with Graham Norton.",
+      "releaseInfo": "2019",
+      "runtime": "58 min",
+      "genres": [
+        "Documentary",
+        "Music",
+        "Classic Rock"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/6OYHji7XRJ0OGfbAYFt49EKzcEf.jpg",
+      "imdbRating": "7.1"
     },
     {
       "id": "tt10687158",
@@ -1281,6 +1416,22 @@
       "imdbRating": "6.1"
     },
     {
+      "id": "tt10995916",
+      "type": "movie",
+      "name": "Fleetwood Mac's Songbird: Christine McVie",
+      "poster": "https://image.tmdb.org/t/p/w780/n0g0QEGgpK6IGj19FtUZwQskg7M.jpg",
+      "posterShape": "poster",
+      "description": "Christine McVie is undoubtedly the longest-serving female band member of any of the enduring rock ‘n’ roll acts that emerged from the 1960s. While she has never fronted Fleetwood Mac, preferring to align herself with ‘the boys’ in the rhythm section whom she first joined 50 years ago, Christine is their most successful singer-songwriter. Her hits include ‘Over My Head’, ‘Don’t Stop’ and ‘Everywhere’.  After massive global success in both the late 1970s and mid-1980s, Christine left the band in the late 1990s, quitting California and living in semi-retirement in Kent, only to rejoin the band in 2013. In this 90-minute film, this most English of singers finally gets to take centre-stage and tell both her story and the saga of Fleetwood Mac from her point of view.",
+      "releaseInfo": "2019",
+      "runtime": "88 min",
+      "genres": [
+        "Documentary",
+        "Music",
+        "Classic Rock"
+      ],
+      "imdbRating": "7.8"
+    },
+    {
       "id": "tt10011448",
       "type": "movie",
       "name": "Linda Ronstadt: The Sound of My Voice",
@@ -1296,6 +1447,39 @@
       ],
       "background": "https://image.tmdb.org/t/p/w1280/ciRQXaaxWkEOL6HE3zB4ILkYKCF.jpg",
       "imdbRating": "7.6"
+    },
+    {
+      "id": "tt9015306",
+      "type": "movie",
+      "name": "ZZ Top: That Little Ol' Band from Texas",
+      "poster": "https://image.tmdb.org/t/p/w780/jN4lG0lLre6wWECSmW0x1hHgZgt.jpg",
+      "posterShape": "poster",
+      "description": "The story of how three oddball teenage bluesmen became one of the biggest, most beloved bands on the planet.",
+      "releaseInfo": "2019",
+      "runtime": "91 min",
+      "genres": [
+        "Documentary",
+        "Music",
+        "Classic Rock"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/jgejC6PdKSCaiYn2JTt2TAHUVKr.jpg",
+      "imdbRating": "7.5"
+    },
+    {
+      "id": "tt14540270",
+      "type": "movie",
+      "name": "The Beatles: In the Life",
+      "poster": "https://image.tmdb.org/t/p/w780/jnLgUkyiuifH94L6sXIaJAqqBjE.jpg",
+      "posterShape": "poster",
+      "description": "Shooting onto the scene in the early 60’s, The Beatles took the world by storm. Their fame was new, massive and continues to this day. They are still the best-selling band of all time 183 million sales world wide. Witness the whole story, from the days in Hamburg to the studio years. This is the life of the Beatles.",
+      "releaseInfo": "2019",
+      "runtime": "103 min",
+      "genres": [
+        "Documentary",
+        "Music",
+        "Classic Rock"
+      ],
+      "imdbRating": "7.8"
     },
     {
       "id": "tt5884004",
@@ -1332,21 +1516,38 @@
       "imdbRating": "6.4"
     },
     {
-      "id": "tt9577852",
+      "id": "tt5032364",
       "type": "movie",
-      "name": "Rolling Thunder Revue: A Bob Dylan Story by Martin Scorsese",
-      "poster": "https://image.tmdb.org/t/p/w780/ixxELBgYj9OH8hz0XCrcZOJpIx9.jpg",
+      "name": "The Quiet One",
+      "poster": "https://image.tmdb.org/t/p/w780/hIVxHWKldrHB5Z1GzqAYJTmEmxU.jpg",
       "posterShape": "poster",
-      "description": "Part documentary, part concert film, part fever dream, this film captures the troubled spirit of America in 1975 and the joyous music that Dylan performed during the fall of that year.",
+      "description": "Featuring never-before-seen home movies and photographs, musician Bill Wyman opens up his vast personal archives to share stories and memories of his three-decade stint as bassist of the Rolling Stones.",
       "releaseInfo": "2019",
-      "runtime": "142 min",
+      "runtime": "97 min",
       "genres": [
         "Documentary",
         "Music",
         "Classic Rock"
       ],
-      "background": "https://image.tmdb.org/t/p/w1280/4MYtYsSGzQUUYQqHGWBNeEkT91s.jpg",
-      "imdbRating": "7.0"
+      "background": "https://image.tmdb.org/t/p/w1280/vXuGbT16sVi26VJaa2E7lQHER0x.jpg",
+      "imdbRating": "6.8"
+    },
+    {
+      "id": "tt15048772",
+      "type": "movie",
+      "name": "Elton John: Becoming Rocketman",
+      "poster": "https://image.tmdb.org/t/p/w780/j1d7evzv9C5bPKyj97SPGbWPJ53.jpg",
+      "posterShape": "poster",
+      "description": "2019 is the year of Elton John, with the release of the box office hit 'Rocketman', his autobiography and his final farewell tour all eyes are on the musical genius. We take a glimpse into his incredible journey and uncover the truth behind the turbulent and eccentric life of a superstar. Find out what it took for this shy young man to become 'Rocketman'.",
+      "releaseInfo": "2019",
+      "runtime": "58 min",
+      "genres": [
+        "Documentary",
+        "Music",
+        "Classic Rock"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/iwuGJCp9NWkt5R2z3OXDNttckYx.jpg",
+      "imdbRating": "6.5"
     },
     {
       "id": "tt5666750",
@@ -1380,6 +1581,23 @@
       ],
       "background": "https://image.tmdb.org/t/p/w1280/kww2VIZp1pxmCzuo714zQ2wI87Y.jpg",
       "imdbRating": "7.6"
+    },
+    {
+      "id": "tt7808498",
+      "type": "movie",
+      "name": "Creem: America's Only Rock 'n' Roll Magazine",
+      "poster": "https://image.tmdb.org/t/p/w780/1rRqgQTcUClCju0PdFqZmvA4ipd.jpg",
+      "posterShape": "poster",
+      "description": "Explores the seminal music magazine from its 1969 launch in Detroit to the untimely death of its publisher Barry Kramer in 1981.",
+      "releaseInfo": "2019",
+      "runtime": "75 min",
+      "genres": [
+        "Documentary",
+        "Music",
+        "Classic Rock"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/domE8foNaO1RJUPBVapkL9cF8DA.jpg",
+      "imdbRating": "6.7"
     },
     {
       "id": "tt9144476",
@@ -1433,6 +1651,23 @@
       "imdbRating": "7.8"
     },
     {
+      "id": "tt6775942",
+      "type": "movie",
+      "name": "The King",
+      "poster": "https://image.tmdb.org/t/p/w780/Tgv0kLi8obD2bfiGyErp4BJMeH.jpg",
+      "posterShape": "poster",
+      "description": "A cultural portrait of the American dream at a critical time in the nation’s history. Set against the 2016 American election, The King takes a musical road trip across the country in Elvis Presley's 1963 Rolls Royce.",
+      "releaseInfo": "2018",
+      "runtime": "107 min",
+      "genres": [
+        "Documentary",
+        "Music",
+        "Classic Rock"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/8gEy8zrnaubHdSn2f7sdmdiNrkg.jpg",
+      "imdbRating": "6.3"
+    },
+    {
       "id": "tt8068670",
       "type": "series",
       "name": "Breaking the Band",
@@ -1447,6 +1682,40 @@
       ],
       "background": "https://image.tmdb.org/t/p/w1280/gmekCcoKxkyDOPeWB7uY0kWCq8T.jpg",
       "imdbRating": "5.0"
+    },
+    {
+      "id": "tt9477000",
+      "type": "movie",
+      "name": "Jeff Beck: Still on the Run",
+      "poster": "https://image.tmdb.org/t/p/w780/3z1uuz5HcbQnb2vttnEYSgwsrSg.jpg",
+      "posterShape": "poster",
+      "description": "The story of English rock guitarist Jeff Beck from his earliest days learning to strum on homemade guitars in Wallington, Surrey, to his teenage friendship with Jimmy Page and mastering his craft with guitar legends that influenced his incredible career.",
+      "releaseInfo": "2018",
+      "runtime": "85 min",
+      "genres": [
+        "Documentary",
+        "Music",
+        "Classic Rock"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/u6opaBX7InBua8j20r5PJCkL12L.jpg",
+      "imdbRating": "7.1"
+    },
+    {
+      "id": "tt8264268",
+      "type": "movie",
+      "name": "Elton John: I'm Still Standing - A Grammy Salute",
+      "poster": "https://image.tmdb.org/t/p/w780/6dyNvikni2kltUjtNjJ0q6w1JdZ.jpg",
+      "posterShape": "poster",
+      "description": "Elton John: I'm Still Standing – A Grammy Salute. Taped at the Theater at Madison Square Garden shortly after the 2018 Grammys and broadcast on CBS this week, the evening saw Elton John and husband David Furnish seated front row for a tribute to the works of Elton John and Bernie Taupin from Ed Sheeran, Kesha, Sam Smith, Shawn Mendes & SZA, Little Big Town and more. The whole thing ended with a stellar performance from the man himself, with the majority of his all-star guests joining him for a rollicking \"I'm Still Standing.\"",
+      "releaseInfo": "2018",
+      "runtime": "120 min",
+      "genres": [
+        "Documentary",
+        "Music",
+        "Classic Rock"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/mamkWg6K5hpsloTKh67uGKMLcRm.jpg",
+      "imdbRating": "8.0"
     },
     {
       "id": "tt6498644",
@@ -1481,6 +1750,23 @@
       ],
       "background": "https://image.tmdb.org/t/p/w1280/hGOzmChV7cq4q7HdDtJOJCJj86B.jpg",
       "imdbRating": "7.6"
+    },
+    {
+      "id": "tt7586752",
+      "type": "movie",
+      "name": "Tower of Song: A Memorial Tribute to Leonard Cohen",
+      "poster": "https://image.tmdb.org/t/p/w780/oRmEcpFZHZTt6yqUoNQUEagDRYC.jpg",
+      "posterShape": "poster",
+      "description": "A star-studded musical celebration in tribute to Leonard Cohen—the Montreal-born writer, composer, performer and man of letters—that took place in November 2017 at the Bell Centre.",
+      "releaseInfo": "2018",
+      "runtime": "90 min",
+      "genres": [
+        "Documentary",
+        "Music",
+        "Classic Rock"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/3ZbJ4wsgHvooDxHUmhhMuaZCLk0.jpg",
+      "imdbRating": "10.0"
     },
     {
       "id": "tt8267204",
@@ -1532,6 +1818,23 @@
       ],
       "background": "https://image.tmdb.org/t/p/w1280/A2Ef5yQdOeoAyGrnkymniUFsCf6.jpg",
       "imdbRating": "7.9"
+    },
+    {
+      "id": "tt6487050",
+      "type": "movie",
+      "name": "May It Last: A Portrait of the Avett Brothers",
+      "poster": "https://image.tmdb.org/t/p/w780/jZPjeGsGyIXgkQ9Pll9JyDQv8VZ.jpg",
+      "posterShape": "poster",
+      "description": "An intimate portrait of the acclaimed North Carolina band The Avett Brothers, charting their decade-and-a- half rise, while chronicling their present-day collaboration with famed producer Rick Rubin on the multi-Grammy-nominated album “True Sadness.”",
+      "releaseInfo": "2017",
+      "runtime": "107 min",
+      "genres": [
+        "Documentary",
+        "Music",
+        "Classic Rock"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/fTM8wDGgbre3eyfn6YRkTg5cyOC.jpg",
+      "imdbRating": "7.7"
     },
     {
       "id": "tt3982826",
@@ -1956,6 +2259,23 @@
       "imdbRating": "5.0"
     },
     {
+      "id": "tt3181314",
+      "type": "movie",
+      "name": "Jimi Hendrix: Hear My Train a Comin'",
+      "poster": "https://image.tmdb.org/t/p/w780/8dMu2RFdYEBb8Ob136Jq9Z8tQ0w.jpg",
+      "posterShape": "poster",
+      "description": "An account of the short life of genius musician Jimi Hendrix (1942-70), probably the most talented and influential guitarist of the twentieth century: his humble beginnings in Seattle, his time in New York, his rise to fame in swinging London… Live fast, love hard, die young.",
+      "releaseInfo": "2013",
+      "runtime": "90 min",
+      "genres": [
+        "Documentary",
+        "Music",
+        "Classic Rock"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/1t11FBDabS7hVWjdfg0ttCiFaiF.jpg",
+      "imdbRating": "7.4"
+    },
+    {
       "id": "tt3233548",
       "type": "movie",
       "name": "The Rolling Stones: Sweet Summer Sun - Hyde Park Live",
@@ -2075,6 +2395,23 @@
       "imdbRating": "7.5"
     },
     {
+      "id": "tt0079814",
+      "type": "movie",
+      "name": "Rockshow",
+      "poster": "https://image.tmdb.org/t/p/w780/fxCi1Mv7N6NSdljQoV5ljHnGXpH.jpg",
+      "posterShape": "poster",
+      "description": "During their 1976 world tour, Paul McCartney and Wings gave a magnificent performance to 67,000 fans at the Kingdome, in Seattle, Washington. The concert features 30 songs of the Beatles and Wings.",
+      "releaseInfo": "2013",
+      "runtime": "129 min",
+      "genres": [
+        "Documentary",
+        "Music",
+        "Classic Rock"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/pzJVg003XWyVbFwoNYBBJdV5Y3A.jpg",
+      "imdbRating": "8.1"
+    },
+    {
       "id": "tt1308756",
       "type": "movie",
       "name": "Don’t Stop Believin’: Everyman’s Journey",
@@ -2123,6 +2460,23 @@
       ],
       "background": "https://image.tmdb.org/t/p/w1280/5p1MPUS4RLmdAFRH3DsTRrSYEbT.jpg",
       "imdbRating": "7.5"
+    },
+    {
+      "id": "tt2370140",
+      "type": "movie",
+      "name": "Crossfire Hurricane",
+      "poster": "https://image.tmdb.org/t/p/w780/7rGmjuPjtddvMcfrvaRuxIzCUew.jpg",
+      "posterShape": "poster",
+      "description": "This film is released as part of the ongoing 50th anniversary celebration of the Rolling Stones. It tells the story of the Stones' unparalleled journey from blues obsessed teens in the early 60s to their undisputed status as rock royalty. All of the Stones have been newly interviewed and their words form the narrative arc that links together archive footage of performances, news coverage, and interviews, much of it previously unseen. Taking its title from a lyric in \"Jumpin' Jack Flash,\" this film gives the viewer an intimate insight into exactly what it's like to be part of the Rolling Stones as they overcome denunciation, drugs, dissensions, and death to become the definitive survivors. Over a year in the making and produced with the full cooperation and involvement of the Stones, this film is and will remain the definitive story of the world's greatest rock 'n' roll band",
+      "releaseInfo": "2012",
+      "runtime": "111 min",
+      "genres": [
+        "Documentary",
+        "Music",
+        "Classic Rock"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/aYjgRcI7eRxdmLqPhucxJV5VIm7.jpg",
+      "imdbRating": "7.1"
     },
     {
       "id": "tt2471626",
@@ -2208,6 +2562,23 @@
       ],
       "background": "https://image.tmdb.org/t/p/w1280/vsty7Y0qUJR3VQfqe5CBZlDuoHX.jpg",
       "imdbRating": "5.1"
+    },
+    {
+      "id": "tt3087124",
+      "type": "movie",
+      "name": "Doors: Mr. Mojo Risin' - The Story of L.A. Woman",
+      "poster": "https://image.tmdb.org/t/p/w780/mUc8eGMJC2vQ5YIWG3rnbvdro0C.jpg",
+      "posterShape": "poster",
+      "description": "“Mr Mojo Risin’” is the story of the making of the Doors’ last album with Jim Morrison “L.A. Woman”. 2011 is the 40th anniversary both of the album’s release and of the death of Jim Morrison and this programme goes into detail of how the album came about, its recording and what was happening to the band at the time. The story is told through new interviews with the three surviving Doors: Ray Manzarek, Robbie Krieger and John Densmore plus contributions from Jac Holzman, founder of their label Elektra Records, Bill Siddons, who was their manager, Bruce Botnick, engineer and co-producer of the album and others associated with the Doors at this time. The show includes archive footage of the Doors performing both live and in the studio, classic photographs and new musical demonstrations from the Doors.",
+      "releaseInfo": "2012",
+      "runtime": "94 min",
+      "genres": [
+        "Documentary",
+        "Music",
+        "Classic Rock"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/vRO8Phmk5QcNK3yf8J4qWVRmZcS.jpg",
+      "imdbRating": "6.1"
     },
     {
       "id": "tt10085000",
@@ -2394,6 +2765,23 @@
       "imdbRating": "6.3"
     },
     {
+      "id": "tt3314154",
+      "type": "movie",
+      "name": "Leonard Cohen: Bird on a Wire",
+      "poster": "https://image.tmdb.org/t/p/w780/8Bzrd4KEPGAcPLMTHfJ5VTKNn3O.jpg",
+      "posterShape": "poster",
+      "description": "Celebrated filmmaker Tony Palmer follows Leonard Cohen on his 1972 European tour. The film, after extensive re-editing from its initial version, opened in London in 1974. It was shown on German television, but it disappeared for decades and was considered a lost film. Its original version, restored by the director, was released on DVD in 2010 and had its first theatrical release in 2017.",
+      "releaseInfo": "2010",
+      "runtime": "106 min",
+      "genres": [
+        "Documentary",
+        "Music",
+        "Classic Rock"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/oMLuVF3QqUYTUECSPwn8wv6duFa.jpg",
+      "imdbRating": "5.6"
+    },
+    {
       "id": "tt1545103",
       "type": "movie",
       "name": "Rush: Beyond the Lighted Stage",
@@ -2409,6 +2797,23 @@
       ],
       "background": "https://image.tmdb.org/t/p/w1280/eUZHhgwv0zwR3LPadxeBNfh7VCw.jpg",
       "imdbRating": "7.5"
+    },
+    {
+      "id": "tt1609157",
+      "type": "movie",
+      "name": "The Rolling Stones: Stones in Exile",
+      "poster": "https://image.tmdb.org/t/p/w780/ft7LyF4TXKt2a1aIbFTYr91liBn.jpg",
+      "posterShape": "poster",
+      "description": "In 1971, to get breathing room from tax and management problems, the Stones go to France. Jimmy Miller parks a recording truck next to Keith Richards and Anita Pallenberg's Blue Coast villa, and by June the band is in the basement a few days at a time. Upstairs, heroin, bourbon, and visitors are everywhere. The Stones, other musicians and crew, Pallenberg, and photographer Dominique Tarle, plus old clips and photos and contemporary footage, provide commentary on the album's haphazard construction. By September, the villa is empty; Richards and Jagger complete production in LA. \"Exile on Main Street\" is released to mediocre reviews that soon give way to lionization.",
+      "releaseInfo": "2010",
+      "runtime": "61 min",
+      "genres": [
+        "Documentary",
+        "Music",
+        "Classic Rock"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/cwZX0jbgA5UkTqwYMsFNfPiiSv1.jpg",
+      "imdbRating": "6.6"
     },
     {
       "id": "tt1333667",
@@ -2729,6 +3134,23 @@
       "imdbRating": "7.5"
     },
     {
+      "id": "tt0994889",
+      "type": "movie",
+      "name": "Paul McCartney: The Space Within Us",
+      "poster": "https://image.tmdb.org/t/p/w780/lsHJay0gea7zEb22oC8CqPnAyaG.jpg",
+      "posterShape": "poster",
+      "description": "In 2005, rock legend Paul McCartney crossed America with his record-breaking, sold-out US tour. Better than a front-row seat, this feature-length concert film takes viewers onto this stage and beyond, capturing Paul's out-of-this-world performance.",
+      "releaseInfo": "2006",
+      "runtime": "115 min",
+      "genres": [
+        "Documentary",
+        "Music",
+        "Classic Rock"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/zcepmiDZUrAQA3KkCe6gDdDaKls.jpg",
+      "imdbRating": "7.5"
+    },
+    {
       "id": "tt0800081",
       "type": "movie",
       "name": "I Trust You to Kill Me",
@@ -2814,6 +3236,23 @@
       "imdbRating": "8.5"
     },
     {
+      "id": "tt0413108",
+      "type": "movie",
+      "name": "Peter Gabriel: Growing Up Live",
+      "poster": "https://image.tmdb.org/t/p/w780/tNxG9lyy0AW5NMCNsGQ18CCawlD.jpg",
+      "posterShape": "poster",
+      "description": "Peter Gabriel: Growing Up Live presents the complete 2003 Milan concert from Peter Gabriel's tour based around the album Up, featuring 17 tracks across 134 minutes. Literally central to a memorable show is a revolving stage that sees Gabriel going for a cycle ride in an exuberant \"Solsbury Hill,\" performing \"Growing Up\" inside a Zorb ball, and delivering a gravity-defying sky walk in \"Downside Up\" with daughter Melanie. Accompanied by regular sidemen David Rhodes (guitar) and Tony Levin (bass), Gabriel is joined by the legendary Blind Boys of Alabama for the spine-tingling \"Sky Blue,\" throughout mixing recent tracks like the abrasive \"Darkness\" and \"The Barry Williams Show\" with established crowd pleasers such as \"Red Rain,\" \"In Your Eyes,\" and \"Sledgehammer.",
+      "releaseInfo": "2003",
+      "runtime": "134 min",
+      "genres": [
+        "Documentary",
+        "Music",
+        "Classic Rock"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/ybOvQDqcZPsHHkn3ywGiWnzIOrZ.jpg",
+      "imdbRating": "8.0"
+    },
+    {
       "id": "tt0390441",
       "type": "movie",
       "name": "Rush in Rio",
@@ -2829,6 +3268,23 @@
       ],
       "background": "https://image.tmdb.org/t/p/w1280/gXLxJI3zOQiGkRNUylWlzaXRDkw.jpg",
       "imdbRating": "8.3"
+    },
+    {
+      "id": "tt0347751",
+      "type": "movie",
+      "name": "Paul McCartney: Back in the U.S.",
+      "poster": "https://image.tmdb.org/t/p/w780/2f3T573FG88cs3eIbBcaHE0IzaR.jpg",
+      "posterShape": "poster",
+      "description": "In 2002, a 60-year old McCartney refocused the attention on his musicianship, staging a massive live concert in Cleveland, Ohio. The superstar, who went on to form the popular rock group Wings and had several hit records as a solo artist, performs a track list that covers all three phases of his long and prolific career, including the hits \"Eleanor Rigby,\" \"Live And Let Die,\" \"Blackbird,\" \"The Long And Winding Road,\" and \"Mother Nature's Son.\" In addition to the 30 tunes that McCartney enthusiastically performs, seemingly immune to the ravages of time and aging, BACK IN THE U.S.A LIVE also includes candid behind-the-scenes footage of the rocker backstage and on the road.",
+      "releaseInfo": "2002",
+      "runtime": "121 min",
+      "genres": [
+        "Documentary",
+        "Music",
+        "Classic Rock"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/u6nJo8Pun7aGQjobDiuhDNqnGd2.jpg",
+      "imdbRating": "6.8"
     },
     {
       "id": "tt0923636",
@@ -2848,6 +3304,22 @@
       "imdbRating": "6.6"
     },
     {
+      "id": "tt0237343",
+      "type": "movie",
+      "name": "It's Black Entertainment",
+      "poster": "https://image.tmdb.org/t/p/w780/7PhMfopjGaVcTDbNUM7F86o1fsr.jpg",
+      "posterShape": "poster",
+      "description": "A star-studded tribute (from the creators of That's Entertainment) to the contributions of Afro-Americans in film over the last century. Vanessa Williams traces the struggles and triumphs of the superstars of music and film. Among the many artists featured are: Whitney Houston, Ella Fitzgerald, Sammy Davis Jr., Diana Ross, Michael Jackson, Cab Calloway, Bill \"Bojangles\" Robinson, Ella Fitzgerald, and Little Richard, Also included are today's contemporary superstars: Snoop Dogg, Ice T, Quincy Jones, Spike Lee, Russell Simmons, and many, more! 80 minutes plus DVD bonus features.",
+      "releaseInfo": "2002",
+      "runtime": "80 min",
+      "genres": [
+        "Documentary",
+        "Music",
+        "Classic Rock"
+      ],
+      "imdbRating": "8.7"
+    },
+    {
       "id": "tt0829122",
       "type": "movie",
       "name": "Elton John - Goodbye Yellow Brick Road",
@@ -2865,6 +3337,23 @@
       "imdbRating": "6.9"
     },
     {
+      "id": "tt0321744",
+      "type": "movie",
+      "name": "Come Together: A Night for John Lennon's Words & Music",
+      "poster": "https://image.tmdb.org/t/p/w780/pOsYHtHddxv62WqbJHhGrTNp5Kn.jpg",
+      "posterShape": "poster",
+      "description": "Come Together: A Night for John Lennon's Words and Music was a 2001 television program tribute to John Lennon. It aired on TNT and The WB.  Originally planned to celebrate Lennon's accomplishments, the concert took place on October 2, 2001 at Radio City Music Hall in New York City, shortly after 9/11, and exactly one week before the 61st anniversary of Lennon's birth. It was dedicated to \"New York City and its people\" and presented as a fundraiser for the Robin Hood Foundation.[1]  The concert was named for Lennon's Beatles song, \"Come Together\".",
+      "releaseInfo": "2001",
+      "runtime": "90 min",
+      "genres": [
+        "Documentary",
+        "Music",
+        "Classic Rock"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/kOfa60LUu7TcPBQ3tODkjk3bFlj.jpg",
+      "imdbRating": "6.5"
+    },
+    {
       "id": "tt0243925",
       "type": "movie",
       "name": "Gimme Some Truth: The Making of John Lennon's Imagine Album",
@@ -2880,6 +3369,22 @@
       ],
       "background": "https://image.tmdb.org/t/p/w1280/9QepnwKGkvyT0RFYJuuftzYgwOx.jpg",
       "imdbRating": "7.5"
+    },
+    {
+      "id": "tt0270442",
+      "type": "movie",
+      "name": "John & Yoko's Year of Peace",
+      "poster": "https://image.tmdb.org/t/p/w780/ID04hHAb0pdle1oN43UjR4M7q8.jpg",
+      "posterShape": "poster",
+      "description": "The year: 1969. Headlines blare war and civil unrest while John Lennon and Yoko Ono are in love. The eccentic rock 'n' roll couple has just gotten married, and more than happy to be together, they want to change the world. Lying in a hotel bed surrounded by journalists, they announce their mission for peace and invite the rest of the world to symbolically climb into bed with them and share their dream. People call them silly, naive, even ridiculous, yet one famous couple's bed-in spread new hope that there really could be an end to war, hate and violence. Here is rare footage from that amazing time, including footage from John and Yoko's wedding, the infamous bedside confrontation between John and conservative cartoonist Al Capp, Lennon debating media expert Marshall McLuhan, and meeting Canadian Prime Minister Pierre Trudeau. Now twenty years after Lennon's murder, Yoko and others involved in the peace mission reflect on the events of that magical, mystical year.",
+      "releaseInfo": "2000",
+      "runtime": "52 min",
+      "genres": [
+        "Documentary",
+        "Music",
+        "Classic Rock"
+      ],
+      "imdbRating": "6.5"
     },
     {
       "id": "tt0219142",
@@ -2929,6 +3434,23 @@
       ],
       "background": "https://image.tmdb.org/t/p/w1280/1yWZGUsACagWTgIPowrIAj8xMuk.jpg",
       "imdbRating": "6.2"
+    },
+    {
+      "id": "tt0180965",
+      "type": "movie",
+      "name": "The Rolling Stones: Bridges to Babylon Tour '97-98",
+      "poster": "https://image.tmdb.org/t/p/w780/aUgGOXLOSKd3tosw6JGp01uVH5n.jpg",
+      "posterShape": "poster",
+      "description": "Bridges to Babylon Tour '97–98 by The Rolling Stones is a video from a concert which was filmed in St. Louis, Missouri 12-December-1997 during the Bridges to Babylon Tour 1997-1998. It features a single, massive oval video screen behind the band on the main stage, a stripped-down set on a small stage in the middle of the arena floor, and guest appearances by Dave Matthews (\"Wild Horses\") and Josh Redman.",
+      "releaseInfo": "1997",
+      "runtime": "120 min",
+      "genres": [
+        "Documentary",
+        "Music",
+        "Classic Rock"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/c3bc4AmGqG1LsKbLXJGokTfUBog.jpg",
+      "imdbRating": "7.4"
     },
     {
       "id": "tt0310013",
@@ -3097,6 +3619,39 @@
       "imdbRating": "9.2"
     },
     {
+      "id": "tt0174445",
+      "type": "movie",
+      "name": "The Rolling Stones: 25x5 - The Continuing Adventures of The Rolling Stones",
+      "poster": "https://image.tmdb.org/t/p/w780/hlYRTOVRVGEbL3AEFhYzlttKb7D.jpg",
+      "posterShape": "poster",
+      "description": "The Rolling Stones emerged in the summer of 1963 as the so-called \"bad boys\" antidote to the Beatles, a characterization that became one of the foundations of modern rock 'n' roll. In the 25 years that followed, the Stones have succeeded in outraging, mystifying, confusing yet always inspiring their fans. 25 X 5: The Continuing Adventures of The Rolling Stones is the first time that the Stones have gone on camera to tell their own story. Over two hours of devastatingly frank narratives by Mick Jagger, Keith Richards, Charlie Watts, Bill Wyman, and Ron Wood are underscored by rare interview segments with Brian Jones and Mick Taylor, and rare and never-before-seen archival film, video, and newsreel footage.",
+      "releaseInfo": "1993",
+      "runtime": "130 min",
+      "genres": [
+        "Documentary",
+        "Music",
+        "Classic Rock"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/1ZpaNEBH41IPxBFH0sjpZOaIVkN.jpg",
+      "imdbRating": "7.5"
+    },
+    {
+      "id": "tt1609165",
+      "type": "movie",
+      "name": "The Velvet Underground - Velvet Redux Live MCMXCIII",
+      "poster": "https://image.tmdb.org/t/p/w780/eVnWDBPSyrSVwJwQLbCz2FIIm2H.jpg",
+      "posterShape": "poster",
+      "description": "Seminal experimental rock band The Velvet Underground, who initially disbanded in 1970, perform a set at L'Olympia in Paris, France in June 1993, during their brief reunion tour. The set features original founding members Lou Reed, John Cale, Sterling Morrison and Maureen Tucker performing 15 songs, including a new, previously unreleased track, \"Coyote.\"",
+      "releaseInfo": "1993",
+      "runtime": "92 min",
+      "genres": [
+        "Documentary",
+        "Music",
+        "Classic Rock"
+      ],
+      "imdbRating": "8.0"
+    },
+    {
       "id": "tt0306922",
       "type": "movie",
       "name": "Guns N' Roses: Makin' F@*!ing Videos Part I - Don't Cry",
@@ -3163,6 +3718,23 @@
       "imdbRating": "7.1"
     },
     {
+      "id": "tt0095360",
+      "type": "movie",
+      "name": "Imagine: John Lennon",
+      "poster": "https://image.tmdb.org/t/p/w780/whND9JruVi676VN1hZzV28XEvNE.jpg",
+      "posterShape": "poster",
+      "description": "The biography of former Beatle, John Lennon—narrated by Lennon himself—with extensive material from Yoko Ono's personal collection, previously unseen footage from Lennon's private archives, and interviews with David Bowie, his first wife Cynthia, second wife Yoko Ono and sons Julian and Sean.",
+      "releaseInfo": "1988",
+      "runtime": "100 min",
+      "genres": [
+        "Documentary",
+        "Music",
+        "Classic Rock"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/uwNyHyxfk1a8hfw58I3MFCB4ya1.jpg",
+      "imdbRating": "7.0"
+    },
+    {
       "id": "tt5656122",
       "type": "movie",
       "name": "Prince: Lovesexy Live",
@@ -3211,6 +3783,23 @@
         "Classic Rock"
       ],
       "imdbRating": "5.2"
+    },
+    {
+      "id": "tt0260768",
+      "type": "movie",
+      "name": "The Real Buddy Holly Story",
+      "poster": "https://image.tmdb.org/t/p/w780/5snXyPLAzgTGfWctJAjC5pO3jun.jpg",
+      "posterShape": "poster",
+      "description": "This is the definitive video biography of rock 'n roll legend Buddy Holly. Produced and hosted by former Beatle, Paul McCartney, includes interviews with Keith Richards, Phil and Don Everly, Sonny Curtis, Jerry Allison, Holly's family, and McCartney himself, among others.",
+      "releaseInfo": "1985",
+      "runtime": "86 min",
+      "genres": [
+        "Documentary",
+        "Music",
+        "Classic Rock"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/wF34jzrxkkBIqZGN0HuJHeRR7a0.jpg",
+      "imdbRating": "6.3"
     },
     {
       "id": "tt0089035",
@@ -3264,6 +3853,23 @@
       "imdbRating": "7.5"
     },
     {
+      "id": "tt0495236",
+      "type": "movie",
+      "name": "The Police: Around The World",
+      "poster": "https://image.tmdb.org/t/p/w780/3kno9bcIlVnjv7Zgb634axg6XxG.jpg",
+      "posterShape": "poster",
+      "description": "During 1977-1981 The Police went on a truly global tour which took them through more than a dozen countries, including many that most Rock bands of the period would fail to reach. This film features highlights of the tour which include stops in Japan, Hong Kong, India, Egypt, Australia and Latin America.  Recorded live during the tour are 16 songs featured in this film, However this is more than a video rock concert - including many humourous off-stage shots that show the band sampling some of the sights, customs and culture of the lands their fans call home",
+      "releaseInfo": "1982",
+      "runtime": "76 min",
+      "genres": [
+        "Documentary",
+        "Music",
+        "Classic Rock"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/g5qD2kpDECpmExEHBpam3z1Z2QV.jpg",
+      "imdbRating": "8.3"
+    },
+    {
       "id": "tt0083193",
       "type": "movie",
       "name": "This Is Elvis",
@@ -3313,6 +3919,23 @@
       ],
       "background": "https://image.tmdb.org/t/p/w1280/8aBVwfbUvIJKgOzi1Q1Qor9DebG.jpg",
       "imdbRating": "7.3"
+    },
+    {
+      "id": "tt0357315",
+      "type": "movie",
+      "name": "Paul McCartney & Wings: Wings Over the World",
+      "poster": "https://image.tmdb.org/t/p/w780/ySyXnSARZcqe9h5FrzPXkMkaUeU.jpg",
+      "posterShape": "poster",
+      "description": "A television documentary film featuring the rock band Wings. It consists of concert performances from their acclaimed 1975–76 world tour, together with behind-the-scenes footage. Also included is a short excerpt of Wings rehearsing at London's Institute of Contemporary Arts before their 1972 UK university tour.",
+      "releaseInfo": "1979",
+      "runtime": "73 min",
+      "genres": [
+        "Documentary",
+        "Music",
+        "Classic Rock"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/8bMo2ZDbILkZi8gyiZrPzd5GTsr.jpg",
+      "imdbRating": "9.0"
     },
     {
       "id": "tt0077838",
@@ -3366,6 +3989,23 @@
       "imdbRating": "7.5"
     },
     {
+      "id": "tt0073193",
+      "type": "movie",
+      "name": "Janis",
+      "poster": "https://image.tmdb.org/t/p/w780/oDlPlPjt8AgzydPdVKjWWeXleMW.jpg",
+      "posterShape": "poster",
+      "description": "Released just a few years after her death, this forms a picture of who Janis was through interviews and performance clips.",
+      "releaseInfo": "1974",
+      "runtime": "96 min",
+      "genres": [
+        "Documentary",
+        "Music",
+        "Classic Rock"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/9O5FiACeyUnzPTIEUTNHbKfi7pu.jpg",
+      "imdbRating": "7.6"
+    },
+    {
       "id": "tt0070283",
       "type": "movie",
       "name": "Ladies & Gentlemen, the Rolling Stones",
@@ -3381,6 +4021,22 @@
       ],
       "background": "https://image.tmdb.org/t/p/w1280/3QvpSQGnxCYQkXvxI7CHb0pYgwQ.jpg",
       "imdbRating": "5.8"
+    },
+    {
+      "id": "tt0191483",
+      "type": "movie",
+      "name": "Sound of the City: London 1964-73",
+      "poster": "https://image.tmdb.org/t/p/w780/5CXV3baWa6ZpGrRsLxmUMIxratx.jpg",
+      "posterShape": "poster",
+      "description": "Vintage film footage from the hey-day of the London's rock and roll scene. Interviews with rock artists and London's hippies and flower children.",
+      "releaseInfo": "1973",
+      "runtime": "104 min",
+      "genres": [
+        "Documentary",
+        "Music",
+        "Classic Rock"
+      ],
+      "imdbRating": "7.0"
     },
     {
       "id": "tt0167923",
@@ -3519,23 +4175,6 @@
       "imdbRating": "7.4"
     },
     {
-      "id": "tt0061149",
-      "type": "movie",
-      "name": "The Velvet Underground and Nico: A Symphony of Sound",
-      "poster": "https://image.tmdb.org/t/p/w780/jk6kZUhHmrJYIqQoUlghKtZozCm.jpg",
-      "posterShape": "poster",
-      "description": "The film depicts a rehearsal of The Velvet Underground including Nico, and is essentially one long loose improvisation.",
-      "releaseInfo": "1966",
-      "runtime": "70 min",
-      "genres": [
-        "Documentary",
-        "Music",
-        "Classic Rock"
-      ],
-      "background": "https://image.tmdb.org/t/p/w1280/4ZdXjwTGTdblhjiOGgRaK1XHqT1.jpg",
-      "imdbRating": "6.8"
-    },
-    {
       "id": "tt0060167",
       "type": "movie",
       "name": "The Big T.N.T. Show",
@@ -3568,6 +4207,23 @@
       ],
       "background": "https://image.tmdb.org/t/p/w1280/xtSDfvpgTfxiMYbzhcO7pQCt9Ou.jpg",
       "imdbRating": "8.0"
+    },
+    {
+      "id": "tt0058744",
+      "type": "movie",
+      "name": "What's Happening! The Beatles in the USA",
+      "poster": "https://image.tmdb.org/t/p/w780/r5v3Q5FlU9bacsJrXJaBdZo1yNP.jpg",
+      "posterShape": "poster",
+      "description": "New York, USA, February 1964. Five grueling days in the life of George, John, Paul and Ringo, the Fab Four, The Beatles: the hysterical fan reception at JFK airport; several press conferences; in their rooms at the Plaza Hotel; in the backstage at the Ed Sullivan Show; hanging out with the legendary DJ Murray the K; and the frantic return home.",
+      "releaseInfo": "1964",
+      "runtime": "70 min",
+      "genres": [
+        "Documentary",
+        "Music",
+        "Classic Rock"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/tk1af7HonY7DSjDwu6aspNHMjLi.jpg",
+      "imdbRating": "7.5"
     }
   ]
 }

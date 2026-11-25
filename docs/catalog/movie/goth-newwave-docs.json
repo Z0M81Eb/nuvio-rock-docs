@@ -321,6 +321,23 @@
       "imdbRating": "7.2"
     },
     {
+      "id": "tt8638750",
+      "type": "movie",
+      "name": "Duran Duran: There's Something You Should Know",
+      "poster": "https://image.tmdb.org/t/p/w780/zTk4q2NWmTNNSgoPmWTQFusxlF2.jpg",
+      "posterShape": "poster",
+      "description": "Celebrating Duran Duran with exclusive backstage access, interviews with the band and rare footage charting their rise to fame, and the highs and lows of their career.",
+      "releaseInfo": "2018",
+      "runtime": "59 min",
+      "genres": [
+        "Documentary",
+        "Music",
+        "Goth, New Wave & Industrial"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/17Sv8M8Ug16glu1U6goEgZESkv6.jpg",
+      "imdbRating": "6.7"
+    },
+    {
       "id": "tt6794466",
       "type": "movie",
       "name": "The Public Image Is Rotten",
@@ -406,22 +423,6 @@
       "imdbRating": "7.1"
     },
     {
-      "id": "tt3223480",
-      "type": "movie",
-      "name": "Riot on the Dance Floor",
-      "poster": "https://image.tmdb.org/t/p/w780/nfWxFftzjA1boxkLyI05YaliRTf.jpg",
-      "posterShape": "poster",
-      "description": "Through an oral history format of in-depth interviews and archival footage, RIOT ON THE DANCE FLOOR bring to life the gritty story of City Gardens, one of New Jersey’s most infamous clubs and its larger than life promoter, Randy Now. Featuring the stark and iconic photography of Thrasher Magazine’s Ken Salerno, the film chronicles the rise of several different music scenes in a venue for underground music that traversed the entertainment spectrum; from the comedy of Henny Youngman to Nine Inch Nails, New Order to Nirvana. It is the story of musical champions, underdogs and how hoards of misfit kids found an unlikely home and above all, the freedom and liberation of having complete creative control. - IFF Boston",
-      "releaseInfo": "2014",
-      "runtime": "114 min",
-      "genres": [
-        "Documentary",
-        "Music",
-        "Goth, New Wave & Industrial"
-      ],
-      "imdbRating": "9.0"
-    },
-    {
       "id": "tt2133214",
       "type": "movie",
       "name": "Duran Duran: Unstaged",
@@ -470,6 +471,23 @@
         "Goth, New Wave & Industrial"
       ],
       "imdbRating": "6.1"
+    },
+    {
+      "id": "tt2112868",
+      "type": "movie",
+      "name": "Paul Simon: Under African Skies",
+      "poster": "https://image.tmdb.org/t/p/w780/8A2lrsqYh5CP09XVM5pKYnOsrP.jpg",
+      "posterShape": "poster",
+      "description": "Paul Simon returns to South Africa to explore the incredible journey of his historic Graceland album, including the political backlash he received for allegedly breaking the UN cultural boycott of South Africa designed to end the Apartheid regime.  On the 25th anniversary of Paul Simon's GRACELAND, acclaimed documentary filmmaker Joe Berlinger offers a glimpse at the controversy surrounding the decision to record the album in South Africa despite a UN boycott of the nation, which was aimed at ending apartheid. In the run-up to an eagerly anticipated reunion concert, Simon, Quincy Jones, Peter Gabriel, David Byrne, Harry Belafonte, Paul McCartney and others reflect on the decision to record with local artists in South Africa, and the cultural impact of the album that delivered such hits as \"I Know What I Know\" and \"You Can Call Me Al.\"",
+      "releaseInfo": "2012",
+      "runtime": "102 min",
+      "genres": [
+        "Documentary",
+        "Music",
+        "Goth, New Wave & Industrial"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/f4zSQJ8GQ6VaYvP4wancyxg7ska.jpg",
+      "imdbRating": "7.1"
     },
     {
       "id": "tt2007385",

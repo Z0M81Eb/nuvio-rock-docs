@@ -388,6 +388,40 @@
       "imdbRating": "5.6"
     },
     {
+      "id": "tt5174704",
+      "type": "movie",
+      "name": "Desert Age: A Rock and Roll Scene History",
+      "poster": "https://image.tmdb.org/t/p/w780/bJkwSQUBAdwRUK3LYpYM4nVTePB.jpg",
+      "posterShape": "poster",
+      "description": "Desert Age: A Rock and Roll Scene History is a feature length documentary about the California desert rock and roll scene from the early 1980s and 1990s.",
+      "releaseInfo": "2016",
+      "runtime": "75 min",
+      "genres": [
+        "Documentary",
+        "Music",
+        "Grunge & Alternative"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/shisUBeVEG3NNXrWahM7EKQWHcw.jpg",
+      "imdbRating": "6.0"
+    },
+    {
+      "id": "tt4861730",
+      "type": "movie",
+      "name": "Arcade Fire - The Reflektor Tapes",
+      "poster": "https://image.tmdb.org/t/p/w780/2Q7ZAzUJPPKS1DuVfwOp3WKezoS.jpg",
+      "posterShape": "poster",
+      "description": "Arcade Fire’s first feature film is called 'The Reflektor Tapes'. The project is “a unique cinematic experience, meeting at the crossroads of documentary, music, art and personal history.”",
+      "releaseInfo": "2015",
+      "runtime": "75 min",
+      "genres": [
+        "Documentary",
+        "Music",
+        "Grunge & Alternative"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/gpYJgEnmMdGwNN7iP72j6e2p647.jpg",
+      "imdbRating": "5.3"
+    },
+    {
       "id": "tt4229236",
       "type": "movie",
       "name": "Cobain: Montage of Heck",
@@ -536,6 +570,23 @@
         "Grunge & Alternative"
       ],
       "background": "https://image.tmdb.org/t/p/w1280/4gjl23lEJ6nOPkSBebf09LU28iJ.jpg",
+      "imdbRating": "6.9"
+    },
+    {
+      "id": "tt2578448",
+      "type": "movie",
+      "name": "12-12-12 | The Concert for Sandy Relief",
+      "poster": "https://image.tmdb.org/t/p/w780/mMmU4hFipk3Ekc6M4Py6YF1yZuz.jpg",
+      "posterShape": "poster",
+      "description": "“12-12-12” was a fundraising concert to aid the victims of Hurricane Sandy, it took place on December 12, 2012 at Madison Square Garden. The concert featured Bon Jovi, Eric Clapton, Dave Grohl, Billy Joel, Alicia Keys, Chris Martin (featuring Michael Stipe), The Rolling Stones, Bruce Springsteen & the E Street Band, Eddie Vedder, Roger Waters, Kanye West, The Who, Paul McCartney (featuring Nirvana) as well as other artists.",
+      "releaseInfo": "2012",
+      "runtime": "350 min",
+      "genres": [
+        "Documentary",
+        "Music",
+        "Grunge & Alternative"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/2AINW4lU49rKz3Jld2JkvXoa2E9.jpg",
       "imdbRating": "6.9"
     },
     {
@@ -725,6 +776,23 @@
       "imdbRating": "8.0"
     },
     {
+      "id": "tt0304081",
+      "type": "movie",
+      "name": "Gigantic (A Tale of Two Johns)",
+      "poster": "https://image.tmdb.org/t/p/w780/wUeGidITxUr4lm4q2MgooXft8s3.jpg",
+      "posterShape": "poster",
+      "description": "John Flansburgh & John Linnell met in the 1970s as junior high students in Lincoln, Massachusetts. A decade later, their band—They Might Be Giants—would stand at the forefront of a burgeoning East Village NYC performance art scene as well as the college music revolution of the late 1980s. Filmed in 2001, ‘Gigantic (A Tale of Two Johns)’ is the acclaimed true story, tracing their independent and sometimes hilarious path through two decades in the pop music wilderness. From their legendary Dial-a-Song answering machine, to their Grammy Award-winning theme song for ‘Malcolm in the Middle’, fans and friends gather to tell the oral history of Brooklyn's finest alternative rock band.",
+      "releaseInfo": "2003",
+      "runtime": "102 min",
+      "genres": [
+        "Documentary",
+        "Music",
+        "Grunge & Alternative"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/qJt53Lw7GFa9y7OekBMkuXxHhB0.jpg",
+      "imdbRating": "8.4"
+    },
+    {
       "id": "tt0358631",
       "type": "movie",
       "name": "Pavement: Slow Century",
@@ -840,6 +908,23 @@
       ],
       "background": "https://image.tmdb.org/t/p/w1280/eAyVDKMf8Gg2DWLqpzrVxgrrQ0s.jpg",
       "imdbRating": "6.0"
+    },
+    {
+      "id": "tt8937118",
+      "type": "movie",
+      "name": "Nirvana: Live and Loud",
+      "poster": "https://image.tmdb.org/t/p/w780/5kyp4pVHhfDwDuBkO2HQUdzVNBC.jpg",
+      "posterShape": "poster",
+      "description": "Just under a month after the taping of the legendary 'Unplugged', Nirvana would go on to record a concert for MTV during their 'In Utero' tour........it would be their last.",
+      "releaseInfo": "1993",
+      "runtime": "77 min",
+      "genres": [
+        "Documentary",
+        "Music",
+        "Grunge & Alternative"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/r5kwLcSGNrlUHi8iTuNPRI48cpL.jpg",
+      "imdbRating": "8.9"
     }
   ]
 }

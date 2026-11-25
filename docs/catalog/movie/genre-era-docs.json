@@ -332,6 +332,23 @@
       "imdbRating": "8.2"
     },
     {
+      "id": "tt3913194",
+      "type": "movie",
+      "name": "Turn It Around: The Story of East Bay Punk",
+      "poster": "https://image.tmdb.org/t/p/w780/cGeKIwcfLxPojm6ODQ5Pn2pxonk.jpg",
+      "posterShape": "poster",
+      "description": "Turn It Around: The Story of East Bay Punk spans over 30 years of the California Bay Area’s punk music history with a central focus on the emergence of the inspiring 924 Gilman Street collective. This diverse group of artists, writers, organizers and musicians created a do-it-yourself petri dish that changed the punk scene... and the world at large.",
+      "releaseInfo": "2017",
+      "runtime": "157 min",
+      "genres": [
+        "Documentary",
+        "Music",
+        "Genres & Eras"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/ifEatursYAG6ZvpwFQrrbCN0cxS.jpg",
+      "imdbRating": "7.5"
+    },
+    {
       "id": "tt6679242",
       "type": "movie",
       "name": "Joe Cocker: Mad Dog with Soul",
@@ -666,6 +683,23 @@
       "imdbRating": "6.4"
     },
     {
+      "id": "tt2440214",
+      "type": "movie",
+      "name": "Mr. Blue Sky: The Story of Jeff Lynne & ELO",
+      "poster": "https://image.tmdb.org/t/p/w780/4km3q8jkWjvFMdNgIi3uCW9XfXf.jpg",
+      "posterShape": "poster",
+      "description": "Documentary which gets to the heart of who Jeff Lynne is and how he has had such a tremendous musical influence on our world. The story is told by the British artist himself and such distinguished collaborators and friends of Jeff as Paul McCartney, Ringo Starr, Tom Petty, Joe Walsh, Olivia and Dhani Harrison, Barbara Orbison and Eric Idle. The film reveals that Lynne is a true man of music, for whom the recording studio is his greatest instrument. With access to Lynne in his studio above LA, this is an intimate account of a great British pop classicist who has ploughed a unique furrow since starting out on the Birmingham Beat scene in the early 60s, moving from the Idle Race to the multi-million selling ELO in the 70s and then, with Bob Dylan, Tom Petty, Roy Orbison and George Harrison, as a key member of the Traveling Wilburys.",
+      "releaseInfo": "2012",
+      "runtime": "60 min",
+      "genres": [
+        "Documentary",
+        "Music",
+        "Genres & Eras"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/ys5fRZCh2p0YsqlbmksKYaSstWq.jpg",
+      "imdbRating": "7.4"
+    },
+    {
       "id": "tt1996339",
       "type": "movie",
       "name": "No Room for Rockstars",
@@ -713,6 +747,23 @@
         "Genres & Eras"
       ],
       "background": "https://image.tmdb.org/t/p/w1280/1KPfXcTpuvxNwxOPJRLoDcYEmKm.jpg",
+      "imdbRating": "8.1"
+    },
+    {
+      "id": "tt1977894",
+      "type": "movie",
+      "name": "Queen: Days of Our Lives",
+      "poster": "https://image.tmdb.org/t/p/w780/bsWSDe7bJATCJpXIeDB9bjVRXEp.jpg",
+      "posterShape": "poster",
+      "description": "In 1971, four college students got together to form a rock band. Since then, that certain band called Queen have released 26 albums and sold over 300 million records worldwide. The popularity of Freddie Mercury, Brian May, Roger Taylor and John Deacon is stronger than ever 40 years on. But it was no bed of roses. No pleasure cruise. Queen had their share of kicks in the face, but they came through and this is how they did it, set against the backdrop of brilliant music and stunning live performances from every corner of the globe. In this film, for the first time, it is the band that tells their story. Featuring brand new interviews with the band and unseen archive footage (including their recently unearthed, first ever TV performance), it is a compelling story told with intelligence, wit, plenty of humor and painful honesty.",
+      "releaseInfo": "2011",
+      "runtime": "120 min",
+      "genres": [
+        "Documentary",
+        "Music",
+        "Genres & Eras"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/dXl3zlrPYA1f3rikYsZIAlC7B6X.jpg",
       "imdbRating": "8.1"
     },
     {
@@ -815,6 +866,23 @@
       ],
       "background": "https://image.tmdb.org/t/p/w1280/cEub49VwJymNmOFxmfRCcnlYKsI.jpg",
       "imdbRating": "6.1"
+    },
+    {
+      "id": "tt1365016",
+      "type": "movie",
+      "name": "Black Metal: A Documentary",
+      "poster": "https://image.tmdb.org/t/p/w780/kBbNJcnoEybmkvf7q5tcjYPf8od.jpg",
+      "posterShape": "poster",
+      "description": "A low-budget low-fi documentary about the black metal.",
+      "releaseInfo": "2007",
+      "runtime": "91 min",
+      "genres": [
+        "Documentary",
+        "Music",
+        "Genres & Eras"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/e9IDFncT9r2mYAnSEVQVCMulqmH.jpg",
+      "imdbRating": "5.4"
     },
     {
       "id": "tt2168250",
@@ -1183,6 +1251,23 @@
       "imdbRating": "7.2"
     },
     {
+      "id": "tt0424359",
+      "type": "movie",
+      "name": "A Poem Is a Naked Person",
+      "poster": "https://image.tmdb.org/t/p/w780/1IOclW0WUDAQobUg7rPZ22saHtQ.jpg",
+      "posterShape": "poster",
+      "description": "Les Blank's first feature-length documentary captures music and other events at Leon Russell's Oklahoma recording studio during a three-year period (1972-1974).",
+      "releaseInfo": "1974",
+      "runtime": "96 min",
+      "genres": [
+        "Documentary",
+        "Music",
+        "Genres & Eras"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/mIRrXqGHdjd6cqTk7wMJ0s95UFF.jpg",
+      "imdbRating": "7.8"
+    },
+    {
       "id": "tt0070242",
       "type": "movie",
       "name": "Jimi Hendrix",
@@ -1198,6 +1283,40 @@
       ],
       "background": "https://image.tmdb.org/t/p/w1280/2hgNNT6bOvVYIrD5pB0k52s2Z7C.jpg",
       "imdbRating": "7.7"
+    },
+    {
+      "id": "tt0143367",
+      "type": "movie",
+      "name": "Let the Good Times Roll",
+      "poster": "https://image.tmdb.org/t/p/w780/mj8vVOwxAteweKD9mLcTEcAbEX6.jpg",
+      "posterShape": "poster",
+      "description": "Documentary of a 1950s rock and roll revival show, with split-screen editing to rival Woodstock.",
+      "releaseInfo": "1973",
+      "runtime": "99 min",
+      "genres": [
+        "Documentary",
+        "Music",
+        "Genres & Eras"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/rXgCRbTifpfy24W6yiPuLELQhRn.jpg",
+      "imdbRating": "6.4"
+    },
+    {
+      "id": "tt0068584",
+      "type": "movie",
+      "name": "Fillmore",
+      "poster": "https://image.tmdb.org/t/p/w780/tofLhijBvZrqzG47JpfhCEkcId5.jpg",
+      "posterShape": "poster",
+      "description": "Legendary rock impresario Bill Graham closed the Fillmore West in early summer 1971 with five nights of all-star concerts, the last curtain going down on July 4. The storied San Francisco venue had become an institution, an integral part of the West Coast music scene of the '60s and, now, an essential element of the mythology of rock 'n' roll. Always the showman, Graham made sure the Fillmore West was sent off in a blaze of glory, spotlighting bands - including the Grateful Dead and Santana-that rose to fame at the hall. The madness leading up to the shows and the concerts themselves were filmed for FILLMORE: THE LAST DAYS, a gritty, behind-the-scenes look at a fascinating moment in rock history and a showcase for great performances by iconic artists who epitomized 'the San Francisco Sound.' Originally released in 1972 and long out-of-print, the documentary film makes its DVD debut with Rhino's landmark reissue.",
+      "releaseInfo": "1972",
+      "runtime": "105 min",
+      "genres": [
+        "Documentary",
+        "Music",
+        "Genres & Eras"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/mvbicfag9Jd46IRNLwOHCDrjPeH.jpg",
+      "imdbRating": "7.0"
     },
     {
       "id": "tt0179205",
