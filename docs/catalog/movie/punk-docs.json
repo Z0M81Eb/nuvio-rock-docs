@@ -238,23 +238,6 @@
       "imdbRating": "5.5"
     },
     {
-      "id": "tt10404910",
-      "type": "movie",
-      "name": "Wake Up Punk",
-      "poster": "https://image.tmdb.org/t/p/w780/aVagEL3QUzg3ETdKh7kVHWcXzz5.jpg",
-      "posterShape": "poster",
-      "description": "Joe Corré, son of punk visionaries Vivienne Westwood and Malcolm McLaren, burns an estimated £5M worth of punk memorabilia protesting the commodification of punk. The film takes this incendiary act of ‘cultural terrorism’ and the questions it raised to explore the lifespan and true worth of punk - the 20th century's most volatile movement.",
-      "releaseInfo": "2022",
-      "runtime": "85 min",
-      "genres": [
-        "Documentary",
-        "Music",
-        "Punk"
-      ],
-      "background": "https://image.tmdb.org/t/p/w1280/1gqWx8LCcWzieEYXrRY9JDpnmPw.jpg",
-      "imdbRating": "8.0"
-    },
-    {
       "id": "tt9174746",
       "type": "movie",
       "name": "Rebel Dread",
@@ -744,23 +727,6 @@
       "imdbRating": "7.2"
     },
     {
-      "id": "tt3512486",
-      "type": "movie",
-      "name": "The Damned: Don't You Wish That We Were Dead",
-      "poster": "https://image.tmdb.org/t/p/w780/4rYaJzmX8AltVQLEfF7nEB1VcZB.jpg",
-      "posterShape": "poster",
-      "description": "From Lemmy filmmaker Wes Orshoski comes the story of the long-ignored pioneers of punk: The Damned, the first U.K. punks on wax and the first to cross the Atlantic. This authorized film includes appearances from Chrissie Hynde, Mick Jones (The Clash), Lemmy and members of Pink Floyd, Black Flag, GNR, the Sex Pistols, Blondie, Buzzcocks, and more. Shot around the globe over three years, the film charts the band's complex history and infighting, as it celebrated its 35th anniversary and found its estranged former members striking out on their own anniversary tour, while still others battle cancer.",
-      "releaseInfo": "2015",
-      "runtime": "107 min",
-      "genres": [
-        "Documentary",
-        "Music",
-        "Punk"
-      ],
-      "background": "https://image.tmdb.org/t/p/w1280/oGjAePO1ANqcrW44wQjG4dMQ0tr.jpg",
-      "imdbRating": "7.7"
-    },
-    {
       "id": "tt3004624",
       "type": "movie",
       "name": "Life After Death from Above 1979",
@@ -810,22 +776,6 @@
       ],
       "background": "https://image.tmdb.org/t/p/w1280/7O0yvw9tApjEuO1m02ZyCAqwwgk.jpg",
       "imdbRating": "6.9"
-    },
-    {
-      "id": "tt2191618",
-      "type": "movie",
-      "name": "Every Everything: The Music, Life & Times of Grant Hart",
-      "poster": "https://image.tmdb.org/t/p/w780/5h601lOxUHLmgJ2Y9ajag68Vz07.jpg",
-      "posterShape": "poster",
-      "description": "A rock & roll Fog of War about Hüsker Dü's legendary singer/songwriter Grant Hart.",
-      "releaseInfo": "2013",
-      "runtime": "97 min",
-      "genres": [
-        "Documentary",
-        "Music",
-        "Punk"
-      ],
-      "background": "https://image.tmdb.org/t/p/w1280/4F4RJjSQpHH7PjOYP74zvOIpzCJ.jpg"
     },
     {
       "id": "tt2417154",
@@ -911,6 +861,23 @@
       "imdbRating": "7.1"
     },
     {
+      "id": "tt2953170",
+      "type": "movie",
+      "name": "Pussy Riot: The Movement",
+      "poster": "https://image.tmdb.org/t/p/w780/x0ShtwfgwJgWBMz4EoA1UHc1yjJ.jpg",
+      "posterShape": "poster",
+      "description": "Pussy Riot: The Movement embarks on the odyssey of the girls who rocked a country and continue to fight for human rights throughout the world. Documentary follows Masha Alyokhina, Nadezhda Tolokonnikova, and Yekaterina Samutsevich through their harsh two year sentences for playing music to their freedom. What started as a punk rock collective has catapulted to a world movement for human rights.",
+      "releaseInfo": "2013",
+      "runtime": "85 min",
+      "genres": [
+        "Documentary",
+        "Music",
+        "Punk"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/xlGO2CNbIEtcP43QpChzuvR6y8o.jpg",
+      "imdbRating": "4.2"
+    },
+    {
       "id": "tt2034085",
       "type": "movie",
       "name": "Punk in Africa",
@@ -926,6 +893,21 @@
       ],
       "background": "https://image.tmdb.org/t/p/w1280/lmIKTRiSsxdunST4ENSQ7CknDYv.jpg",
       "imdbRating": "7.2"
+    },
+    {
+      "id": "tt2461726",
+      "type": "movie",
+      "name": "Circle Jerks: My Career as a Jerk",
+      "poster": "https://image.tmdb.org/t/p/w780/emtfYp60tsLpZv13sGcYHjJ7l9M.jpg",
+      "posterShape": "poster",
+      "description": "From the beginning, LA punk band the Circle Jerks were rooted in controversy. Formed by ex members of Black Flag and Red Cross (now Redd Kross) in late 1979, the band came to encapsulate the image, sound and energy of California Hardcore Punk. Filmmaker David Markey (1991: The Year Punk Broke, The Slog Movie) mixes in-depth interviews, rare live footage and historical perspective to illustrate the story of one of the most influential bands in the American underground. My Career as a Jerk follows the band from their early days and classic debut to navigating the independent label and touring scene of the 80s to the addictions, fights and injuries that forced their break up. Of course the story doesn't quite end there.",
+      "releaseInfo": "2012",
+      "runtime": "96 min",
+      "genres": [
+        "Documentary",
+        "Music",
+        "Punk"
+      ]
     },
     {
       "id": "tt5645388",
@@ -945,23 +927,6 @@
       "imdbRating": "5.0"
     },
     {
-      "id": "tt2243163",
-      "type": "movie",
-      "name": "Bad Brains: A Band in DC",
-      "poster": "https://image.tmdb.org/t/p/w780/djgAaUNXmajvSEm2FXnlpq4ZraC.jpg",
-      "posterShape": "poster",
-      "description": "Bad Brains are one of the most important and influential American bands still working today. They melded punk and reggae into an innovative style that has yet to be copied. Their impact and influence can be heard in groups like Beastie Boys, No Doubt, Nirvana, Jane's Addiction and countless more. Despite the troubles of an eccentric front man they have stayed together for 30 years without ever reaching the level of success so many think they deserve. Using rare archival footage and original comic illustrations the film re-constructs Bad Brains' rich and complicated history.",
-      "releaseInfo": "2012",
-      "runtime": "104 min",
-      "genres": [
-        "Documentary",
-        "Music",
-        "Punk"
-      ],
-      "background": "https://image.tmdb.org/t/p/w1280/lyQnsiycoPWQbh3BGG4qbH7LQ1M.jpg",
-      "imdbRating": "6.6"
-    },
-    {
       "id": "tt2210236",
       "type": "series",
       "name": "Punk Britannia",
@@ -975,6 +940,21 @@
         "Punk"
       ],
       "imdbRating": "7.5"
+    },
+    {
+      "id": "tt3769098",
+      "type": "movie",
+      "name": "Punk O Cine",
+      "poster": "https://image.tmdb.org/t/p/w780/dCmuE8uJenQg3jkd7ag3Ozv8B61.jpg",
+      "posterShape": "poster",
+      "description": "Documentary about Finnish punk scene in the early 2010s.",
+      "releaseInfo": "2011",
+      "runtime": "55 min",
+      "genres": [
+        "Documentary",
+        "Music",
+        "Punk"
+      ]
     },
     {
       "id": "tt1633989",
@@ -992,22 +972,6 @@
       ],
       "background": "https://image.tmdb.org/t/p/w1280/bX4j8F1uGnKttKLM7zKmWr2C64F.jpg",
       "imdbRating": "6.1"
-    },
-    {
-      "id": "tt2005225",
-      "type": "movie",
-      "name": "From the Back of the Room",
-      "poster": "https://image.tmdb.org/t/p/w780/pMPM9rLaWWuNhYcF9zjgxg9COxh.jpg",
-      "posterShape": "poster",
-      "description": "Although it is often credited with spurring the \"third wave\" of feminism, Riot Grrrl seemed to many to be a blip in the media. Riot Grrrl paved the way for the more mainstream \"girl power\" phenomenon, but was ultimately forgotten until recently. This film tackles the past thirty years of female involvement in Do It Yourself music, and aims to give a more complete picture of how women have participated in the D.I.Y. community, and how it affects their daily lives.",
-      "releaseInfo": "2011",
-      "runtime": "105 min",
-      "genres": [
-        "Documentary",
-        "Music",
-        "Punk"
-      ],
-      "imdbRating": "4.0"
     },
     {
       "id": "tt1398949",
@@ -1191,6 +1155,21 @@
       ],
       "background": "https://image.tmdb.org/t/p/w1280/9H238fST6cNkq2y1oRRQrs2Igb1.jpg",
       "imdbRating": "6.1"
+    },
+    {
+      "id": "tt1340142",
+      "type": "movie",
+      "name": "You Weren't There: A History of Chicago Punk 1977–1984",
+      "poster": "https://image.tmdb.org/t/p/w780/4UiyWA0yixqbWoAayYw1KQBNar0.jpg",
+      "posterShape": "poster",
+      "description": "Often overshadowed by the stars of the New York scene, Chicago punk gets its day in the limelight in this raw documentary that captures the noisemakers and tastemakers who left their mark at venues like La Mere Vipere and Oz.",
+      "releaseInfo": "2007",
+      "runtime": "120 min",
+      "genres": [
+        "Documentary",
+        "Music",
+        "Punk"
+      ]
     },
     {
       "id": "tt1080761",
@@ -1505,6 +1484,23 @@
       "imdbRating": "5.6"
     },
     {
+      "id": "tt0370694",
+      "type": "movie",
+      "name": "Hey! Is Dee Dee Home?",
+      "poster": "https://image.tmdb.org/t/p/w780/tdXG6icWwaEb7hZz040mrbVkTLS.jpg",
+      "posterShape": "poster",
+      "description": "Punk rock devotees will welcome director Lech Kowalski's reflective video portrait of late bassist Dee Dee Ramone and his life as a music industry icon -- including his self-destructive bouts with heroin. The centerpiece of the hourlong documentary -- which is peppered with vintage performance clips -- is a 1991 interview with a clean Dee Dee, who talks at length about his storied career and penchant for living on the edge.",
+      "releaseInfo": "2003",
+      "runtime": "63 min",
+      "genres": [
+        "Documentary",
+        "Music",
+        "Punk"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/hk7iP0FT7P6gxbulNMLuLQnCD86.jpg",
+      "imdbRating": "5.9"
+    },
+    {
       "id": "tt0759960",
       "type": "movie",
       "name": "Avril Lavigne: My World",
@@ -1752,6 +1748,23 @@
         "Punk"
       ],
       "imdbRating": "6.4"
+    },
+    {
+      "id": "tt0285510",
+      "type": "movie",
+      "name": "Dead Kennedys: DMPO's on Broadway",
+      "poster": "https://image.tmdb.org/t/p/w780/q3UdNuyencMX2P5rSJVKgWVZKeS.jpg",
+      "posterShape": "poster",
+      "description": "This 58 minute DVD video is one of the Dead Kennedy's last ever live concerts, captured on film just months before their breakup in 1984. This 14-song performance at San Francisco's On Broadway catches Jello and company at the height of their punk powers.",
+      "releaseInfo": "1985",
+      "runtime": "58 min",
+      "genres": [
+        "Documentary",
+        "Music",
+        "Punk"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/eKgglqwtzoZFcaOgZoyNdT6vVVq.jpg",
+      "imdbRating": "8.0"
     },
     {
       "id": "tt0198307",

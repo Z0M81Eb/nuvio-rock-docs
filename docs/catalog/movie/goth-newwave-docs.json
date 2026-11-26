@@ -423,6 +423,22 @@
       "imdbRating": "7.1"
     },
     {
+      "id": "tt3223480",
+      "type": "movie",
+      "name": "Riot on the Dance Floor",
+      "poster": "https://image.tmdb.org/t/p/w780/nfWxFftzjA1boxkLyI05YaliRTf.jpg",
+      "posterShape": "poster",
+      "description": "Through an oral history format of in-depth interviews and archival footage, RIOT ON THE DANCE FLOOR bring to life the gritty story of City Gardens, one of New Jersey’s most infamous clubs and its larger than life promoter, Randy Now. Featuring the stark and iconic photography of Thrasher Magazine’s Ken Salerno, the film chronicles the rise of several different music scenes in a venue for underground music that traversed the entertainment spectrum; from the comedy of Henny Youngman to Nine Inch Nails, New Order to Nirvana. It is the story of musical champions, underdogs and how hoards of misfit kids found an unlikely home and above all, the freedom and liberation of having complete creative control. - IFF Boston",
+      "releaseInfo": "2014",
+      "runtime": "114 min",
+      "genres": [
+        "Documentary",
+        "Music",
+        "Goth, New Wave & Industrial"
+      ],
+      "imdbRating": "9.0"
+    },
+    {
       "id": "tt2133214",
       "type": "movie",
       "name": "Duran Duran: Unstaged",
@@ -691,6 +707,22 @@
       ],
       "background": "https://image.tmdb.org/t/p/w1280/fJNcvIhNAk0Z7BFsgztrsVahxVg.jpg",
       "imdbRating": "8.0"
+    },
+    {
+      "id": "tt0097774",
+      "type": "movie",
+      "name": "The Long Way Home",
+      "poster": "https://image.tmdb.org/t/p/w780/mhjC4WR1jogCQFgOV70uoPUAVuX.jpg",
+      "posterShape": "poster",
+      "description": "A documentary about Boris Grebenshikov, frontman of the legendary Russian art-rock band Akvarium (\"Аквариум\"). It was filmed as part of promo campaign for his own first album released in English and recorded with Eurythmics.",
+      "releaseInfo": "1989",
+      "runtime": "82 min",
+      "genres": [
+        "Documentary",
+        "Music",
+        "Goth, New Wave & Industrial"
+      ],
+      "imdbRating": "6.0"
     },
     {
       "id": "tt0092824",

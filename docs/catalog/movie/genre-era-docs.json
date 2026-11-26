@@ -1285,23 +1285,6 @@
       "imdbRating": "7.7"
     },
     {
-      "id": "tt0143367",
-      "type": "movie",
-      "name": "Let the Good Times Roll",
-      "poster": "https://image.tmdb.org/t/p/w780/mj8vVOwxAteweKD9mLcTEcAbEX6.jpg",
-      "posterShape": "poster",
-      "description": "Documentary of a 1950s rock and roll revival show, with split-screen editing to rival Woodstock.",
-      "releaseInfo": "1973",
-      "runtime": "99 min",
-      "genres": [
-        "Documentary",
-        "Music",
-        "Genres & Eras"
-      ],
-      "background": "https://image.tmdb.org/t/p/w1280/rXgCRbTifpfy24W6yiPuLELQhRn.jpg",
-      "imdbRating": "6.4"
-    },
-    {
       "id": "tt0068584",
       "type": "movie",
       "name": "Fillmore",
