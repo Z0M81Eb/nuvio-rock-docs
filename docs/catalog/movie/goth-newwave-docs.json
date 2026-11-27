@@ -709,22 +709,6 @@
       "imdbRating": "8.0"
     },
     {
-      "id": "tt0097774",
-      "type": "movie",
-      "name": "The Long Way Home",
-      "poster": "https://image.tmdb.org/t/p/w780/mhjC4WR1jogCQFgOV70uoPUAVuX.jpg",
-      "posterShape": "poster",
-      "description": "A documentary about Boris Grebenshikov, frontman of the legendary Russian art-rock band Akvarium (\"Аквариум\"). It was filmed as part of promo campaign for his own first album released in English and recorded with Eurythmics.",
-      "releaseInfo": "1989",
-      "runtime": "82 min",
-      "genres": [
-        "Documentary",
-        "Music",
-        "Goth, New Wave & Industrial"
-      ],
-      "imdbRating": "6.0"
-    },
-    {
       "id": "tt0092824",
       "type": "movie",
       "name": "Dandy",

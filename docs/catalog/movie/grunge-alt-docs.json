@@ -388,40 +388,6 @@
       "imdbRating": "5.6"
     },
     {
-      "id": "tt5174704",
-      "type": "movie",
-      "name": "Desert Age: A Rock and Roll Scene History",
-      "poster": "https://image.tmdb.org/t/p/w780/bJkwSQUBAdwRUK3LYpYM4nVTePB.jpg",
-      "posterShape": "poster",
-      "description": "Desert Age: A Rock and Roll Scene History is a feature length documentary about the California desert rock and roll scene from the early 1980s and 1990s.",
-      "releaseInfo": "2016",
-      "runtime": "75 min",
-      "genres": [
-        "Documentary",
-        "Music",
-        "Grunge & Alternative"
-      ],
-      "background": "https://image.tmdb.org/t/p/w1280/shisUBeVEG3NNXrWahM7EKQWHcw.jpg",
-      "imdbRating": "6.0"
-    },
-    {
-      "id": "tt6140044",
-      "type": "movie",
-      "name": "The American Epic Sessions",
-      "poster": "https://image.tmdb.org/t/p/w780/u7CJZMGlfSW60LhtJRPhumKTtsW.jpg",
-      "posterShape": "poster",
-      "description": "Jack White and T Bone Burnett invite today’s greatest artists to test their skills against the long-lost machine that recorded their musical idols and forebears. The producers have, over a decade rebuilt, a 1920s recording system, timed by a weight-driven system of clockwork gears. Stripped of the comforts and security of modern technology, Nas, Elton John, Alabama Shakes, Steve Martin Willie Nelson and Merle Haggard, are among the artists who have three minutes and one chance to get their music etched into a revolving wax disc, before the weight hits the floor. The results are career defining performances and the very definition of \"Lighting In A Bottle\".",
-      "releaseInfo": "2016",
-      "runtime": "120 min",
-      "genres": [
-        "Documentary",
-        "Music",
-        "Grunge & Alternative"
-      ],
-      "background": "https://image.tmdb.org/t/p/w1280/ffcxmaxhEQkJ2YPqIF2TwNLHz5X.jpg",
-      "imdbRating": "7.0"
-    },
-    {
       "id": "tt4861730",
       "type": "movie",
       "name": "Arcade Fire - The Reflektor Tapes",
@@ -726,6 +692,23 @@
       "imdbRating": "7.4"
     },
     {
+      "id": "tt1236247",
+      "type": "movie",
+      "name": "Smashing Pumpkins: If All Goes Wrong",
+      "poster": "https://image.tmdb.org/t/p/w780/xlUEqOQsAPle5OAXzYmUrPO6dl6.jpg",
+      "posterShape": "poster",
+      "description": "In June of 2007, the re-united Smashing Pumpkins eschewed a traditional US tour and opted for an experimental art installation in the form of two residencies in Asheville, NC and San Francisco, CA. The documentary \"If All Goes Wrong\" traces the band over this period from the opening note to the final chord.",
+      "releaseInfo": "2008",
+      "runtime": "102 min",
+      "genres": [
+        "Documentary",
+        "Music",
+        "Grunge & Alternative"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/zok88JCWoNcv80ToVWqSb14YvHA.jpg",
+      "imdbRating": "7.0"
+    },
+    {
       "id": "tt1229360",
       "type": "movie",
       "name": "It Might Get Loud",
@@ -942,23 +925,6 @@
       ],
       "background": "https://image.tmdb.org/t/p/w1280/eAyVDKMf8Gg2DWLqpzrVxgrrQ0s.jpg",
       "imdbRating": "6.0"
-    },
-    {
-      "id": "tt8937118",
-      "type": "movie",
-      "name": "Nirvana: Live and Loud",
-      "poster": "https://image.tmdb.org/t/p/w780/5kyp4pVHhfDwDuBkO2HQUdzVNBC.jpg",
-      "posterShape": "poster",
-      "description": "Just under a month after the taping of the legendary 'Unplugged', Nirvana would go on to record a concert for MTV during their 'In Utero' tour........it would be their last.",
-      "releaseInfo": "1993",
-      "runtime": "77 min",
-      "genres": [
-        "Documentary",
-        "Music",
-        "Grunge & Alternative"
-      ],
-      "background": "https://image.tmdb.org/t/p/w1280/r5kwLcSGNrlUHi8iTuNPRI48cpL.jpg",
-      "imdbRating": "8.9"
     }
   ]
 }

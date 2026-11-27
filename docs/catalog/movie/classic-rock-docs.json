@@ -825,7 +825,7 @@
         "Classic Rock"
       ],
       "background": "https://image.tmdb.org/t/p/w1280/s6VIrsUr4Am6VpwJ15QUCiramsU.jpg",
-      "imdbRating": "6.7"
+      "imdbRating": "6.8"
     },
     {
       "id": "tt16899584",
@@ -1028,23 +1028,6 @@
       "imdbRating": "8.5"
     },
     {
-      "id": "tt14450630",
-      "type": "movie",
-      "name": "What Drives Us",
-      "poster": "https://image.tmdb.org/t/p/w780/blnGO5tz1J3sQtj7995vC8kmyDl.jpg",
-      "posterShape": "poster",
-      "description": "The stories of some of the biggest artists in music, recalling the romance and adventure, as well as the idiocy and chaos, of their time on the road. While the world has changed, the custom has not changed. There is no other way to know whether you can make it in this business. You have to get in the van.",
-      "releaseInfo": "2021",
-      "runtime": "88 min",
-      "genres": [
-        "Documentary",
-        "Music",
-        "Classic Rock"
-      ],
-      "background": "https://image.tmdb.org/t/p/w1280/jJGNnLBgCgp5jlSJnbo2Z0PVEx9.jpg",
-      "imdbRating": "6.8"
-    },
-    {
       "id": "tt11811310",
       "type": "movie",
       "name": "The Pedal Movie",
@@ -1060,6 +1043,23 @@
       ],
       "background": "https://image.tmdb.org/t/p/w1280/vAR0QTnTCDInkVEkS9s62Bm1ieF.jpg",
       "imdbRating": "7.0"
+    },
+    {
+      "id": "tt14450630",
+      "type": "movie",
+      "name": "What Drives Us",
+      "poster": "https://image.tmdb.org/t/p/w780/blnGO5tz1J3sQtj7995vC8kmyDl.jpg",
+      "posterShape": "poster",
+      "description": "The stories of some of the biggest artists in music, recalling the romance and adventure, as well as the idiocy and chaos, of their time on the road. While the world has changed, the custom has not changed. There is no other way to know whether you can make it in this business. You have to get in the van.",
+      "releaseInfo": "2021",
+      "runtime": "88 min",
+      "genres": [
+        "Documentary",
+        "Music",
+        "Classic Rock"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/jJGNnLBgCgp5jlSJnbo2Z0PVEx9.jpg",
+      "imdbRating": "6.8"
     },
     {
       "id": "tt14314826",
@@ -1583,6 +1583,23 @@
       "imdbRating": "7.6"
     },
     {
+      "id": "tt7808498",
+      "type": "movie",
+      "name": "Creem: America's Only Rock 'n' Roll Magazine",
+      "poster": "https://image.tmdb.org/t/p/w780/1rRqgQTcUClCju0PdFqZmvA4ipd.jpg",
+      "posterShape": "poster",
+      "description": "Explores the seminal music magazine from its 1969 launch in Detroit to the untimely death of its publisher Barry Kramer in 1981.",
+      "releaseInfo": "2019",
+      "runtime": "75 min",
+      "genres": [
+        "Documentary",
+        "Music",
+        "Classic Rock"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/domE8foNaO1RJUPBVapkL9cF8DA.jpg",
+      "imdbRating": "6.7"
+    },
+    {
       "id": "tt9144476",
       "type": "movie",
       "name": "David Bowie: Finding Fame",
@@ -1598,23 +1615,6 @@
       ],
       "background": "https://image.tmdb.org/t/p/w1280/g1xy3zBWqsDFn1uw5sA8291M0s2.jpg",
       "imdbRating": "6.9"
-    },
-    {
-      "id": "tt11461118",
-      "type": "movie",
-      "name": "It All Begins with a Song: The Story of the Nashville Songwriter",
-      "poster": "https://image.tmdb.org/t/p/w780/RiLaxoG4HuYifyHs3cIxOj3CWz.jpg",
-      "posterShape": "poster",
-      "description": "Everyone knows Elvis Presley’s In the Ghetto and A Little Less Conversation. But who wrote those songs? That was Mac Davis, and almost no one has heard of him. He shares this fate with dozens of other songwriters who have been responsible for massive hits. Coincidentally, many of them live in Nashville, Tennessee – though this documentary reveals that isn’t quite as accidental as it seems.",
-      "releaseInfo": "2019",
-      "runtime": "80 min",
-      "genres": [
-        "Documentary",
-        "Music",
-        "Classic Rock"
-      ],
-      "background": "https://image.tmdb.org/t/p/w1280/6ei4Sj0I9AU6kB0z8sXTXG1HLnO.jpg",
-      "imdbRating": "5.0"
     },
     {
       "id": "tt8965432",
@@ -1803,6 +1803,23 @@
       "imdbRating": "7.3"
     },
     {
+      "id": "tt7309430",
+      "type": "movie",
+      "name": "Bob Dylan: Trouble No More",
+      "poster": "https://image.tmdb.org/t/p/w780/lXu4BpDGAnfdvCgGeULeusT9IqP.jpg",
+      "posterShape": "poster",
+      "description": "This very special film consists of truly electrifying video footage from Bob Dylan’s “born again” period, shot on the last leg of his ’79-’80 tour, much of it thought to have been lost for years and all newly restored.",
+      "releaseInfo": "2017",
+      "runtime": "59 min",
+      "genres": [
+        "Documentary",
+        "Music",
+        "Classic Rock"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/wzL3AfkN19M3Zf0DXLZNiFdBkFv.jpg",
+      "imdbRating": "6.4"
+    },
+    {
       "id": "tt7804016",
       "type": "movie",
       "name": "Queen: Rock the World",
@@ -1851,6 +1868,23 @@
         "Classic Rock"
       ],
       "imdbRating": "5.0"
+    },
+    {
+      "id": "tt6970188",
+      "type": "movie",
+      "name": "Sgt Pepper's Musical Revolution",
+      "poster": "https://image.tmdb.org/t/p/w780/zzeuUcnYkpNoIQOjiqHpCIDjQW3.jpg",
+      "posterShape": "poster",
+      "description": "50 years ago this week, on 1 June, 1967, an album was released that changed music history - The Beatles' Sgt Pepper's Lonely Hearts Club Band. In this film, composer Howard Goodall explores just why this album is still seen as so innovative, so revolutionary and so influential. With the help of outtakes and studio conversations between the band, never heard before outside of Abbey Road, Howard gets under the bonnet of Sgt Pepper. He takes the music apart and reassembles it, to show us how it works - and makes surprising connections with the music of the last 1,000 years to do so.",
+      "releaseInfo": "2017",
+      "runtime": "60 min",
+      "genres": [
+        "Documentary",
+        "Music",
+        "Classic Rock"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/s6xbVc5WlJOlM7KYkCwqtF2MgyX.jpg",
+      "imdbRating": "7.4"
     },
     {
       "id": "tt4143508",
@@ -2138,23 +2172,6 @@
       ],
       "background": "https://image.tmdb.org/t/p/w1280/nU1a6mIpfOLsatu6wS2gkQ82sUz.jpg",
       "imdbRating": "10.0"
-    },
-    {
-      "id": "tt5967998",
-      "type": "movie",
-      "name": "Brian Wilson and Friends - A Soundstage Special Event",
-      "poster": "https://image.tmdb.org/t/p/w780/ntScx4UXDailvdq84WSw2R27aQQ.jpg",
-      "posterShape": "poster",
-      "description": "In his Soundstage special, Brian Wilson performs hits from his illustrious award-winning career as a Beach Boy, as well as selections from his new album No Pier Pressure.",
-      "releaseInfo": "2015",
-      "runtime": "81 min",
-      "genres": [
-        "Documentary",
-        "Music",
-        "Classic Rock"
-      ],
-      "background": "https://image.tmdb.org/t/p/w1280/zWpzA6f9U2uyFfKwVkXLfNTWzNx.jpg",
-      "imdbRating": "7.5"
     },
     {
       "id": "tt4900018",
@@ -2581,6 +2598,23 @@
       "imdbRating": "7.2"
     },
     {
+      "id": "tt1800669",
+      "type": "movie",
+      "name": "Better Than Something: Jay Reatard",
+      "poster": "https://image.tmdb.org/t/p/w780/X6Wyvgf2TiL5yuWLdusdySh4CA.jpg",
+      "posterShape": "poster",
+      "description": "BETTER THAN SOMETHING is an exciting and intimate portrait of Memphis-based punk musician Jay Reatard, who toured the world and released dozens of records over the course of a 15 year career that began in his mid-teens. Original and never-before-seen footage documents his self-made journey to iconic garage rock star, with colleagues, friends, and family speaking candidly about Jay's vibrant and complicated life. Jay Reatard himself - filmed just nine months before his untimely death at the age of twenty-nine - shares his experiences both on and off stage, with all the humor, savvy, and pathos one can expect from such a prolific and vital artist.",
+      "releaseInfo": "2012",
+      "runtime": "89 min",
+      "genres": [
+        "Documentary",
+        "Music",
+        "Classic Rock"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/vsty7Y0qUJR3VQfqe5CBZlDuoHX.jpg",
+      "imdbRating": "5.1"
+    },
+    {
       "id": "tt10085000",
       "type": "movie",
       "name": "Romantic Warriors II: A Progressive Music Saga About Rock in Opposition",
@@ -2763,23 +2797,6 @@
       ],
       "background": "https://image.tmdb.org/t/p/w1280/6nKehBRbLZS60NaDjRHKpKybDt6.jpg",
       "imdbRating": "6.3"
-    },
-    {
-      "id": "tt3314154",
-      "type": "movie",
-      "name": "Leonard Cohen: Bird on a Wire",
-      "poster": "https://image.tmdb.org/t/p/w780/8Bzrd4KEPGAcPLMTHfJ5VTKNn3O.jpg",
-      "posterShape": "poster",
-      "description": "Celebrated filmmaker Tony Palmer follows Leonard Cohen on his 1972 European tour. The film, after extensive re-editing from its initial version, opened in London in 1974. It was shown on German television, but it disappeared for decades and was considered a lost film. Its original version, restored by the director, was released on DVD in 2010 and had its first theatrical release in 2017.",
-      "releaseInfo": "2010",
-      "runtime": "106 min",
-      "genres": [
-        "Documentary",
-        "Music",
-        "Classic Rock"
-      ],
-      "background": "https://image.tmdb.org/t/p/w1280/oMLuVF3QqUYTUECSPwn8wv6duFa.jpg",
-      "imdbRating": "5.6"
     },
     {
       "id": "tt1545103",
@@ -2997,7 +3014,7 @@
         "Classic Rock"
       ],
       "background": "https://image.tmdb.org/t/p/w1280/p26jL2P6AQ6B9Kw3fx4VxO3vKR9.jpg",
-      "imdbRating": "7.4"
+      "imdbRating": "7.3"
     },
     {
       "id": "tt0892375",
@@ -3049,23 +3066,6 @@
       ],
       "background": "https://image.tmdb.org/t/p/w1280/h80Ea2ccxg1tFOetC4qJ70aNmPm.jpg",
       "imdbRating": "6.7"
-    },
-    {
-      "id": "tt1062951",
-      "type": "movie",
-      "name": "Paul Simon and Friends | The Library of Congress Gershwin Prize for Popular Song",
-      "poster": "https://image.tmdb.org/t/p/w780/rYJF0IFc3UT2gYrYtTrngbzu2mY.jpg",
-      "posterShape": "poster",
-      "description": "The Library of Congress Gershwin Prize for Popular Song will honor either a songwriter, interpreter, or singer/songwriter whose career reflects lifetime achievement in promoting the genre of song as a vehicle of artistic expression and cultural understanding. Paul Simon, one of America's most respected songwriters and musicians, was the recipient of the first annual Library of Congress Gershwin Prize for Popular Song. Named in honor of the legendary George and Ira Gershwin, the award recognizes the profound and positive effect of popular music on the world's culture.",
-      "releaseInfo": "2007",
-      "runtime": "110 min",
-      "genres": [
-        "Documentary",
-        "Music",
-        "Classic Rock"
-      ],
-      "background": "https://image.tmdb.org/t/p/w1280/s2surkUyxQ3HEI1LUvcDAmTYHue.jpg",
-      "imdbRating": "6.4"
     },
     {
       "id": "tt2256655",
@@ -3148,6 +3148,23 @@
         "Classic Rock"
       ],
       "background": "https://image.tmdb.org/t/p/w1280/89iWdGUwbZc0WBan1RjBLdDqynk.jpg",
+      "imdbRating": "7.5"
+    },
+    {
+      "id": "tt0994889",
+      "type": "movie",
+      "name": "Paul McCartney: The Space Within Us",
+      "poster": "https://image.tmdb.org/t/p/w780/lsHJay0gea7zEb22oC8CqPnAyaG.jpg",
+      "posterShape": "poster",
+      "description": "In 2005, rock legend Paul McCartney crossed America with his record-breaking, sold-out US tour. Better than a front-row seat, this feature-length concert film takes viewers onto this stage and beyond, capturing Paul's out-of-this-world performance.",
+      "releaseInfo": "2006",
+      "runtime": "115 min",
+      "genres": [
+        "Documentary",
+        "Music",
+        "Classic Rock"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/zcepmiDZUrAQA3KkCe6gDdDaKls.jpg",
       "imdbRating": "7.5"
     },
     {
@@ -3354,22 +3371,6 @@
       "imdbRating": "7.5"
     },
     {
-      "id": "tt0270442",
-      "type": "movie",
-      "name": "John & Yoko's Year of Peace",
-      "poster": "https://image.tmdb.org/t/p/w780/ID04hHAb0pdle1oN43UjR4M7q8.jpg",
-      "posterShape": "poster",
-      "description": "The year: 1969. Headlines blare war and civil unrest while John Lennon and Yoko Ono are in love. The eccentic rock 'n' roll couple has just gotten married, and more than happy to be together, they want to change the world. Lying in a hotel bed surrounded by journalists, they announce their mission for peace and invite the rest of the world to symbolically climb into bed with them and share their dream. People call them silly, naive, even ridiculous, yet one famous couple's bed-in spread new hope that there really could be an end to war, hate and violence. Here is rare footage from that amazing time, including footage from John and Yoko's wedding, the infamous bedside confrontation between John and conservative cartoonist Al Capp, Lennon debating media expert Marshall McLuhan, and meeting Canadian Prime Minister Pierre Trudeau. Now twenty years after Lennon's murder, Yoko and others involved in the peace mission reflect on the events of that magical, mystical year.",
-      "releaseInfo": "2000",
-      "runtime": "52 min",
-      "genres": [
-        "Documentary",
-        "Music",
-        "Classic Rock"
-      ],
-      "imdbRating": "6.5"
-    },
-    {
       "id": "tt0219142",
       "type": "movie",
       "name": "Louis Prima: The Wildest!",
@@ -3520,6 +3521,23 @@
       "imdbRating": "6.8"
     },
     {
+      "id": "tt0117028",
+      "type": "movie",
+      "name": "Message to Love - The Isle of Wight Festival",
+      "poster": "https://image.tmdb.org/t/p/w780/umFPPFzQ5JPvCe6aCrpNUmbhNK4.jpg",
+      "posterShape": "poster",
+      "description": "In August 1970, 600,000 fans flocked to the Isle of Wight to witness the third and final festival to be held on the island. Besides the music, they also got a look at the greed, cynicism and corruption that would plague the music industry for years to come. They also witnessed the final, drugged out performance of Jimi Hendrix in England just two weeks before he would meet a tragic death. When it all was over, the fans view of rock and roll was never the same.",
+      "releaseInfo": "1996",
+      "runtime": "127 min",
+      "genres": [
+        "Documentary",
+        "Music",
+        "Classic Rock"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/v5aHmQvWYP9TfEEFe1A7Y5zSlSn.jpg",
+      "imdbRating": "6.9"
+    },
+    {
       "id": "tt0116360",
       "type": "movie",
       "name": "Lynyrd Skynyrd - Freebird, The Movie & Tribute Tour",
@@ -3619,6 +3637,22 @@
       "imdbRating": "7.5"
     },
     {
+      "id": "tt1609165",
+      "type": "movie",
+      "name": "The Velvet Underground - Velvet Redux Live MCMXCIII",
+      "poster": "https://image.tmdb.org/t/p/w780/eVnWDBPSyrSVwJwQLbCz2FIIm2H.jpg",
+      "posterShape": "poster",
+      "description": "Seminal experimental rock band The Velvet Underground, who initially disbanded in 1970, perform a set at L'Olympia in Paris, France in June 1993, during their brief reunion tour. The set features original founding members Lou Reed, John Cale, Sterling Morrison and Maureen Tucker performing 15 songs, including a new, previously unreleased track, \"Coyote.\"",
+      "releaseInfo": "1993",
+      "runtime": "92 min",
+      "genres": [
+        "Documentary",
+        "Music",
+        "Classic Rock"
+      ],
+      "imdbRating": "8.0"
+    },
+    {
       "id": "tt0306922",
       "type": "movie",
       "name": "Guns N' Roses: Makin' F@*!ing Videos Part I - Don't Cry",
@@ -3666,23 +3700,6 @@
       ],
       "background": "https://image.tmdb.org/t/p/w1280/6wU74B79ALOTf5MaHwpbVP1spN5.jpg",
       "imdbRating": "8.6"
-    },
-    {
-      "id": "tt0364012",
-      "type": "movie",
-      "name": "Lou Reed and John Cale: Songs for Drella",
-      "poster": "https://image.tmdb.org/t/p/w780/advdrJTZTmK3qBwfv8MDBVPqsDx.jpg",
-      "posterShape": "poster",
-      "description": "Songs for Drella is a concept album by Lou Reed and John Cale, both formerly of The Velvet Underground, and is dedicated to the memory of Andy Warhol, their mentor, who had died unexpectedly in 1987. Drella was a nickname for Warhol coined by Warhol Superstar Ondine, a contraction of Dracula and Cinderella, used by Warhol's crowd. The song cycle focuses on Warhol's interpersonal relations and experiences, with songs falling roughly into three categories: Warhol's first-person perspective (which makes up the vast majority of the album), third-person narratives chronicling events and affairs, and first-person commentaries on Warhol by Reed and Cale themselves. The songs on the album are, to some extent, in chronological order.",
-      "releaseInfo": "1990",
-      "runtime": "57 min",
-      "genres": [
-        "Documentary",
-        "Music",
-        "Classic Rock"
-      ],
-      "background": "https://image.tmdb.org/t/p/w1280/lpBOK5uVA3ptoeXcV8Zz4LCpxec.jpg",
-      "imdbRating": "6.7"
     },
     {
       "id": "tt0094743",
@@ -3905,23 +3922,6 @@
       "imdbRating": "7.3"
     },
     {
-      "id": "tt0245509",
-      "type": "movie",
-      "name": "To Russia... with Elton",
-      "poster": "https://image.tmdb.org/t/p/w780/umz8UENMCWNzaE7egtZziqoDK5P.jpg",
-      "posterShape": "poster",
-      "description": "Footage of a concert given in Moscow, Russia, by rock singer Elton John.",
-      "releaseInfo": "1979",
-      "runtime": "77 min",
-      "genres": [
-        "Documentary",
-        "Music",
-        "Classic Rock"
-      ],
-      "background": "https://image.tmdb.org/t/p/w1280/hJ3r9L2fgBzWPRWsbXT38gJtKQJ.jpg",
-      "imdbRating": "6.8"
-    },
-    {
       "id": "tt0077838",
       "type": "movie",
       "name": "The Last Waltz",
@@ -3939,20 +3939,20 @@
       "imdbRating": "7.7"
     },
     {
-      "id": "tt0078151",
+      "id": "tt0058957",
       "type": "movie",
-      "name": "Renaldo and Clara",
-      "poster": "https://image.tmdb.org/t/p/w780/tI8zBFEuumNBZE5fVfrGKxRXgKS.jpg",
+      "name": "The Beatles at Shea Stadium",
+      "poster": "https://image.tmdb.org/t/p/w780/mbxyojYqIAfIzrZlltCYzpqK4iK.jpg",
       "posterShape": "poster",
-      "description": "Filmed in the autumn of 1975 prior to and during Bob Dylan's Rolling Thunder Revue tour – featuring appearances and performances by Ronee Blakley, T-Bone Burnett, Jack Elliott, Allen Ginsberg, Arlo Guthrie, Ronnie Hawkins, Roger McGuinn, Joni Mitchell, Mick Ronson, Arlen Roth, Phil Ochs, Sam Shepard, and Harry Dean Stanton – the film incorporates three distinct film genres: concert footage, documentary interviews, and dramatic fictional vignettes reflective of Dylan's song lyrics and life.",
-      "releaseInfo": "1978",
-      "runtime": "235 min",
+      "description": "The Beatles at Shea Stadium is a fifty-minute-long documentary of the Beatles' 1965 concert at Shea Stadium in New York, the highlight of the group's 1965 tour.",
+      "releaseInfo": "1977",
+      "runtime": "50 min",
       "genres": [
         "Documentary",
         "Music",
         "Classic Rock"
       ],
-      "background": "https://image.tmdb.org/t/p/w1280/fHYQhpEDVziXIhq7mOqibLDKpFf.jpg",
+      "background": "https://image.tmdb.org/t/p/w1280/7tdC0YjCbb28HgpKp4qqRnPz8j8.jpg",
       "imdbRating": "7.9"
     },
     {
@@ -4090,23 +4090,6 @@
       ],
       "background": "https://image.tmdb.org/t/p/w1280/oLXVSSvaghazH48eaXsca5FYgbM.jpg",
       "imdbRating": "5.8"
-    },
-    {
-      "id": "tt0067275",
-      "type": "movie",
-      "name": "Joe Cocker: Mad Dogs & Englishmen",
-      "poster": "https://image.tmdb.org/t/p/w780/mV0CSLNLQNhP4QU99JTbSi21kXB.jpg",
-      "posterShape": "poster",
-      "description": "\"Joe Cocker - the Rotating Rocker - and his 42 member communal touring company Mad Dogs & Englishmen with the Master of Space and Time Leon Russell - see them perform in the pleasure palaces of America - it's a moving picture\" says the classic film poster.  See this spectacular rock 'n' roll tour documentary and get a dramatic visual record that captures the spirit of the hippie era with mind-blowing performances, crazy backstage footage, and spaced-out interviews. Supporting cast includes Claudia Lennear, Rita Coolidge, Sherman Jones reciting \"Face on the Barroom Floor,\" and Canina the dog.",
-      "releaseInfo": "1971",
-      "runtime": "117 min",
-      "genres": [
-        "Documentary",
-        "Music",
-        "Classic Rock"
-      ],
-      "background": "https://image.tmdb.org/t/p/w1280/deRmanOSVBImDicIVqNGtzU85wN.jpg",
-      "imdbRating": "8.0"
     },
     {
       "id": "tt0065687",
