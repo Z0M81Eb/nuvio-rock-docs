@@ -238,23 +238,6 @@
       "imdbRating": "5.5"
     },
     {
-      "id": "tt10404910",
-      "type": "movie",
-      "name": "Wake Up Punk",
-      "poster": "https://image.tmdb.org/t/p/w780/aVagEL3QUzg3ETdKh7kVHWcXzz5.jpg",
-      "posterShape": "poster",
-      "description": "Joe Corré, son of punk visionaries Vivienne Westwood and Malcolm McLaren, burns an estimated £5M worth of punk memorabilia protesting the commodification of punk. The film takes this incendiary act of ‘cultural terrorism’ and the questions it raised to explore the lifespan and true worth of punk - the 20th century's most volatile movement.",
-      "releaseInfo": "2022",
-      "runtime": "85 min",
-      "genres": [
-        "Documentary",
-        "Music",
-        "Punk"
-      ],
-      "background": "https://image.tmdb.org/t/p/w1280/1gqWx8LCcWzieEYXrRY9JDpnmPw.jpg",
-      "imdbRating": "8.0"
-    },
-    {
       "id": "tt9174746",
       "type": "movie",
       "name": "Rebel Dread",
@@ -320,7 +303,7 @@
         "Punk"
       ],
       "background": "https://image.tmdb.org/t/p/w1280/2QDgTgyfjDzEsbhzXYeDyGDzqLf.jpg",
-      "imdbRating": "6.8"
+      "imdbRating": "7.1"
     },
     {
       "id": "tt7206446",
@@ -744,23 +727,6 @@
       "imdbRating": "7.2"
     },
     {
-      "id": "tt3512486",
-      "type": "movie",
-      "name": "The Damned: Don't You Wish That We Were Dead",
-      "poster": "https://image.tmdb.org/t/p/w780/4rYaJzmX8AltVQLEfF7nEB1VcZB.jpg",
-      "posterShape": "poster",
-      "description": "From Lemmy filmmaker Wes Orshoski comes the story of the long-ignored pioneers of punk: The Damned, the first U.K. punks on wax and the first to cross the Atlantic. This authorized film includes appearances from Chrissie Hynde, Mick Jones (The Clash), Lemmy and members of Pink Floyd, Black Flag, GNR, the Sex Pistols, Blondie, Buzzcocks, and more. Shot around the globe over three years, the film charts the band's complex history and infighting, as it celebrated its 35th anniversary and found its estranged former members striking out on their own anniversary tour, while still others battle cancer.",
-      "releaseInfo": "2015",
-      "runtime": "107 min",
-      "genres": [
-        "Documentary",
-        "Music",
-        "Punk"
-      ],
-      "background": "https://image.tmdb.org/t/p/w1280/oGjAePO1ANqcrW44wQjG4dMQ0tr.jpg",
-      "imdbRating": "7.7"
-    },
-    {
       "id": "tt3004624",
       "type": "movie",
       "name": "Life After Death from Above 1979",
@@ -810,22 +776,6 @@
       ],
       "background": "https://image.tmdb.org/t/p/w1280/7O0yvw9tApjEuO1m02ZyCAqwwgk.jpg",
       "imdbRating": "6.9"
-    },
-    {
-      "id": "tt2191618",
-      "type": "movie",
-      "name": "Every Everything: The Music, Life & Times of Grant Hart",
-      "poster": "https://image.tmdb.org/t/p/w780/5h601lOxUHLmgJ2Y9ajag68Vz07.jpg",
-      "posterShape": "poster",
-      "description": "A rock & roll Fog of War about Hüsker Dü's legendary singer/songwriter Grant Hart.",
-      "releaseInfo": "2013",
-      "runtime": "97 min",
-      "genres": [
-        "Documentary",
-        "Music",
-        "Punk"
-      ],
-      "background": "https://image.tmdb.org/t/p/w1280/4F4RJjSQpHH7PjOYP74zvOIpzCJ.jpg"
     },
     {
       "id": "tt2417154",
@@ -908,7 +858,7 @@
         "Punk"
       ],
       "background": "https://image.tmdb.org/t/p/w1280/gbsFT8oASldg1irE95cNwhPLboq.jpg",
-      "imdbRating": "7.1"
+      "imdbRating": "7.2"
     },
     {
       "id": "tt2953170",
@@ -1009,6 +959,21 @@
       "imdbRating": "7.5"
     },
     {
+      "id": "tt3769098",
+      "type": "movie",
+      "name": "Punk O Cine",
+      "poster": "https://image.tmdb.org/t/p/w780/dCmuE8uJenQg3jkd7ag3Ozv8B61.jpg",
+      "posterShape": "poster",
+      "description": "Documentary about Finnish punk scene in the early 2010s.",
+      "releaseInfo": "2011",
+      "runtime": "55 min",
+      "genres": [
+        "Documentary",
+        "Music",
+        "Punk"
+      ]
+    },
+    {
       "id": "tt1633989",
       "type": "movie",
       "name": "Dragonslayer",
@@ -1024,22 +989,6 @@
       ],
       "background": "https://image.tmdb.org/t/p/w1280/bX4j8F1uGnKttKLM7zKmWr2C64F.jpg",
       "imdbRating": "6.1"
-    },
-    {
-      "id": "tt2005225",
-      "type": "movie",
-      "name": "From the Back of the Room",
-      "poster": "https://image.tmdb.org/t/p/w780/pMPM9rLaWWuNhYcF9zjgxg9COxh.jpg",
-      "posterShape": "poster",
-      "description": "Although it is often credited with spurring the \"third wave\" of feminism, Riot Grrrl seemed to many to be a blip in the media. Riot Grrrl paved the way for the more mainstream \"girl power\" phenomenon, but was ultimately forgotten until recently. This film tackles the past thirty years of female involvement in Do It Yourself music, and aims to give a more complete picture of how women have participated in the D.I.Y. community, and how it affects their daily lives.",
-      "releaseInfo": "2011",
-      "runtime": "105 min",
-      "genres": [
-        "Documentary",
-        "Music",
-        "Punk"
-      ],
-      "imdbRating": "4.0"
     },
     {
       "id": "tt1398949",
@@ -1140,6 +1089,22 @@
       ],
       "background": "https://image.tmdb.org/t/p/w1280/baXNqgGIX9GairMXro3bt2pnHUu.jpg",
       "imdbRating": "6.3"
+    },
+    {
+      "id": "tt1395164",
+      "type": "movie",
+      "name": "Burning Down the House: The Story of CBGB",
+      "poster": "https://image.tmdb.org/t/p/w780/4EQ3qQFTxgBDUSwrdRdRhZ8Sz2z.jpg",
+      "posterShape": "poster",
+      "description": "An East Village performance space fought against the Bowery homeless shelter who threatened to shut them down. Some of the most iconic figures in music have performed here.",
+      "releaseInfo": "2009",
+      "runtime": "90 min",
+      "genres": [
+        "Documentary",
+        "Music",
+        "Punk"
+      ],
+      "imdbRating": "8.0"
     },
     {
       "id": "tt1160424",
@@ -1405,6 +1370,23 @@
       "imdbRating": "6.8"
     },
     {
+      "id": "tt0435598",
+      "type": "movie",
+      "name": "Against Me!: We're Never Going Home",
+      "poster": "https://image.tmdb.org/t/p/w780/l7dErWgvOScrVrODTsaz6v5hMv8.jpg",
+      "posterShape": "poster",
+      "description": "Florida anarcho-punk band Against Me! embarks on a month-long tour in the spring of 2004 with Planes Mistaken for Stars and No Choice. Along the way, they court attention from major labels and navigate the uneasy relationship between their DIY roots and the prospect of commercial success. Features twelve performances from throughout the tour interspersed with interviews and behind-the-scenes tour shenanigans.",
+      "releaseInfo": "2004",
+      "runtime": "61 min",
+      "genres": [
+        "Documentary",
+        "Music",
+        "Punk"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/8g1q0ds1pv6TDTrSPMaTYgk7JBz.jpg",
+      "imdbRating": "8.0"
+    },
+    {
       "id": "tt0167488",
       "type": "movie",
       "name": "Ramones: We're Outta Here!",
@@ -1487,6 +1469,22 @@
       "imdbRating": "4.6"
     },
     {
+      "id": "tt0447700",
+      "type": "movie",
+      "name": "Simple Plan: A Big Package for You",
+      "poster": "https://image.tmdb.org/t/p/w780/asrQiju9gLvQ6KEkZS1pdtjzgJw.jpg",
+      "posterShape": "poster",
+      "description": "A Big Package for You: 1999-2003 is a DVD/CD by the pop punk band Simple Plan from Montreal, Canada. The band consists of five members Pierre Bouvier, guitarist and lead vocalist, David Desrosiers, bassist and backing vocalist, Sébastien Lefebvre, rhythm guitarist and backing vocalist, Chuck Comeau, drummer, and Jeff Stinco, lead guitarist.",
+      "releaseInfo": "2003",
+      "runtime": "101 min",
+      "genres": [
+        "Documentary",
+        "Music",
+        "Punk"
+      ],
+      "imdbRating": "7.7"
+    },
+    {
       "id": "tt0379162",
       "type": "movie",
       "name": "Afro-Punk",
@@ -1503,6 +1501,23 @@
       "imdbRating": "5.6"
     },
     {
+      "id": "tt0370694",
+      "type": "movie",
+      "name": "Hey! Is Dee Dee Home?",
+      "poster": "https://image.tmdb.org/t/p/w780/tdXG6icWwaEb7hZz040mrbVkTLS.jpg",
+      "posterShape": "poster",
+      "description": "Punk rock devotees will welcome director Lech Kowalski's reflective video portrait of late bassist Dee Dee Ramone and his life as a music industry icon -- including his self-destructive bouts with heroin. The centerpiece of the hourlong documentary -- which is peppered with vintage performance clips -- is a 1991 interview with a clean Dee Dee, who talks at length about his storied career and penchant for living on the edge.",
+      "releaseInfo": "2003",
+      "runtime": "63 min",
+      "genres": [
+        "Documentary",
+        "Music",
+        "Punk"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/hk7iP0FT7P6gxbulNMLuLQnCD86.jpg",
+      "imdbRating": "5.9"
+    },
+    {
       "id": "tt0759960",
       "type": "movie",
       "name": "Avril Lavigne: My World",
@@ -1517,6 +1532,23 @@
         "Punk"
       ],
       "background": "https://image.tmdb.org/t/p/w1280/vs4TxhEW6A9wMt3GRqJgjfYkzpe.jpg",
+      "imdbRating": "9.0"
+    },
+    {
+      "id": "tt0366227",
+      "type": "movie",
+      "name": "Betty Blowtorch: And Her Amazing True Life Adventures",
+      "poster": "https://image.tmdb.org/t/p/w780/dAK5LMwG9Ql2ymjbDpyiq69vTEz.jpg",
+      "posterShape": "poster",
+      "description": "For two years, filmmaker and music video director Anthony Scarpa followed the all-girl punk rock band Betty Blowtorch, documenting their ferocious sound and dangerously low-tech pyrotechnic shows, unaware of the turmoil and tragedy that he will ultimately capture. From their near rise to the top of the major labels, to their ultimate sad end, this critically-acclaimed rock n roll tragedy features the band Betty Blowtorch, as well as other rockers such as Duff McKagan (Guns N Roses, Velvet Revolver), Vanilla Ice, Dez Cadena (Black Flag), Jennifer Finch (L7), Kevin Baldes (LiT), and many others.",
+      "releaseInfo": "2003",
+      "runtime": "98 min",
+      "genres": [
+        "Documentary",
+        "Music",
+        "Punk"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/ggCtE5xtadtIwcCgT1ZcYc5HvVr.jpg",
       "imdbRating": "9.0"
     },
     {
@@ -1585,7 +1617,7 @@
         "Punk"
       ],
       "background": "https://image.tmdb.org/t/p/w1280/8qVZboJe6Il7Ey2I1DqcEjLrjnZ.jpg",
-      "imdbRating": "6.8"
+      "imdbRating": "6.9"
     },
     {
       "id": "tt0321711",
@@ -1685,6 +1717,22 @@
         "Punk"
       ],
       "imdbRating": "6.0"
+    },
+    {
+      "id": "tt0417082",
+      "type": "movie",
+      "name": "Reality 86'd",
+      "poster": "https://image.tmdb.org/t/p/w780/g3A3mCBmNfGYFdkpPve1d6JfIWu.jpg",
+      "posterShape": "poster",
+      "description": "Three bands and crew (a combined total of 13 individuals), 2 Dodge Ram extended cab vans, one equipment truck, one PA system traverse the continental US for six months. A road documentary shot from the inside of the last Black Flag tour ever (the 1986 “In My Head” US tour.) Featuring behind the scenes proceedings and live performances from Black Flag, Painted Willie, and Gone. David Markey was along for the entire trip as the drummer / singer for Painted Willie, documenting the six month tour with his Super-8 camera as it happened. Also features roadie Joe (“Planet Joe”) Cole, soundmen Davo Claasen and Dave “Ratman” Levine, and the tour manager who kept it all together, Mitch Bury. A crucial turning point in American underground rock. The end of the line for a trail blazing American band. Shot in 1986 and completed by director David Markey in 1991 for We Got Power. (futuristika.org)",
+      "releaseInfo": "1991",
+      "runtime": "63 min",
+      "genres": [
+        "Documentary",
+        "Music",
+        "Punk"
+      ],
+      "imdbRating": "7.0"
     },
     {
       "id": "tt0497635",

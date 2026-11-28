@@ -1583,23 +1583,6 @@
       "imdbRating": "7.6"
     },
     {
-      "id": "tt7808498",
-      "type": "movie",
-      "name": "Creem: America's Only Rock 'n' Roll Magazine",
-      "poster": "https://image.tmdb.org/t/p/w780/1rRqgQTcUClCju0PdFqZmvA4ipd.jpg",
-      "posterShape": "poster",
-      "description": "Explores the seminal music magazine from its 1969 launch in Detroit to the untimely death of its publisher Barry Kramer in 1981.",
-      "releaseInfo": "2019",
-      "runtime": "75 min",
-      "genres": [
-        "Documentary",
-        "Music",
-        "Classic Rock"
-      ],
-      "background": "https://image.tmdb.org/t/p/w1280/domE8foNaO1RJUPBVapkL9cF8DA.jpg",
-      "imdbRating": "6.7"
-    },
-    {
       "id": "tt9144476",
       "type": "movie",
       "name": "David Bowie: Finding Fame",
@@ -1803,23 +1786,6 @@
       "imdbRating": "7.3"
     },
     {
-      "id": "tt7309430",
-      "type": "movie",
-      "name": "Bob Dylan: Trouble No More",
-      "poster": "https://image.tmdb.org/t/p/w780/lXu4BpDGAnfdvCgGeULeusT9IqP.jpg",
-      "posterShape": "poster",
-      "description": "This very special film consists of truly electrifying video footage from Bob Dylan’s “born again” period, shot on the last leg of his ’79-’80 tour, much of it thought to have been lost for years and all newly restored.",
-      "releaseInfo": "2017",
-      "runtime": "59 min",
-      "genres": [
-        "Documentary",
-        "Music",
-        "Classic Rock"
-      ],
-      "background": "https://image.tmdb.org/t/p/w1280/wzL3AfkN19M3Zf0DXLZNiFdBkFv.jpg",
-      "imdbRating": "6.4"
-    },
-    {
       "id": "tt7804016",
       "type": "movie",
       "name": "Queen: Rock the World",
@@ -1868,23 +1834,6 @@
         "Classic Rock"
       ],
       "imdbRating": "5.0"
-    },
-    {
-      "id": "tt6970188",
-      "type": "movie",
-      "name": "Sgt Pepper's Musical Revolution",
-      "poster": "https://image.tmdb.org/t/p/w780/zzeuUcnYkpNoIQOjiqHpCIDjQW3.jpg",
-      "posterShape": "poster",
-      "description": "50 years ago this week, on 1 June, 1967, an album was released that changed music history - The Beatles' Sgt Pepper's Lonely Hearts Club Band. In this film, composer Howard Goodall explores just why this album is still seen as so innovative, so revolutionary and so influential. With the help of outtakes and studio conversations between the band, never heard before outside of Abbey Road, Howard gets under the bonnet of Sgt Pepper. He takes the music apart and reassembles it, to show us how it works - and makes surprising connections with the music of the last 1,000 years to do so.",
-      "releaseInfo": "2017",
-      "runtime": "60 min",
-      "genres": [
-        "Documentary",
-        "Music",
-        "Classic Rock"
-      ],
-      "background": "https://image.tmdb.org/t/p/w1280/s6xbVc5WlJOlM7KYkCwqtF2MgyX.jpg",
-      "imdbRating": "7.4"
     },
     {
       "id": "tt4143508",
@@ -2121,6 +2070,40 @@
       ],
       "background": "https://image.tmdb.org/t/p/w1280/upqSM1JgV8PifjIYI6RbMCCMOEd.jpg",
       "imdbRating": "7.2"
+    },
+    {
+      "id": "tt5432624",
+      "type": "movie",
+      "name": "Bang! The Bert Berns Story",
+      "poster": "https://image.tmdb.org/t/p/w780/uRzlnbmiyhYhpYXA5zBMX25ZIrv.jpg",
+      "posterShape": "poster",
+      "description": "Music meets the Mob in this biography of '60s hitmaker and 2016 Rock and Roll Hall of Fame inductee Bert Berns.",
+      "releaseInfo": "2016",
+      "runtime": "94 min",
+      "genres": [
+        "Documentary",
+        "Music",
+        "Classic Rock"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/gA0CScN8dYeVKoBeNRhldHqKGBP.jpg",
+      "imdbRating": "5.5"
+    },
+    {
+      "id": "tt5191938",
+      "type": "movie",
+      "name": "Sidemen: Long Road To Glory",
+      "poster": "https://image.tmdb.org/t/p/w780/7Di6W7yaBUHsADd9sQGqiXF5Vo3.jpg",
+      "posterShape": "poster",
+      "description": "An intimate look at the lives and legacies of piano player Pinetop Perkins, drummer Willie 'Big Eyes' Smith and guitarist Hubert Sumlin, all Muddy Waters and Howlin' Wolf sidemen. The film captures some of the last interviews and their final live performances together, before their deaths in 2011. The historic live shows are accompanied by performances and personal insights from many of the blues and rock stars these legendary sidemen inspired including; Bonnie Raitt, Gregg Allman, Derek Trucks, Shemekia Copeland, Kenny Wayne Shepherd, Joe Perry, Joe Bonamassa and Johnny Winter.",
+      "releaseInfo": "2016",
+      "runtime": "77 min",
+      "genres": [
+        "Documentary",
+        "Music",
+        "Classic Rock"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/7weTau2XsP7UXX0LGBa3Pnd2BI6.jpg",
+      "imdbRating": "5.2"
     },
     {
       "id": "tt3807496",
@@ -2748,6 +2731,22 @@
       "imdbRating": "6.4"
     },
     {
+      "id": "tt1756506",
+      "type": "movie",
+      "name": "Everything In-Between: The Story of Ellipse",
+      "poster": "https://image.tmdb.org/t/p/w780/iGSZ0lPkGgK8ZDHN6Ep2HPYLkTv.jpg",
+      "posterShape": "poster",
+      "description": "Imogen Heap decamps to Maui, Hawaii in spring 2007 to start writing her third solo album. With only a video camera for company, she begins documenting its progress and doesn't stop until she's collected a Grammy Award for it. Aided by friend and film maker Justine Pearsall, every moment in the life cycle of the album is captured. From the writing trip; to her return to her family home to build a state of the art studio in her childhood playroom; to the songs themselves, their origins and journey to completion, This is an intimate and comprehensive portrait of the album and the artist. Including interviews with the people who know her best and appearances by Jeff Beck, Nitin Sawhney and Mika, Everything In-Between is part making of, part intimate diary confessional. A rare and inspiring insight into the life and work of a unique and exceptional artist and the creation of an acclaimed album. Filmed over three years and compiled from 374 hours of footage.",
+      "releaseInfo": "2010",
+      "runtime": "90 min",
+      "genres": [
+        "Documentary",
+        "Music",
+        "Classic Rock"
+      ],
+      "imdbRating": "9.0"
+    },
+    {
       "id": "tt1721693",
       "type": "movie",
       "name": "The Promise: The Making of Darkness on the Edge of Town",
@@ -3066,6 +3065,23 @@
       ],
       "background": "https://image.tmdb.org/t/p/w1280/h80Ea2ccxg1tFOetC4qJ70aNmPm.jpg",
       "imdbRating": "6.7"
+    },
+    {
+      "id": "tt1062951",
+      "type": "movie",
+      "name": "Paul Simon and Friends | The Library of Congress Gershwin Prize for Popular Song",
+      "poster": "https://image.tmdb.org/t/p/w780/rYJF0IFc3UT2gYrYtTrngbzu2mY.jpg",
+      "posterShape": "poster",
+      "description": "The Library of Congress Gershwin Prize for Popular Song will honor either a songwriter, interpreter, or singer/songwriter whose career reflects lifetime achievement in promoting the genre of song as a vehicle of artistic expression and cultural understanding. Paul Simon, one of America's most respected songwriters and musicians, was the recipient of the first annual Library of Congress Gershwin Prize for Popular Song. Named in honor of the legendary George and Ira Gershwin, the award recognizes the profound and positive effect of popular music on the world's culture.",
+      "releaseInfo": "2007",
+      "runtime": "110 min",
+      "genres": [
+        "Documentary",
+        "Music",
+        "Classic Rock"
+      ],
+      "background": "https://image.tmdb.org/t/p/w1280/s2surkUyxQ3HEI1LUvcDAmTYHue.jpg",
+      "imdbRating": "6.4"
     },
     {
       "id": "tt2256655",
@@ -3637,22 +3653,6 @@
       "imdbRating": "7.5"
     },
     {
-      "id": "tt1609165",
-      "type": "movie",
-      "name": "The Velvet Underground - Velvet Redux Live MCMXCIII",
-      "poster": "https://image.tmdb.org/t/p/w780/eVnWDBPSyrSVwJwQLbCz2FIIm2H.jpg",
-      "posterShape": "poster",
-      "description": "Seminal experimental rock band The Velvet Underground, who initially disbanded in 1970, perform a set at L'Olympia in Paris, France in June 1993, during their brief reunion tour. The set features original founding members Lou Reed, John Cale, Sterling Morrison and Maureen Tucker performing 15 songs, including a new, previously unreleased track, \"Coyote.\"",
-      "releaseInfo": "1993",
-      "runtime": "92 min",
-      "genres": [
-        "Documentary",
-        "Music",
-        "Classic Rock"
-      ],
-      "imdbRating": "8.0"
-    },
-    {
       "id": "tt0306922",
       "type": "movie",
       "name": "Guns N' Roses: Makin' F@*!ing Videos Part I - Don't Cry",
@@ -3683,23 +3683,6 @@
         "Classic Rock"
       ],
       "imdbRating": "7.8"
-    },
-    {
-      "id": "tt0101945",
-      "type": "movie",
-      "name": "Paul McCartney's Get Back",
-      "poster": "https://image.tmdb.org/t/p/w780/c9rP6IIUMeuIlCKqWacc1aCWglH.jpg",
-      "posterShape": "poster",
-      "description": "Get Back is a 1991 concert film starring Paul McCartney that documents The Paul McCartney World Tour of 1989–1990. The film was directed by Richard Lester, in a return to his Beatles-related work, and was released by Carolco Pictures and New Line Cinema, through the Seven Arts joint venture.",
-      "releaseInfo": "1991",
-      "runtime": "89 min",
-      "genres": [
-        "Documentary",
-        "Music",
-        "Classic Rock"
-      ],
-      "background": "https://image.tmdb.org/t/p/w1280/6wU74B79ALOTf5MaHwpbVP1spN5.jpg",
-      "imdbRating": "8.6"
     },
     {
       "id": "tt0094743",

@@ -18,6 +18,21 @@
       "imdbRating": "8.5"
     },
     {
+      "id": "tt22754562",
+      "type": "movie",
+      "name": "Punk Rock Lottery",
+      "poster": "https://image.tmdb.org/t/p/w780/yaAEvTDtJjamZJHsmEsKjU5FCrT.jpg",
+      "posterShape": "poster",
+      "description": "Directed by Jacob Miguel, \"PUNK ROCK LOTTERY\" embarks on a mission to capture the rapid growth of an annual event known as \"The Punk Rock Lottery\" in Austin, Texas. What sets this film apart is its self-awareness, playfully breaking the fourth wall and transforming into an immersive journey through history and the creative process. The narrative builds its foundation by featuring insights from punk legends and influential figures who helped shape both the film and Austin itself.  As the story unfolds, it delves into the heart of the project as Jacob actively participates in the event, offering an inside look at the frenetic pace of life in a band. Through the experiences of over 30 characters, the film uncovers universal truths about creativity, camaraderie, and the struggles inherent in pursuing one's artistic passion.",
+      "releaseInfo": "2025",
+      "runtime": "90 min",
+      "genres": [
+        "Documentary",
+        "Music",
+        "Genres & Eras"
+      ]
+    },
+    {
       "id": "tt21346810",
       "type": "movie",
       "name": "No Hamburg, No Beatles",
@@ -870,6 +885,21 @@
       "imdbRating": "5.4"
     },
     {
+      "id": "tt2168250",
+      "type": "movie",
+      "name": "924 Gilman Street",
+      "poster": "https://image.tmdb.org/t/p/w780/pMzdOktFse2YBqXNRcWkv1HN2KI.jpg",
+      "posterShape": "poster",
+      "description": "Starting with its inception in 1986, the all-ages nonprofit punk venue at 924 Gilman St. in Berkeley, Calif., was a mainstay of a thriving music scene. In this punk-tastic documentary, filmmaker Jack Curran takes a loving look at the historic club. Chronicling the DIY roots of the volunteer-run establishment, the program features interviews with Jello Biafra, Ian McKaye, Lars Frederickson and Matt Freeman, as well as many live performances.",
+      "releaseInfo": "2007",
+      "runtime": "86 min",
+      "genres": [
+        "Documentary",
+        "Music",
+        "Genres & Eras"
+      ]
+    },
+    {
       "id": "tt0419434",
       "type": "movie",
       "name": "American Hardcore",
@@ -1253,23 +1283,6 @@
       ],
       "background": "https://image.tmdb.org/t/p/w1280/2hgNNT6bOvVYIrD5pB0k52s2Z7C.jpg",
       "imdbRating": "7.7"
-    },
-    {
-      "id": "tt0143367",
-      "type": "movie",
-      "name": "Let the Good Times Roll",
-      "poster": "https://image.tmdb.org/t/p/w780/mj8vVOwxAteweKD9mLcTEcAbEX6.jpg",
-      "posterShape": "poster",
-      "description": "Documentary of a 1950s rock and roll revival show, with split-screen editing to rival Woodstock.",
-      "releaseInfo": "1973",
-      "runtime": "99 min",
-      "genres": [
-        "Documentary",
-        "Music",
-        "Genres & Eras"
-      ],
-      "background": "https://image.tmdb.org/t/p/w1280/rXgCRbTifpfy24W6yiPuLELQhRn.jpg",
-      "imdbRating": "6.4"
     },
     {
       "id": "tt0068584",
